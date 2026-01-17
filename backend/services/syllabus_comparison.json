@@ -1,0 +1,124 @@
+{
+  "syllabi_diff": [
+    {
+      "topic": "Numbers and their operations (N1)",
+      "math_scope": "Primes and prime factorisation; HCF and LCM; squares, cubes, roots via factorisation; integer, rational and real number arithmetic; ordering and representation on number line; inequality symbols; rounding, estimation, standard form A×10^n; positive/negative/zero/fractional indices and laws of indices; calculator use and numerical representation.",
+      "status": "unchanged",
+      "change_summary": "No substantive change to technical content or required operations; any differences are editorial/formatting only."
+    },
+    {
+      "topic": "Ratio and proportion (N2)",
+      "math_scope": "Ratios of rational numbers; reduction to simplest form; map scales (distance and area); direct and inverse proportion relationships and computations.",
+      "status": "unchanged",
+      "change_summary": "Scope and procedures (direct/inverse proportion and scale work) remain the same."
+    },
+    {
+      "topic": "Percentage (N3)",
+      "math_scope": "Expressing quantities as percentages, comparisons, percentages >100%, percentage increase/decrease, reverse percentages and related computations.",
+      "status": "unchanged",
+      "change_summary": "No change to percentage topics, problem types or technical expectations."
+    },
+    {
+      "topic": "Rate and speed (N4)",
+      "math_scope": "Average rate and speed calculations; unit conversion (e.g. km/h ↔ m/s); interpretation of distance–time and speed–time contexts (as used in real-world problems).",
+      "status": "unchanged",
+      "change_summary": "Technical coverage and unit-conversion requirements unchanged."
+    },
+    {
+      "topic": "Algebraic expressions and formulae (N5)",
+      "math_scope": "Literal notation; evaluation of expressions; translation of contexts into algebra; nth-term expressions; linear expression manipulation, expansion, factorisation (including common factors); factorisation of quadratics ax^2+bx+c; algebraic fractions (multiplication/division, addition/subtraction with linear/quadratic denominators); changing the subject of formulae; binomial identities (a±b)^2 and a^2−b^2.",
+      "status": "unchanged",
+      "change_summary": "All algebraic manipulations, identities and fraction operations remain; no additions/removals of formulae or techniques."
+    },
+    {
+      "topic": "Functions and graphs (N6)",
+      "math_scope": "Cartesian plane; graphs of ordered pairs; linear (y=ax+b) and quadratic (y=ax^2+bx+c) functions; gradients of lines; properties and sketching of quadratics including vertex form and factorised form; graphs of power functions y=ax^n for specified n (−2, −1, 0, 1, 2, 3) and simple sums; exponential graphs y=k a^x (a positive integer); estimation of curve gradient via tangent.",
+      "status": "unchanged",
+      "change_summary": "Graph types and sketching/interpretation skills unchanged; no new function families or removed graph techniques."
+    },
+    {
+      "topic": "Equations and inequalities (N7)",
+      "math_scope": "Solving linear equations and simple fractional equations reducible to linear; simultaneous linear equations in two variables (substitution, elimination, graphical); solving quadratic equations (factorisation, quadratic formula, completing the square, graphically); fractional equations reducible to quadratics; formulating equations from contexts; solving linear inequalities and representing solutions on number line.",
+      "status": "unchanged",
+      "change_summary": "Algebraic solution methods and problem formulation expectations remain the same."
+    },
+    {
+      "topic": "Set language and notation (N8)",
+      "math_scope": "Set notation and language: ∪, ∩, n(A), ∈, ∉, complement A′, empty and universal sets, subset/proper subset relations, Venn diagrams, union/intersection operations and interpretations.",
+      "status": "unchanged",
+      "change_summary": "Set concepts and notation are retained; any symbol/typography differences do not alter mathematical content."
+    },
+    {
+      "topic": "Matrices (N9)",
+      "math_scope": "Representation of data in matrices; interpretation of matrix data; scalar multiplication; addition and (where defined) product of matrices for problem solving.",
+      "status": "unchanged",
+      "change_summary": "No change to matrix operations or expected problem types."
+    },
+    {
+      "topic": "Angles, triangles and polygons (G1)",
+      "math_scope": "Angle types (acute, obtuse, right, reflex); angle relationships (vertically opposite, straight line, at a point); angles formed by parallel lines and transversals (corresponding, alternate, interior); properties of triangles, special quadrilaterals and regular polygons (including symmetry); angle-sum rules for convex polygons; basic geometric constructions with ruler/compass/protractor/ set squares.",
+      "status": "unchanged",
+      "change_summary": "Geometric properties and construction skills remain the same in technical scope."
+    },
+    {
+      "topic": "Congruence and similarity (G2)",
+      "math_scope": "Definition and identification of congruent and similar figures; properties of similar triangles and polygons (equal corresponding angles, proportional corresponding sides); enlargement/reduction, scale drawings; perpendicular/angle bisector constructions; criteria for triangle congruence/similarity; area and volume ratios of similar figures; solving related problems.",
+      "status": "unchanged",
+      "change_summary": "Similarity/congruence content and proportional reasoning unchanged."
+    },
+    {
+      "topic": "Properties of circles (G3)",
+      "math_scope": "Circle symmetry properties (equal chords equidistant from centre, perpendicular bisector of chord through centre, tangent equal lengths from external point, angle bisected by line from centre between tangents); circle angle theorems (angle in a semicircle, tangent–radius right angle, angle at centre twice angle at circumference, equal angles in same segment, supplementary opposite segment angles).",
+      "status": "unchanged",
+      "change_summary": "Circle theorems and related geometric facts retained without substantive change."
+    },
+    {
+      "topic": "Pythagoras’ theorem and trigonometry (G4)",
+      "math_scope": "Use of Pythagoras’ theorem (including converse); sine/cosine/tangent ratios for acute angles to find sides/angles in right triangles; extension of sine and cosine to obtuse angles; area of triangle using (1/2)ab sin C; sine and cosine rules for any triangle; 2D and 3D problems including bearings, elevation/depression.",
+      "status": "unchanged",
+      "change_summary": "Trigonometric ratios, laws and applications remain the same; no added or removed rules."
+    },
+    {
+      "topic": "Mensuration (G5)",
+      "math_scope": "Area of parallelogram and trapezium; perimeter and area of composite plane figures; volumes and surface areas of cube, cuboid, prism, cylinder, pyramid, cone, sphere; conversion between units (cm^2↔m^2, cm^3↔m^3); composite solid problems; arc length and sector/segment area; radian measure and degree–radian conversion.",
+      "status": "unchanged",
+      "change_summary": "Mensuration formulas and unit-conversion requirements continue unchanged."
+    },
+    {
+      "topic": "Coordinate geometry (G6)",
+      "math_scope": "Gradient of line from two coordinates; distance between two points; equation of straight line in form y=mx+c; coordinate methods for geometric problems (e.g., locus, midpoints implicit in tasks).",
+      "status": "unchanged",
+      "change_summary": "Coordinate geometry skills and formulae unchanged."
+    },
+    {
+      "topic": "Vectors in two dimensions (G7)",
+      "math_scope": "Vector notation/representation as directed segments and column vectors; translations; position vectors; magnitude (√(x^2+y^2)); vector addition/subtraction and scalar multiplication; expressing vectors in terms of two coplanar vectors; geometric problem solving with vectors.",
+      "status": "unchanged",
+      "change_summary": "Vector concepts and operations unchanged (only minor notational formatting differences between documents)."
+    },
+    {
+      "topic": "Data handling and analysis (S1)",
+      "math_scope": "Data collection/classification/tabulation; interpretation of tables, bar/pictogram/line/pie/dot/histogram/stem-and-leaf/cumulative frequency/box-and-whisker; pros/cons and misuse of representations; measures of central tendency (mean, median, mode); mean for grouped data; quartiles/percentiles; measures of spread (range, IQR, standard deviation) with calculation for grouped and ungrouped data; comparing datasets using mean and SD.",
+      "status": "unchanged",
+      "change_summary": "Statistical summaries, representations and measures of spread remain the same in technical content."
+    },
+    {
+      "topic": "Probability (S2)",
+      "math_scope": "Probability basics as measure of chance; probability of single events; listing outcomes; simple combined events; use of possibility and tree diagrams; addition rule for mutually exclusive events; multiplication rule for independent events.",
+      "status": "unchanged",
+      "change_summary": "Probability topics and combinational devices (trees, possibility diagrams) unchanged."
+    },
+    {
+      "topic": "Mathematical formulae (provided list)",
+      "math_scope": "Provided formulae such as compound interest, mensuration formulae (areas, volumes, surface areas, arc length, sector area), triangle area (1/2 ab sin C), trigonometric identities and cosine rule, and statistical formulae (mean and standard deviation expressions).",
+      "status": "unchanged",
+      "change_summary": "The set of formulae provided to candidates remains the same; no new formulas added or removed."
+    },
+    {
+      "topic": "Mathematical notation (reference list)",
+      "math_scope": "Comprehensive reference of notation covering set theory, symbols, operations, functions, calculus notation (limits, derivatives, integrals), exponential/logarithmic functions, circular functions, complex numbers, matrices, vectors, and probability/statistics notation (distributions, expectations, variance, correlation).",
+      "status": "unchanged",
+      "change_summary": "Notation list and scope are effectively the same; only minor typographical or publisher-attribution differences across versions."
+    }
+  ]
+}
