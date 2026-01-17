@@ -79,7 +79,8 @@ export function PaperAlignmentModal({ isOpen, onClose, refreshToken = 0 }: Modal
 
     async function loadAnalysis() {
       try {
-        const data = await import("./database.json");
+        // Add cache-busting query so every Analyze click re-imports the data file.
+        const data = await import(`./database.json?refresh=${refreshToken}`);
         const raw = (data.default as any) ?? {};
         const sourceArray = Array.isArray(raw)
           ? raw
