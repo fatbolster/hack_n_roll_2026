@@ -8,30 +8,28 @@ export default function PaperAlignmentPage() {
       <div className="mx-auto flex min-h-screen max-w-6xl flex-col px-6 pb-16 pt-8">
         <TopNav active="Paper Alignment" />
 
-        <main className="mt-10 flex-1">
-          <section className="rounded-3xl bg-white p-8 shadow-sm ring-1 ring-slate-100">
-            <div className="max-w-2xl">
-              <h1 className="text-3xl font-semibold text-slate-900">
-                Practice Paper Syllabus Alignment
-              </h1>
-              <p className="mt-2 text-base text-slate-600">
-                Check if your practice paper questions align with the selected syllabus.
-              </p>
-            </div>
+        <main className="mt-12">
+          <div className="max-w-3xl space-y-2">
+            <h1 className="text-3xl font-semibold leading-tight text-slate-900">
+              Practice Paper Syllabus Alignment
+            </h1>
+            <p className="text-base text-slate-600">
+              Check if your practice paper questions align with the selected syllabus.
+            </p>
+          </div>
 
-            <div className="mt-8">
-              <AlignmentDropzones />
-            </div>
+          <div className="mt-8">
+            <AlignmentDropzones />
+          </div>
 
-            <div className="mt-6">
-              <Button
-                variant="solid"
-                className="bg-emerald-500 hover:bg-emerald-600 focus-visible:outline-emerald-500"
-              >
-                Analyze Paper
-              </Button>
-            </div>
-          </section>
+          <div className="mt-6">
+            <Button
+              variant="solid"
+              className="bg-emerald-500 hover:bg-emerald-600 focus-visible:outline-emerald-500"
+            >
+              Analyze Paper
+            </Button>
+          </div>
         </main>
       </div>
     </div>
