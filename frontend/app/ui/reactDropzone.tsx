@@ -5,6 +5,36 @@ import type { SVGProps } from "react";
 import { useDropzone } from "react-dropzone";
 import { Button } from "./button";
 
+export function AlignmentDropzones() {
+  const [practiceFile, setPracticeFile] = useState<File | null>(null);
+  const [syllabusFile, setSyllabusFile] = useState<File | null>(null);
+
+  const handlePracticeDrop = useCallback((acceptedFiles: File[]) => {
+    setPracticeFile(acceptedFiles[0] ?? null);
+  }, []);
+
+  const handleSyllabusDrop = useCallback((acceptedFiles: File[]) => {
+    setSyllabusFile(acceptedFiles[0] ?? null);
+  }, []);
+
+  return (
+    <div className="grid gap-6 md:grid-cols-2">
+      <UploadZone
+        title="Practice Paper PDF"
+        helperText="Upload your practice paper"
+        file={practiceFile}
+        onDrop={handlePracticeDrop}
+      />
+      <UploadZone
+        title="Syllabus Version"
+        helperText="Upload the syllabus PDF to check against"
+        file={syllabusFile}
+        onDrop={handleSyllabusDrop}
+      />
+    </div>
+  );
+}
+
 export function SyllabusDropzones() {
   const [oldFile, setOldFile] = useState<File | null>(null);
   const [newFile, setNewFile] = useState<File | null>(null);
