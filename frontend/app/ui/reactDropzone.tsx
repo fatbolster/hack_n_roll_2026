@@ -3,7 +3,7 @@
 import { useCallback, useState } from "react";
 import type { SVGProps } from "react";
 import { useDropzone } from "react-dropzone";
-import { Button } from "./button";
+import { Button, CheckMappingButton, CompareSyllabiButton } from "./button";
 
 type AlignmentDropzonesProps = {
   onFilesChange?: (practiceFile: File | null, syllabusFile: File | null) => void;
@@ -96,13 +96,26 @@ export function AlignmentDropzones({ onFilesChange }: AlignmentDropzonesProps = 
 
 type SyllabusDropzonesProps = {
   onCompare?: () => void;
+  onCheckMapping?: () => void;
+  onFilesChange?: (oldFile: File | null, newFile: File | null) => void;
 };
 
-export function SyllabusDropzones({ onCompare }: SyllabusDropzonesProps = {}) {
+export function SyllabusDropzones({
+  onCompare,
+  onCheckMapping,
+  onFilesChange,
+}: SyllabusDropzonesProps = {}) {
   const [oldFile, setOldFile] = useState<File | null>(null);
   const [newFile, setNewFile] = useState<File | null>(null);
   const [isUploading, setIsUploading] = useState(false);
   const [isComparing, setIsComparing] = useState(false);
+
+  const notifyFilesChange = useCallback(
+    (nextOld: File | null, nextNew: File | null) => {
+      onFilesChange?.(nextOld, nextNew);
+    },
+    [onFilesChange],
+  );
 
   const uploadSyllabus = async (file: File) => {
     const formData = new FormData();
@@ -125,6 +138,8 @@ export function SyllabusDropzones({ onCompare }: SyllabusDropzonesProps = {}) {
     if (!file) return;
     
     setOldFile(file);
+    // Left dropzone => old file
+    notifyFilesChange(file, newFile);
     setIsUploading(true);
     try {
       await uploadSyllabus(file);
@@ -134,13 +149,15 @@ export function SyllabusDropzones({ onCompare }: SyllabusDropzonesProps = {}) {
     } finally {
       setIsUploading(false);
     }
-  }, []);
+  }, [newFile, notifyFilesChange]);
 
   const handleNewDrop = useCallback(async (acceptedFiles: File[]) => {
     const file = acceptedFiles[0];
     if (!file) return;
     
     setNewFile(file);
+    // Right dropzone => new file
+    notifyFilesChange(oldFile, file);
     setIsUploading(true);
     try {
       await uploadSyllabus(file);
@@ -150,15 +167,17 @@ export function SyllabusDropzones({ onCompare }: SyllabusDropzonesProps = {}) {
     } finally {
       setIsUploading(false);
     }
-  }, []);
+  }, [oldFile, notifyFilesChange]);
 
   const handleOldClear = useCallback(() => {
     setOldFile(null);
-  }, []);
+    notifyFilesChange(null, newFile);
+  }, [newFile, notifyFilesChange]);
 
   const handleNewClear = useCallback(() => {
     setNewFile(null);
-  }, []);
+    notifyFilesChange(oldFile, null);
+  }, [notifyFilesChange, oldFile]);
 
   const handleCompare = useCallback(async () => {
     if (!oldFile || !newFile) {
@@ -197,6 +216,15 @@ export function SyllabusDropzones({ onCompare }: SyllabusDropzonesProps = {}) {
     }
   }, [oldFile, newFile, onCompare]);
 
+  const handleCheckMapping = useCallback(() => {
+    if (!oldFile || !newFile) {
+      alert('Please upload both syllabus files');
+      return;
+    }
+
+    onCheckMapping?.();
+  }, [newFile, oldFile, onCheckMapping]);
+
   return (
     <>
       <div className="grid gap-6 md:grid-cols-2">
@@ -216,16 +244,17 @@ export function SyllabusDropzones({ onCompare }: SyllabusDropzonesProps = {}) {
         />
       </div>
 
-      <div className="mt-8">
-        <Button
-          variant="solid"
-          startIcon={<CompareIcon className="h-4 w-4" />}
-          className="bg-emerald-500 hover:bg-emerald-600 focus-visible:outline-emerald-500"
+      <div className="mt-8 flex flex-wrap gap-3">
+        <CompareSyllabiButton
           onClick={handleCompare}
           disabled={!oldFile || !newFile || isUploading || isComparing}
         >
           {isComparing ? 'Comparing...' : 'Compare Syllabi'}
-        </Button>
+        </CompareSyllabiButton>
+        <CheckMappingButton
+          onClick={handleCheckMapping}
+          disabled={!oldFile || !newFile || isUploading || isComparing}
+        />
       </div>
     </>
   );
@@ -325,19 +354,6 @@ function FileIcon(props: IconProps) {
         strokeLinejoin="round"
       />
       <path d="M14 4.5V8a1 1 0 0 0 1 1h3.5" strokeWidth="1.6" strokeLinecap="round" />
-    </svg>
-  );
-}
-
-function CompareIcon(props: IconProps) {
-  return (
-    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" {...props}>
-      <path
-        d="m7.5 7.5-3 3 3 3m-3-3h9M16.5 16.5l3-3-3-3m3 3h-9"
-        strokeWidth="1.6"
-        strokeLinecap="round"
-        strokeLinejoin="round"
-      />
     </svg>
   );
 }

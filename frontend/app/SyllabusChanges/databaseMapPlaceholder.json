@@ -1,0 +1,20 @@
+[
+  {
+    "similarity_score": 85,
+    "similarity_label": "Very Similar",
+    "ai_justification": {
+      "overview": "The two syllabi are highly aligned in terms of topic coverage, learning objectives, and conceptual depth. Differences are largely structural or phrasing-related, with no significant changes to expected student outcomes.",
+      "key_similarities": [
+        "Both syllabi cover the same core topics with near-identical learning outcomes",
+        "Conceptual understanding and application are emphasised consistently",
+        "Assessment expectations remain largely unchanged across both syllabi"
+      ],
+      "key_differences": [
+        "Minor rewording of learning objectives for clarity",
+        "Small changes in topic ordering without content impact",
+        "Additional guiding notes added in the newer syllabus"
+      ],
+      "recommendation": "Students transitioning between these syllabi can continue their studies with minimal adjustment, focusing mainly on familiarising themselves with minor structural or wording changes."
+    }
+  }
+]

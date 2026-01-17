@@ -76,28 +76,32 @@ Button.displayName = "Button";
 
 type SyllabusActionButtonProps = {
   onClick?: () => void;
+  disabled?: boolean;
+  children?: ReactNode;
 };
 
-export function CompareSyllabiButton({ onClick }: SyllabusActionButtonProps) {
+export function CompareSyllabiButton({ onClick, disabled, children }: SyllabusActionButtonProps) {
   return (
     <Button
       variant="solid"
       startIcon={<CompareIcon className="h-4 w-4" />}
       className={primaryButtonClassName}
       onClick={onClick}
+      disabled={disabled}
     >
-      Compare Syllabi
+      {children ?? "Compare Syllabi"}
     </Button>
   );
 }
 
-export function CheckMappingButton({ onClick }: SyllabusActionButtonProps) {
+export function CheckMappingButton({ onClick, disabled }: SyllabusActionButtonProps) {
   return (
     <Button
       variant="solid"
-      startIcon={<CompareIcon className="h-4 w-4" />}
+      startIcon={<MappingIcon className="h-4 w-4" />}
       className={primaryButtonClassName}
       onClick={onClick}
+      disabled={disabled}
     >
       Check Mapping
     </Button>
@@ -115,6 +119,25 @@ function CompareIcon(props: IconProps) {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
+    </svg>
+  );
+}
+
+function MappingIcon(props: IconProps) {
+  return (
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" {...props}>
+      <path
+        d="M5.5 6.5 10 4.5l4 2 4.5-2v13l-4.5 2-4-2-4.5 2v-13Z"
+        strokeWidth="1.6"
+        strokeLinejoin="round"
+      />
+      <path
+        d="M10 5v13M14 6v13"
+        strokeWidth="1.6"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+      />
+      <path d="M9 11.5h2M13 14h2" strokeWidth="1.6" strokeLinecap="round" />
     </svg>
   );
 }

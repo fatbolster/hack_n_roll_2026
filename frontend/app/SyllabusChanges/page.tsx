@@ -11,6 +11,8 @@ export default function SyllabusChangesPage() {
   const [refreshToken, setRefreshToken] = useState(0);
   const [isMappingModalOpen, setIsMappingModalOpen] = useState(false);
   const [mappingRefreshToken, setMappingRefreshToken] = useState(0);
+  const [oldSyllabusFile, setOldSyllabusFile] = useState<File | null>(null); // left dropzone
+  const [newSyllabusFile, setNewSyllabusFile] = useState<File | null>(null); // right dropzone
 
   const handleCompare = useCallback(() => {
     // Incrementing refreshToken forces the modal to reload its data even when already open.
@@ -21,6 +23,12 @@ export default function SyllabusChangesPage() {
   const handleCheckMapping = useCallback(() => {
     setMappingRefreshToken((prev) => prev + 1);
     setIsMappingModalOpen(true);
+  }, []);
+
+  const handleFilesChange = useCallback((oldFile: File | null, newFile: File | null) => {
+    // oldFile comes from the left dropzone, newFile from the right dropzone
+    setOldSyllabusFile(oldFile);
+    setNewSyllabusFile(newFile);
   }, []);
 
   return (
@@ -39,7 +47,11 @@ export default function SyllabusChangesPage() {
           </div>
 
           <div className="mt-8">
-            <SyllabusDropzones onCompare={handleCompare} onCheckMapping={handleCheckMapping} />
+            <SyllabusDropzones
+              onCompare={handleCompare}
+              onCheckMapping={handleCheckMapping}
+              onFilesChange={handleFilesChange}
+            />
             <SyllabusChangesModal
               isOpen={isModalOpen}
               onClose={() => setIsModalOpen(false)}
@@ -49,6 +61,8 @@ export default function SyllabusChangesPage() {
               isOpen={isMappingModalOpen}
               onClose={() => setIsMappingModalOpen(false)}
               refreshToken={mappingRefreshToken}
+              oldFileName={oldSyllabusFile?.name ?? null}
+              newFileName={newSyllabusFile?.name ?? null}
             />
           </div>
         </main>
