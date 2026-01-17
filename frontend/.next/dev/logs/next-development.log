@@ -1,806 +1,117 @@
-[00:00:00.793] Server  LOG     ✓ Ready in 579ms
-[00:00:08.208] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:12:06.337] Server  LOG     ✓ Compiled in 23ms
-[00:49:24.160] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:49:34.282] Server  LOG     ✓ Compiled in 90ms
-[01:05:14.087] Server  LOG     ✓ Compiled in 23ms
-[01:06:17.903] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:07:14.940] Server  LOG     ✓ Compiled in 19ms
-[01:09:18.856] Server  LOG     ✓ Compiled in 20ms
-[01:13:20.889] Server  LOG     ✓ Compiled in 14ms
-[01:13:44.136] Server  LOG     ✓ Compiled in 12ms
-[01:14:27.533] Server  LOG     ✓ Compiled in 12ms
-[01:15:29.573] Server  LOG     ✓ Compiled in 12ms
-[01:55:13.788] Server  LOG     ✓ Compiled in 38ms
-[01:55:14.881] Browser ERROR   ./app/SyllabusChanges/page.tsx:6:1
-Export SyllabusChangesModal doesn't exist in target module
-  4 | import { SyllabusDropzones } from "../ui/reactDropzone";
-  5 | import { TopNav } from "../ui/topnav";
-> 6 | import { SyllabusChangesModal } from "./modal";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  7 |
-  8 | export default function SyllabusChangesPage() {
-  9 |   const [isModalOpen, setIsModalOpen] = useState(false);
-
-The export SyllabusChangesModal was not found in module [project]/app/SyllabusChanges/modal.tsx [app-client] (ecmascript).
-The module has no exports at all.
-All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
-
-Import traces:
-  Client Component Browser:
-    ./app/SyllabusChanges/page.tsx [Client Component Browser]
-    ./app/SyllabusChanges/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./app/SyllabusChanges/page.tsx [Client Component SSR]
-    ./app/SyllabusChanges/page.tsx [Server Component]
-[01:55:14.881] Browser ERROR   ./app/SyllabusChanges/page.tsx:6:1
-Export SyllabusChangesModal doesn't exist in target module
-  4 | import { SyllabusDropzones } from "../ui/reactDropzone";
-  5 | import { TopNav } from "../ui/topnav";
-> 6 | import { SyllabusChangesModal } from "./modal";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  7 |
-  8 | export default function SyllabusChangesPage() {
-  9 |   const [isModalOpen, setIsModalOpen] = useState(false);
-
-The export SyllabusChangesModal was not found in module [project]/app/SyllabusChanges/modal.tsx [app-ssr] (ecmascript).
-The module has no exports at all.
-All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
-
-Import traces:
-  Client Component Browser:
-    ./app/SyllabusChanges/page.tsx [Client Component Browser]
-    ./app/SyllabusChanges/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./app/SyllabusChanges/page.tsx [Client Component SSR]
-    ./app/SyllabusChanges/page.tsx [Server Component]
-[01:56:19.322] Server  LOG     ✓ Compiled in 13ms
-[01:56:19.887] Browser ERROR   ./app/SyllabusChanges/page.tsx:6:1
-Export SyllabusChangesModal doesn't exist in target module
-  4 | import { SyllabusDropzones } from "../ui/reactDropzone";
-  5 | import { TopNav } from "../ui/topnav";
-> 6 | import { SyllabusChangesModal } from "./modal";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  7 |
-  8 | export default function SyllabusChangesPage() {
-  9 |   const [isModalOpen, setIsModalOpen] = useState(false);
-
-The export SyllabusChangesModal was not found in module [project]/app/SyllabusChanges/modal.tsx [app-client] (ecmascript).
-The module has no exports at all.
-All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
-
-Import traces:
-  Client Component Browser:
-    ./app/SyllabusChanges/page.tsx [Client Component Browser]
-    ./app/SyllabusChanges/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./app/SyllabusChanges/page.tsx [Client Component SSR]
-    ./app/SyllabusChanges/page.tsx [Server Component]
-[01:56:19.887] Browser ERROR   ./app/SyllabusChanges/page.tsx:6:1
-Export SyllabusChangesModal doesn't exist in target module
-  4 | import { SyllabusDropzones } from "../ui/reactDropzone";
-  5 | import { TopNav } from "../ui/topnav";
-> 6 | import { SyllabusChangesModal } from "./modal";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  7 |
-  8 | export default function SyllabusChangesPage() {
-  9 |   const [isModalOpen, setIsModalOpen] = useState(false);
-
-The export SyllabusChangesModal was not found in module [project]/app/SyllabusChanges/modal.tsx [app-ssr] (ecmascript).
-The module has no exports at all.
-All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
-
-Import traces:
-  Client Component Browser:
-    ./app/SyllabusChanges/page.tsx [Client Component Browser]
-    ./app/SyllabusChanges/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./app/SyllabusChanges/page.tsx [Client Component SSR]
-    ./app/SyllabusChanges/page.tsx [Server Component]
-[01:57:18.747] Server  LOG     ✓ Compiled in 23ms
-[01:57:18.888] Browser ERROR   ./app/SyllabusChanges/database.json
-Code generation for chunk item errored
-An error occurred while generating the chunk item [project]/app/SyllabusChanges/database.json (json)
-
-Caused by:
-- Unable to make a module from invalid JSON: EOF while parsing a value at line 1 column 0
-
-Debug info:
-- An error occurred while generating the chunk item [project]/app/SyllabusChanges/database.json (json)
-- Execution of <JsonChunkItem as EcmascriptChunkItem>::content failed
-- Unable to make a module from invalid JSON: EOF while parsing a value at line 1 column 0
-    at .
-
-Import trace:
-  Client Component SSR:
-    ./app/SyllabusChanges/database.json
-    ./app/SyllabusChanges/modal.tsx [Client Component SSR]
-    ./app/SyllabusChanges/page.tsx [Client Component SSR]
-    ./app/SyllabusChanges/page.tsx [Server Component]
-[01:57:27.896] Server  LOG     ✓ Compiled in 13ms
-[01:57:28.882] Browser ERROR   ./app/SyllabusChanges/database.json
-Code generation for chunk item errored
-An error occurred while generating the chunk item [project]/app/SyllabusChanges/database.json (json)
-
-Caused by:
-- Unable to make a module from invalid JSON: EOF while parsing a value at line 1 column 0
-
-Debug info:
-- An error occurred while generating the chunk item [project]/app/SyllabusChanges/database.json (json)
-- Execution of <JsonChunkItem as EcmascriptChunkItem>::content failed
-- Unable to make a module from invalid JSON: EOF while parsing a value at line 1 column 0
-    at .
-
-Import trace:
-  Client Component SSR:
-    ./app/SyllabusChanges/database.json
-    ./app/SyllabusChanges/modal.tsx [Client Component SSR]
-    ./app/SyllabusChanges/page.tsx [Client Component SSR]
-    ./app/SyllabusChanges/page.tsx [Server Component]
-[01:58:50.547] Server  LOG     ✓ Compiled in 13ms
-[02:00:49.791] Server  LOG     ✓ Compiled in 13ms
-[02:01:22.596] Server  LOG     ✓ Compiled in 29ms
-[02:03:31.238] Server  LOG     ✓ Compiled in 18ms
-[02:05:07.855] Server  LOG     ✓ Compiled in 18ms
-[02:05:07.985] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[02:05:28.809] Browser ERROR   Failed to load syllabus changes {}
-[02:05:32.446] Browser ERROR   Failed to load syllabus changes {}
-[02:05:36.454] Browser ERROR   Failed to load syllabus changes {}
-[02:05:40.463] Browser ERROR   Failed to load syllabus changes {}
-[02:05:44.438] Browser ERROR   Failed to load syllabus changes {}
-[02:05:48.453] Browser ERROR   Failed to load syllabus changes {}
-[02:05:52.449] Browser ERROR   Failed to load syllabus changes {}
-[02:05:56.437] Browser ERROR   Failed to load syllabus changes {}
-[02:06:00.454] Browser ERROR   Failed to load syllabus changes {}
-[02:06:04.433] Browser ERROR   Failed to load syllabus changes {}
-[02:06:08.445] Browser ERROR   Failed to load syllabus changes {}
-[02:06:12.446] Browser ERROR   Failed to load syllabus changes {}
-[02:06:16.438] Browser ERROR   Failed to load syllabus changes {}
-[02:06:20.449] Browser ERROR   Failed to load syllabus changes {}
-[02:06:24.438] Browser ERROR   Failed to load syllabus changes {}
-[02:06:28.434] Browser ERROR   Failed to load syllabus changes {}
-[02:06:32.442] Browser ERROR   Failed to load syllabus changes {}
-[02:06:36.448] Browser ERROR   Failed to load syllabus changes {}
-[02:06:40.445] Browser ERROR   Failed to load syllabus changes {}
-[02:06:44.440] Browser ERROR   Failed to load syllabus changes {}
-[02:06:48.442] Browser ERROR   Failed to load syllabus changes {}
-[02:06:52.445] Browser ERROR   Failed to load syllabus changes {}
-[02:06:56.446] Browser ERROR   Failed to load syllabus changes {}
-[02:07:00.450] Browser ERROR   Failed to load syllabus changes {}
-[02:07:01.135] Server  LOG     ✓ Compiled in 14ms
-[02:07:04.446] Browser ERROR   Failed to load syllabus changes {}
-[02:07:08.445] Browser ERROR   Failed to load syllabus changes {}
-[02:07:12.442] Browser ERROR   Failed to load syllabus changes {}
-[02:07:16.450] Browser ERROR   Failed to load syllabus changes {}
-[02:07:20.451] Browser ERROR   Failed to load syllabus changes {}
-[02:07:24.444] Browser ERROR   Failed to load syllabus changes {}
-[02:07:28.448] Browser ERROR   Failed to load syllabus changes {}
-[02:07:32.458] Browser ERROR   Failed to load syllabus changes {}
-[02:07:36.443] Browser ERROR   Failed to load syllabus changes {}
-[02:07:40.458] Browser ERROR   Failed to load syllabus changes {}
-[02:07:44.450] Browser ERROR   Failed to load syllabus changes {}
-[02:07:48.437] Browser ERROR   Failed to load syllabus changes {}
-[02:07:52.464] Browser ERROR   Failed to load syllabus changes {}
-[02:07:56.459] Browser ERROR   Failed to load syllabus changes {}
-[02:08:00.450] Browser ERROR   Failed to load syllabus changes {}
-[02:08:04.440] Browser ERROR   Failed to load syllabus changes {}
-[02:08:08.456] Browser ERROR   Failed to load syllabus changes {}
-[02:08:12.444] Browser ERROR   Failed to load syllabus changes {}
-[02:08:16.442] Browser ERROR   Failed to load syllabus changes {}
-[02:08:20.446] Browser ERROR   Failed to load syllabus changes {}
-[02:08:24.462] Browser ERROR   Failed to load syllabus changes {}
-[02:08:28.445] Browser ERROR   Failed to load syllabus changes {}
-[02:08:32.455] Browser ERROR   Failed to load syllabus changes {}
-[02:08:36.418] Server  LOG     ✓ Compiled in 14ms
-[02:08:36.446] Browser ERROR   Failed to load syllabus changes {}
-[02:08:40.461] Browser ERROR   Failed to load syllabus changes {}
-[02:08:44.457] Browser ERROR   Failed to load syllabus changes {}
-[02:08:48.440] Browser ERROR   Failed to load syllabus changes {}
-[02:08:52.460] Browser ERROR   Failed to load syllabus changes {}
-[02:08:56.442] Browser ERROR   Failed to load syllabus changes {}
-[02:09:00.438] Browser ERROR   Failed to load syllabus changes {}
-[02:09:04.450] Browser ERROR   Failed to load syllabus changes {}
-[02:09:08.442] Browser ERROR   Failed to load syllabus changes {}
-[02:09:12.447] Browser ERROR   Failed to load syllabus changes {}
-[02:09:16.448] Browser ERROR   Failed to load syllabus changes {}
-[02:09:20.451] Browser ERROR   Failed to load syllabus changes {}
-[02:09:24.437] Browser ERROR   Failed to load syllabus changes {}
-[02:09:28.448] Browser ERROR   Failed to load syllabus changes {}
-[02:09:32.434] Browser ERROR   Failed to load syllabus changes {}
-[02:09:36.452] Browser ERROR   Failed to load syllabus changes {}
-[02:09:40.457] Browser ERROR   Failed to load syllabus changes {}
-[02:09:44.444] Browser ERROR   Failed to load syllabus changes {}
-[02:09:48.446] Browser ERROR   Failed to load syllabus changes {}
-[02:09:52.441] Browser ERROR   Failed to load syllabus changes {}
-[02:09:56.448] Browser ERROR   Failed to load syllabus changes {}
-[02:10:00.448] Browser ERROR   Failed to load syllabus changes {}
-[02:10:04.444] Browser ERROR   Failed to load syllabus changes {}
-[02:10:08.451] Browser ERROR   Failed to load syllabus changes {}
-[02:10:12.436] Browser ERROR   Failed to load syllabus changes {}
-[02:10:16.446] Browser ERROR   Failed to load syllabus changes {}
-[02:10:20.456] Browser ERROR   Failed to load syllabus changes {}
-[02:10:24.451] Browser ERROR   Failed to load syllabus changes {}
-[02:10:28.445] Browser ERROR   Failed to load syllabus changes {}
-[02:10:32.441] Browser ERROR   Failed to load syllabus changes {}
-[02:10:36.442] Browser ERROR   Failed to load syllabus changes {}
-[02:10:40.450] Browser ERROR   Failed to load syllabus changes {}
-[02:10:44.440] Browser ERROR   Failed to load syllabus changes {}
-[02:10:48.439] Browser ERROR   Failed to load syllabus changes {}
-[02:10:52.451] Browser ERROR   Failed to load syllabus changes {}
-[02:10:56.444] Browser ERROR   Failed to load syllabus changes {}
-[02:11:00.438] Browser ERROR   Failed to load syllabus changes {}
-[02:11:02.121] Server  LOG     ✓ Compiled in 19ms
-[02:11:04.439] Browser ERROR   Failed to load syllabus changes {}
-[02:11:08.436] Browser ERROR   Failed to load syllabus changes {}
-[02:11:12.449] Browser ERROR   Failed to load syllabus changes {}
-[02:11:16.450] Browser ERROR   Failed to load syllabus changes {}
-[02:11:20.439] Browser ERROR   Failed to load syllabus changes {}
-[02:11:24.435] Browser ERROR   Failed to load syllabus changes {}
-[02:11:28.438] Browser ERROR   Failed to load syllabus changes {}
-[02:11:32.456] Browser ERROR   Failed to load syllabus changes {}
-[02:11:36.450] Browser ERROR   Failed to load syllabus changes {}
-[02:11:40.445] Browser ERROR   Failed to load syllabus changes {}
-[02:11:44.448] Browser ERROR   Failed to load syllabus changes {}
-[02:11:48.442] Browser ERROR   Failed to load syllabus changes {}
-[02:11:52.435] Browser ERROR   Failed to load syllabus changes {}
-[02:11:56.444] Browser ERROR   Failed to load syllabus changes {}
-[02:12:00.440] Browser ERROR   Failed to load syllabus changes {}
-[02:12:04.444] Browser ERROR   Failed to load syllabus changes {}
-[02:12:08.467] Browser ERROR   Failed to load syllabus changes {}
-[02:12:12.438] Browser ERROR   Failed to load syllabus changes {}
-[02:12:14.815] Server  ERROR   ⨯ ./app/SyllabusChanges/page.tsx:6:1
-Module not found: Can't resolve './modal'
-  4 | import { SyllabusDropzones } from "../ui/reactDropzone";
-  5 | import { TopNav } from "../ui/topnav";
-> 6 | import { SyllabusChangesModal } from "./modal";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  7 |
-  8 | export default function SyllabusChangesPage() {
-  9 |   const [isModalOpen, setIsModalOpen] = useState(false);
-
-
-
-Import traces:
-  Client Component Browser:
-    ./app/SyllabusChanges/page.tsx [Client Component Browser]
-    ./app/SyllabusChanges/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./app/SyllabusChanges/page.tsx [Client Component SSR]
-    ./app/SyllabusChanges/page.tsx [Server Component]
-
-https://nextjs.org/docs/messages/module-not-found
-
-
-[02:12:14.816] Server  ERROR   ⨯ ./app/SyllabusChanges/page.tsx:6:1
-Module not found: Can't resolve './modal'
-  4 | import { SyllabusDropzones } from "../ui/reactDropzone";
-  5 | import { TopNav } from "../ui/topnav";
-> 6 | import { SyllabusChangesModal } from "./modal";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  7 |
-  8 | export default function SyllabusChangesPage() {
-  9 |   const [isModalOpen, setIsModalOpen] = useState(false);
-
-
-
-Import traces:
-  Client Component Browser:
-    ./app/SyllabusChanges/page.tsx [Client Component Browser]
-    ./app/SyllabusChanges/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./app/SyllabusChanges/page.tsx [Client Component SSR]
-    ./app/SyllabusChanges/page.tsx [Server Component]
-
-https://nextjs.org/docs/messages/module-not-found
-
-
-[02:12:14.817] Server  ERROR   ⨯ ./app/SyllabusChanges/page.tsx:6:1
-Module not found: Can't resolve './modal'
-  4 | import { SyllabusDropzones } from "../ui/reactDropzone";
-  5 | import { TopNav } from "../ui/topnav";
-> 6 | import { SyllabusChangesModal } from "./modal";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  7 |
-  8 | export default function SyllabusChangesPage() {
-  9 |   const [isModalOpen, setIsModalOpen] = useState(false);
-
-
-
-Import traces:
-  Client Component Browser:
-    ./app/SyllabusChanges/page.tsx [Client Component Browser]
-    ./app/SyllabusChanges/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./app/SyllabusChanges/page.tsx [Client Component SSR]
-    ./app/SyllabusChanges/page.tsx [Server Component]
-
-https://nextjs.org/docs/messages/module-not-found
-
-
-[02:12:14.817] Server  ERROR   ⨯ ./app/SyllabusChanges/page.tsx:6:1
-Module not found: Can't resolve './modal'
-  4 | import { SyllabusDropzones } from "../ui/reactDropzone";
-  5 | import { TopNav } from "../ui/topnav";
-> 6 | import { SyllabusChangesModal } from "./modal";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  7 |
-  8 | export default function SyllabusChangesPage() {
-  9 |   const [isModalOpen, setIsModalOpen] = useState(false);
-
-
-
-Import traces:
-  Client Component Browser:
-    ./app/SyllabusChanges/page.tsx [Client Component Browser]
-    ./app/SyllabusChanges/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./app/SyllabusChanges/page.tsx [Client Component SSR]
-    ./app/SyllabusChanges/page.tsx [Server Component]
-
-https://nextjs.org/docs/messages/module-not-found
-
-
-[02:12:14.821] Server  ERROR   ⨯ ./app/SyllabusChanges/page.tsx:6:1
-Module not found: Can't resolve './modal'
-  4 | import { SyllabusDropzones } from "../ui/reactDropzone";
-  5 | import { TopNav } from "../ui/topnav";
-> 6 | import { SyllabusChangesModal } from "./modal";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  7 |
-  8 | export default function SyllabusChangesPage() {
-  9 |   const [isModalOpen, setIsModalOpen] = useState(false);
-
-
-
-Import traces:
-  Client Component Browser:
-    ./app/SyllabusChanges/page.tsx [Client Component Browser]
-    ./app/SyllabusChanges/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./app/SyllabusChanges/page.tsx [Client Component SSR]
-    ./app/SyllabusChanges/page.tsx [Server Component]
-
-https://nextjs.org/docs/messages/module-not-found
-
-
-[02:12:14.822] Server  ERROR   ⨯ ./app/SyllabusChanges/page.tsx:6:1
-Module not found: Can't resolve './modal'
-  4 | import { SyllabusDropzones } from "../ui/reactDropzone";
-  5 | import { TopNav } from "../ui/topnav";
-> 6 | import { SyllabusChangesModal } from "./modal";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  7 |
-  8 | export default function SyllabusChangesPage() {
-  9 |   const [isModalOpen, setIsModalOpen] = useState(false);
-
-
-
-Import traces:
-  Client Component Browser:
-    ./app/SyllabusChanges/page.tsx [Client Component Browser]
-    ./app/SyllabusChanges/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./app/SyllabusChanges/page.tsx [Client Component SSR]
-    ./app/SyllabusChanges/page.tsx [Server Component]
-
-https://nextjs.org/docs/messages/module-not-found
-
-
-[02:12:14.822] Server  ERROR   ⨯ ./app/SyllabusChanges/page.tsx:6:1
-Module not found: Can't resolve './modal'
-  4 | import { SyllabusDropzones } from "../ui/reactDropzone";
-  5 | import { TopNav } from "../ui/topnav";
-> 6 | import { SyllabusChangesModal } from "./modal";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  7 |
-  8 | export default function SyllabusChangesPage() {
-  9 |   const [isModalOpen, setIsModalOpen] = useState(false);
-
-
-
-Import traces:
-  Client Component Browser:
-    ./app/SyllabusChanges/page.tsx [Client Component Browser]
-    ./app/SyllabusChanges/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./app/SyllabusChanges/page.tsx [Client Component SSR]
-    ./app/SyllabusChanges/page.tsx [Server Component]
-
-https://nextjs.org/docs/messages/module-not-found
-
-
-[02:12:14.823] Server  ERROR   ⨯ ./app/SyllabusChanges/page.tsx:6:1
-Module not found: Can't resolve './modal'
-  4 | import { SyllabusDropzones } from "../ui/reactDropzone";
-  5 | import { TopNav } from "../ui/topnav";
-> 6 | import { SyllabusChangesModal } from "./modal";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  7 |
-  8 | export default function SyllabusChangesPage() {
-  9 |   const [isModalOpen, setIsModalOpen] = useState(false);
-
-
-
-Import traces:
-  Client Component Browser:
-    ./app/SyllabusChanges/page.tsx [Client Component Browser]
-    ./app/SyllabusChanges/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./app/SyllabusChanges/page.tsx [Client Component SSR]
-    ./app/SyllabusChanges/page.tsx [Server Component]
-
-https://nextjs.org/docs/messages/module-not-found
-
-
-[02:12:14.824] Server  ERROR   ⨯ ./app/SyllabusChanges/page.tsx:6:1
-Module not found: Can't resolve './modal'
-  4 | import { SyllabusDropzones } from "../ui/reactDropzone";
-  5 | import { TopNav } from "../ui/topnav";
-> 6 | import { SyllabusChangesModal } from "./modal";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  7 |
-  8 | export default function SyllabusChangesPage() {
-  9 |   const [isModalOpen, setIsModalOpen] = useState(false);
-
-
-
-Import traces:
-  Client Component Browser:
-    ./app/SyllabusChanges/page.tsx [Client Component Browser]
-    ./app/SyllabusChanges/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./app/SyllabusChanges/page.tsx [Client Component SSR]
-    ./app/SyllabusChanges/page.tsx [Server Component]
-
-https://nextjs.org/docs/messages/module-not-found
-
-
-[02:12:14.825] Server  ERROR   ⨯ ./app/SyllabusChanges/page.tsx:6:1
-Module not found: Can't resolve './modal'
-  4 | import { SyllabusDropzones } from "../ui/reactDropzone";
-  5 | import { TopNav } from "../ui/topnav";
-> 6 | import { SyllabusChangesModal } from "./modal";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  7 |
-  8 | export default function SyllabusChangesPage() {
-  9 |   const [isModalOpen, setIsModalOpen] = useState(false);
-
-
-
-Import traces:
-  Client Component Browser:
-    ./app/SyllabusChanges/page.tsx [Client Component Browser]
-    ./app/SyllabusChanges/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./app/SyllabusChanges/page.tsx [Client Component SSR]
-    ./app/SyllabusChanges/page.tsx [Server Component]
-
-https://nextjs.org/docs/messages/module-not-found
-
-
-[02:12:14.825] Server  ERROR   ⨯ ./app/SyllabusChanges/page.tsx:6:1
-Module not found: Can't resolve './modal'
-  4 | import { SyllabusDropzones } from "../ui/reactDropzone";
-  5 | import { TopNav } from "../ui/topnav";
-> 6 | import { SyllabusChangesModal } from "./modal";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  7 |
-  8 | export default function SyllabusChangesPage() {
-  9 |   const [isModalOpen, setIsModalOpen] = useState(false);
-
-
-
-Import traces:
-  Client Component Browser:
-    ./app/SyllabusChanges/page.tsx [Client Component Browser]
-    ./app/SyllabusChanges/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./app/SyllabusChanges/page.tsx [Client Component SSR]
-    ./app/SyllabusChanges/page.tsx [Server Component]
-
-https://nextjs.org/docs/messages/module-not-found
-
-
-[02:12:14.826] Server  ERROR   ⨯ ./app/SyllabusChanges/page.tsx:6:1
-Module not found: Can't resolve './modal'
-  4 | import { SyllabusDropzones } from "../ui/reactDropzone";
-  5 | import { TopNav } from "../ui/topnav";
-> 6 | import { SyllabusChangesModal } from "./modal";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  7 |
-  8 | export default function SyllabusChangesPage() {
-  9 |   const [isModalOpen, setIsModalOpen] = useState(false);
-
-
-
-Import traces:
-  Client Component Browser:
-    ./app/SyllabusChanges/page.tsx [Client Component Browser]
-    ./app/SyllabusChanges/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./app/SyllabusChanges/page.tsx [Client Component SSR]
-    ./app/SyllabusChanges/page.tsx [Server Component]
-
-https://nextjs.org/docs/messages/module-not-found
-
-
-[02:12:14.865] Server  LOG     ✓ Compiled in 18ms
-[02:12:14.974] Browser ERROR   ./app/SyllabusChanges/page.tsx:6:1
-Module not found: Can't resolve './modal'
-  4 | import { SyllabusDropzones } from "../ui/reactDropzone";
-  5 | import { TopNav } from "../ui/topnav";
-> 6 | import { SyllabusChangesModal } from "./modal";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  7 |
-  8 | export default function SyllabusChangesPage() {
-  9 |   const [isModalOpen, setIsModalOpen] = useState(false);
-
-Import traces:
-  Client Component Browser:
-    ./app/SyllabusChanges/page.tsx [Client Component Browser]
-    ./app/SyllabusChanges/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./app/SyllabusChanges/page.tsx [Client Component SSR]
-    ./app/SyllabusChanges/page.tsx [Server Component]
-
-https://nextjs.org/docs/messages/module-not-found
-[02:12:16.474] Browser ERROR   Failed to load syllabus changes {}
-[02:12:16.474] Browser ERROR   ./app/SyllabusChanges/page.tsx:6:1
-Module not found: Can't resolve './modal'
-  4 | import { SyllabusDropzones } from "../ui/reactDropzone";
-  5 | import { TopNav } from "../ui/topnav";
-> 6 | import { SyllabusChangesModal } from "./modal";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  7 |
-  8 | export default function SyllabusChangesPage() {
-  9 |   const [isModalOpen, setIsModalOpen] = useState(false);
-
-Import traces:
-  Client Component Browser:
-    ./app/SyllabusChanges/page.tsx [Client Component Browser]
-    ./app/SyllabusChanges/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./app/SyllabusChanges/page.tsx [Client Component SSR]
-    ./app/SyllabusChanges/page.tsx [Server Component]
-
-https://nextjs.org/docs/messages/module-not-found
-[02:12:20.469] Browser ERROR   Failed to load syllabus changes {}
-[02:12:20.469] Browser ERROR   ./app/SyllabusChanges/page.tsx:6:1
-Module not found: Can't resolve './modal'
-  4 | import { SyllabusDropzones } from "../ui/reactDropzone";
-  5 | import { TopNav } from "../ui/topnav";
-> 6 | import { SyllabusChangesModal } from "./modal";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  7 |
-  8 | export default function SyllabusChangesPage() {
-  9 |   const [isModalOpen, setIsModalOpen] = useState(false);
-
-Import traces:
-  Client Component Browser:
-    ./app/SyllabusChanges/page.tsx [Client Component Browser]
-    ./app/SyllabusChanges/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./app/SyllabusChanges/page.tsx [Client Component SSR]
-    ./app/SyllabusChanges/page.tsx [Server Component]
-
-https://nextjs.org/docs/messages/module-not-found
-[02:12:24.481] Browser ERROR   Failed to load syllabus changes {}
-[02:12:24.481] Browser ERROR   ./app/SyllabusChanges/page.tsx:6:1
-Module not found: Can't resolve './modal'
-  4 | import { SyllabusDropzones } from "../ui/reactDropzone";
-  5 | import { TopNav } from "../ui/topnav";
-> 6 | import { SyllabusChangesModal } from "./modal";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  7 |
-  8 | export default function SyllabusChangesPage() {
-  9 |   const [isModalOpen, setIsModalOpen] = useState(false);
-
-Import traces:
-  Client Component Browser:
-    ./app/SyllabusChanges/page.tsx [Client Component Browser]
-    ./app/SyllabusChanges/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./app/SyllabusChanges/page.tsx [Client Component SSR]
-    ./app/SyllabusChanges/page.tsx [Server Component]
-
-https://nextjs.org/docs/messages/module-not-found
-[02:12:28.472] Browser ERROR   Failed to load syllabus changes {}
-[02:12:28.472] Browser ERROR   ./app/SyllabusChanges/page.tsx:6:1
-Module not found: Can't resolve './modal'
-  4 | import { SyllabusDropzones } from "../ui/reactDropzone";
-  5 | import { TopNav } from "../ui/topnav";
-> 6 | import { SyllabusChangesModal } from "./modal";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  7 |
-  8 | export default function SyllabusChangesPage() {
-  9 |   const [isModalOpen, setIsModalOpen] = useState(false);
-
-Import traces:
-  Client Component Browser:
-    ./app/SyllabusChanges/page.tsx [Client Component Browser]
-    ./app/SyllabusChanges/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./app/SyllabusChanges/page.tsx [Client Component SSR]
-    ./app/SyllabusChanges/page.tsx [Server Component]
-
-https://nextjs.org/docs/messages/module-not-found
-[02:12:32.472] Browser ERROR   Failed to load syllabus changes {}
-[02:12:32.472] Browser ERROR   ./app/SyllabusChanges/page.tsx:6:1
-Module not found: Can't resolve './modal'
-  4 | import { SyllabusDropzones } from "../ui/reactDropzone";
-  5 | import { TopNav } from "../ui/topnav";
-> 6 | import { SyllabusChangesModal } from "./modal";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  7 |
-  8 | export default function SyllabusChangesPage() {
-  9 |   const [isModalOpen, setIsModalOpen] = useState(false);
-
-Import traces:
-  Client Component Browser:
-    ./app/SyllabusChanges/page.tsx [Client Component Browser]
-    ./app/SyllabusChanges/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./app/SyllabusChanges/page.tsx [Client Component SSR]
-    ./app/SyllabusChanges/page.tsx [Server Component]
-
-https://nextjs.org/docs/messages/module-not-found
-[02:12:36.473] Browser ERROR   Failed to load syllabus changes {}
-[02:12:36.473] Browser ERROR   ./app/SyllabusChanges/page.tsx:6:1
-Module not found: Can't resolve './modal'
-  4 | import { SyllabusDropzones } from "../ui/reactDropzone";
-  5 | import { TopNav } from "../ui/topnav";
-> 6 | import { SyllabusChangesModal } from "./modal";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  7 |
-  8 | export default function SyllabusChangesPage() {
-  9 |   const [isModalOpen, setIsModalOpen] = useState(false);
-
-Import traces:
-  Client Component Browser:
-    ./app/SyllabusChanges/page.tsx [Client Component Browser]
-    ./app/SyllabusChanges/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./app/SyllabusChanges/page.tsx [Client Component SSR]
-    ./app/SyllabusChanges/page.tsx [Server Component]
-
-https://nextjs.org/docs/messages/module-not-found
-[02:12:40.482] Browser ERROR   Failed to load syllabus changes {}
-[02:12:40.482] Browser ERROR   ./app/SyllabusChanges/page.tsx:6:1
-Module not found: Can't resolve './modal'
-  4 | import { SyllabusDropzones } from "../ui/reactDropzone";
-  5 | import { TopNav } from "../ui/topnav";
-> 6 | import { SyllabusChangesModal } from "./modal";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  7 |
-  8 | export default function SyllabusChangesPage() {
-  9 |   const [isModalOpen, setIsModalOpen] = useState(false);
-
-Import traces:
-  Client Component Browser:
-    ./app/SyllabusChanges/page.tsx [Client Component Browser]
-    ./app/SyllabusChanges/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./app/SyllabusChanges/page.tsx [Client Component SSR]
-    ./app/SyllabusChanges/page.tsx [Server Component]
-
-https://nextjs.org/docs/messages/module-not-found
-[02:12:44.475] Browser ERROR   Failed to load syllabus changes {}
-[02:12:44.475] Browser ERROR   ./app/SyllabusChanges/page.tsx:6:1
-Module not found: Can't resolve './modal'
-  4 | import { SyllabusDropzones } from "../ui/reactDropzone";
-  5 | import { TopNav } from "../ui/topnav";
-> 6 | import { SyllabusChangesModal } from "./modal";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  7 |
-  8 | export default function SyllabusChangesPage() {
-  9 |   const [isModalOpen, setIsModalOpen] = useState(false);
-
-Import traces:
-  Client Component Browser:
-    ./app/SyllabusChanges/page.tsx [Client Component Browser]
-    ./app/SyllabusChanges/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./app/SyllabusChanges/page.tsx [Client Component SSR]
-    ./app/SyllabusChanges/page.tsx [Server Component]
-
-https://nextjs.org/docs/messages/module-not-found
-[02:12:48.475] Browser ERROR   Failed to load syllabus changes {}
-[02:12:48.475] Browser ERROR   ./app/SyllabusChanges/page.tsx:6:1
-Module not found: Can't resolve './modal'
-  4 | import { SyllabusDropzones } from "../ui/reactDropzone";
-  5 | import { TopNav } from "../ui/topnav";
-> 6 | import { SyllabusChangesModal } from "./modal";
-    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  7 |
-  8 | export default function SyllabusChangesPage() {
-  9 |   const [isModalOpen, setIsModalOpen] = useState(false);
-
-Import traces:
-  Client Component Browser:
-    ./app/SyllabusChanges/page.tsx [Client Component Browser]
-    ./app/SyllabusChanges/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./app/SyllabusChanges/page.tsx [Client Component SSR]
-    ./app/SyllabusChanges/page.tsx [Server Component]
-
-https://nextjs.org/docs/messages/module-not-found
-[02:12:52.442] Browser ERROR   Failed to load syllabus changes {}
-[02:12:56.458] Browser ERROR   Failed to load syllabus changes {}
-[02:13:00.437] Browser ERROR   Failed to load syllabus changes {}
-[02:13:04.452] Browser ERROR   Failed to load syllabus changes {}
-[02:13:08.464] Browser ERROR   Failed to load syllabus changes {}
-[02:13:10.111] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[02:16:26.797] Server  LOG     ✓ Compiled in 15ms
-[02:17:57.300] Server  LOG     ✓ Compiled in 14ms
-[02:19:55.994] Server  LOG     ✓ Compiled in 22ms
-[02:27:55.055] Server  LOG     ✓ Compiled in 26ms
-[02:27:59.217] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[02:28:42.940] Server  LOG     ✓ Compiled in 20ms
-[02:31:55.495] Server  LOG     ✓ Compiled in 15ms
-[02:32:06.093] Server  LOG     ✓ Compiled in 14ms
-[02:32:06.189] Browser ERROR   The final argument passed to %s changed size between renders. The order and size of this array must remain constant.
-
-Previous: %s
-Incoming: %s useEffect [false] [false, 0]
-[02:32:36.204] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[02:32:52.741] Server  LOG     ✓ Compiled in 16ms
-[02:33:09.499] Server  LOG     ✓ Compiled in 14ms
-[03:27:23.222] Server  LOG     ✓ Compiled in 17ms
-[03:27:23.331] Browser ERROR   ./app/SyllabusChanges/database.json
-Code generation for chunk item errored
-An error occurred while generating the chunk item [project]/app/SyllabusChanges/database.json (json)
-
-Caused by:
-- Unable to make a module from invalid JSON: expected value at line 1 column 1
-
-Debug info:
-- An error occurred while generating the chunk item [project]/app/SyllabusChanges/database.json (json)
-- Execution of <JsonChunkItem as EcmascriptChunkItem>::content failed
-- Unable to make a module from invalid JSON: expected value at line 1 column 1
-    at .
-         | v
-       1 + /* {
-         | ^
-       2 |   "success": true,
-       3 |   "old_file": "2025 Chemistry.pdf",
-       4 |   "new_file": "2026 Chemistry.pdf",
-       5 |   "report": {
-
-Import trace:
-  Client Component SSR:
-    ./app/SyllabusChanges/database.json
-    ./app/SyllabusChanges/modal.tsx [Client Component SSR]
-    ./app/SyllabusChanges/page.tsx [Client Component SSR]
-    ./app/SyllabusChanges/page.tsx [Server Component]
-[03:27:51.232] Server  LOG     ✓ Compiled in 13ms
-[03:33:01.577] Server  LOG     ✓ Compiled in 14ms
-[03:37:27.460] Server  LOG     ✓ Compiled in 14ms
-[03:44:27.159] Server  LOG     ✓ Compiled in 13ms
-[03:45:17.428] Server  LOG     ✓ Compiled in 13ms
-[03:45:26.201] Server  LOG     ✓ Compiled in 13ms
+[00:00:00.843] Server  LOG     ✓ Ready in 619ms
+[00:00:02.097] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:10:40.147] Server  LOG     ✓ Compiled in 26ms
+[00:11:32.200] Server  LOG     ✓ Compiled in 474ms
+[00:11:51.821] Server  LOG     ✓ Compiled in 25ms
+[00:12:11.889] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:12:11.889] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:14:52.969] Server  LOG     ✓ Compiled in 23ms
+[00:17:04.207] Server  LOG     ✓ Compiled in 29ms
+[00:17:36.221] Server  LOG     ✓ Compiled in 14ms
+[00:20:30.808] Server  LOG     ✓ Compiled in 27ms
+[00:20:30.888] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:20:30.888] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:21:54.874] Server  LOG     ✓ Compiled in 23ms
+[00:23:21.146] Server  LOG     ✓ Compiled in 22ms
+[00:26:21.631] Server  LOG     ✓ Compiled in 45ms
+[00:27:38.493] Server  LOG     ✓ Compiled in 42ms
+[00:28:20.317] Server  LOG     ✓ Compiled in 36ms
+[00:30:33.809] Server  LOG     ✓ Compiled in 14ms
+[00:32:15.396] Server  LOG     ✓ Compiled in 14ms
+[00:33:56.754] Server  LOG     ✓ Compiled in 15ms
+[00:36:25.271] Server  LOG     ✓ Compiled in 14ms
+[00:38:29.134] Server  LOG     ✓ Compiled in 31ms
+[00:38:50.523] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:38:50.523] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:39:38.997] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:39:40.545] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:39:40.546] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:40:16.176] Server  LOG     ✓ Compiled in 14ms
+[00:43:24.165] Server  LOG     ✓ Compiled in 23ms
+[00:44:14.679] Server  LOG     ✓ Compiled in 25ms
+[00:44:56.234] Server  LOG     ✓ Compiled in 25ms
+[00:48:37.156] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:48:37.156] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:48:47.822] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:48:47.822] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:48:47.861] Server  LOG     ✓ Compiled in 44ms
+[00:49:13.824] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:49:14.688] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:49:14.688] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:50:20.934] Server  LOG     ✓ Compiled in 24ms
+[00:52:30.881] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:52:30.882] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:54:43.802] Server  LOG     ✓ Compiled in 14ms
+[00:56:23.101] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:56:23.101] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:56:53.345] Server  LOG     ✓ Compiled in 14ms
+[00:57:26.168] Server  LOG     ✓ Compiled in 14ms
+[00:58:40.332] Server  LOG     ✓ Compiled in 16ms
+[00:59:28.376] Server  LOG     ✓ Compiled in 15ms
+[01:00:36.754] Server  LOG     ✓ Compiled in 17ms
+[01:02:11.990] Server  LOG     ✓ Compiled in 24ms
+[01:03:37.140] Server  LOG     ✓ Compiled in 14ms
+[01:04:11.595] Server  LOG     ✓ Compiled in 23ms
+[01:16:52.670] Server  LOG     ✓ Compiled in 16ms
+[01:17:45.443] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[01:17:45.443] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.

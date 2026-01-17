@@ -1,9 +1,20 @@
-import type { SVGProps } from "react";
+"use client";
+
+import { useCallback, useState, type SVGProps } from "react";
 import { Button } from "../ui/button";
 import { AlignmentDropzones } from "../ui/reactDropzone";
 import { TopNav } from "../ui/topnav";
+import { PaperAlignmentModal } from "./modal";
 
 export default function PaperAlignmentPage() {
+  const [isModalOpen, setIsModalOpen] = useState(false);
+  const [refreshToken, setRefreshToken] = useState(0);
+
+  const handleAnalyze = useCallback(() => {
+    setRefreshToken((prev) => prev + 1);
+    setIsModalOpen(true);
+  }, []);
+
   return (
     <div className="min-h-screen bg-slate-50 text-slate-900">
       <div className="mx-auto flex min-h-screen max-w-6xl flex-col px-6 pb-16 pt-8">
@@ -23,14 +34,20 @@ export default function PaperAlignmentPage() {
             <AlignmentDropzones />
           </div>
 
-          <div className="mt-8">
+          <div className="mt-8 space-y-6">
             <Button
               variant="solid"
               startIcon={<AnalyzeIcon className="h-4 w-4" />}
               className="bg-emerald-500 hover:bg-emerald-600 focus-visible:outline-emerald-500"
+              onClick={handleAnalyze}
             >
               Analyze Paper
             </Button>
+            <PaperAlignmentModal
+              isOpen={isModalOpen}
+              onClose={() => setIsModalOpen(false)}
+              refreshToken={refreshToken}
+            />
           </div>
         </main>
       </div>

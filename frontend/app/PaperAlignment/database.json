@@ -4,18 +4,21 @@
       "question_no": 1,
       "topic": "Kinematics",
       "status": "aligned",
+      "confidence":"0.9",
       "elaboration": "The question tests constant acceleration motion, which is explicitly listed under the kinematics learning outcomes in the syllabus."
     },
     {
       "question_no": 2,
       "topic": "Projectile Motion",
       "status": "need_review",
+      "confidence":"0.5",
       "elaboration": "The question involves two-dimensional motion with air resistance, which is not clearly specified in the syllabus and may exceed the intended scope."
     },
     {
       "question_no": 3,
       "topic": "Circular Motion",
       "status": "out_of_scope",
+      "confidence":"0.2",
       "elaboration": "The use of centripetal force in non-uniform circular motion is not included in the current syllabus requirements."
     }
   ]
