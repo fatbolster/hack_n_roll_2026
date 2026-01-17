@@ -63,7 +63,7 @@ def generate_syllabus_json(doc_old: str, doc_new: str, old_filename: str = "old_
     
     NEW SYLLABUS:
     {doc_new_truncated}
-
+    
     OUTPUT:
     Return a JSON object with a key "syllabi_diff" containing an array of objects:
     {{

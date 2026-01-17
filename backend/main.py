@@ -9,8 +9,6 @@ from io import BytesIO
 
 from config.openai_client import call_openai_json
 from services.syllabusJsonCreator import generate_syllabus_json
-from services.comparePrompt import map_questions_to_syllabus
-from services.textExtractorQuestion import extract_questions_from_pdf
 
 
 async def extract_text_from_pdf(file: UploadFile) -> str:
@@ -173,7 +171,7 @@ async def analyze_paper(
 ):
     """
     Analyze a practice paper against a syllabus using OpenAI.
-    Returns JSON with question_no, topic_name, status (aligned/out_of_syllabus/needs_review), prompt.
+    Returns JSON with question_topic_mapping format.
     """
     try:
         print(f"\n📄 ANALYZE PAPER REQUEST")
