@@ -1,3 +1,82 @@
+[00:00:00.577] Server  LOG     ✓ Ready in 413ms
+[01:10:51.481] Server  LOG     ✓ Compiled in 8ms
+[01:16:30.226] Server  LOG     ✓ Compiled in 28ms
+[00:00:00.843] Server  LOG     ✓ Ready in 619ms
+[00:00:02.097] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:10:40.147] Server  LOG     ✓ Compiled in 26ms
+[00:11:32.200] Server  LOG     ✓ Compiled in 474ms
+[00:11:51.821] Server  LOG     ✓ Compiled in 25ms
+[00:12:11.889] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:03:42.010] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:05:02.572] Server  LOG     ✓ Compiled in 21ms
+[00:12:20.924] Server  LOG     ✓ Compiled in 40ms
+[00:12:57.836] Server  LOG     ✓ Compiled in 34ms
+[00:12:57.944] Browser ERROR   ./app/SyllabusChanges/page.tsx:7:1
+Export SyllabusMappingModal doesn't exist in target module
+   5 | import { TopNav } from "../ui/topnav";
+   6 | import { SyllabusChangesModal } from "./modal";
+>  7 | import { SyllabusMappingModal } from "./modalMapping";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 |
+   9 | export default function SyllabusChangesPage() {
+  10 |   const [isModalOpen, setIsModalOpen] = useState(false);
+
+The export SyllabusMappingModal was not found in module [project]/app/SyllabusChanges/modalMapping.tsx [app-client] (ecmascript).
+The module has no exports at all.
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/SyllabusChanges/page.tsx [Client Component Browser]
+    ./app/SyllabusChanges/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/SyllabusChanges/page.tsx [Client Component SSR]
+    ./app/SyllabusChanges/page.tsx [Server Component]
+[00:12:57.944] Browser ERROR   ./app/SyllabusChanges/page.tsx:7:1
+Export SyllabusMappingModal doesn't exist in target module
+   5 | import { TopNav } from "../ui/topnav";
+   6 | import { SyllabusChangesModal } from "./modal";
+>  7 | import { SyllabusMappingModal } from "./modalMapping";
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   8 |
+   9 | export default function SyllabusChangesPage() {
+  10 |   const [isModalOpen, setIsModalOpen] = useState(false);
+
+The export SyllabusMappingModal was not found in module [project]/app/SyllabusChanges/modalMapping.tsx [app-ssr] (ecmascript).
+The module has no exports at all.
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./app/SyllabusChanges/page.tsx [Client Component Browser]
+    ./app/SyllabusChanges/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/SyllabusChanges/page.tsx [Client Component SSR]
+    ./app/SyllabusChanges/page.tsx [Server Component]
+[00:13:36.686] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:18:34.300] Server  LOG     ✓ Compiled in 16ms
+[00:18:46.599] Server  LOG     ✓ Compiled in 16ms
+[00:20:08.648] Server  LOG     ✓ Compiled in 17ms
+[00:34:44.425] Server  LOG     ✓ Compiled in 16ms
+[00:34:49.786] Server  LOG     ✓ Compiled in 14ms
+[00:36:50.937] Server  LOG     ✓ Compiled in 24ms
+[00:37:31.258] Server  LOG     ✓ Compiled in 19ms
+[00:42:04.267] Server  LOG     ✓ Compiled in 14ms
+[00:42:09.376] Server  LOG     ✓ Compiled in 14ms
+[00:44:22.237] Server  LOG     ✓ Compiled in 18ms
+[00:44:22.283] Browser ERROR   uncaughtError: ReferenceError: ChevronDownIcon is not defined
+[00:44:46.932] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:44:47.023] Server  LOG     ✓ Compiled in 14ms
+[00:44:47.117] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+=======
 [00:00:00.807] Server  LOG     ✓ Ready in 613ms
 [00:00:17.012] Browser LOG     Old syllabus uploaded successfully
 [00:00:19.241] Browser LOG     New syllabus uploaded successfully
@@ -359,3 +438,4 @@ Import traces:
 [01:06:29.445] Browser LOG     📊 Loaded paper analysis from API: {"paper_file":"samplePaper1.pdf","report":{"paper_id":"paper_samplePaper1.pdf","question_topic_mapping":[{"confidence":1,"in_syllabus":true,"out_of_scope_reason":null,"page":3,"question_id":"Q2","topics":["Factorization"]},{"confidence":1,"in_syllabus":true,"out_of_scope_reason":null,"page":3,"question_id":"Q3","topics":["Set Theory","Venn Diagrams"]},{"confidence":1,"in_syllabus":true,"out_of_scope_reason":null,"page":3,"question_id":"Q3a","topics":["Set Theory","Venn Diagrams"]},{"confidence":1,"in_syllabus":true,"out_of_scope_reason":null,"page":3,"question_id":"Q3b","topics":["Volume and Surface Area","Cuboids"]},{"confidence":1,"in_syllabus":true,"out_of_scope_reason":null,"page":3,"question_id":"Q3b","topics":["Algebra","Fractions"]},{"confidence":1,"in_syllabus":true,"out_of_scope_reason":null,"page":3,"question_id":"Q3b","topics":["Quadratic Functions"]},{"confidence":1,"in_syllabus":true,"out_of_scope_reason":null,"page":3,"question_id":"Q3b","topics":["Trapezium","Area"]},{"confidence":1,"in_syllabus":true,"out_of_scope_reason":null,"page":3,"question_id":"Q3a","topics":["Volume and Surface Area","Cylinders"]},{"confidence":1,"in_syllabus":true,"out_of_scope_reason":null,"page":3,"question_id":"Q3b","topics":["Volume and Surface Area","Cylinders"]},{"confidence":1,"in_syllabus":true,"out_of_scope_reason":null,"page":3,"question_id":"Q3a","topics":["Compound Interest"]},{"confidence":1,"in_syllabus":true,"out_of_scope_reason":null,"page":3,"question_id":"Q3a","topics":["Direct and Inverse Proportions"]},{"confidence":1,"in_syllabus":true,"out_of_scope_reason":null,"page":3,"question_id":"Q3b","topics":["Direct and Inverse Proportions"]},{"confidence":1,"in_syllabus":true,"out_of_scope_reason":null,"page":3,"question_id":"Q3b","topics":["Prime Factorization"]},{"confidence":1,"in_syllabus":true,"out_of_scope_reason":null,"page":3,"question_id":"Q3a","topics":["Scale Drawings"]},{"confidence":1,"in_syllabus":true,"out_of_scope_reason":null,"page":3,"question_id":"Q3b","topics":["Area","Scale Drawings"]},{"confidence":1,"in_syllabus":true,"out_of_scope_reason":null,"page":3,"question_id":"Q3b","topics":["Cumulative Frequency"]},{"confidence":1,"in_syllabus":true,"out_of_scope_reason":null,"page":3,"question_id":"Q3a","topics":["Probability"]},{"confidence":1,"in_syllabus":true,"out_of_scope_reason":null,"page":3,"question_id":"Q3c","topics":["Cumulative Frequency"]},{"confidence":1,"in_syllabus":true,"out_of_scope_reason":null,"page":3,"question_id":"Q3a","topics":["Construction"]},{"confidence":1,"in_syllabus":true,"out_of_scope_reason":null,"page":3,"question_id":"Q3b","topics":["Construction"]},{"confidence":1,"in_syllabus":true,"out_of_scope_reason":null,"page":3,"question_id":"Q3c","topics":["Distance","Geometry"]}]},"success":true,"syllabus_file":"2026 Math (1).pdf"}
 [01:06:29.445] Browser LOG     📊 Extracted sourceArray length: 21
 [01:06:29.445] Browser LOG     📊 Parsed items count: 21
+

@@ -3,7 +3,7 @@
 import { useCallback, useState } from "react";
 import type { SVGProps } from "react";
 import { useDropzone } from "react-dropzone";
-import { Button } from "./button";
+import { Button, CheckMappingButton, CompareSyllabiButton } from "./button";
 
 type AlignmentDropzonesProps = {
   onFilesChange?: (practiceFile: File | null, syllabusFile: File | null) => void;
@@ -12,6 +12,7 @@ type AlignmentDropzonesProps = {
 export function AlignmentDropzones({ onFilesChange }: AlignmentDropzonesProps = {}) {
   const [practiceFile, setPracticeFile] = useState<File | null>(null);
   const [syllabusFile, setSyllabusFile] = useState<File | null>(null);
+  const [errorState, setErrorState] = useState({ practice: false, syllabus: false });
 
   const handlePracticeDrop = useCallback((acceptedFiles: File[]) => {
     const file = acceptedFiles[0];
@@ -41,31 +42,66 @@ export function AlignmentDropzones({ onFilesChange }: AlignmentDropzonesProps = 
     onFilesChange?.(practiceFile, null);
   }, [practiceFile, onFilesChange]);
 
+  const handleAnalyzeClick = useCallback(() => {
+    const missingPractice = !practiceFile;
+    const missingSyllabus = !syllabusFile;
+
+    if (missingPractice || missingSyllabus) {
+      setErrorState({ practice: missingPractice, syllabus: missingSyllabus });
+      return;
+    }
+
+    onAnalyze?.();
+  }, [onAnalyze, practiceFile, syllabusFile]);
+
+  const showPracticeError = errorState.practice;
+  const showSyllabusError = errorState.syllabus;
+  const hasAnyErrors = showPracticeError || showSyllabusError;
+
   return (
-    <div className="grid gap-6 md:grid-cols-2">
-      <UploadZone
-        title="Practice Paper PDF"
-        helperText="Upload your practice paper"
-        file={practiceFile}
-        onDrop={handlePracticeDrop}
-        onClear={handlePracticeClear}
-      />
-      <UploadZone
-        title="Syllabus Version"
-        helperText="Upload the syllabus PDF to check against"
-        file={syllabusFile}
-        onDrop={handleSyllabusDrop}
-        onClear={handleSyllabusClear}
-      />
-    </div>
+    <>
+      <div className="grid gap-6 md:grid-cols-2">
+        <UploadZone
+          title="Practice Paper PDF"
+          helperText="Upload your practice paper"
+          file={practiceFile}
+          onDrop={handlePracticeDrop}
+          onClear={handlePracticeClear}
+          showError={showPracticeError}
+        />
+        <UploadZone
+          title="Syllabus Version"
+          helperText="Upload the syllabus PDF to check against"
+          file={syllabusFile}
+          onDrop={handleSyllabusDrop}
+          onClear={handleSyllabusClear}
+          showError={showSyllabusError}
+        />
+      </div>
+
+      <div className="mt-8 flex flex-wrap items-center gap-3">
+        <Button
+          variant="solid"
+          startIcon={<AnalyzeIcon className="h-4 w-4" />}
+          className="bg-emerald-500 hover:bg-emerald-600 focus-visible:outline-emerald-500"
+          onClick={handleAnalyzeClick}
+        >
+          Analyze Paper
+        </Button>
+        {hasAnyErrors ? (
+          <span className="text-sm font-semibold text-rose-600">Please upload PDF to the highlighted zone</span>
+        ) : null}
+      </div>
+    </>
   );
 }
 
 type SyllabusDropzonesProps = {
   onCompare?: () => void;
+  onCheckMapping?: () => void;
 };
 
-export function SyllabusDropzones({ onCompare }: SyllabusDropzonesProps = {}) {
+export function SyllabusDropzones({ onCompare, onCheckMapping }: SyllabusDropzonesProps = {}) {
   const [oldFile, setOldFile] = useState<File | null>(null);
   const [newFile, setNewFile] = useState<File | null>(null);
   const [isComparing, setIsComparing] = useState(false);
@@ -88,10 +124,12 @@ export function SyllabusDropzones({ onCompare }: SyllabusDropzonesProps = {}) {
 
   const handleOldClear = useCallback(() => {
     setOldFile(null);
+    setErrorState((prev) => ({ ...prev, old: false }));
   }, []);
 
   const handleNewClear = useCallback(() => {
     setNewFile(null);
+    setErrorState((prev) => ({ ...prev, new: false }));
   }, []);
 
   const handleCompare = useCallback(async () => {
@@ -140,6 +178,7 @@ export function SyllabusDropzones({ onCompare }: SyllabusDropzonesProps = {}) {
           file={oldFile}
           onDrop={handleOldDrop}
           onClear={handleOldClear}
+          showError={showOldError}
         />
         <UploadZone
           title="New Syllabus PDF"
@@ -147,9 +186,16 @@ export function SyllabusDropzones({ onCompare }: SyllabusDropzonesProps = {}) {
           file={newFile}
           onDrop={handleNewDrop}
           onClear={handleNewClear}
+          showError={showNewError}
         />
       </div>
 
+      <div className="mt-8 flex flex-wrap items-center gap-3">
+        <CompareSyllabiButton onClick={handleCompareClick} />
+        <CheckMappingButton onClick={handleCheckMappingClick} />
+        {hasAnyErrors ? (
+          <span className="text-sm font-semibold text-rose-600">Missing PDF</span>
+        ) : null}
       <div className="mt-8">
         <Button
           variant="solid"
@@ -171,9 +217,10 @@ type UploadZoneProps = {
   file: File | null;
   onDrop: (files: File[]) => void;
   onClear: () => void;
+  showError?: boolean;
 };
 
-function UploadZone({ title, helperText, file, onDrop, onClear }: UploadZoneProps) {
+function UploadZone({ title, helperText, file, onDrop, onClear, showError }: UploadZoneProps) {
   const handleDrop = useCallback(
     (acceptedFiles: File[]) => {
       onDrop(acceptedFiles);
@@ -197,14 +244,18 @@ function UploadZone({ title, helperText, file, onDrop, onClear }: UploadZoneProp
           "group flex min-h-[190px] cursor-pointer flex-col items-center justify-center rounded-2xl border-2 border-dashed bg-white px-6 text-center shadow-sm ring-1 ring-slate-100 transition",
           isDragActive ? "border-emerald-400 bg-emerald-50/60 ring-emerald-100" : "border-slate-200",
           isDragReject ? "border-rose-300 bg-rose-50 ring-rose-100" : "",
+          showError
+            ? "border-red-600 bg-red-100 ring-red-400 shadow-[0_0_0_6px_rgba(239,68,68,0.35)]"
+            : "",
         )}
       >
         <input {...getInputProps()} />
         <UploadIcon className="h-10 w-10 text-slate-400 transition group-hover:scale-105 group-hover:text-slate-500" />
-        <p className="mt-4 text-sm font-semibold text-slate-800">
-          Drag & drop or click to upload
-        </p>
+        <p className="mt-4 text-sm font-semibold text-slate-800">Drag & drop or click to upload</p>
         <p className="text-xs text-slate-500">{helperText}</p>
+        {showError ? (
+          <p className="mt-3 text-xs font-semibold text-red-600">Please add missing PDF</p>
+        ) : null}
 
         {file ? (
           <div className="mt-4 flex w-full max-w-full items-center gap-2 rounded-full bg-emerald-50 px-3 py-1 text-xs font-medium text-emerald-700 ring-1 ring-emerald-100">
@@ -292,6 +343,17 @@ function TrashIcon(props: IconProps) {
         strokeLinejoin="round"
       />
       <path d="M10.5 10.5v6M13.5 10.5v6" strokeWidth="1.6" strokeLinecap="round" />
+    </svg>
+  );
+}
+
+function AnalyzeIcon(props: IconProps) {
+  return (
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" {...props}>
+      <rect x="4.75" y="3.75" width="9.5" height="14.5" rx="1.4" strokeWidth="1.6" />
+      <path d="M8 7.5h3.5M8 11h3.5" strokeWidth="1.6" strokeLinecap="round" />
+      <circle cx="16.25" cy="15.75" r="3" strokeWidth="1.6" />
+      <path d="m18.4 17.9 2.35 2.35" strokeWidth="1.6" strokeLinecap="round" />
     </svg>
   );
 }

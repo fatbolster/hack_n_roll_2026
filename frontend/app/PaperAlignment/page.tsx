@@ -1,7 +1,6 @@
 "use client";
 
-import { useCallback, useState, type SVGProps } from "react";
-import { Button } from "../ui/button";
+import { useCallback, useState } from "react";
 import { AlignmentDropzones } from "../ui/reactDropzone";
 import { TopNav } from "../ui/topnav";
 import { PaperAlignmentModal } from "./modal";
@@ -109,25 +108,5 @@ export default function PaperAlignmentPage() {
         </main>
       </div>
     </div>
-  );
-}
-
-type IconProps = SVGProps<SVGSVGElement>;
-
-function AnalyzeIcon(props: IconProps) {
-  return (
-    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" {...props}>
-      <rect
-        x="4.75"
-        y="3.75"
-        width="9.5"
-        height="14.5"
-        rx="1.4"
-        strokeWidth="1.6"
-      />
-      <path d="M8 7.5h3.5M8 11h3.5" strokeWidth="1.6" strokeLinecap="round" />
-      <circle cx="16.25" cy="15.75" r="3" strokeWidth="1.6" />
-      <path d="m18.4 17.9 2.35 2.35" strokeWidth="1.6" strokeLinecap="round" />
-    </svg>
   );
 }

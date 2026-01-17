@@ -7,8 +7,8 @@ export default function Home() {
   return (
     <div className="min-h-screen bg-slate-50 text-slate-900">
       <div className="mx-auto flex min-h-screen max-w-6xl flex-col px-6 pb-16 pt-8">
-        <TopNav />
-        <main className="mt-14 flex flex-1 flex-col items-center text-center">
+        <TopNav active="Home" />
+        <main className="mt-12 flex flex-1 flex-col items-center text-center">
           <span className="inline-flex h-9 items-center gap-2 rounded-full bg-white px-4 text-sm font-medium text-emerald-700 shadow-sm ring-1 ring-emerald-100">
             <SparklesIcon className="h-4 w-4 text-emerald-600" />
             <span>AI-Powered Syllabus Intelligence</span>

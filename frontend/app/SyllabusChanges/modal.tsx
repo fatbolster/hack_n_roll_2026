@@ -1,4 +1,4 @@
-"use client";
+﻿"use client";
 
 import { useEffect, useMemo, useState } from "react";
 import type { SVGProps } from "react";
@@ -164,15 +164,15 @@ export function SyllabusChangesModal({ isOpen, onClose, refreshToken = 0 }: Moda
   if (!isOpen) return null;
 
   return (
-    <div className="mt-10 w-full overflow-hidden rounded-2xl bg-white shadow-sm ring-1 ring-slate-200">
+    <div className="mt-6 w-full overflow-hidden rounded-2xl bg-white shadow-sm ring-1 ring-slate-200">
       <div className="flex items-start justify-between border-b border-slate-100 px-6 py-4">
         <div>
-          <p className="text-sm font-semibold text-slate-500">Analysis Results</p>
+          <p className="text-sm font-semibold text-slate-500">Compare Syllabi Results</p>
           <div className="mt-1 flex flex-wrap items-center gap-3 text-sm font-semibold">
-            <span className="text-slate-900">All ({counts.all})</span>
+            <span className="text-slate-900">Total {counts.all}</span>
             <span className="text-emerald-600">+ {counts.added} Added</span>
             <span className="text-rose-600">- {counts.removed} Removed</span>
-            <span className="text-amber-600">• {counts.modified} Modified</span>
+            <span className="text-amber-600">≈ {counts.modified} Modified</span>
           </div>
         </div>
         <button
@@ -229,12 +229,12 @@ export function SyllabusChangesModal({ isOpen, onClose, refreshToken = 0 }: Moda
               return (
                 <article
                   key={change.id ?? `${change.status}-${index}`}
-                  className="group relative flex overflow-hidden rounded-xl border border-slate-100 bg-white shadow-sm ring-1 ring-slate-100 transition hover:shadow-md"
+                  className="group relative overflow-hidden rounded-xl border border-slate-100 bg-white shadow-sm ring-1 ring-slate-100 transition hover:shadow-md"
                 >
-                  <div className={`w-1 ${meta.accentClass}`} />
-                  <div className="flex w-full flex-col gap-2">
-                    <div className="flex items-start gap-2 px-4 pt-3">
-                      <div className="flex flex-1 items-center gap-2 text-sm font-semibold">
+                  <div className={`absolute left-0 top-0 h-full w-1 ${meta.accentClass}`} />
+                  <div className="flex w-full flex-col gap-2 px-4 py-3">
+                    <div className="flex items-start gap-2">
+                      <div className="flex flex-1 flex-wrap items-center gap-2 text-sm font-semibold">
                         <span className={`rounded-full px-2 py-1 text-xs ${meta.pillClass}`}>
                           {meta.label}
                         </span>
@@ -243,7 +243,7 @@ export function SyllabusChangesModal({ isOpen, onClose, refreshToken = 0 }: Moda
                       <button
                         type="button"
                         disabled={!hasDetails}
-                        className={`absolute right-3 top-3 rounded-full p-[0.36rem] transition focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-emerald-500 ${hasDetails ? "group/chevron cursor-pointer text-slate-500 hover:bg-slate-100 hover:text-slate-700" : "cursor-default text-slate-300"}`}
+                        className={`rounded-full p-[0.36rem] transition focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-emerald-500 ${hasDetails ? "group/chevron cursor-pointer text-slate-500 hover:bg-slate-100 hover:text-slate-700" : "cursor-default text-slate-300"}`}
                         onClick={() =>
                           hasDetails
                             ? setExpanded((prev) => ({
@@ -261,21 +261,19 @@ export function SyllabusChangesModal({ isOpen, onClose, refreshToken = 0 }: Moda
                         />
                       </button>
                     </div>
-                    <div className="px-4 pb-3">
-                      <p className="text-sm text-slate-600">{change.change_summary}</p>
+                    <div>
+                      <p className="text-sm text-slate-700">{change.change_summary}</p>
                     </div>
                     {isExpanded && hasDetails ? (
-                      <div className="border-t border-slate-100 bg-slate-50 px-4 py-3 text-sm leading-relaxed text-slate-700">
-                        {change.old_summary ? (
-                          <p>
-                            <span className="font-semibold text-slate-800">Old:</span> {change.old_summary}
-                          </p>
-                        ) : null}
-                        {change.new_summary ? (
-                          <p className="mt-2">
-                            <span className="font-semibold text-slate-800">New:</span> {change.new_summary}
-                          </p>
-                        ) : null}
+                      <div className="grid gap-3 rounded-xl bg-slate-50 p-3 text-sm text-slate-700 md:grid-cols-2">
+                        <div>
+                          <p className="text-xs font-semibold text-slate-500">Old syllabus</p>
+                          <p className="mt-1 text-slate-800">{change.old_summary || "Not present"}</p>
+                        </div>
+                        <div>
+                          <p className="text-xs font-semibold text-slate-500">New syllabus</p>
+                          <p className="mt-1 text-slate-800">{change.new_summary || "Not present"}</p>
+                        </div>
                       </div>
                     ) : null}
                   </div>
@@ -284,6 +282,12 @@ export function SyllabusChangesModal({ isOpen, onClose, refreshToken = 0 }: Moda
             })
           )}
         </div>
+      </div>
+
+      <div className="flex items-center justify-end gap-3 border-t border-slate-100 px-6 py-4">
+        <Button variant="ghost" size="sm" onClick={onClose}>
+          Close
+        </Button>
       </div>
     </div>
   );
@@ -326,3 +330,4 @@ function ChevronDownIcon(props: IconProps) {
     </svg>
   );
 }
+

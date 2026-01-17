@@ -4,15 +4,23 @@ import { useCallback, useState } from "react";
 import { SyllabusDropzones } from "../ui/reactDropzone";
 import { TopNav } from "../ui/topnav";
 import { SyllabusChangesModal } from "./modal";
+import { SyllabusMappingModal } from "./modalMapping";
 
 export default function SyllabusChangesPage() {
   const [isModalOpen, setIsModalOpen] = useState(false);
   const [refreshToken, setRefreshToken] = useState(0);
+  const [isMappingModalOpen, setIsMappingModalOpen] = useState(false);
+  const [mappingRefreshToken, setMappingRefreshToken] = useState(0);
 
   const handleCompare = useCallback(() => {
     // Incrementing refreshToken forces the modal to reload its data even when already open.
     setRefreshToken((prev) => prev + 1);
     setIsModalOpen(true);
+  }, []);
+
+  const handleCheckMapping = useCallback(() => {
+    setMappingRefreshToken((prev) => prev + 1);
+    setIsMappingModalOpen(true);
   }, []);
 
   return (
@@ -31,11 +39,16 @@ export default function SyllabusChangesPage() {
           </div>
 
           <div className="mt-8">
-            <SyllabusDropzones onCompare={handleCompare} />
+            <SyllabusDropzones onCompare={handleCompare} onCheckMapping={handleCheckMapping} />
             <SyllabusChangesModal
               isOpen={isModalOpen}
               onClose={() => setIsModalOpen(false)}
               refreshToken={refreshToken}
+            />
+            <SyllabusMappingModal
+              isOpen={isMappingModalOpen}
+              onClose={() => setIsMappingModalOpen(false)}
+              refreshToken={mappingRefreshToken}
             />
           </div>
         </main>
