@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+
+# FastAPI
+.env
+
+# Uploads and outputs
+uploads/*.pdf
+outputs/*.json
+
+# Keep directory structure
+!uploads/.gitkeep
+!outputs/.gitkeep
+!services/.gitkeep
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
