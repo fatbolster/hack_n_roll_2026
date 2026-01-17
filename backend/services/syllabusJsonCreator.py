@@ -102,3 +102,81 @@ def generate_syllabus_json(doc_old: str, doc_new: str, old_filename: str = "old_
     )
     
     return response.choices[0].message.content
+
+
+def generate_syllabus_comparison_with_score(doc_old: str, doc_new: str, old_filename: str = "old_syllabus", new_filename: str = "new_syllabus") -> str:
+    prompt = fprompt = f"""
+    You are an NUS module mapping advisor. Your goal is to help NUS students decide whether an overseas exchange module is likely to be approved as a credit transfer substitute for a specific NUS local module.
+
+    You are comparing:
+    - NUS LOCAL MODULE (baseline for mapping): {old_filename}
+    - OVERSEAS EXCHANGE MODULE (candidate for mapping): {new_filename}
+
+    You MUST evaluate similarity based on:
+    - Topic coverage overlap
+    - Alignment of learning outcomes
+    - Depth/rigour (how advanced and how detailed the content is)
+    - Whether gaps are critical for NUS credit transfer expectations
+
+    =====================
+    STRICT OUTPUT RULES (NON-NEGOTIABLE)
+    =====================
+    1) Output ONLY a single JSON object. No markdown, no commentary, no extra text.
+    2) Use EXACTLY the JSON keys shown in the schema below. Do NOT add new keys.
+    3) similarity_score MUST be an integer between 0 and 100.
+    4) similarity_label MUST be ONLY ONE of these two exact strings:
+    - "Highly Mappable"
+    - "Partially Mappable"
+    You are NOT allowed to use any other label.
+    5) Label rule:
+    - If similarity_score >= 60 → similarity_label MUST be "Highly Mappable"
+    - If similarity_score < 60 → similarity_label MUST be "Partially Mappable"
+
+    =====================
+    REQUIRED JSON SCHEMA (FOLLOW EXACTLY)
+    =====================
+    {{
+    "similarity_score": <integer 0-100>,
+    "similarity_label": "<MUST be 'Highly Mappable' OR 'Partially Mappable' only>",
+    "ai_justification": {{
+        "overview": "Brief decision-oriented summary in the context of NUS credit transfer/module mapping",
+        "key_similarities": [
+        "Similarity point 1 (mapping-relevant)",
+        "Similarity point 2 (mapping-relevant)",
+        "Similarity point 3 (mapping-relevant)"
+        ],
+        "key_differences": [
+        "Difference/gap point 1 (mapping risk)",
+        "Difference/gap point 2 (mapping risk)",
+        "Difference/gap point 3 (mapping risk)"
+        ],
+        "recommendation": "Clear advice for NUS students: proceed with mapping or not, and what to prepare or highlight in the mapping justification"
+    }}
+    }}
+
+    =====================
+    SYLLABUS INPUTS
+    =====================
+
+    NUS LOCAL MODULE ({old_filename}):
+    {doc_old}
+
+    OVERSEAS EXCHANGE MODULE ({new_filename}):
+    {doc_new}
+
+    FINAL REMINDER: Return ONLY the JSON object. Only the two allowed labels may be used.
+    """
+
+
+    
+    response = client.chat.completions.create(
+        model="gpt-4o-mini",
+        messages=[
+            {"role": "system", "content": "You are a university module mapping advisor that helps NUS students assess credit transfer eligibility. Output strictly valid JSON with detailed analysis."},
+            {"role": "user", "content": prompt}
+        ],
+        response_format={ "type": "json_object" },
+        timeout=120.0
+    )
+    
+    return response.choices[0].message.content
