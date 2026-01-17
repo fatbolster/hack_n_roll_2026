@@ -17,6 +17,17 @@ export function AlignmentDropzones() {
     setSyllabusFile(acceptedFiles[0] ?? null);
   }, []);
 
+<<<<<<< HEAD
+=======
+  const handlePracticeClear = useCallback(() => {
+    setPracticeFile(null);
+  }, []);
+
+  const handleSyllabusClear = useCallback(() => {
+    setSyllabusFile(null);
+  }, []);
+
+>>>>>>> 7f8550abe7418b32f77e00c0866523e641d130a0
   return (
     <div className="grid gap-6 md:grid-cols-2">
       <UploadZone
@@ -24,18 +35,34 @@ export function AlignmentDropzones() {
         helperText="Upload your practice paper"
         file={practiceFile}
         onDrop={handlePracticeDrop}
+<<<<<<< HEAD
+=======
+        onClear={handlePracticeClear}
+>>>>>>> 7f8550abe7418b32f77e00c0866523e641d130a0
       />
       <UploadZone
         title="Syllabus Version"
         helperText="Upload the syllabus PDF to check against"
         file={syllabusFile}
         onDrop={handleSyllabusDrop}
+<<<<<<< HEAD
+=======
+        onClear={handleSyllabusClear}
+>>>>>>> 7f8550abe7418b32f77e00c0866523e641d130a0
       />
     </div>
   );
 }
 
+<<<<<<< HEAD
 export function SyllabusDropzones() {
+=======
+type SyllabusDropzonesProps = {
+  onCompare?: () => void;
+};
+
+export function SyllabusDropzones({ onCompare }: SyllabusDropzonesProps = {}) {
+>>>>>>> 7f8550abe7418b32f77e00c0866523e641d130a0
   const [oldFile, setOldFile] = useState<File | null>(null);
   const [newFile, setNewFile] = useState<File | null>(null);
 
@@ -47,6 +74,14 @@ export function SyllabusDropzones() {
     setNewFile(acceptedFiles[0] ?? null);
   }, []);
 
+  const handleOldClear = useCallback(() => {
+    setOldFile(null);
+  }, []);
+
+  const handleNewClear = useCallback(() => {
+    setNewFile(null);
+  }, []);
+
   return (
     <>
       <div className="grid gap-6 md:grid-cols-2">
@@ -55,12 +90,14 @@ export function SyllabusDropzones() {
           helperText="Upload the previous syllabus version"
           file={oldFile}
           onDrop={handleOldDrop}
+          onClear={handleOldClear}
         />
         <UploadZone
           title="New Syllabus PDF"
           helperText="Upload the latest syllabus version"
           file={newFile}
           onDrop={handleNewDrop}
+          onClear={handleNewClear}
         />
       </div>
 
@@ -69,6 +106,7 @@ export function SyllabusDropzones() {
           variant="solid"
           startIcon={<CompareIcon className="h-4 w-4" />}
           className="bg-emerald-500 hover:bg-emerald-600 focus-visible:outline-emerald-500"
+          onClick={onCompare}
         >
           Compare Syllabi
         </Button>
@@ -82,9 +120,10 @@ type UploadZoneProps = {
   helperText: string;
   file: File | null;
   onDrop: (files: File[]) => void;
+  onClear: () => void;
 };
 
-function UploadZone({ title, helperText, file, onDrop }: UploadZoneProps) {
+function UploadZone({ title, helperText, file, onDrop, onClear }: UploadZoneProps) {
   const handleDrop = useCallback(
     (acceptedFiles: File[]) => {
       onDrop(acceptedFiles);
@@ -118,11 +157,23 @@ function UploadZone({ title, helperText, file, onDrop }: UploadZoneProps) {
         <p className="text-xs text-slate-500">{helperText}</p>
 
         {file ? (
-          <div className="mt-4 flex max-w-full items-center gap-2 rounded-full bg-emerald-50 px-3 py-1 text-xs font-medium text-emerald-700 ring-1 ring-emerald-100">
+          <div className="mt-4 flex w-full max-w-full items-center gap-2 rounded-full bg-emerald-50 px-3 py-1 text-xs font-medium text-emerald-700 ring-1 ring-emerald-100">
             <FileIcon className="h-4 w-4" />
             <span className="truncate" title={file.name}>
               {file.name}
             </span>
+            <button
+              type="button"
+              aria-label="Remove file"
+              onClick={(event) => {
+                event.stopPropagation();
+                event.preventDefault();
+                onClear();
+              }}
+              className="ml-auto flex h-7 w-7 cursor-pointer items-center justify-center rounded-full text-emerald-700 transition hover:bg-emerald-100 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-emerald-500"
+            >
+              <TrashIcon className="h-4 w-4" />
+            </button>
           </div>
         ) : null}
       </div>
@@ -171,6 +222,26 @@ function CompareIcon(props: IconProps) {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
+    </svg>
+  );
+}
+
+function TrashIcon(props: IconProps) {
+  return (
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" {...props}>
+      <path
+        d="M19 6h-1.5m-11 0H5m2 0h10m-8.5 0V4.5A1.5 1.5 0 0 1 10 3h4a1.5 1.5 0 0 1 1.5 1.5V6m-7 0h7"
+        strokeWidth="1.6"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+      />
+      <path
+        d="M17 6.5 16.4 18a1.5 1.5 0 0 1-1.5 1.4h-4.8A1.5 1.5 0 0 1 8.6 18L8 6.5"
+        strokeWidth="1.6"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+      />
+      <path d="M10.5 10.5v6M13.5 10.5v6" strokeWidth="1.6" strokeLinecap="round" />
     </svg>
   );
 }

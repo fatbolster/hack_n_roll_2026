@@ -2,5 +2,9 @@
   "/PaperAlignment/page": "app/PaperAlignment/page.js",
   "/PaperAllignment/page": "app/PaperAllignment/page.js",
   "/SyllabusChanges/page": "app/SyllabusChanges/page.js",
+<<<<<<< HEAD
+=======
+  "/_not-found/page": "app/_not-found/page.js",
+>>>>>>> 7f8550abe7418b32f77e00c0866523e641d130a0
   "/page": "app/page.js"
 }

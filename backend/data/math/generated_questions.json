@@ -1,0 +1,20 @@
+[
+    {
+        "topic_name": "Paper 2) may integrate ideas from more than one topic",
+        "question": "A rectangle has a length that is twice its width. The perimeter of the rectangle is 48 cm. Calculate the area of the rectangle.",
+        "marks": 5,
+        "answer_key": "Let the width be x cm. Then, the length is 2x cm. Perimeter = 2(length + width) = 2(2x + x) = 6x. Setting the perimeter to 48 cm, we have 6x = 48. Therefore, x = 8 cm. The width is 8 cm and the length is 16 cm. The area = length \u00d7 width = 16 cm \u00d7 8 cm = 128 cm\u00b2."
+    },
+    {
+        "topic_name": "recognising and representing patterns/relationship",
+        "question": "The first five terms of a sequence are 2, 5, 10, 17, and 26. a) Determine the pattern in the sequence. b) Formulate an expression for the nth term of the sequence. c) Calculate the 10th term of the sequence.",
+        "marks": 5,
+        "answer_key": "a) The pattern can be identified as the differences between consecutive terms: 3, 5, 7, 9, indicating that the differences increase by 2 each time. b) The nth term can be expressed as n^2 + 1. c) The 10th term is calculated as 10^2 + 1 = 101."
+    },
+    {
+        "topic_name": "provide explanation in the context of a given prob",
+        "question": "A bus travels from Town A to Town B, a distance of 120 km, at a speed of 60 km/h. After reaching Town B, the bus continues to Town C, a distance of 150 km, at a speed of 75 km/h. Calculate the total time taken for the journey from Town A to Town C. Show your working.",
+        "marks": 5,
+        "answer_key": "Total time from A to B is 120 km / 60 km/h = 2 hours. Total time from B to C is 150 km / 75 km/h = 2 hours. Total time taken = 2 hours + 2 hours = 4 hours."
+    }
+]

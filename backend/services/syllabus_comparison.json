@@ -1,6 +1,7 @@
 {
   "syllabi_diff": [
     {
+<<<<<<< HEAD
       "topic": "Subject identification",
       "math_scope": "Chemistry (GCE O-Level syllabus 6092) — overall subject and assessment structure (papers 1–3, weightings, practical assessment).",
       "status": "unchanged",
@@ -89,6 +90,126 @@
       "math_scope": "List of required math skills: arithmetic operations, fractions/percentages/ratios, standard notation, direct/inverse proportion, positive integer indices, graph drawing/interpretation, unit conversion, dimensional reasoning (length/area/volume), solving x = yz algebraically, inequality/approximation symbols, use of significant figures.",
       "status": "unchanged",
       "change_summary": "Mathematical competencies expected of candidates are unchanged; same explicit list of operations and graph skills."
+=======
+      "topic": "Number and their operations (N1)",
+      "math_scope": "Primes, prime factorisation; HCF/LCM via factorisation; integers, rationals, reals; four arithmetic operations; ordering on number line; approximation/estimation; standard form A × 10^n; indices (positive, negative, zero, fractional) and laws of indices; calculator calculations.",
+      "status": "unchanged",
+      "change_summary": "Content, formulas and technical operations identical between 2025 and 2026. Cognitive demand remains basic-to-intermediate numeracy (factorisation, indices, estimation). Any wording/formatting edits do not alter scope or complexity."
+    },
+    {
+      "topic": "Ratio and proportion (N2)",
+      "math_scope": "Ratios with rational numbers; simplification of ratios; map scales (distance and area); direct and inverse proportion problems.",
+      "status": "unchanged",
+      "change_summary": "Same technical scope and problem types in both syllabi. Cognitive demand unchanged (procedural manipulation and proportional reasoning)."
+    },
+    {
+      "topic": "Percentage (N3)",
+      "math_scope": "Percent expressions, comparisons, percentages >100%, increase/decrease by a percentage, reverse percentages.",
+      "status": "unchanged",
+      "change_summary": "No substantive change; retains applied percentage calculations and reverse-percentage problems; cognitive demand remains routine application and interpretation."
+    },
+    {
+      "topic": "Rate and speed (N4)",
+      "math_scope": "Average rate and average speed calculations; unit conversions (e.g., km/h ↔ m/s).",
+      "status": "unchanged",
+      "change_summary": "Scope and complexity unchanged — routine computation and unit handling for kinematics-style problems."
+    },
+    {
+      "topic": "Algebraic expressions and formulae (N5)",
+      "math_scope": "Use of letters, evaluation, translation from context, nth-term patterns; linear expression manipulation, factorisation, expansion; change of subject; quadratic factorisation; algebraic fractions (multiply/divide/add/subtract) with linear/quadratic denominators; standard identities (a±b)^2, a^2−b^2.",
+      "status": "unchanged",
+      "change_summary": "All algebra topics and specific operations (including quadratic factorisation and algebraic fractions) are present in both documents. Cognitive demand (algebraic manipulation through intermediate algebra) unchanged."
+    },
+    {
+      "topic": "Functions and graphs (N6)",
+      "math_scope": "Cartesian coordinates; plotting ordered pairs; linear (y = ax + b) and quadratic (y = ax^2 + bx + c) functions and graphs; gradient of linear graphs; quadratic graph properties and sketching (including vertex form and factorised form); power functions y = a x^n for specified n; simple sums of such power functions; exponential functions y = k a^x (a positive integer); estimation of gradient via tangent.",
+      "status": "unchanged",
+      "change_summary": "Technical coverage of linear, quadratic, power and exponential graphs and basic differential intuition (tangent gradient estimation) is the same. Cognitive demand remains intermediate: graph interpretation, sketching, and basic conceptual calculus intuition."
+    },
+    {
+      "topic": "Equations and inequalities (N7)",
+      "math_scope": "Solve linear equations and simple fractional reductions; simultaneous linear equations (substitution, elimination, graphical); quadratic equations (factorisation, formula, completing the square, graphical); fractional equations reducible to quadratics; formulating equations from context; solve linear inequalities and represent on number line.",
+      "status": "unchanged",
+      "change_summary": "No change in methods or problem types; complexity spans routine algebra to intermediate problem formulation and quadratic techniques."
+    },
+    {
+      "topic": "Set language and notation (N8)",
+      "math_scope": "Set notation and language (union, intersection, complement, empty/universal sets, element/subset relations), Venn diagrams and basic operations on two sets.",
+      "status": "unchanged",
+      "change_summary": "Concepts identical across years. Presentation shows minor symbol/typography differences (e.g., subset symbols rendered differently) but no substantive change to mathematical content or cognitive demand."
+    },
+    {
+      "topic": "Matrices (N9)",
+      "math_scope": "Display/interpretation of information in matrices of any order; scalar multiplication; sum and product (where appropriate) of two matrices; contextual interpretation problems.",
+      "status": "unchanged",
+      "change_summary": "Matrix operations and interpretative tasks remain the same in both syllabi. Cognitive demand: introductory matrix arithmetic and application."
+    },
+    {
+      "topic": "Angles, triangles and polygons (G1)",
+      "math_scope": "Classification of angles; angle relationships (vertically opposite, straight line, at a point); angles with parallel lines and a transversal; properties of triangles, special quadrilaterals, regular polygons including symmetry; interior/exterior angle sums; construction of simple figures using instruments.",
+      "status": "unchanged",
+      "change_summary": "No substantive changes; geometric facts and construction skills maintained. Cognitive demand remains geometric reasoning at O‑level level."
+    },
+    {
+      "topic": "Congruence and similarity (G2)",
+      "math_scope": "Congruent and similar figures; properties of similar triangles/polygons (angle equality, proportional sides); enlargements/reductions; scale drawings; perpendicular/angle bisectors; triangle congruence/similarity tests; area/volume ratios for similar shapes; applied problems.",
+      "status": "unchanged",
+      "change_summary": "Scope and depth unchanged — similarity and congruence reasoning retained. Cognitive demand: proportional reasoning and geometric proof/problem solving unchanged."
+    },
+    {
+      "topic": "Properties of circles (G3)",
+      "math_scope": "Chord and centre relations; perpendicular bisector properties; tangent properties (tangent length equality, tangent-radius right angle); angle properties (angle in a semicircle, angle between tangent and radius, centre vs circumference, angles in same/opposite segments).",
+      "status": "unchanged",
+      "change_summary": "All standard circle theorems and related problem types persist; cognitive demand unchanged (theorem application and geometric reasoning)."
+    },
+    {
+      "topic": "Pythagoras' theorem and trigonometry (G4)",
+      "math_scope": "Pythagoras' theorem and converse; trigonometric ratios (sin, cos, tan) for right triangles; extension of sine/cosine to obtuse angles; area formula 1/2 ab sin C; sine and cosine rules for any triangle; 2D and 3D problems including elevation/depression and bearings.",
+      "status": "unchanged",
+      "change_summary": "No substantive updates; trigonometric rules and applications retained. Cognitive demand includes both routine calculations and multi-step contextual problems."
+    },
+    {
+      "topic": "Mensuration (G5)",
+      "math_scope": "Area of parallelogram/trapezium; perimeter/area of composite shapes; volumes and surface areas of common solids (cube, cuboid, prism, cylinder, pyramid, cone, sphere); unit conversions (cm^2↔m^2, cm^3↔m^3); composite solids; arc length, sector and segment areas; radian measure and degree-radian conversion.",
+      "status": "unchanged",
+      "change_summary": "Full mensuration topic set unchanged. Cognitive demand remains calculation-heavy with some geometric reasoning (composite solids, segments)."
+    },
+    {
+      "topic": "Coordinate geometry (G6)",
+      "math_scope": "Gradient of straight line from two points; length of line segment from coordinates; equation of straight line (y = mx + c); geometric problems using coordinates.",
+      "status": "unchanged",
+      "change_summary": "Content and technical demands preserved; routine analytic geometry tasks unchanged."
+    },
+    {
+      "topic": "Vectors in two dimensions (G7)",
+      "math_scope": "Vector notation and representation; directed line segments; translations by vectors; position vectors; magnitude calculation; expressing vectors as sum/difference of two coplanar vectors; scalar multiplication; geometric vector problems.",
+      "status": "unchanged",
+      "change_summary": "Vector concepts and operations identical in scope and complexity. Notational rendering differences between documents do not change mathematical content."
+    },
+    {
+      "topic": "Data handling and analysis (S1)",
+      "math_scope": "Data collection/classification/tabulation; interpretation of tables, bar/pictogram/line/pie charts, dot diagrams, histograms (equal class width), stem-and-leaf, cumulative frequency, box-and-whisker; advantages/limitations of representations; measures of central tendency (mean, median, mode) including mean for grouped data; quartiles/percentiles; measures of spread (range, IQR, standard deviation) including grouped/ungrouped SD; comparison using mean and SD; drawing inferences and recognising misleading displays.",
+      "status": "unchanged",
+      "change_summary": "Statistical content and computational requirements unchanged. Cognitive demand spans descriptive statistics computation and critical interpretation of representations."
+    },
+    {
+      "topic": "Probability (S2)",
+      "math_scope": "Probability fundamentals; single-event probabilities; simple combined events (possibility diagrams, tree diagrams); addition and multiplication rules for mutually exclusive and independent events.",
+      "status": "unchanged",
+      "change_summary": "No change in probability topics or expected complexity — basic combinatorial/probabilistic reasoning and tree/diagram use retained."
+    },
+    {
+      "topic": "Mathematical formulae",
+      "math_scope": "Common formulae provided (compound interest formula; mensuration formulae: curved surface area, surface area, volumes of cone/sphere; area formula 1/2ab sin C; arc length rθ; sector area 1/2 r^2 θ; trigonometry/sine-cosine rules; statistics mean and standard deviation expressions).",
+      "status": "unchanged",
+      "change_summary": "Formula list is substantively the same in both syllabi. Any typographical/formatting adjustments do not introduce new formulae or remove existing ones; cognitive demand from formula application unchanged."
+    },
+    {
+      "topic": "Mathematical notation",
+      "math_scope": "Notation across sets, operations, functions, calculus (limits, derivatives, integrals), exponentials/logarithms, circular functions, complex numbers (forms, modulus, argument, conjugate), matrices (inverse, transpose, determinant), vectors (unit vectors, dot/cross products), probability/statistics symbols and distributions.",
+      "status": "unchanged",
+      "change_summary": "The notation inventories in both documents cover the same mathematical symbols and concepts. There are minor typographic/renderer differences in some symbols between 2025 and 2026, but no substantive change to the set of notations or implied cognitive expectations."
+>>>>>>> 7f8550abe7418b32f77e00c0866523e641d130a0
     }
   ]
 }

@@ -1,0 +1,74 @@
+{
+  "success": true,
+  "old_file": "2025 Chemistry.pdf",
+  "new_file": "2026 Chemistry.pdf",
+  "report": {
+    "changes": [
+      {
+        "topic_name": "INTRODUCTION",
+        "status": "added",
+        "description": "The introduction remains largely the same, emphasizing the need for students to develop long-term skills rather than focusing solely on factual knowledge."
+      },
+      {
+        "topic_name": "AIMS",
+        "status": "added",
+        "description": "The aims section has been retained but may have slight rewording for clarity or emphasis."
+      },
+      {
+        "topic_name": "PRACTICES OF SCIENCE",
+        "status": "removed",
+        "description": "No significant changes were made, but the language may have been refined for clarity."
+      },
+      {
+        "topic_name": "ASSESSMENT OBJECTIVES",
+        "status": "removed",
+        "description": "The assessment objectives remain unchanged, but the wording may have been adjusted for clarity."
+      },
+      {
+        "topic_name": "SCHEME OF ASSESSMENT",
+        "status": "modified",
+        "description": "The scheme of assessment is consistent with the previous syllabus, but there may be minor adjustments in wording."
+      },
+      {
+        "topic_name": "CONTENT STRUCTURE",
+        "status": "modified",
+        "description": "The content structure remains the same, but there may be slight rewording for clarity."
+      },
+      {
+        "topic_name": "SUBJECT CONTENT",
+        "status": "modified",
+        "description": "The subject content is largely unchanged, but there may be minor adjustments in wording or clarity."
+      },
+      {
+        "topic_name": "SUMMARY OF KEY QUANTITIES, SYMBOLS AND UNITS",
+        "status": "modified",
+        "description": "This section remains largely the same, but there may be minor adjustments in wording for clarity."
+      },
+      {
+        "topic_name": "PRACTICAL ASSESSMENT",
+        "status": "modified",
+        "description": "The practical assessment section remains unchanged, but the language may have been refined for clarity."
+      },
+      {
+        "topic_name": "NOTES FOR QUALITATIVE ANALYSIS",
+        "status": "modified",
+        "description": "This section remains consistent with the previous syllabus, but there may be minor adjustments in wording."
+      },
+      {
+        "topic_name": "MATHEMATICAL REQUIREMENTS",
+        "status": "modified",
+        "description": "The mathematical requirements remain unchanged, but there may be minor adjustments in wording for clarity."
+      },
+      {
+        "topic_name": "GLOSSARY OF TERMS USED IN CHEMISTRY PAPERS",
+        "status": "modified",
+        "description": "The glossary remains largely the same, but there may be minor adjustments in wording for clarity."
+      },
+      {
+        "topic_name": "SPECIAL NOTE",
+        "status": "modified",
+        "description": "The special note section remains consistent with the previous syllabus, but there may be minor adjustments in wording."
+      }
+    ]
+  }
+}
