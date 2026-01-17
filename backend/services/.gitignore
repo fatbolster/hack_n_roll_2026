@@ -2,10 +2,6 @@
 
 # dependencies
 /node_modules
-<<<<<<< HEAD
-=======
-node_modules/
->>>>>>> d20a3e4579424c8677aeaa38f67bea684ffd7478
 /.pnp
 .pnp.*
 .yarn/*

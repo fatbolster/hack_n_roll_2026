@@ -1,0 +1,20 @@
+[
+    {
+        "topic_name": "Scientific knowledge is reliable and durable, yet open to change in the light of new evidence",
+        "question": "Describe how new scientific evidence can lead to changes in established scientific theories. Provide one specific example to support your answer.",
+        "marks": 5,
+        "answer_key": "1 mark for explaining that scientific theories are subject to change; 1 mark for mentioning that new evidence can challenge existing theories; 1 mark for the reliability and durability of established scientific knowledge; 2 marks for providing a specific example (e.g., the transition from Newtonian physics to Einstein's theory of relativity, or changes in health guidelines based on new research)."
+    },
+    {
+        "topic_name": "Kinetic Particle Theory",
+        "question": "Describe the arrangement and movement of particles in the solid, liquid, and gas states of matter. Include in your answer how these properties relate to the kinetic energy of the particles.",
+        "marks": 5,
+        "answer_key": "1 mark for describing the arrangement of particles in solids (closely packed in a fixed position). 1 mark for describing movement in solids (vibrating in fixed positions). 1 mark for describing arrangement in liquids (closely packed but able to move past each other). 1 mark for describing movement in liquids (flowing and taking the shape of the container). 1 mark for describing the arrangement in gases (far apart and random). 1 mark for describing movement in gases (high energy, moving freely and rapidly). 1 mark for linking particle movement to kinetic energy (particles in gases have higher kinetic energy than those in solids)."
+    },
+    {
+        "topic_name": "Ionic Bonding",
+        "question": "Sodium (Na) and chlorine (Cl) react to form sodium chloride (NaCl). Describe the process of ionic bonding that occurs between sodium and chlorine atoms, including the transfer of electrons and resulting ion charges.",
+        "marks": 5,
+        "answer_key": "1 mark for stating that sodium donates one electron to become Na+; 1 mark for stating that chlorine accepts one electron to become Cl-; 1 mark for describing the formation of ions; 1 mark for mentioning that the oppositely charged ions attract each other; 1 mark for correctly stating that the resulting compound is sodium chloride (NaCl)."
+    }
+]

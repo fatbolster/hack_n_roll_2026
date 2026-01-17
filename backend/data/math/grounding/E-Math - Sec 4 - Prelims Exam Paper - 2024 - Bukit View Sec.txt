@@ -1,0 +1,7011 @@
+ 
+ 
+BUKIT VIEW SECONDARY SCHOOL 
+Secondary Four Express/Five Normal (Academic) 
+Preliminary Examination 2024 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CANDIDATE 
+NAME 
+ 
+ 
+ 
+ 
+ 
+CLASS 
+ 
+ 
+REGISTER 
+NUMBER 
+ 
+ 
+ 
+ 
+ 
+Mathematics  
+ 
+4052/01  
+Paper 1 
+ 
+19 August 2024 
+ 
+ 
+2 hours 15 minutes 
+Candidates answer on the Question Paper. 
+ 
+ 
+ 
+READ THESE INSTRUCTIONS FIRST 
+ 
+Write your name, register number and class in the spaces provided on top of this cover page.  
+Write in dark blue or black pen. 
+You may use an HB pencil for any diagrams or graphs. 
+Do not use staples, paper clips, highlighters, glue or correction fluid. 
+ 
+Answer all questions. 
+If working is needed for any question it must be shown with the answer. 
+Omission of essential working will result in loss of marks. 
+The use of an approved scientific calculator is expected, where appropriate. 
+If the degree of accuracy is not specified in the question, and if the answer is not exact, give the answer 
+to three significant figures. Give answers in degrees to one decimal place. 
+For , use either your calculator value or 3.142, unless the question requires the answer in terms of 
+. 
+ 
+At the end of the examination, fasten all your work securely together. 
+The number of marks is given in brackets [  ] at the end of each question or part question. 
+The total of the marks for this paper is 90. 
+ 
+ 
+ 
+ 
+ 
+ 
+Marks 
+ 
+ 
+ 
+ 
+90 
+ 
+ 
+ 
+ 
+Setter: 
+Mrs Irni Prasad 
+Parents’ Signature: 
+ 
+ 
+This question paper consists of 20 printed pages. 
+ 
+BUKIT VIEW SECONDARY SCHOOL BUKIT VIEW SECONDARY SCHOOL BUKIT VIEW SECONDARY SCHOOL BUKIT VIEW SECONDARY SCHOOL BUKIT VIEW SECONDARY SCHOOL BUKIT VIEW SECONDARY SCHOOL BUKIT VIEW SECONDARY SCHOOL BUKIT VIEW SECONDARY SCHOOL 
+BUKIT VIEW SECONDARY SCHOOL BUKIT VIEW SECONDARY SCHOOL BUKIT VIEW SECONDARY SCHOOL BUKIT VIEW SECONDARY SCHOOL BUKIT VIEW SECONDARY SCHOOL BUKIT VIEW SECONDARY SCHOOL BUKIT VIEW SECONDARY SCHOOL BUKIT VIEW SECONDARY SCHOOL 
+BUKIT VIEW SECONDARY SCHOOL BUKIT VIEW SECONDARY SCHOOL BUKIT VIEW SECONDARY SCHOOL BUKIT VIEW SECONDARY SCHOOL BUKIT VIEW SECONDARY SCHOOL BUKIT VIEW SECONDARY SCHOOL BUKIT VIEW SECONDARY SCHOOL BUKIT VIEW SECONDARY SCHOOL 
+BUKIT VIEW SECONDARY SCHOOL BUKIT VIEW SECONDARY SCHOOL BUKIT VIEW SECONDARY SCHOOL BUKIT VIEW SECONDARY SCHOOL BUKIT VIEW SECONDARY SCHOOL BUKIT VIEW SECONDARY SCHOOL BUKIT VIEW SECONDARY SCHOOL BUKIT VIEW SECONDARY SCHOOL 
+BUKIT VIEW SECONDARY SCHOOL BUKIT VIEW SECONDARY SCHOOL BUKIT VIEW SECONDARY SCHOOL BUKIT VIEW SECONDARY SCHOOL BUKIT VIEW SECONDARY SCHOOL BUKIT VIEW SECONDARY SCHOOL BUKIT VIEW SECONDARY SCHOOL BUKIT VIEW SECONDARY SCHOOL 
+2 
+ 
+Mathematical Formulae 
+ 
+ 
+ 
+Compound interest 
+ 
+ 
+Total amount = 
+1
+100
+n
+r
+P
+
++
+
+
+
+
+ 
+ 
+ 
+Mensuration 
+ 
+ 
+Curved surface area of a cone =
+rl
+
+ 
+ 
+ 
+ 
+Surface area of a sphere = 
+2
+4 r
+
+ 
+ 
+ 
+ 
+Volume of a cone = 
+2
+1
+3
+r h
+
+ 
+ 
+ 
+ 
+Volume of a sphere =
+3
+4
+3
+r
+
+ 
+ 
+ 
+ 
+Area of triangle ABC = 1
+sin
+2 ab
+C  
+ 
+ 
+ 
+Arc length = r, where is in radians  
+ 
+ 
+ 
+Sector area =
+
+2
+2
+1r
+, where is in radians 
+ 
+ 
+Trigonometry 
+ 
+ 
+sin
+sin
+sin
+a
+b
+c
+A
+B
+C
+=
+=
+ 
+ 
+ 
+ 
+2
+2
+2 2
+cos
+a
+b
+c
+bc
+A
+=
++
+−
+ 
+ 
+ 
+Statistics 
+ 
+ 
+Mean = 
+
+f
+fx  
+ 
+ 
+ 
+Standard deviation =
+2
+2
+
+
+
+
+
+
+−
+
+
+
+f
+fx
+f
+fx
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+ 
+Answer all the questions. 
+1. Evaluate 
+3
+4.5
+23.4 8.17
+
+, leaving your answer correct to 4 significant figures. 
+ 
+Answer ……………….…………..  [1] 
+---------------------------------------------------------------------------------------------------------------- 
+ 
+2. Express the ratio 2
+13 kg : 450 g : 300 g in its simplest form. 
+ 
+ 
+ 
+ 
+ 
+Answer ……… : ..……. : ………  [2] 
+---------------------------------------------------------------------------------------------------------------- 
+ 
+3. The Mathematics grades of students in Class A and Class B are summarised on accurate 
+pie charts shown below.  
+ 
+ 
+ 
+ 
+ 
+ 
+For each statement, state whether you agree or disagree and explain your reason. 
+ 
+ 
+Statement 
+Agree / Disagree 
+Reason 
+(a) More students in Class A 
+failed Mathematics 
+compared to Class B. 
+ 
+ 
+(b) The percentage of 
+students who achieved 
+A1-A2 are the same for 
+both classes. 
+ 
+ 
+ 
+[2] 
+A1-A2
+B3-C6
+D7-F9
+Class B
+A1-A2
+B3-C6
+D7-F9
+Class A
+4 
+ 
+4. A regular polygon has n sides. The size of each interior angle is 5 times the size of each 
+exterior angle.   
+ 
+(a) Calculate the value of each exterior angle. 
+ 
+ 
+ 
+Answer ………….………….. [1] 
+(b) State the value of n. 
+ 
+ 
+ 
+Answer n = ……….…………. [1] 
+---------------------------------------------------------------------------------------------------------------- 
+ 
+5. The radius, r, of an object is directly proportional to the square root of its surface area, A. 
+(i) 
+Sketch the relationship between r and 
+A  on the space below. 
+r 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A  
+[1] 
+ 
+(ii) 
+The surface area of the object is 1.21 cm2 when the radius is 0.44 cm. 
+Find the surface area of the object when the radius is 1.2 cm. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer ………….……….. cm2 [2] 
+---------------------------------------------------------------------------------------------------------------- 
+5 
+ 
+6. (a)  Expand and simplify 
+2
+(4
+1)
+2
+x −
++
+. 
+ 
+ 
+ 
+ 
+Answer ………….………….. [1] 
+ 
+(b)  Hence, or otherwise, explain if 
+2
+(4
+1)
+2
+x −
++
+ is always odd, given that x is an integer. 
+ 
+ 
+ 
+Answer : ……………………………………………………………………………… 
+ 
+ 
+………………………………………………………………………………………... 
+ 
+ 
+……………………………………………………………………………….…… [2] 
+ 
+---------------------------------------------------------------------------------------------------------------- 
+ 
+7. (a) Write down the set represented by the shaded region. 
+ 
+ 
+ 
+Answer  ……………………..…………. [1] 
+ 
+ 
+(b) It is given that 𝜉= { x : x is an integer}, A = {x : 
+9
+x 
+} and B ={2, 4, 6, 8}. 
+ 
+ 
+State and explain whether the following mathematical statements are true or false. 
+ 
+ 
+(i) 
+𝐵⊂𝐴. 
+ 
+This is …………….. because …………………………………………………. 
+ 
+……………………………………………………..……………………….. [1] 
+ 
+(ii) 
+𝐵∈𝐴. 
+ 
+This is …………….. because …………………………………………………. 
+ 
+……………………………………………………..……………………….. [1] 
+6 
+ 
+8. Express 
+2
+2
+2
+15
+3
+9
+d
+e
+d
+e
+d
+e
+−
+−
++
+−
+ as a single fraction in its simplest form. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer ……………….…………..  [3] 
+---------------------------------------------------------------------------------------------------------------- 
+ 
+9. A plan of a garden is drawn to a scale 1 : 20. 
+ 
+(a) Calculate the length of the line on the plan, in cm, which represents 13 m long. 
+ 
+ 
+ 
+ 
+Answer ………….………….. cm [1] 
+(b) The actual area of a pond in the garden is p m2.  
+Show, with clear working, that the area of the pond represented on the map  
+is 25p cm2.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ [2] 
+---------------------------------------------------------------------------------------------------------------- 
+7 
+ 
+10.  
+ x is 35% of y.  
+ 
+2
+45
+x
+y
++
+=
+. 
+ 
+ 
+Find the value of x and of y. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer x = ………… , y = .………… [3] 
+---------------------------------------------------------------------------------------------------------------- 
+ 
+11. The difference between simple interest and compound interest for a period of 3 years at 
+5% per annum is $366.  
+ 
+Find the principal amount. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer $………….………….. [3] 
+---------------------------------------------------------------------------------------------------------------- 
+8 
+ 
+12. The following data shows the masses of 11 parcels in kg. 
+ 
+1.8 
+2.1 
+2.4 
+2.5 
+2.6 
+3.2 
+3.3 
+3.5 
+3.8 
+4.0 
+4.9 
+ 
+ 
+(a) Calculate the mean mass. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer ……………….………… kg  [1] 
+(b) Find the median mass. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer ……………….……… kg  [1] 
+ 
+(c) Two parcels (the 2.4 kg and the 4.9kg) were removed from the delivery van.  
+Explain why the median mass remains unchanged. 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  …………………………………………………………...……………………. 
+ 
+…………………………………………………………………………………………. 
+ 
+……………………………………………………………………………………… [1] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+9 
+ 
+13. (a) By completing the square, find the coordinates of the turning point of the curve  
+ 
+y = x2 + 4x + 7. 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer (……… , .…..…) [2] 
+ 
+ 
+(b) Hence, sketch the graph of y = x2 + 4x + 7 in the space below, showing your  
+y-intercept and turning point clearly. 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+y 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+x 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ [2] 
+---------------------------------------------------------------------------------------------------------------- 
+ 
+ 
+ 
+ 
+ 
+ 
+10 
+ 
+14. On the grid, OA = a and OB =  b. 
+ 
+ 
+(a)  Mark clearly on the grid in the answer space, 
+ 
+ 
+ 
+(i) the point C such that OC =  2b +  a 
+ 
+ 
+(ii) the point D such thatOD =  1
+2
+b − 3a. 
+ 
+ 
+ 
+Answer 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2] 
+ 
+(b) Find CD  in terms of a and b. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer CD   = …………….…………..  [2] 
+ 
+---------------------------------------------------------------------------------------------------------------- 
+ 
+ 
+ 
+ 
+a 
+b 
+A 
+B 
+O 
+11 
+ 
+15. Simplify 
+3
+3
+2
+2
+1
+9p q
+p
+−
+−
+−
+
+
+
+
+
+
+, leaving your answer in positive index. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer ………….…………….. [3] 
+---------------------------------------------------------------------------------------------------------------- 
+16. Danny wants to purchase ingredients from Malaysia. 
+ 
+He needs to pay the Malaysia supplier MYR 2000 for the ingredients.  
+The transportation fees for the ingredients is MYR 60. 
+For importing goods into Singapore, a 9% Goods and Services Tax (GST) is payable on 
+the cost of goods and transportation. 
+ 
+The exchange rate between Singapore dollars ($) and Malaysian Ringgit (MYR) is 
+$1 = MYR 3.46. 
+ 
+Calculate the amount of money, in Singapore dollars, that Danny has to pay to import the 
+ingredients.    
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer $……………………….. [3] 
+---------------------------------------------------------------------------------------------------------------- 
+12 
+ 
+17.  
+When written as a product of its prime factors,  
+ 
+2n
+b
+X
+a
+=
+
+. 
+ 
+The cube root of X is 14. 
+ 
+(a) 
+Find the values of n, a, and b.  
+ 
+ 
+ 
+ 
+ 
+ 
+Answer n = ………… , a = ….……… , b = …….….. [2] 
+ 
+(b) 
+Find the largest possible number that will divide X and 756 exactly.  
+ 
+ 
+ 
+ 
+ 
+ 
+Answer ……………………….. [2] 
+---------------------------------------------------------------------------------------------------------------- 
+ 
+18. On a certain day, Barry took the bus to school. 
+The bus travels at an average speed of 12.5 m/s 
+ 
+(a) Convert 12.5m/s to km/h. 
+ 
+ 
+ 
+ 
+ 
+Answer ………….…..……….. km/h [1] 
+ 
+(b) Jeff and Barry travel the same distance to school. 
+Jeff walked at an average speed of 5 km/h and took 20 minutes longer than Barry.  
+Find the distance each of them travelled to school. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer ………..….………….. km [2] 
+---------------------------------------------------------------------------------------------------------------- 
+13 
+ 
+19. A straight line meets the curve 
+2
+2
+3
+y
+x
+x
+=
+−
+−at two points A (–3, k) and B (4, 5). 
+ 
+(i) 
+Show that k = 12.  
+ 
+Answer :  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[1] 
+(ii) 
+Find the equation of the straight line. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer ………….………….. [2] 
+ 
+(iii) 
+Find the length of the line segment AB.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer ………….……… units [1] 
+---------------------------------------------------------------------------------------------------------------- 
+ 
+ 
+ 
+ 
+ 
+14 
+ 
+ 
+20. In a sequence, the same number is subtracted each time to obtain the next term. 
+ 
+The first four terms of the sequence are as follows: 
+ 
+54      x      y      33 
+ 
+ 
+(a) Find the value of x and y. 
+ 
+ 
+ 
+Answer x = …………,  y =………….. [1] 
+ 
+(b) Write down an expression for the nth term of this sequence. 
+ 
+ 
+ 
+Answer ……………………….. [1] 
+ 
+(c) Which term in the sequence will give the first negative number? 
+ 
+ 
+ 
+ 
+Answer …………..… term [1] 
+ 
+(d) Explain why −260 is not a term of this sequence. 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  …………………………………………………………...……………………. 
+ 
+……………………………………………………………………….…………………. 
+ 
+……………………………………………………………………………………… [1] 
+ 
+15 
+ 
+21. The diagram shows the speed-time graph of a van. The van decelerates uniformly until it 
+reaches 0.7 km/min. It then continues at this constant speed before accelerating its speed 
+uniformly at 0.1 km/min2. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) Find the speed of the van at 10 05. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer ………………… km/min [2]  
+(b) Find time at k. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer k = ……..………………… [2]  
+ 
+ 
+ 
+Time  
+10 35 
+ 
+2.0   
+0.7  
+1.4   
+    k 
+10 20 
+10 00 
+Speed in km/min 
+16 
+ 
+22.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The shape of a closed container can be modelled by stacking a smaller cylinder, A, on 
+top of a larger cylinder, B. Cylinder A and Cylinder B are geometrically similar.   
+ 
+The radii of Cylinder A and Cylinder B are r cm and 3r cm respectively.  
+ 
+(a) It takes 98 seconds to fill the container to the brim. 
+Calculate the time taken to fill Cylinder B. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer …….…………..……… s [2]  
+ 
+(b) Given that the height of cylinder A is h cm, find an expression for the total surface 
+area of the container in terms of r, h and . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer ……..……………… cm2 [3]  
+r 
+3r 
+A 
+B 
+17 
+ 
+23. Mdm Chng has six $1 coins and eight 50 cents coins in her purse.  
+She takes the coins out of her purse, at random, one after the other, without replacement. 
+ 
+The probability tree diagram below shows the possible outcomes and their probabilities. 
+ 
+                                              First coin                            Second coin 
+ 
+                                                                 (          )                  $1 
+                                                   $1                                         
+              (         )                                       (          )                  50¢ 
+ 
+              (         )                                        (         )                  $1 
+                                                  50¢ 
+                                                                  (         )                 50¢  
+ 
+(i) Complete the probability tree diagram. 
+   
+[2] 
+(ii) Find the probability that the total value of the two coins taken out is $1.50. 
+ 
+ 
+ 
+ 
+Answer  ………….………… [2] 
+ 
+(iii) Mdm Chng took a third coin out.  
+ 
+ Find the probability that the total sum of the three coins taken out is $2. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  ………….………… [2] 
+ 
+ 
+ 
+18 
+ 
+24. In the diagram, A, B, C, D, are points on a circle. 
+ 
+AC and BD intersect at F. Angle CBF
+x
+= and angle 
+35
+BAC =
+. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) 
+Find, in terms of x, angle BCD. Give reason(s) clearly. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer ……..…………………° [2] 
+ 
+(b) 
+ Given that angle ADB = 55, show that AC is a diameter of the circle. 
+ 
+ Answer : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2] 
+B 
+C 
+xº 
+35º 
+D 
+A 
+F 
+19 
+ 
+25. In Shop P, a tub of ice cream cost $18.70, a carton of milk cost $8.60 and a box of 
+chocolates cost $10. 
+In Shop G, a tub of ice cream cost $17.50, a carton of milk cost $7.40 and a box of 
+chocolates cost $13. 
+ 
+The items are exactly the same in both shops. 
+The information above can be represented by the Matrix A = 
+18.7
+17.5
+8.6
+7.4
+10
+13
+
+
+
+
+
+
+
+
+
+
+. 
+ 
+(a) Tina would like to buy 5 tubs of ice cream, 3 cartons of milk and 1 box of chocolates. 
+Mike would like to buy 3 tubs of ice cream, 4 cartons of milk and x boxes of 
+chocolates. 
+ 
+Represent this information in a 2 × 3 matrix B. 
+Answer  B = 
+
+
+
+
+
+
+
+
+
+
+  [1] 
+(b) Find, in terms of x, the matrix C = BA. 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  C = 
+
+
+
+
+
+
+
+
+
+
+  [2] 
+ 
+(c) State what the elements in matrix C represents. 
+ 
+ 
+Answer ………………………………………………………………………………… 
+ 
+………………………………………………………………………………………[1] 
+ 
+(d) Determine if it is possible for Mike to spend the same amount regardless of which 
+shop he buys the items from. Justify your answer with calculations.  
+  
+ 
+ 
+ 
+ 
+ 
+Answer ………………………………………………………………………………… 
+ 
+………………………………………………………………………………………[2] 
+20 
+ 
+26. In the diagram below, the line segment AB has been drawn.   
+ 
+(a) Construct a triangle ABC  such that 
+9
+=
+BC
+cm and 
+5.5
+=
+AC
+cm.  
+ 
+[1] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) Measure 
+CAB
+
+. 
+Answer ……..…………………° [1] 
+ 
+(c) Construct the perpendicular bisector of AB.  
+ 
+ 
+ 
+ 
+[1] 
+ 
+(d) Construct the angle bisector of 
+ABC
+
+.  
+ 
+ 
+ 
+ 
+ 
+[1] 
+ 
+(e) S is a point on BC such that AS is the shortest distance from A to BC.  
+Measure the line segment AS. 
+ 
+Answer   ……………...…… cm [1] 
+------------------------------------------------------------------------------------------------------------ 
+End of Paper 
+A 
+B 
+ 
+ 
+ 
+BUKIT VIEW SECONDARY SCHOOL 
+Secondary Four Express/Five Normal (Academic) 
+Preliminary Examination 2024 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CANDIDATE 
+NAME 
+ 
+ 
+ 
+ 
+ 
+CLASS 
+ 
+ 
+REGISTER 
+NUMBER 
+ 
+ 
+ 
+ 
+ 
+Mathematics  
+ 
+4052/02  
+Paper 2 
+ 
+20 August 2024 
+ 
+ 
+2 hours 15 minutes 
+Candidates answer on the Question Paper. 
+ 
+ 
+ 
+READ THESE INSTRUCTIONS FIRST 
+ 
+Write your name, register number and class in the spaces provided on top of this cover page.  
+Write in dark blue or black pen. 
+You may use an HB pencil for any diagrams or graphs. 
+Do not use staples, paper clips, highlighters, glue or correction fluid. 
+ 
+Answer all questions. 
+If working is needed for any question it must be shown with the answer. 
+Omission of essential working will result in loss of marks. 
+The use of an approved scientific calculator is expected, where appropriate. 
+If the degree of accuracy is not specified in the question, and if the answer is not exact, give the answer 
+to three significant figures. Give answers in degrees to one decimal place. 
+For , use either your calculator value or 3.142, unless the question requires the answer in terms of 
+. 
+ 
+At the end of the examination, fasten all your work securely together. 
+The number of marks is given in brackets [  ] at the end of each question or part question. 
+The total of the marks for this paper is 90. 
+ 
+ 
+ 
+ 
+ 
+ 
+Marks 
+ 
+ 
+ 
+ 
+90 
+ 
+ 
+ 
+ 
+Setter: 
+Mrs Irni Prasad 
+Parents’ Signature: 
+ 
+ 
+This question paper consists of 20 printed pages and 2 blank pages 
+ 
+BUKIT VIEW SECONDARY SCHOOL BUKIT VIEW SECONDARY SCHOOL BUKIT VIEW SECONDARY SCHOOL BUKIT VIEW SECONDARY SCHOOL BUKIT VIEW SECONDARY SCHOOL BUKIT VIEW SECONDARY SCHOOL BUKIT VIEW SECONDARY SCHOOL BUKIT VIEW SECONDARY SCHOOL 
+BUKIT VIEW SECONDARY SCHOOL BUKIT VIEW SECONDARY SCHOOL BUKIT VIEW SECONDARY SCHOOL BUKIT VIEW SECONDARY SCHOOL BUKIT VIEW SECONDARY SCHOOL BUKIT VIEW SECONDARY SCHOOL BUKIT VIEW SECONDARY SCHOOL BUKIT VIEW SECONDARY SCHOOL 
+BUKIT VIEW SECONDARY SCHOOL BUKIT VIEW SECONDARY SCHOOL BUKIT VIEW SECONDARY SCHOOL BUKIT VIEW SECONDARY SCHOOL BUKIT VIEW SECONDARY SCHOOL BUKIT VIEW SECONDARY SCHOOL BUKIT VIEW SECONDARY SCHOOL BUKIT VIEW SECONDARY SCHOOL 
+BUKIT VIEW SECONDARY SCHOOL BUKIT VIEW SECONDARY SCHOOL BUKIT VIEW SECONDARY SCHOOL BUKIT VIEW SECONDARY SCHOOL BUKIT VIEW SECONDARY SCHOOL BUKIT VIEW SECONDARY SCHOOL BUKIT VIEW SECONDARY SCHOOL BUKIT VIEW SECONDARY SCHOOL 
+BUKIT VIEW SECONDARY SCHOOL BUKIT VIEW SECONDARY SCHOOL BUKIT VIEW SECONDARY SCHOOL BUKIT VIEW SECONDARY SCHOOL BUKIT VIEW SECONDARY SCHOOL BUKIT VIEW SECONDARY SCHOOL BUKIT VIEW SECONDARY SCHOOL BUKIT VIEW SECONDARY SCHOOL 
+2 
+ 
+ 
+Mathematical Formulae 
+ 
+ 
+ 
+Compound interest 
+ 
+ 
+Total amount = 
+1
+100
+n
+r
+P
+
++
+
+
+
+
+ 
+ 
+ 
+Mensuration 
+ 
+ 
+Curved surface area of a cone =
+rl
+
+ 
+ 
+ 
+ 
+Surface area of a sphere = 
+2
+4 r
+
+ 
+ 
+ 
+ 
+Volume of a cone = 
+2
+1
+3
+r h
+
+ 
+ 
+ 
+ 
+Volume of a sphere =
+3
+4
+3
+r
+
+ 
+ 
+ 
+ 
+Area of triangle ABC = 1
+sin
+2 ab
+C  
+ 
+ 
+ 
+Arc length = r, where is in radians  
+ 
+ 
+ 
+Sector area =
+
+2
+2
+1r
+, where is in radians 
+ 
+ 
+Trigonometry 
+ 
+ 
+sin
+sin
+sin
+a
+b
+c
+A
+B
+C
+=
+=
+ 
+ 
+ 
+ 
+2
+2
+2 2
+cos
+a
+b
+c
+bc
+A
+=
++
+−
+ 
+ 
+ 
+Statistics 
+ 
+ 
+Mean = 
+
+f
+fx  
+ 
+ 
+ 
+Standard deviation =
+2
+2
+
+
+
+
+
+
+−
+
+
+
+f
+fx
+f
+fx
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+ 
+ 
+Answer all the questions. 
+1. (a) Factorise completely 
+2
+4
+4
+x
+x
+xy
+y
+−
+−
++
+. 
+ 
+ 
+ 
+ 
+ 
+Answer ………………………… [2] 
+ 
+(b) Given that 
+1
+1
+1
+2
+4
+4
+8
+2x
+−
++
+=
+
+, find the exact value of x. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer x = …………………… [3] 
+(c) Given that 
+1
+3
+1
+2
+−
++
+= h
+h
+k
+, express h in terms of k. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer h = …………………… [2] 
+(d) Solve 
+4
+7
+3
+2
+1
+2
+3
+2
++
+
++
+
+x
+x
+x
+. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer ………………………… [3] 
+4 
+ 
+ 
+2. The diagram shows three points, A, B and C on the ground. 
+AB = 174 m and BC = 195 m. 
+The bearing of A from B is 238°. The bearing of C from A is 108°. 
+A point D lies on the path AC such that it is equidistant to A and to B 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) 
+Show that angle BAC = 50. 
+ 
+Answer :  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ [3] 
+ 
+(b) 
+Find the angle BCA.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer ………….………….. [2] 
+North 
+A 
+B 
+C 
+174 
+195 
+D 
+5 
+ 
+ 
+ 
+(c) 
+Find the area of triangle ABC. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer ………….………… m2 [3] 
+ 
+(d) 
+Find distance from C to D. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer ………….………… m [4] 
+---------------------------------------------------------------------------------------------------------------- 
+6 
+ 
+ 
+3. The variables x  and y  are connected by the equation 
+3
+4
+3
+2
+x
+y
+x
+=
+−
++ . 
+Some corresponding values of x  and y  are given in the table below. 
+ 
+ 
+. x
+. 
+. 3.5
+−
+. 
+. 3
+−
+. 
+. 2
+−
+.
+ 
+. 1
+−
+. 
+.0
+. 
+.1 . 
+.2
+. 
+.2 .5. 
+.3
+. 
+ 
+. y
+. 
+ 
+4.4
+−
+ 
+.1.5
+. 
+. p
+. 
+.6.5
+. 
+. 3
+. 
+. 0.5
+−
+. 
+. 1
+−
+. 
+0.8 
+.4.5
+. 
+ 
+(a) Find the value of p . 
+ 
+ 
+Answer p = ………………… [1] 
+ 
+(b) On the graph paper found in the next page, draw the graph of 
+3
+4
+3
+2
+x
+y
+x
+=
+−
++  for 
+3
+3.5
+x
+−
+
+.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[3] 
+ 
+ 
+(c) By drawing a tangent, find the gradient of the curve at x = 2.5. 
+ 
+ 
+ 
+ 
+Answer  …………………… [2] 
+ 
+(d) (i) On the same axes, draw the line 
+1
+y
+x
+= −− for 
+3
+3.5
+x
+−
+
+
+. 
+ 
+ 
+Answer               [on graph]  [1] 
+ 
+(ii) Write down the x-coordinate of the point where this line intersects the curve. 
+ 
+ 
+ 
+Answer x = ………………… [1] 
+ 
+(e) State the minimum value of 
+3
+4
+3
+2
+x
+y
+x
+=
+−
++  for 0
+3
+x
+
+
+. 
+ 
+Answer  ………….………… [1] 
+7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(f) The equation 
+3
+4
+5
+0
+2
+x
+x
+−
++
+=
+ has only one solution. 
+Explain how this can be seen from your graph. 
+ 
+ 
+Answer : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2] 
+8 
+6 
+–4                 –3                    –2                   –1                0                      1                      2                      3                                 
+ x 
+y 
+–2 
+4 
+–4 
+2 
+8 
+ 
+ 
+4. The diagram shows a circle with centre O.  
+ABCDE is a straight line. AC = CD and line OD meets the circle at F.  
+It is given that OB = 7.5 cm, CD = 12 cm and OBD = 90. 
+ 
+ 
+ 
+(a) Find the length of OD. 
+ 
+ 
+ 
+Answer ………….………… cm [1] 
+ 
+(b) Without the use of a calculator, find the value of cos
+ODE
+
+ in its simplest form. 
+ 
+ 
+Answer ………….…………… [1] 
+ 
+(c) Show that angle COD is approximately 0.501 rad. 
+ 
+Answer :  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[3] 
+A 
+B 
+C 
+D 
+E 
+O 
+7.5 cm 
+12 cm 
+F 
+9 
+ 
+ 
+(d) Find the perimeter of shaded region. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer ………………………. cm [3] 
+---------------------------------------------------------------------------------------------------------------- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10 
+ 
+ 
+5. A lead technician working with his trainee, can repair a machine in 4.2 hours together. 
+If each of them worked alone, the lead technician would take x hours, while the trainee 
+will need 3.5 hours more. 
+ 
+(a) If each of them worked alone, find in terms of x, 
+ 
+(i) 
+the fraction of work done by the lead technician in one hour, 
+ 
+ 
+ 
+Answer  ………….………… [1] 
+ 
+(ii) 
+the fraction of work done by the trainee in one hour. 
+ 
+ 
+ 
+ 
+ 
+Answer  ………….………… [1] 
+ 
+(b) Form an equation and show that it reduces to 
+2
+10
+49
+147
+0
+x
+x
+−
+−
+=
+. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[3] 
+11 
+ 
+ 
+(c) Solve 
+2
+10
+49
+147
+0
+x
+x
+−
+−
+=
+. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  x = …………. or x = ….……… [3] 
+ 
+(d) Hence, find the number of hours needed to repair the machine by two trainees. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  ………….…… h [1] 
+---------------------------------------------------------------------------------------------------------------- 
+ 
+ 
+ 
+ 
+12 
+ 
+ 
+6. A gold pendant is made by joining a hemisphere and a cone.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) The radius of the hemisphere is 6 mm.  
+The volume of the pendant is 0.2 cm3.  
+ 
+ 
+Find x, the height of the pendant in mm. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  x =………….…...…  [4] 
+x mm 
+13 
+ 
+ 
+(b) The mass of the pendant is 1.8 grams. 
+The gold pendant is priced at $101.60 per gram.  
+ 
+ 
+(i) 
+Mrs Tan bought it at a discount and paid $528.60.  
+Calculate the percentage discount given, correct to the nearest whole number. 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  …….…...….…… % [3] 
+ 
+(ii) 
+A week later, the shop removed the discount offer. 
+Mr Pang bought the pendant. He also bought a gold chain priced at $810. 
+ 
+He paid a downpayment of $200 and paid the balance with a fixed interest rate 
+of 5.3% per annum for a period of 4 months. 
+ 
+Calculate the amount of each monthly instalment, correct to the nearest 10 
+cents. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  $ …………...….……… [4] 
+---------------------------------------------------------------------------------------------------------------- 
+14 
+ 
+ 
+7. A class of 40 Secondary Four students were asked how much time they have spent on     
+social media in the last week. 
+The results are shown in the table. 
+ 
+Time spent 
+(x hours) 
+0 < x  10 
+10 < x  20 
+20 < x  30 
+30 < x  40 
+40 < x  50 
+Frequency 
+p 
+6 
+12 
+q 
+3 
+ 
+ 
+      The lower quartile of the time spent on social media was 20 hours. 
+ 
+(i) 
+Show that p = 4. 
+ 
+ 
+ 
+ [2] 
+(ii) 
+Hence state the value of q. 
+ 
+Answer  q = …….………… [1] 
+ 
+(iii) 
+Estimate the mean number of hours spent by the students. 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  ………….………… [2] 
+ 
+(iv) 
+Estimate the standard deviation. 
+ 
+ 
+ 
+Answer  ………….………… [1] 
+ 
+15 
+ 
+ 
+A class of 40 Secondary Three students were asked how much time (in hours) they have 
+spent on social media in the last week. 
+The results are summarised in the table. 
+ 
+ 
+ 
+ 
+(v) 
+Make two comparisons between the number of hours spent on social media by 
+the Secondary Three students and by the Secondary Four students. Use the data 
+to support your answers. 
+ 
+Answer  
+ 
+………………………………………………………………………………………. 
+………………………………………………………………………………………. 
+………………………………………………………………………………………. 
+………………………………………………………………………………………. 
+…………………………………………………………………………………… [2] 
+ 
+---------------------------------------------------------------------------------------------------------------- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mean 
+15.8 
+Standard Deviation 
+10.9 
+16 
+ 
+ 
+ 
+8.   
+ 
+ 
+ 
+ 
+ 
+In the diagram, AT is a tangent to the circle, centre O. 
+A line through A meets the circle at B and C.  
+It is given that angle 
+64 .
+TOB =
+ 
+ 
+(a) Find each of the following angles, stating your reason(s) clearly. 
+ 
+ 
+(i) 
+BCT = …………….. . 
+ 
+ 
+Reason : ………………………………………………………….………. [1] 
+ 
+ 
+(ii) 
+BTO = …………….. . 
+ 
+ 
+Reason : …………………………………………………………….……. [1] 
+ 
+ 
+(b) Hence or otherwise, show that 
+ATB
+ 
+triangle
+ and 
+ACT
+ 
+triangle
+ are similar.  
+ 
+Answer :  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[3] 
+A 
+B 
+C 
+T 
+O 
+64 
+17 
+ 
+ 
+(c) Given that 
+4.5 cm
+AB =
+ and 
+3.5 cm,
+BC =
+ find the length of AT. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  …………………… cm [2] 
+ 
+(d) Find the value of Area 
+Area 
+ABT
+BCT
+
+
+. 
+ 
+ 
+ 
+ 
+Answer  ……………………… [1] 
+ 
+(e) Given that the radius of the circle is 1.8 cm, find the area of the shaded segment. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  ……………………… cm2 [3] 
+ 
+---------------------------------------------------------------------------------------------------------------- 
+ 
+18 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BLANK PAGE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+19 
+ 
+ 
+9. To achieve Singapore's Zero Waste Masterplan goal, the government aims to reduce 
+food waste by 30% by 2030.  
+ 
+The annual waste and recycling statistics from the National Environment Agency shows    
+the amount of food waste generated (in 1000 tonnes) in Singapore from 2019 to 2023. 
+ 
+ 
+ 
+[Source: NEA Website on Waste Statistics] 
+ 
+ 
+Year 
+Estimated Singapore Population 
+2022 
+5.64 million 
+2023 
+5.9 million 
+ 
+The National Environment Agency (NEA) reported that in 2022, Singapore generated  
+813 000 tonnes of food waste annually.  
+ 
+[1 Tonne = 1000 kg] 
+ 
+(a) Express 813 000 tonnes in kg, in standard form. 
+ 
+ 
+ 
+ 
+Answer : ………….……… kg [1] 
+600
+650
+700
+750
+800
+850
+2019
+2020
+2021
+2022
+2023
+Total Food Waste Generated ('000 tonnes)
+20 
+ 
+ 
+(b) Calculate the average mass, in kg, of food waste per person, per day, in 2022.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer : ………………… kg [2] 
+ 
+Mrs Kim’s household is made up of 5 persons altogether. 
+ 
+The table below shows the estimated average mass of food wastage (in kg) for the three 
+meals in her household in 2022. 
+ 
+Breakfast 
+Lunch 
+Dinner 
+0.25 
+0.9 
+1.25 
+ 
+ 
+ 
+(c) Calculate the average mass, in kg, of food waste per person in Mrs Kim’s household, 
+per day, in 2022.  
+ 
+ 
+ 
+ 
+ 
+ 
+Answer : ………………… kg [1] 
+ 
+According to NEA, a household of 5 persons can reduce food waste in these 4 ways.  
+ 
+Ways to reduce food waste 
+Estimated food waste reduction 
+Composting 
+4.9 kg per week 
+Utilising leftovers 
+175 g per day 
+Keeping track of expiry dates 
+0.8 kg per week 
+Proper storage 
+2.4 kg per month 
+ 
+In 2023, Mrs Kim encouraged her family to reduce their food waste by implementing the 
+methods listed above. However, Mrs Kim’s household does not have a food composting 
+machine. 
+21 
+ 
+ 
+(d) Determine if Mrs Kim’s household managed to reduce their food waste more  
+effectively than the national average mass. Provide your reasoning and calculations 
+clearly. 
+ 
+ 
+Working: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer : ……………………………………………………………………………….. 
+ 
+ 
+……………………………………………………………………………………… [6] 
+---------------------------------------------------------------------------------------------------------------- 
+End of Paper 
+22 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BLANK PAGE 
+ 
+ 
+Answer all the questions. 
+1. Evaluate 
+3
+4.5
+23.4 8.17
+
+, leaving your answer correct to 4 significant figures. 
+ 
+Answer ……………….…………..  [1] 
+---------------------------------------------------------------------------------------------------------------- 
+ 
+2. Express the ratio 2
+13 kg : 450 g : 300 g in its simplest form. 
+ 
+ 
+ 
+ 
+ 
+Answer ……… : ..……. : ………  [2] 
+---------------------------------------------------------------------------------------------------------------- 
+ 
+3. The Mathematics grades of students in Class A and Class B are summarised on accurate 
+pie charts shown below.  
+ 
+ 
+ 
+ 
+ 
+ 
+For each statement, state whether you agree or disagree and explain your reason. 
+ 
+ 
+Statement 
+Agree / Disagree 
+Reason 
+(a) More students in Class A 
+failed Mathematics 
+compared to Class B. 
+Disagree 
+We do not know the total 
+number of students in each 
+class.   ----- B1 
+(b) The percentage of 
+students who achieved 
+A1-A2 are the same for 
+both classes. 
+Agree 
+The proportion/percentage is 
+90
+1
+360
+4
+=
+ for A1-A2 for both 
+classes. ----- B1 
+ 
+[2] 
+A1-A2
+B3-C6
+D7-F9
+Class B
+2.306  ----- B1 
+5000
+3
+g  : 450 g : 300 g     ----- M1 (convert first number to g) 
+5000    :  1350    : 900 
+100  : 27  : 18     -------- A1 ( 
+S4E/5N EM Prelim 2024 Paper 1 Marking Scheme 
+A1-A2
+B3-C6
+D7-F9
+Class A
+2 
+ 
+4.  A regular polygon has n sides. The size of each interior angle is 5 times the size of each 
+exterior angle.   
+ 
+(a) Calculate the value of each exterior angle. 
+ 
+ 
+ 
+Answer ………….………….. [1] 
+(b) State the value of n. 
+ 
+ 
+ 
+Answer n = ……….…………. [1] 
+---------------------------------------------------------------------------------------------------------------- 
+ 
+5. The radius, r, of an object is directly proportional to the square root of its surface area, A. 
+(i) 
+Sketch the relationship between r and A on the space below. 
+r 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+------ B1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A  
+[1] 
+(ii) 
+The surface area of the object is 1.21 cm2 when the radius is 0.44 cm. 
+Find the surface area of the object when the radius is 1.2 cm. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer ………….………….. cm2 [2] 
+---------------------------------------------------------------------------------------------------------------- 
+5x + x = 180 
+       x =  30     ------- B1 
+360
+30
+n =
+= 12 ------- B1 
+r
+k
+A
+=
+  
+0.44
+1.21
+k
+=
+------- M1 
+0.4
+k =
+ 
+ 
+ 
+0.4
+r
+A
+=
+ 
+1.2
+0.4 A
+=
+ 
+3
+A
+=
+ 
+9
+A =
+cm2 
+------- A1 
+3 
+ 
+6. (a)  Expand and simplify 
+2
+(4
+1)
+2
+x −
++
+. 
+ 
+ 
+ 
+ 
+Answer ………….………….. [1] 
+ 
+(b)  Hence, or otherwise, explain if 
+2
+(4
+1)
+2
+x −
++
+ is always odd, given that x is an integer. 
+ 
+ 
+ 
+Answer : ……………………………………………………………………………… 
+ 
+ 
+………………………………………………………………………………………... 
+ 
+ 
+……………………………………………………………………………….…… [2] 
+ 
+---------------------------------------------------------------------------------------------------------------- 
+ 
+7. (a) Write down the set represented by the shaded region. 
+ 
+ 
+ 
+Answer  ……………………..…………. [1] 
+ 
+ 
+(b) It is given that 𝜉= { x : x is an integer}, A = {x : 
+9
+x 
+} and B {2, 4, 6, 8}. 
+ 
+ 
+State and explain whether the following mathematical statements are true or false. 
+ 
+ 
+(i) 
+𝐵⊂𝐴. 
+ 
+This is …………….. because …………………………………………………. 
+ 
+……………………………………………………..……………………….. [1] 
+ 
+(ii) 
+𝐵∈𝐴. 
+ 
+This is …………….. because …………………………………………………. 
+ 
+……………………………………………………..……………………….. [1] 
+2
+(4
+1)
+2
+x −
++
+ = 
+2
+16
+8
+1 2
+x
+x
+−
++ +
+ 
+ 
+         = 
+2
+16
+8
+3
+x
+x
+−
++
+  --- B1 
+16 and 18 are even numbers. Hence, 
+2
+16
+8
+x
+x
+−
+ will be an even number. ------ B1 
+ 
+Adding an odd number to an even number gives an odd number. 
+ 
+Therefore adding 3 to 
+2
+16
+8
+x
+x
+−
+ will always be odd. ------ B1 
+(
+)
+(
+)'
+A
+B
+A
+B
+
+
+
+   --- B1 
+True                         all the elements in B are in A and B  A --- B1 
+False                         B is a set, not an element  --- B1 
+4 
+ 
+8. Express 
+2
+2
+2
+15
+3
+9
+d
+e
+d
+e
+d
+e
+−
+−
++
+−
+ as a single fraction in its simplest form  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer ……………….…………..  [3] 
+---------------------------------------------------------------------------------------------------------------- 
+ 
+9. A plan of a garden is drawn to a scale 1 : 20. 
+ 
+(a) Calculate the length of the line on the plan which represents 13 m long. 
+ 
+ 
+ 
+ 
+Answer ………….………….. cm [1] 
+(b) The actual area of a pond in the garden is p m2.  
+Show, with clear working, that the area of the pond represented on the map  
+is 25p cm2.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ [2] 
+---------------------------------------------------------------------------------------------------------------- 
+2
+2
+2
+15
+3
+9
+d
+e
+d
+e
+d
+e
+−
+−
++
+−
+ 
+= 
+2
+15
+3
+(
+3 )(
+3 )
+d
+e
+d
+e
+d
+e d
+e
+−
+−
++
++
+−
+    ---- M1  (factorise denominator) 
+= 2(
+3 )
+(
+15 )
+(
+3 )(
+3 )
+d
+e
+d
+e
+d
+e d
+e
+−
+−
+−
++
+−
+  ---- M1  (single fraction or better) 
+= 2
+6
+15
+(
+3 )(
+3 )
+d
+e
+d
+e
+d
+e d
+e
+−
+−
++
++
+−
+ 
+= 
+9
+(
+3 )(
+3 )
+d
+e
+d
+e d
+e
++
++
+−
+   ----- A1   (accept 
+2
+2
+9
+9
+d
+e
+d
+e
++
+−
+) 
+1 cm  :   20 cm 
+1 cm  :   0.2 m  
+  ?      :    13 m 
+13
+0.2 =  65 cm   ------ B1 
+1 cm  :   20 cm 
+1 cm  :   0.2 m  
+1 cm2 :   0.04 m2    -------  M1 
+    ?    :      p   m2   
+4
+0.04
+100
+p
+p
+=
+
+ 
+ 
+= 
+100
+4
+p
+ 
+A1 (show all steps) 
+ 
+= 25 p          
+5 
+ 
+10.  
+ x is 35% of y.  
+ 
+2
+45
+x
+y
++
+=
+. 
+ 
+ 
+Find the value of x and of y. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer x = ………… , y = .………… [3] 
+---------------------------------------------------------------------------------------------------------------- 
+ 
+11. The difference between simple interest and compound interest for a period of 3 years at 
+5% per annum is $366.  
+ 
+Find the principal amount. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer $………….………….. [3] 
+---------------------------------------------------------------------------------------------------------------- 
+ 
+ 
+ 
+ 
+ 
+ 
+0.35
+[1]
+x
+y
+=
+−−−−−
+ 
+2
+45
+x
+y
++
+=
+ ---------- [2] 
+ 
+Sub [1] into [2] : 
+ 
+2(0.35y) + 45 = y   ------  M1 
+0.7 y + 45 = y 
+  0.3 y = 45 
+        y = 150      ------  A1 
+   
+And x = 52.5      ------  A1  
+Interest (compound int) – Simple interest = 366 
+         
+3
+5
+5 3
+1 100
+100
+P
+P
+P
+
+
+
+
+
++
+−
+−
+
+
+
+
+
+
+
+
+
+
+           =  366   ------ M1 (compound interest application correct) 
+ 
+ 
+ 
+ 
+ 
+------ M1 (difference is compound interest – simple interest) 
+ 
+                 
+
+1.57625
+0.15
+P
+P
+−
+−
+               = 366      
+                                                 0.007625P  = 366 
+ 
+ 
+ 
+ 
+ 
+      P  = 48000    ------ A1 
+6 
+ 
+12. The following data shows the masses of 11 parcels in kg. 
+ 
+1.8 
+2.1 
+2.4 
+2.5 
+2.6 
+3.2 
+3.3 
+3.5 
+3.8 
+4.0 
+4.9 
+ 
+ 
+(a) Calculate the mean mass. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer ……………….………… kg  [1] 
+(b) Find the median mass. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer ……………….……… kg  [1] 
+ 
+(c) Two parcels (the 2.4 kg and the 4.9kg) were removed from the delivery van.  
+Explain why the median mass remains unchanged. 
+ 
+ 
+ 
+Answer  …………………………………………………………...……………………. 
+ 
+…………………………………………………………………………………………. 
+ 
+……………………………………………………………………………………… [1] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2.6
+3.2
+2.4
+3.3 1.8
+4.0
+4.9
+3.5
+3.8
+2.5
+2.1
+11
++
++
++
++
++
++
++
++
++
++
+   = 3.1      ----- B1 
+ Rearrange 
+1.8    2.1    2.4    2.5     2.6    3.2    3.3    3.5    3.8    4.0     4.9          ----- B1 
+The 2 weights falls on the left and right of the median value, keeping the  
+ 
+median weight unchanged in the middle.       ----- B1 
+7 
+ 
+13. (a) By completing the square, find the coordinates of the turning point of the curve  
+ 
+y = x2 + 4x + 7. 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer (……… , .….…) [2] 
+ 
+(b) Hence, sketch the graph of y = x2 + 4x + 7 in the space below, showing your  
+y-intercept and turning point clearly. 
+  
+ 
+ 
+ 
+ 
+ 
+y 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+x 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+B1 (u-shaped with correct turning point) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+B1 (y-intercept) no ECF 
+ [2] 
+ 
+---------------------------------------------------------------------------------------------------------------- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2
+2
+4
+7
+(
+2)
+4
+7
+x
+x
+x
++
++
+=
++
+−+
+   
+  
+ 
+= 
+2
+(
+2)
+3
+x +
++ ----- M1 (this must be evident) 
+ 
+Turning point is (– 2, 3)  ----- A1  
+– 2  
+3  
+–  7 
+8 
+ 
+14. On the grid, OA = a and OB =  b. 
+ 
+ 
+(a)  Mark clearly on the grid in the answer space, 
+ 
+ 
+ 
+(i) the point C such that OC =  2b +  a 
+ 
+ 
+(ii) the point D such thatOD =  1
+2
+b − 3a.  
+ 
+ 
+ 
+Answer 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2] 
+ 
+(b) Find CD in terms of a and b. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer CD   = …………….…………..  [2] 
+ 
+---------------------------------------------------------------------------------------------------------------- 
+ 
+ 
+ 
+ 
+a 
+b 
+A 
+B 
+O 
+x  
+   C       ---B1   
+  D       ---B1 
+x 
+CD
+CO OD
+→
+→
+→
+=
++
+ 
+       = – 2b – a + 1
+2  b – 3a      ----- M1 
+       = – 4a – 3
+2 b      ----- A1 
+9 
+ 
+15. Simplify 
+3
+3
+2
+2
+1
+9p q
+p
+−
+−
+−
+
+
+
+
+
+
+, leaving your answer in positive index. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer ………….…………….. [3] 
+---------------------------------------------------------------------------------------------------------------- 
+16. Danny wants to purchase ingredients from Malaysia. 
+ 
+He needs to pay the Malaysia supplier MYR 2000 for the ingredients.  
+The transportation fees for the ingredients is MYR 60. 
+For importing goods into Singapore, a 9% Goods and Services Tax (GST) is payable on 
+the cost of goods and transportation. 
+ 
+The exchange rate between Singapore dollars ($) and Malaysian Ringgit (MYR) is 
+$1 = MYR 3.46. 
+ 
+Calculate the amount of money, in Singapore dollars, that Danny has to pay to import the 
+ingredients.    
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer $……………………….. [3] 
+---------------------------------------------------------------------------------------------------------------- 
+  
+3
+3
+2
+2
+1
+9p q
+p
+−
+−
+−
+
+
+
+
+
+
+  = 
+3
+4
+2
+2
+9p
+q
+−
+
+
+
+
+
+
+   ---- M1 
+ 
+ 
+= 
+3
+2
+2
+4
+9
+q
+p
+
+
+
+
+
+
+   ---- M1 
+ 
+ 
+=
+3
+6
+27
+q
+p      ---- A1 
+(or B1 for each term) 
+  
+3
+3
+2
+2
+1
+9p q
+p
+−
+−
+−
+
+
+
+
+
+
+  = 
+9
+2
+3
+3
+2
+3
+2
+9
+p q
+p
+−
+−
+     ---- M1 
+ 
+ 
+= 
+6
+3
+1
+27 p q
+−
+        ---- M1 
+ 
+ 
+=
+3
+6
+27
+q
+p               ---- A1 
+  MYR     :       $ 
+3.46         :       1 
+ 2060       :    2060
+3.46    ---- M1 
+ 
+ 
+= 595.3757  
+ 
+With GST = 109
+595.3757
+100 
+   ---- M1  (their value) 
+                  =  $648.959 
+ 
+                  = $648.96   ---- A1 
+10 
+ 
+17.  
+When written as a product of its prime factors,  
+ 
+2n
+b
+X
+a
+=
+
+. 
+ 
+The cube root of X is 14. 
+ 
+(a) 
+Find the values of n, a, and b.  
+ 
+ 
+ 
+ 
+ 
+ 
+Answer n = ………… , a = ….……… , b = …….….. [2] 
+ 
+(b) 
+Using the answer in (a), find the largest possible number that will divide X and 
+756 exactly.  
+ 
+ 
+ 
+ 
+ 
+ 
+Answer ……………………….. [2] 
+---------------------------------------------------------------------------------------------------------------- 
+ 
+18. On a certain day, Barry took the bus to school. 
+The bus travels at an average speed of 12.5 m/s 
+ 
+(a) Convert 12.5m/s to km/h. 
+ 
+ 
+ 
+ 
+Answer ………….…..……….. km/h [1] 
+ 
+(b) Jeff and Barry travel the same distance to school. 
+Jeff walked at an average speed of 5 km/h and took 20 minutes longer than Barry.  
+Find the distance each of them travelled to school. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer ………..….………….. km [2] 
+---------------------------------------------------------------------------------------------------------------- 
+ 3
+14
+X =
+ 
+  
+3
+14
+X =
+ 
+       = 23  ×  73                         n = 3   --- B1   ,     a  =  7  , b =  3  ---- B1 
+  
+  X    = 23              ×  73            
+756  = 22  × 33  ×  7       ---- M1 
+ 
+HCF = 22  ×  7    = 28     ------- A1  / B2  
+   12.5
+0.0125
+1
+1
+3600
+m
+km
+s
+h
+=
+      =  45 km/h   ------ B1 
+Let d be distance each travel to school. 
+ 
+20
+5
+45
+60
+d
+d
+=
++
+      ------ M1 (or equivalent) 
+9
+1
+45
+45
+3
+d
+d
+−
+=
+ 
+8
+1
+45
+3
+d =
+ 
+24d = 45 
+d = 1.875 km    ------ A1 
+11 
+ 
+19. A straight line meets the curve 
+2
+2
+3
+y
+x
+x
+=
+−
+−at two points A (–3, k) and B (4, 5).  
+By finding the value of k,  
+ 
+(i) 
+Show that k = 12.  
+ 
+Answer :  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(ii) 
+Find the equation of the straight line. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer ………….………….. [2] 
+ 
+ 
+(iii) 
+Find the length of the line segment AB.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer ………….……… units [1] 
+---------------------------------------------------------------------------------------------------------------- 
+ 
+ 
+ 
+Sub A (–3, k) into equation  
+2
+( 3)
+2( 3)
+3
+k = −
+−
+−
+−           ---- B1 (substituting)  
+    = 12 
+ 
+ 
+Length of AB = 
+2
+2
+(12
+5)
+( 3
+4)
+−
++ −−
+    
+                       = 
+98  
+ 
+ 
+= 9.89949 
+ 
+ 
+ 
+= 9.90 units  (3 s.f)   ------ B1 (or more accurate approximation) 
+ 
+Gradient =  12
+5
+3
+4
+−
+−−
+   ---- M1   
+  
+   =  –1  
+ 
+5
+4
+9
+y
+x
+c
+c
+c
+= −+
+= −+
+=
+ 
+ 
+9
+y
+x
+= −+    ------ A1 
+12 
+ 
+20. In a sequence, the same number is subtracted each time to obtain the next term. 
+The first four terms of the sequence are as follows: 
+ 
+54      x      y      33 
+(a) Find the value of x and y. 
+ 
+ 
+ 
+Answer x = …………,  y =………….. [1] 
+ 
+(b) Write down an expression for the nth term of this sequence. 
+ 
+ 
+ 
+Answer ……………………….. [1] 
+ 
+(c) Which term in the sequence will give the first negative number? 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer …………..… term [1] 
+ 
+(d) Explain why −260 is not a term of this sequence. 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  …………………………………………………………...……………………. 
+ 
+……………………………………………………………………….…………………. 
+ 
+……………………………………………………………………………………… [1] 
+ 
+54
+33
+7
+3
+−
+=
+ 
+x = 47   ,  y = 40    ---- B1 (both correct) 
+61 – 7n ---- B1 
+61 7
+0
+7
+61
+5
+8 7
+n
+n
+n
+−
+
+
+
+ 
+ 
+9th term    ---- B1 (accept 9 or ninth) 
+61 7
+260
+7
+321
+6
+45 7
+n
+n
+n
+−
+= −
+=
+=
+ 
+Since n is not a positive integer/ whole number,  
+– 260 is no a term in this sequence.   ----- B1 (with working) 
+13 
+ 
+21. The diagram shows the speed-time graph of a van. The van decelerates uniformly until it 
+reaches 0.7 km/min. It then continues at this constant speed for k minutes before 
+accelerating its speed uniformly at 0.1 km/min2. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) Find the speed of the van at 10 05. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer ………………… km/min [2]  
+(b) Find the value of k. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer k = ……..………………… [2]  
+ 
+ 
+Speed in km/min 
+2
+0.7
+20
+acceleration
+−
+=
+ = 0.065 km/m2        ----- M1    
+ 
+ 
+Speed at 1005 = 2 – (5× 0.065) 
+= 1.675 km/min     ----- A1 (accept 27
+140 ) 
+1.4
+0.7
+0.1
+T
+−
+=
+ ----- M1    
+            T = 7 min   
+ 
+ 
+ k = 1035 h – 7 min = 1028 h      ----- A1  
+Time  
+10 35 
+ 
+2.0   
+0.7  
+1.4   
+    k 
+10 20 
+10 00 
+14 
+ 
+22.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The shape of a closed container can be modelled by stacking a smaller cylinder, A, on 
+top of a larger cylinder, B. Cylinder A and Cylinder B are geometrically similar.   
+ 
+The radii of Cylinder A and Cylinder B are r cm and 3r cm respectively.  
+ 
+(a) It takes 98 seconds to fill the container to the brim. 
+Calculate the time taken to fill Cylinder B. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer …….…………..……… s [2]  
+ 
+(b) Given that the height of cylinder A is h cm, find an expression for the total surface 
+area of the container in terms of r, h and . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer ……..……………… cm2 [3]  
+r 
+3r 
+A 
+B 
+1
+3
+A
+B
+r
+r =
+  
+ 
+Time taken to fill Cylinder B = 98
+27
+28
+ 
+3
+1
+1
+3
+27
+A
+B
+V
+V
+
+
+=
+=
+
+
+
+
+  ----- M1 
+ 
+ 
+ 
+= 94.5 sec   ----- A1 
+ 
+2 circles + curved surface A + curved surface B 
+ 
+= 
+2
+2 (3 )
+2
+2 (3 )(3 )
+r
+rh
+r
+h
+
+
+
++
++
+    ------ M2  (M1 for any 2 correct) 
+=
+2
+18
+2
+18
+r
+rh
+rh
+
+
+
++
++
+ 
+= 
+2
+18
+20
+r
+rh
+
+
++
+  ------ A1   
+15 
+ 
+23. Mdm Chng has six $1 coins and eight 50 cents coins in her purse.  
+She takes the coins out of her purse, at random, one after the other, without replacement. 
+ 
+The probability tree diagram below shows the possible outcomes and their probabilities. 
+ 
+                                              First coin                            Second coin 
+ 
+                                                                 (          )                  $1 
+                                                   $1                                         
+              (         )                                       (          )                  50¢ 
+ 
+              (         )                                        (         )                  $1 
+                                                  50¢ 
+                                                                  (         )                 50¢  
+ 
+(i) Complete the probability tree diagram. 
+   
+[2] 
+(ii) Find the probability that the total value of the two coins taken out is $1.50 
+ 
+ 
+ 
+ 
+Answer  ………….………… [2] 
+ 
+(iii) Mdm Chng took a third coin out.  
+ 
+ Find the probability that the total sum of the three coins taken out is $2. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  ………….………… [2] 
+ 
+ 
+ 
+6
+3
+/
+14
+7
+8
+4
+/
+14
+7
+5
+13
+8
+13
+6
+13
+7
+13
+B1 
+B1 
+ 
+P ($1and 50 cents    or    50 cents and $1) 
+= 
+6
+8
+8
+6
+14
+13
+14
+13
+
+
+
+
+
++
+
+
+
+
+
+
+
+
+
+    ------ M1   
+= 48
+91      ------ A1   
+ 
+P ($1and 50 cents and 50 cents   or   50 cents and $1 and 50 cents   or  50 cents and 5- cents and $1) 
+= 
+6
+8
+7
+3
+14
+13
+12
+
+
+
+
+
+
+
+
+
+    ------ M1   
+= 6
+13      ------ A1   
+16 
+ 
+24. In the diagram, A, B, C, D, are points on a circle. 
+ 
+AC and BD intersect at F. Angle CBF
+x
+= and angle 
+35
+BAC =
+. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) 
+Find, in terms of x, angle BCD. Give reason(s) clearly. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer ……..…………………° [2] 
+ 
+(b) 
+ Given that angle ADB = 55, show that AC is a diameter of the circle. 
+ 
+ Answer : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2] 
+B 
+C 
+xº 
+35º 
+D 
+A 
+F 
+ 
+Angle CAD 
+= x       (angles in same segment)          ------- M1 (with reason) 
+ 
+Angle BCD 
+= 180 – (35 + x)      (angles in opp segment) 
+ 
+= 145 – x   ------ A1  (with reason above) 
+ 
+Angle BCA 
+=  Angle ADB  (angles in same segment) 
+ 
+ 
+= 55         
+Angle ACD  
+= 145 – x – 55       
+ 
+ 
+= 90 – x  
+ 
+Angle ADC  
+= 180 – x – (90 – x)  --- M1 (accept without reason) 
+ 
+ 
+= 90 
+ 
+Since Angle ADC = 90, AC is a diameter of the circle (rt angle in a semicircle)  --- A1 
+ 
+17 
+ 
+25. In Shop P, a tub of ice cream cost $18.70, a carton of milk cost $8.60 and a box of 
+chocolates cost $10. 
+In Shop G, a tub of ice cream cost $17.50, a carton of milk cost $7.40 and a box of 
+chocolates cost $13. 
+ 
+The items are exactly the same in both shops. 
+The information above can be represented by the Matrix A = 
+18.7
+17.5
+8.6
+7.4
+10
+13
+
+
+
+
+
+
+
+
+
+
+. 
+ 
+(a) Tina buys 5 tubs of ice cream, 3 cartons of milk and 1 box of chocolates. 
+Mike buys 3 tubs of ice cream, 4 cartons of milk and x boxes of chocolates. 
+ 
+Represent this information in a 2 × 3 matrix B. 
+Answer  B = 5
+3 1
+3
+4
+x
+
+
+
+
+
+
+   ---- B1[1] 
+(b) Find, in terms of x, the matrix C = BA. 
+ 
+18.7
+17.5
+5
+3 1
+129.3
+122.7
+8.6
+7.4
+3
+4
+90.5 10
+82.1 13
+10
+13
+x
+x
+x
+
+
+
+
+
+
+
+=
+
+
+
+
+
+
++
++
+
+
+
+
+
+
+
+
+  -----  B2/1/0 
+ 
+ 
+ 
+ 
+Answer  C = 
+
+
+
+
+
+
+
+
+
+
+  [2] 
+ 
+(c) State what the elements in matrix C represents. 
+ 
+ 
+Answer ………………………………………………………………………………… 
+ 
+………………………………………………………………………………………[1] 
+ 
+(d) Determine if it is possible for Mike to spend the same amount regardless of which 
+shop he buys the items from. Justify your answer with calculations.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer x = ………………………… [2] 
+ 
+The total amount Tina and Mike has to pay for items from Shop P and  
+ 
+Shop G respectively. ---- B1 
+ 
+90.5 10
+82.1 13
+x
+x
++
+=
++
+  ------ M1    (their expressions from (b) 
+            8.4
+3x
+=
+ 
+             x = 2.8      
+Since x is not a whole number, it is not possible.  ------ A1 
+18 
+ 
+26. In the diagram below, the line AB has been drawn. T is a point on the line AB.  
+ 
+(a) Construct a triangle ABC  such that 
+9
+=
+BC
+cm and 
+5.5
+=
+AC
+cm.  
+ 
+[1] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Accept drawing below AB 
+ 
+(b) Measure 
+CAB
+
+. 
+ 
+Answer ……..…………………° [1] 
+ 
+(c) Construct the perpendicular bisector of AB.  
+ 
+ 
+ 
+ 
+[1] 
+ 
+(d) Construct the angle bisector of 
+ABC
+
+.  
+ 
+ 
+ 
+ 
+ 
+[1] 
+ 
+(e) S is a point on BC such that AS is the shortest distance from A to BC.  
+Measure the line segment AS. 
+ 
+ 
+ 
+Answer   ……………...…… cm [1] 
+------------------------------------------------------------------------------------------------------------ 
+End of Paper 
+ 
+A 
+B 
+• 
+T 
+83 ---- B1 (+/- 1) 
+4.7 cm ---- B1  (+/- 0.1) 
+---- B1 
+---- B1 (9 cm and 5.5 cm accurate with 
+markings) 
+---- B1 
+ 
+ 
+Answer all the questions. 
+1. (a) Factorise completely 
+2
+4
+4
+x
+x
+xy
+y
+−
+−
++
+. 
+ 
+ 
+ 
+ 
+ 
+Answer ………………………… [2] 
+ 
+(b) Given that 
+1
+1
+1
+2
+4
+4
+8
+2x
+−
++
+=
+
+, find the exact value of x. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer x = …………………… [3] 
+(c) Given that 
+1
+3
+1
+2
+−
++
+= h
+h
+k
+, express h in terms of k. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer h = …………………… [2] 
+(d) Solve 
+4
+7
+3
+2
+1
+2
+3
+2
++
+
++
+
+x
+x
+x
+. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer ………………………… [3] 
+S4E/5N EM Prelim 2024 Paper 2 Marking Scheme 
+ 
+2
+4
+4
+x
+x
+xy
+y
+−
+−
++
+ 
+= (
+4)
+(
+4)
+x x
+y x
+−
+−
+−
+------ M1 (1st level) 
+= (
+)(
+4)
+x
+y x
+−
+−
+   ------ A1  
+ 
+1
+1
+1
+2
+4
+4
+8
+2x
+−
++
+=
+
+ 
+1
+1
+2(
+)
+3( )
+1
+2
+4
+2
+2
+2x
+−
++
+=
+
+  ------ M1 (base 2 for at least one term) 
+3 (
+1)
+1
+4
+2
+2
+x
+−
++
+−=
+ 
+3
+1
+1
+4
+x
+−=
+−
+− ------ M1 (compare power, no ECF) 
+   
+3
+4
+x =
+ ------ A1 
+ 
+1
+3
+1
+2
+−
++
+= h
+h
+k
+ 
+(3
+1)
+2
+1
+k
+h
+h
+−
+=
++    
+3
+2
+1
+kh
+k
+h
+−
+=
++    ------ M1 (linear and expand correctly) 
+3
+2
+1
+kh
+h
+k
+−
+=
++     
+(3
+2)
+1
+h
+k
+k
+−
+=
++    
+1
+3
+2
+k
+h
+k
++
+=
+−
+  ------ A1 accept 
+1
+3
+2
+k
+h
+k
+−−
+= −
++
+ 
+  2
+2
+1
+3
+2
+x
+x +
+
+  
+ 
+and  
+ 
+2
+1
+3
+7
+2
+4
+x
+x
++
++
+
+ 
+ 
+  4
+6
+3
+x
+x
+
++  ------- M1 (linear) 
+ 
+8
+4
+6
+14
+x
+x
++
+
++
+ ------- M1 (linear) 
+  2
+3
+x
+−
+
+ 
+ 
+ 
+ 
+ 
+     2
+10
+x 
+ 
+   
+3
+2
+x −
+ 
+ 
+ 
+ 
+ 
+       
+5
+x 
+ 
+                                   
+3
+5
+2
+x
+−
+
+
+   ------- A1 
+2 
+ 
+2. The diagram shows three points, A, B and C on the ground. 
+AB = 174 m and BC = 195 m. 
+The bearing of A from B is 238°.The bearing of C from A is 108°. 
+A point D lies on the path AC such that it is equidistant to A and to B 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) 
+Show that angle BAC = 50.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ [3] 
+ 
+(b) 
+Find the angle BCA.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer ………….………….. [2] 
+ 
+ 
+North 
+A 
+B 
+C 
+174 
+195 
+  
+360
+238
+x
+=
+−
+(angles at a point) ---------- M1 (with reason) 
+       = 122    
+ 
+y = 180 – 122    (int angles) ---------- M1 (with reason) 
+              = 58     
+ 
+108
+58
+BAC
+
+=
+−
+---------- A1  (shown)    
+ 
+= 50     
+ 
+ 
+ 
+(MUST label angles clearly to be awarded full marks) 
+ 
+238 
+x 
+  
+sin
+sin50
+174
+195
+BCA =
+    ---------- M1    
+1
+sin (0.683547)
+BCA
+−
+
+=
+ 
+              = 43.12147 
+              = 43.1   ---------- A1    
+D 
+y 
+3 
+ 
+(c) 
+Find the area of triangle ABC. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer ………….………… m2 [3] 
+ 
+(d) 
+Find distance from C to D. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer ………….………… m [4] 
+---------------------------------------------------------------------------------------------------------------- 
+  
+180
+43.12147
+50
+ABC
+
+=
+−
+−
+ ---------- M1  
+ 
+= 86.87853     
+ 
+Area of triangle = 1 174 195 sin86.87853
+2 
+
+
+    ---------- M1 (using ‘their’ ABC) 
+               
+= 16939.82 
+              
+= 16900 m2   ---------- A1   (or any accurate higher approximation) 
+  
+Since AD = BD, ABD is isosceles triangle. 
+ 
+BDC = 50 + 50 (ext  of ) ---------- M1 
+ 
+= 100 
+ 
+DBC = 180 – 100 – 43.12147   ---------- M1 
+= 36.87853       
+  
+Using sine rule 
+195
+sin36.87853
+sin100
+CD
+=
+    ---------- M1 (using their DBC) 
+118.8287782
+CD =
+ 
+       = 119 m (3 sf) ---------- A1 (accept more accurate approximations) 
+North 
+A 
+B 
+C 
+174 
+195 
+238 
+x 
+y 
+or 180 – 50 – 50 – 43.12147 = 36.87853  
+gets 2 marks 
+ 
+Alternative 
+Using cosine rule AC=   -- M2 
+AD = M1 
+CD = AC – AD   ---- A1 
+4 
+ 
+3. The variables x  and y  are connected by the equation 
+3
+4
+3
+2
+x
+y
+x
+=
+−
++ . 
+Some corresponding values of x  and y  are given in the table below 
+ 
+ 
+. x
+. 
+. 3.5
+−
+. 
+. 3
+−
+. 
+. 2
+−
+.
+ 
+. 1
+−
+. 
+.0
+. 
+.1 . 
+.2
+. 
+.2 .5. 
+.3
+. 
+ 
+. y
+. 
+ 
+4.4
+−
+ 
+.1.5
+. 
+. p
+. 
+.6.5
+. 
+. 3
+. 
+. 0.5
+−
+. 
+. 1
+−
+. 
+0.8 
+.4.5
+. 
+ 
+(a) Find the value of p . 
+ 
+ 
+Answer p = ………………… [1] 
+ 
+(b) On the graph paper found in the next page, draw the graph of 
+3
+4
+3
+2
+x
+y
+x
+=
+−
++  for 
+3
+3.5
+x
+−
+
+.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[3] 
+ 
+Points – 2 M     smooth curve 1 M 
+(c) By drawing a tangent, find the gradient of the curve at x = 2.5. 
+ 
+ 
+ 
+ 
+Answer  …………………… [2] 
+ 
+(d) (i) On the same axes, draw the line 
+1
+y
+x
+= −− for 
+3
+3.5
+x
+−
+
+. 
+ 
+ Answer               [on graph]  [1] 
+ 
+(ii) Write down the x-coordinate of the point where this line intersects the curve. 
+ 
+ 
+ 
+Answer x = ………………… [1] 
+ 
+(e) State the minimum value of 
+3
+4
+3
+2
+x
+y
+x
+=
+−
++  for 0
+3
+x
+
+
+. 
+ 
+Answer  ………….………… [1] 
+ 
+ 
+  
+p = 7      ------- B1 
+ Tangent line  ---  M1 
+ 
+Gradient = 5.4        ------- A1 (accept 4.9 to 5.8) 
+ –2.9        ------- B1 (accept –2.95 to –2.8) 
+ –1.35        ------- B1 (accept –1.5 to –1.2) 
+5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(f) The equation 
+3
+4
+5
+0
+2
+x
+x
+−
++
+=
+ has only one solution. 
+Explain how this can be seen from your graph. 
+ 
+Answer : 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2] 
+8 
+6 
+–4                 –3                    –2                   –1                0                      1                      2                      3                                 
+ x 
+y 
+–2 
+4 
+–4 
+2 
+ 
+3
+4
+5
+0
+2
+x
+x
+−
++
+=
+ 
+3
+2
+4
+5
+2
+0
+2
+x
+x
+−
++
+=
+−
+−
+         
+3
+2
+4
+3
+2
+x
+x
+−
++
+= − ------ M1 
+By drawing the line  y = –2, there is one point of intersection. ------ A1 (no need to draw, 
+but must mention y = -2) 
+6 
+ 
+4. The diagram shows a circle with centre O.  
+ABCDE is a straight line. AC = CD and line OD meets the circle at F.  
+It is given that OB = 7.5 cm, CD = 12 cm and OBD = 90. 
+ 
+ 
+ 
+(a) Find the length of OD. 
+ 
+ 
+ 
+ 
+Answer ………….………… cm [1] 
+ 
+(b) Without the use of a calculator, find the value of cos
+ODE
+
+in its simplest form. 
+ 
+ 
+Answer ………….…………… [1] 
+ 
+(c) Show that angle COD is approximately 0.501 rad. 
+ 
+Answer :  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[3] 
+A 
+B 
+C 
+D 
+E 
+O 
+7.5 cm 
+12 cm 
+  
+2
+2
+2
+7.5
+18
+OD =
++
+     
+   OD = 19.5 cm     ---------- B1 
+ 
+ 
+  
+18
+12
+cos
+19.5
+13
+ODE
+
+= −
+= −
+     ---------- B1 
+  
+18
+tan
+7.5
+BOD
+
+=
+      ---------- M1 
+                     = 1.176005      
+        = 1.176   rad    
+ 
+6
+tan
+7.5
+BOC
+
+=
+      ---------- M1 
+                     = 0.67474 rad  
+ 
+ 
+COD
+
+= 1.176005 – 0.67474 
+ 
+  = 0.501264  
+ 
+  =  0.501 rad ---------- A1 
+F 
+7 
+ 
+(d) Find the perimeter of shaded region. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer ………………………. cm [3] 
+---------------------------------------------------------------------------------------------------------------- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+Radius OC = 
+2
+2
+7.5
+6
++
+ = 9.60468 cm  ---------- M1  
+ 
+Length arc CE = 9.60468 × 0.501264   ---------- M1  (using ‘their’ radius) 
+ 
+            =  4.81448 cm 
+ 
+Perimeter = 7.5 + 6 + 9.60458 + 4.81448   
+                 =  27.919 
+ 
+    = 27.9 cm     ---------- A1 
+8 
+ 
+5. A lead technician working with his trainee, can repair a machine together. 
+If each of them worked alone, the lead technician would take x hours, while the trainee 
+will need 3.5 hours more. 
+ 
+(a) Find in terms of x, 
+ 
+(i) 
+the fraction of work done by the lead technician in one hour, 
+ 
+ 
+ 
+Answer  ………….………… [1] 
+ 
+(ii) 
+the fraction of work done by the trainee in one hour. 
+ 
+ 
+ 
+ 
+ 
+Answer  ………….………… [1] 
+ 
+ 
+(b) In one hour, both the lead technician and his trainee will complete 5
+21  of the repairs 
+for the machine. 
+Form an equation and show that it reduces to 
+2
+10
+49
+147
+0
+x
+x
+−
+−
+=
+. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[3] 
+ 1
+x
+        ------- B1  
+ 
+1
+3.5
+x +
+        ------- B1  
+ 1
+1
+5
+3.5
+21
+x
+x
++
+=
++
+        ------- M1 accept 1
+1
+1
+3.5
+4.2
+x
+x
++
+=
++
+ 
+ 
+ 
+ 
+ 
+ 
+Or 42
+42
+1
+3.5
+x
+x
++
+=
++
+ 
+2
+3.5
+5
+3.5
+21
+x
+x
+x
+x
++
++
+=
++
+        ------- M1 (single fraction from their first equ of same 
+difficulty level) 
+ 
+2
+42
+73.5
+5
+17.5
+x
+x
+x
++
+=
++
+         
+2
+0
+5
+24.5
+73.5
+x
+x
+=
+−
+−
+      ------- A1 
+2
+10
+49
+147
+0
+x
+x
+−
+−
+=
+     
+9 
+ 
+(c) Solve 
+2
+10
+49
+147
+0
+x
+x
+−
+−
+=
+. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  x = …………. or x = ….……… [3] 
+ 
+(d) Hence, find the number of hours needed to repair the machine by two trainees. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  ………….…… h [1] 
+---------------------------------------------------------------------------------------------------------------- 
+ 
+ 
+ 
+ 
+  
+(10
+21)(
+7)
+0
+x
+x
++
+−
+=
+        ------- M1 (must write ‘=0’)  
+ 
+2.1
+x = −
+         or          
+7
+x =
+    ---------- A2 
+ 
+ 
+or 
+2
+( 49)
+( 49)
+4(10)( 147)
+2(10)
+x
+−−
+
+−
+−
+−
+=
+  ---- M1 (must write ‘x=’) 
+49
+8281
+20
+x
+
+=
+ 
+2.1
+x = −
+         or          
+7
+x =
+    ---------- A2 
+  
+One trainee need 7
+3.5
++
+ = 10.5 hours         
+ 
+Two trainees will need 5.25 hours    ------- B1 
+10 
+ 
+6. A gold pendant is made by joining a hemisphere and a cone.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) The radius of the hemisphere is 6 mm.  
+The volume of the pendant is 0.2 cm3.  
+ 
+Find x, the height of the pendant in mm. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  x =……………….…...…  [4] 
+ 
+3
+2
+2
+1
+(0.6 )
+(0.6 )
+0.6
+0.2
+3
+3
+10
+x
+
+
+
+
+
++
+−
+=
+
+
+
+
+   ------ M1 conversion to ‘0.6 cm’  
+  
+ 
+ 
+ 
+ 
+    ------ M1 (cone application and/or hemisphere) 
+ 
+0.144
+0.12
+0.6
+0.2
+10
+x
+
+
+
+
+
++
+−
+=
+
+
+
+
+  
+0.12
+0.6
+0.056
+10
+x
+
+
+
+
+−
+=
+
+
+
+
+-------- M1  (accept 0.37699
+0.6
+0.175929
+10
+x
+
+
+−
+=
+
+
+
+
+) or better 
+ 
+7
+0.6
+10
+15
+x −
+=
+                                                                or M1 
+7
+15
+h =
+ 
+                         
+2
+10 3
+x =
+ mm  ------ A1 (accept 10.7/ 10.67) 
+ 
+               
+x mm 
+11 
+ 
+(b) The mass of the pendant is 1.8 grams. 
+The gold pendant is priced at $101.60 per gram.  
+ 
+ 
+(i) 
+Mrs Tan bought is at a discount and paid $528.60.  
+Calculate the percentage discount given, correct to the nearest whole number. 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  …….…….…… % [3] 
+ 
+(ii) 
+A week later, the shop removed the discount offer. 
+Mr Pang bought the pendant along with the gold chain priced at $810. 
+He paid a downpayment of $200 and paid the balance with a fixed interest rate 
+of 5.3% per annum for a period of 4 months. 
+ 
+Calculate the amount of each monthly instalment, correct to the nearest 10 
+cents. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  $ ………...….……… [4] 
+---------------------------------------------------------------------------------------------------------------- 
+ 
+Price of gold pendant = $101.60 × 1.8 
+ 
+ 
+ 
+= $574.53    ------ M1 
+ 
+% discount = 574.53 528.60 100
+574.53
+−
+
+    ------ M1 
+ 
+       = 7.995 
+ 
+       = 8%  (nearest whole number)  ------ A1 
+ 
+Total  =  $574.53 + 810  =  $1384.5344     
+ 
+Balance = $1384.5344  – 200          
+ 
+  = $1184.5344   
+       ------ M1 (no ecf) 
+ 
+Interest = 
+4
+1184.5344 5.3 12
+100
+
+
+     ------ M1 (SI application, no ecf) 
+ 
+ = $20.92677 
+ 
+Monthly installment = 1184.5344
+20.92677
+4
++
+     ------ M1 (‘their’ balance + interest divide by 4) 
+ 
+ 
+ 
+= $301.365 
+ 
+ 
+ 
+= $301.40   (nearest 10 cent)  ------ A1 
+12 
+ 
+7. A class of 40 Secondary Four students were asked how much time they have spent on     
+social media in the last week. 
+The results are shown in the table. 
+ 
+Time spent 
+(x hours) 
+0 < x  10 
+10 < x  20 
+20 < x  30 
+30 < x  40 
+40 < x  50 
+Frequency 
+p 
+6 
+12 
+q 
+3 
+ 
+ 
+      The lower quartile of the time spent on social media was 20 hours. 
+ 
+(i) 
+Show that p = 4. 
+ 
+ 
+ 
+ [2] 
+(ii) 
+Hence state the value of q. 
+ 
+Answer  q = …….………… [1] 
+ 
+(iii) 
+Estimate the mean number of hours spent by the students. 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  ………….………… [2] 
+ 
+(iv) 
+Estimate the standard deviation. 
+ 
+ 
+ 
+Answer  ………….………… [1] 
+ 
+Since lower quartile = 20 hours,    
+ 
+¼ of 40 = 10 students spent 20 hours of less   ------ M1 (must show in  
+ 
+ 
+ 
+ 
+ 
+ 
+some form for full 2 marks) 
+P = 10 – 6  ------ A1/B1 only if 10 – 6 is seen 
+   = 4  
+ 
+ 
+ 
+q = 40 – 4 – 6 – 12 – 3 = 15     ------- B1 
+Mean =  (4 5)
+(6 15)
+(12 25)
+(15 35)
+(3 45)
+40
+
++
+
++
+
++
+
++
+
+     ------- M1 (or sum below) 
+ 
+= 1070
+40  
+            = 26.75   ---- A1/B1 
+10.9287 
+=10.9     ------- B1 
+13 
+ 
+A class of 40 Secondary Three students were asked how much time (in hours) they have 
+spent on social media in the last week. 
+The results are summarised in the table. 
+ 
+ 
+ 
+ 
+(i) 
+Make two comparisons between the number of hours spent on social media by 
+the Secondary Three students and by the Secondary Four students. Use the data 
+to support your answers. 
+ 
+Answer  
+ 
+………………………………………………………………………………………. 
+………………………………………………………………………………………. 
+………………………………………………………………………………………. 
+………………………………………………………………………………………. 
+…………………………………………………………………………………… [2] 
+ 
+---------------------------------------------------------------------------------------------------------------- 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mean 
+15.8 
+Standard Deviation 
+10.9 
+ 
+The Sec 4 students have a higher mean time spent on social media, this  
+ 
+indicates that the Sec 4 students generally spend more time of social media  
+ 
+compared to Sec 3 students.  ------- B1 (must use mean for comparison) 
+ 
+Both cohorts have the same standard deviation, this means their time spent is  
+ 
+equally spread out/equal(same) consistency.     ------- B1 
+14 
+ 
+ 
+8.   
+ 
+ 
+ 
+ 
+ 
+In the diagram, AT is a tangent to the circle, centre O. 
+A line through A meets the circle at B and C. 
+It is given that angle 
+64 .
+TOB =
+ 
+ 
+ 
+(a) Find each of the following angles, stating your reason(s) clearly. 
+ 
+ 
+(i) 
+BCT = …………….. . 
+ 
+Reason : ………………………………………………………………….. [1] 
+ 
+ 
+(ii) 
+BTO = …………….. . 
+ 
+Reason : …………………………………………………………….……. [1] 
+ 
+ 
+(b) Hence or otherwise, show that 
+ATB
+ 
+triangle
+ and 
+ACT
+ 
+triangle
+ are similar.  
+ 
+Answer :  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ [3] 
+ 
+A 
+B 
+C 
+T 
+O 
+64 
+ 
+90
+58
+ATB
+
+=
+−
+       (tan ⊥ rad)      ----- M1 (accept only with reason) 
+ 
+= 32 
+            =  
+TCB
+
+ 
+ 
+TAC  is common/shared angle.     ----- M1 
+ 
+ 
+ATB
+ 
+triangle
+ and 
+ACT
+ 
+triangle
+ are similar (AA similarity test)   ----- A1 
+ 
+ 
+ 
+ 
+ 
+(give A1 if 1st M1 had no reason) 
+  58    
+ 
+Base angle isosceles triangle          ----- B1 (accept abbreviations) 
+32    
+ 
+  
+Angle at centre is twice angle at circumference    ----- B1 (accept abbreviations) 
+15 
+ 
+(c) Given that 
+4.5 cm
+AB =
+ and 
+3.5 cm,
+BC =
+ find the length of AT. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  …………………… cm [2] 
+ 
+(d) Find the value of Area 
+Area 
+BCT
+ABT
+
+
+. 
+ 
+ 
+Answer  ……………………… [1] 
+ 
+(e) Given that the radius of the circle is 1.8 cm, find the area of the shaded segment  
+ 
+Area = 
+2
+64
+1
+1.8
+1.8 1.8 sin 64
+360
+2
+
+
+
+
+
+
+
+−
+
+
+
+
+
+
+
+
+
+
+
+   ------- M1, M1 
+        =  0.354 cm2    ------- A1 
+ 
+ 
+ 
+ 
+ 
+Answer  ……………………… cm2 [3] 
+ 
+ 
+---------------------------------------------------------------------------------------------------------------- 
+ 
+ 
+A 
+T 
+B 
+x 
+4.5 
+4.5 + 3.5 = 8 
+A 
+T 
+C 
+x 
+  
+4.5
+8
+x
+x
+=
+   ------ M1 
+ 
+2
+36
+x =
+ 
+ 
+ x = 6 cm   ------ A1 
+  
+Area 
+9
+Area 
+7
+BCT
+ABT
+
+=
+
+    ------   B1 
+ 
+16 
+ 
+9. To achieve Singapore's Zero Waste Masterplan goal, the government aims to reduce 
+food waste by 30% by 2030.  
+ 
+The annual waste and recycling statistics from the National Environment Agency shows    
+the amount of food waste generated (in 1000 tonnes) in Singapore from 2019 to 2023. 
+ 
+ 
+ 
+[Source: NEA Website on Waste Statistics] 
+ 
+ 
+Year 
+Estimated Singapore Population 
+2022 
+5.64 million 
+2023 
+5.9 million 
+ 
+The National Environment Agency (NEA) reported that in 2022, Singapore generated  
+813 000 tonnes of food waste annually.  
+ 
+[1 Tonne = 1000 kg] 
+ 
+(a) Express 813,000 tonnes in kg, in standard form. 
+ 
+ 
+Answer : ………….……… kg [1] 
+ 
+ 
+ 
+600
+650
+700
+750
+800
+850
+2019
+2020
+2021
+2022
+2023
+Total Food Waste Generated ('000 tonnes)
+ 
+8
+8.13 10
+
+     ------- B1 
+17 
+ 
+(b) Calculate the average mass, in kg, of food waste per person, per day, in 2022.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer : ………………… kg [2] 
+ 
+Mrs Kim’s household is made up of 5 persons altogether. 
+ 
+The table below shows the estimated average mass of food wastage (in kg) for the three 
+meals in her household in 2022. 
+ 
+Breakfast 
+Lunch 
+Dinner 
+0.25 
+0.9 
+1.25 
+ 
+ 
+ 
+(c) Calculate the average mass, in kg, of food waste per person in Mrs Kim’s household, 
+per day, in 2022.  
+ 
+ 
+ 
+ 
+ 
+ 
+Answer : ………………… kg [1] 
+ 
+According to NEA, a household of 5 persons can reduce food waste in these 4 ways.  
+ 
+Ways to reduce food waste 
+Estimated food waste reduction 
+Composting 
+4.9 kg per week 
+Utilising leftovers 
+175 g per day 
+Keeping track of expiry dates 
+0.8 kg per week 
+Proper storage 
+2.4 kg per month 
+ 
+In 2023, Mrs. Kim encouraged her family to reduce their food waste by implementing the 
+methods listed above. However, Mrs. Kim’s household does not have a food composting 
+ 
+ 
+ 
+ 
+ 
+ 
+8
+6
+8.13 10
+365
+5.64 10
+
+
+
+     ------- M1 (using ‘their’ (a))  
+   
+= 0.395 kg (3 sf)    ------- A1 
+ 
+(0.25+0.9+1.25) ÷5 = 0.48 kg    ------- B1 
+18 
+ 
+(d) Determine if Mrs. Kim’s household managed to reduce their food waste more  
+effectively than the national average mass. Provide your reasoning and calculations. 
+Compare Yearly 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+National food waste per person per year in 2023  
+= 755000000
+5900000      ------ M1 
+= 127.9661 kg 
+ 
+National food waste reduction per person from 2022 to 2023  
+= 
+8
+6
+8.13 10
+126.9661
+5.64 10
+
+
+
+−
+
+
+
+
+
+    ------ M1 
+= 144.1489 126.9661
+−
+ 
+=  16.1828 kg 
+ 
+Per day calculations (in kg) --- M1 (at least 2 calculations) 
+ 
+Leftovers  = 0.175  ×  365      = 63.875 kg 
+Expiry      = 0.8      × 52 
+= 41.6 kg  (0.8×4×12=7.86kg) 
+Storage     =  2.4     × 12 
+= 28.8 kg 
+ 
+Each person waste (household has 5 person)  
+= 63.875
+41.6
+28.8
+5
++
++
+ ---- M1 (add all 3 parts,÷ 5 people) 
+= 26.855 kg / 26.215 kg 
+ 
+>  16.1828 kg    ------ M1 (comparison*) 
+ 
+Mrs Kim managed to reduce food waste more effectively  
+than the national average mass.      
+--- A1 (follow through from their comparisions) 
+    
+*Percentage comparison will be 
+ 15.625% > 11.24%       ------ M1 (comparison) 
+  
+19 
+ 
+Compare % reduction  
+ 
+ 
+ 
+Compare absolute value  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[6] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Food waste per person per day in 2023  
+= 755000000
+365
+5900000 
+     ------ M1 
+= 0.350592 kg 
+ 
+Percentage of food reduction from 2022 to 2023  
+= 0.395
+0.350592 100
+0.395
+−
+
+    ------ M1 
+= 0.044408 100
+0.395
+
+ 
+=  11.24 % 
+ 
+Per day calculations (in kg) --- M1 (at least 2 calculations) 
+ 
+Leftovers = 175 g   
+= 0.175 kg 
+ 
+ 
+ 
+Expiry      = 0.8
+7      
+= 0.114285 kg  
+ 
+Storage     =  2.4
+7
+4 
+ = 3
+35  kg 
+ 
+Each person waste reduced (household has 5 person)  
+= 
+3
+0.175
+0.114285
+35
+5
++
++
+ ---- M1 (add all 3 parts,÷ 5 people) 
+= 0.075 kg 
+ 
+% savings = 0.075 100
+0.48 
+ 
+ 
+ 
+ 
+ 
+     = 15.625%       ------ M1  
+  
+      > 11.24%     
+ 
+Mrs Kim managed to reduce food waste more effectively  
+than the national average mass.      
+--- A1 (follow through from their comparisions) 
+ 
+Each person waste reduced (household has 5 
+person)  
+= 
+3
+0.175
+0.114285
+35
+5
++
++
+   ------- M1 
+= 0.075 kg          ------- M1  
+ 
+> 0.044408 kg      
+ 
+ 
+ 
+ 
+Mrs Kim managed to reduce food waste more 
+effectively than the national average mass.      
+--- A1 (follow through from their 
+comparisions) 
+ 
+Food waste per person per day in 2023  
+= 755000000
+365
+5900000 
+     ------ M1 
+= 0.350592 kg 
+ 
+Percentage of food reduction from 2022 to 2023  
+= 0.395
+0.350592
+−
+ x 5   ------ M1 
+= 0.044408 kg 
+ same M1 
+ 
+ 
+20 
+ 
+Per person 
+ 
+ 
+Per day 
+Per Week 
+Per Month 
+Per Year 
+Kim 
+0.075 
+0.51644 
+2.2379 
+26.855 
+National 
+0.055 
+0.3112 
+1.348 
+16.1828 
+ 
+ 
+Per 5 persons 
+ 
+ 
+Per day 
+Per Week 
+Per Month 
+Per Year 
+Kim 
+0.375 
+2.582 
+11.19 
+134.275 
+National 
+0.22 
+1.561 
+6.742 
+80.914 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+---------------------------------------------------------------------------------------------------------------- 
+End of Paper 
+ 

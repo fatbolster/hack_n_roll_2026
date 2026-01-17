@@ -1,0 +1,6638 @@
+  
+CANBERRA SECONDARY SCHOOL 
+ 
+ 
+ 
+ 
+2024 Preliminary Examination 
+ 
+Secondary Four Express/Five Normal Academic 
+ 
+MATHEMATICS 
+ 
+20 Aug 2024 
+4052/01 
+ 
+2 hours 15 minutes 
+ 
+ 
+1130h – 1345h 
+ 
+Name: ______________________________________ (          ) 
+Class: ________ 
+ 
+READ THESE INSTRUCTIONS FIRST 
+ 
+Write your full name, class and index number on all work you hand in.  
+Write in dark blue or black pen on both sides of the paper. 
+You may use a pencil for any diagrams or graphs. 
+Do not use staples, paper clips, highlighters, glue or correction fluid. 
+ 
+Answer all the questions. 
+If working is needed for any question it must be shown with the answer. 
+Omission of essential working will result in loss of marks. 
+Calculators should be used where appropriate. 
+If the degree of accuracy is not specified in the question, and if the answer is not exact, give 
+the answer to three significant figures. Give answers in degrees to one decimal place. 
+For, use either your calculator value or 3.142, unless the question requires the answer in 
+terms of . 
+ 
+The number of marks is given in brackets [  ] at the end of each question or part question. 
+The total number of marks for this paper is 90. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This question paper consists of 21 printed pages including the cover page. 
+ 
+Setter: Mr Ng Chuen Joo 
+FOR MARKER’S USE 
+ 
+Marks 
+Awarded 
+Max 
+Marks 
+Total 
+ 
+90 
+O
+2 
+ 
+ 
+Canberra Secondary School                                  Mathematics 4052/01                                             
+2024 Preliminary Examination                               Secondary 4 Express / 5 Normal Academic 
+ 
+ 
+ 
+ 
+ 
+Mathematical Formulae 
+ 
+ 
+Compound interest 
+ 
+Total amount = 
+1 100
+n
+r
+P
+
++
+
+
+
+
+ 
+ 
+Mensuration 
+ 
+Curved Surface area of a cone = rl
+
+ 
+ 
+Curved surface area of a sphere = 
+2
+4 r
+
+ 
+ 
+Volume of a sphere = 
+3
+4
+3
+r
+
+ 
+ 
+Area of triangle ABC = 1
+sin
+2 ab
+C  
+ 
+Arc length = r, where  is in radians 
+ 
+Sector Area =
+2
+1
+2 r , where  is in radians 
+ 
+Trigonometry 
+ 
+sin
+sin
+sin
+a
+b
+c
+A
+B
+C
+=
+=
+ 
+ 
+2
+2
+2
+2
+cos
+a
+b
+c
+bc
+A
+=
++
+−
+ 
+ 
+Statistics 
+Mean 
+fx
+f
+
+= 
+ 
+ 
+Standard deviation = 
+2
+2
+fx
+fx
+f
+f
+
+
+
+
+−
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+ 
+ 
+Canberra Secondary School                                  Mathematics 4052/01                                             
+2024 Preliminary Examination                               Secondary 4 Express / 5 Normal Academic 
+ 
+ 
+ 
+ 
+ 
+Answer all the questions. 
+ 
+1      Solve 
+1
+9
+25
+2 x
+−
+=
+. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer x= 
+ 
+[1] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2       Ahmad, Simon and Bala share a sum of money in the ratio 3 : 2 : 5. 
+         If Bala has $900 more than Simon, what is the sum of money being shared by the  
+         three of them? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer $ 
+ 
+[2] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3      Write as a single fraction in its simplest form 
+3
+2
+2
+1
+1 2
+a
+a
+−
+−
+−
+. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  
+ 
+[2] 
+[Turn Over 
+4 
+ 
+ 
+Canberra Secondary School                                  Mathematics 4052/01                                             
+2024 Preliminary Examination                               Secondary 4 Express / 5 Normal Academic 
+ 
+ 
+ 
+ 
+ 
+4      Five positive integers have a mean of 5, median of 4, mode of 3 and a range  
+        of 7.  Find the five numbers.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer 
+ 
+[2] 
+ 
+ 
+ 
+ 
+ 
+ 
+5 
+ 
+(a)   On the Venn diagram, shade the region that represents A
+B
+
+.                         
+ 
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(b)   Use set notation to describe the shaded region. 
+ 
+[1] 
+ 
+ 
+ 
+          
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer 
+ 
+[1] 
+A 
+B 
+A 
+B 
+5 
+ 
+ 
+Canberra Secondary School                                  Mathematics 4052/01                                             
+2024 Preliminary Examination                               Secondary 4 Express / 5 Normal Academic 
+ 
+ 
+ 
+ 
+ 
+6 
+ The quadratic curve 
+2
+4
+21
+y
+x
+x
+=
++
+−
+ can be written as  
+(
+)(
+)
+y
+x
+a
+x
+b
+=
+−
++
+. 
+ 
+ 
+(a) Find the value of a and the value of b, where a and b are positive integers. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer a =  
+ 
+[1] 
+ 
+ 
+ 
+b =  
+ 
+ 
+[1] 
+ 
+     
+ 
+ 
+(b)   
+ 
+ 
+Explain why y will not have a value smaller than 25
+−
+. 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer                                                                                                                      
+ 
+ 
+ 
+ 
+ 
+[1] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7      (a)    Expand and simplify (
+)(
+)
+3x
+y
+y
+x
+−
++
+. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer 
+ 
+[2] 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) Factorise completely 
+2
+3 12a
+−
+. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer 
+ 
+[2] 
+[Turn Over 
+6 
+ 
+ 
+Canberra Secondary School                                  Mathematics 4052/01                                             
+2024 Preliminary Examination                               Secondary 4 Express / 5 Normal Academic 
+ 
+ 
+ 
+ 
+ 
+8     (a)   Given that 
+3
+1
+x
+a
+a
+a
+
+
+= , find the value of x.  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer 
+ 
+[1] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(b)   Simplify 
+2
+4
+2
+x
+−
+
+
+
+
+
+
+, giving your answer in positive index. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                   
+                                                                    Answer                                               [2] 
+ 
+ 
+ 
+ 
+ 
+9 
+(a) 
+2
+10
+27
+x
+x
+−
++
+ can be expressed in the form (
+)
+2
+x
+p
+q
++
++
+. 
+ 
+ 
+ 
+Find the value of p and the value of q. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer p = 
+ 
+[1] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+q = 
+ 
+[1] 
+ 
+ 
+(b) 
+ 
+Hence write down the coordinates of the minimum point of the graph of   
+2
+10
+27
+y
+x
+x
+=
+−
++
+. 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer 
+ 
+ 
+ 
+(                 ,                  ) 
+ 
+ 
+ 
+[1] 
+ 
+ 
+ 
+ 
+ 
+ 
+7 
+ 
+ 
+Canberra Secondary School                                  Mathematics 4052/01                                             
+2024 Preliminary Examination                               Secondary 4 Express / 5 Normal Academic 
+ 
+ 
+ 
+ 
+ 
+ 
+10 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In the diagram, O is the centre of the circle and ABCD is a cyclic quadrilateral. 
+Angle AOB = angle ADC
+70
+=
+.  
+Explain why triangle ABC is an isosceles triangle.  
+Give reasons for each step of your working.       
+                                                        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[3] 
+ 
+ 
+ 
+ 
+70° 
+O 
+70° 
+B 
+C 
+D 
+[Turn Over 
+A 
+8 
+ 
+ 
+Canberra Secondary School                                  Mathematics 4052/01                                             
+2024 Preliminary Examination                               Secondary 4 Express / 5 Normal Academic 
+ 
+ 
+ 
+ 
+ 
+11    (a)     The angles of a quadrilateral taken in order are 3x, 6x, 5x and 4x.  
+                  Find the value of x.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer x =  
+ 
+[1] 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) Explain whether the quadrilateral is a parallelogram or a trapezium.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                          because  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2] 
+ 
+ 
+ 
+                                                                
+ 
+ 
+9 
+ 
+ 
+Canberra Secondary School                                  Mathematics 4052/01                                             
+2024 Preliminary Examination                               Secondary 4 Express / 5 Normal Academic 
+ 
+ 
+ 
+ 
+ 
+12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+13 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A square pyramid P has base with side x m, height y m and a volume of 300
+3
+m .  
+ 
+Find 
+(a)  the volume of a similar square pyramid, which has a height double that of  
+       the pyramid P.  
+ 
+ 
+ 
+ 
+ 
+Answer  
+           
+3
+m
+ 
+(b)  the volume of another square pyramid with side 3x m and height 2
+3 y m. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  
+          
+3
+m
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The following stem-and-leaf diagram shows the scores of students in a math test. 
+ 
+Stem 
+Leaf 
+6 
+8     9 
+7 
+0     2     3     3     4     4     4     7     8 
+8 
+3     4     5     6     7     7     9 
+9 
+1     3     7 
+ 
+ 
+Find  
+(a)  the median score, 
+ 
+       Answer  
+ 
+(b)  the interquartile range. 
+ 
+ 
+ 
+Answer 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[1] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[1] 
+ 
+ 
+ 
+ 
+[2] 
+6  8    represents   68 marks 
+[Turn Over 
+10 
+ 
+ 
+Canberra Secondary School                                  Mathematics 4052/01                                             
+2024 Preliminary Examination                               Secondary 4 Express / 5 Normal Academic 
+ 
+ 
+ 
+ 
+ 
+14 
+In the diagram, there are two right-angled triangles ABD
+
+ and CEB
+
+ such that   
+AD = 12 cm, BD = 15 cm and BE = 20 cm. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) Find cos
+ABD
+
+. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                   Answer 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2] 
+ 
+ 
+ 
+ 
+ 
+ 
+(b)  If ABD
+
+ and CEB
+
+ are similar, find the length of BC. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer                                   cm 
+[2] 
+E 
+B 
+C 
+D 
+A 
+15 cm 
+12 cm 
+20 cm 
+11 
+ 
+ 
+Canberra Secondary School                                  Mathematics 4052/01                                             
+2024 Preliminary Examination                               Secondary 4 Express / 5 Normal Academic 
+ 
+ 
+ 
+ 
+ 
+15 
+As of 2023, the population of Singapore is approximately 5.64 million and the 
+population of Malaysia is approximately 33.57 million.  
+ 
+(a)      Find the total population of both countries, giving your answer in standard  
+          form. 
+ 
+ 
+ 
+ 
+ 
+Answer  
+ 
+ 
+(b)       The population of Singapore in 2023 was 5% more than its population in 
+2013.  
+            Calculate the population of Singapore in 2013.    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Answer  
+ 
+[2] 
+ 
+ 
+ 
+ 
+ 
+ 
+16 
+ 
+A box contains 15 marbles of which x are green and the rest are yellow. 
+(a)  Write down the probability, in terms of x, that a marble chosen from  
+      the box is yellow. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  
+ 
+[1] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) 
+ 
+When 5 more green marbles are added to the box, the probability of choosing 
+a yellow marble becomes 1
+2 .   
+Find the initial number of green marbles in the box.                  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  
+ 
+[2] 
+[Turn Over 
+12 
+ 
+ 
+Canberra Secondary School                                  Mathematics 4052/01                                             
+2024 Preliminary Examination                               Secondary 4 Express / 5 Normal Academic 
+ 
+ 
+ 
+ 
+ 
+17 
+(a)   (i)  Express 1500 as the product of its prime factors. 
+            Leave your answer in index notations. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer 
+ 
+[1] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(ii)  
+2
+2
+3
+m
+p
+n
+=
+
+
+, where m and n are positive integers.  
+       Find the values of m and n if the HCF of 1500 and p is 6,  
+       given that 100
+150
+p
+
+
+. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer m = 
+ 
+[1] 
+ 
+ 
+ 
+n = 
+ 
+ 
+[1] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(b)  In a race, Car A, Car B and Car C took 3 minutes, 6 minutes and 8 minutes  
+       respectively to complete one lap around the racing track.  
+       If the race started at 7 pm, at what time will the cars be back at the starting 
+       point together again?  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2] 
+13 
+ 
+ 
+Canberra Secondary School                                  Mathematics 4052/01                                             
+2024 Preliminary Examination                               Secondary 4 Express / 5 Normal Academic 
+ 
+ 
+ 
+ 
+ 
+18 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A length of 5 cm on a map represents an actual distance of 2.5 km.  
+ 
+Find  
+(a)   the actual distance represented by 20 cm on the map, giving your answer  
+        in km, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  
+                       km 
+ 
+(b)   the scale of the map in the form 1 : n,  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  
+                    
+ 
+(c)  the land area in 
+2
+km , which is represented by 
+2
+30 cm on the map. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  
+                   
+2
+km
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[1] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2] 
+[Turn Over 
+14 
+ 
+ 
+Canberra Secondary School                                  Mathematics 4052/01                                             
+2024 Preliminary Examination                               Secondary 4 Express / 5 Normal Academic 
+ 
+ 
+ 
+ 
+ 
+19 
+ 
+The coordinates of P and Q are (0, 3) and (15, 12) respectively. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) Find the equation of PQ.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer 
+ 
+ 
+[2] 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) Find the perimeter of trapezium OPQR, where O is the origin and R is the 
+point of reflection of Q along the x-axis.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer 
+ 
+ 
+[3] 
+y 
+x 
+O 
+P(0, 3) 
+Q(15, 12) 
+15 
+ 
+ 
+Canberra Secondary School                                  Mathematics 4052/01                                             
+2024 Preliminary Examination                               Secondary 4 Express / 5 Normal Academic 
+ 
+ 
+ 
+ 
+ 
+20 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The line chart below shows the sales performance of a company. 
+  
+ 
+ 
+Explain what is misleading about this line chart and how it may mislead the 
+reader.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2] 
+ 
+ 
+ 
+ 
+ 
+ 
+21 
+ 
+12 men will take 54 days to complete a building project. 
+ 
+(a)   Assuming that the men work at the same rate, how long will it take for 9  
+        men to complete the project?  
+ 
+ 
+           
+Answer 
+      days  
+ 
+(b)   How many days can be saved if 6 more men are added to the team? 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  
+ 
+     days      
+ 
+ 
+ 
+ 
+ 
+[1] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2] 
+[Turn Over 
+16 
+ 
+ 
+Canberra Secondary School                                  Mathematics 4052/01                                             
+2024 Preliminary Examination                               Secondary 4 Express / 5 Normal Academic 
+ 
+ 
+ 
+ 
+ 
+22 
+A logo, as shown below, has a circle with centre O and radius 2 cm, an equilateral 
+triangle ABC of side 5 cm and an isosceles triangle ODF with OD = OF. 
+DEF is a tangent to the circle at E and angle DOF = 2.4 radians. 
+Half of the circle lies inside triangle ABC. 
+Calculate the area of the shaded region. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer 
+ 
+2
+cm  
+[5] 
+O 
+A 
+B 
+C 
+D 
+E 
+F 
+2 cm 
+5 cm
+5 cm
+2.4 
+17 
+ 
+ 
+Canberra Secondary School                                  Mathematics 4052/01                                             
+2024 Preliminary Examination                               Secondary 4 Express / 5 Normal Academic 
+ 
+ 
+ 
+ 
+ 
+23 
+The diagram below shows the speed-time graph of a car which starts from rest. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) Calculate the speed of the car after 9 seconds. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer 
+ 
+m/s 
+[2] 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) (i)  Find the value of u, if the total distance covered in the first 40 seconds is 
+      900 m. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer 
+ 
+ 
+[2] 
+ 
+           
+           (ii)  Hence find the deceleration of the car at the last 20s. 
+           
+ 
+ 
+ 
+ 
+     Answer 
+ 
+2
+m/s [1] 
+u
+0 
+20 
+15 
+40 
+60 
+Speed (m/s) 
+Time (s) 
+[Turn Over 
+18 
+ 
+ 
+Canberra Secondary School                                  Mathematics 4052/01                                             
+2024 Preliminary Examination                               Secondary 4 Express / 5 Normal Academic 
+ 
+ 
+ 
+ 
+ 
+24 
+At Café A, a latte costs $3.50, a croissant costs $2.70 and a sandwich costs $5.00. 
+At Café B, a latte costs $0.40 more, a croissant costs $0.20 less and a sandwich 
+costs $0.50 less. 
+ 
+This information can be represented by the matrix   Q = 
+3.50
+0.40
+2.70
+0.20
+5.00
+0.50
+
+
+
+
+−
+
+
+
+
+−
+
+
+. 
+ 
+ 
+ 
+(a) Azza buys 2 latte, 3 croissants and 3 sandwiches. 
+Yu Fei buys 1 latte and 4 sandwiches. 
+Represent their purchases in a 2 3
+ matrix P. 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer P = 
+ 
+
+
+
+
+
+
+
+
+
+
+  
+ 
+ 
+ 
+ 
+ 
+[1] 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) Evaluate M =PQ. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+          Answer M = 
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+[2] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(c) Should Azza buy from Café A or Café B? Give your reasons.          
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2] 
+19 
+ 
+ 
+Canberra Secondary School                                  Mathematics 4052/01                                             
+2024 Preliminary Examination                               Secondary 4 Express / 5 Normal Academic 
+ 
+ 
+ 
+ 
+ 
+                  
+25 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In the diagram, a wooden ramp is shown where 
+90
+BCF
+
+=
+and 
+35
+CBF
+
+=
+. 
+ABCD, CDEF and ABFE are rectangles. 
+40 cm
+AB =
+and 
+75 cm
+BC =
+. 
+Find 
+FAC
+
+. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer 
+ 
+ 
+[3] 
+A 
+B 
+C 
+D 
+E 
+F 
+40 
+75 
+35° 
+[Turn Over 
+20 
+ 
+ 
+Canberra Secondary School                                  Mathematics 4052/01                                             
+2024 Preliminary Examination                               Secondary 4 Express / 5 Normal Academic 
+ 
+ 
+ 
+ 
+ 
+26 
+A conical container with a diameter of 10 cm and a height of 8 cm is filled   
+with water to a depth of 4 cm. 
+ 
+(a)   Show that the volume of the water in the container is 
+3
+25
+3
+cm
+
+.                        
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(b)    Find the surface area of the inside of the container that is in contact 
+   with the water. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer                                 
+2
+cm  
+[2] 
+ 
+ 
+ 
+ 
+ 
+21 
+ 
+ 
+Canberra Secondary School                                  Mathematics 4052/01                                             
+2024 Preliminary Examination                               Secondary 4 Express / 5 Normal Academic 
+ 
+ 
+ 
+ 
+ 
+ 
+(c) The water in the cone is poured into a test tube.  
+The test tube is made by joining together a cylinder of diameter 3 cm and a   
+ hemisphere of diameter 3 cm.  
+ Calculate the height of the water in the test tube. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer 
+                                cm  
+[3] 
+End of paper 
+ 
+  
+CANBERRA SECONDARY SCHOOL 
+ 
+ 
+ 
+ 
+2024 Preliminary Examination 
+ 
+Secondary Four Express/Five Normal Academic 
+ 
+MATHEMATICS 
+ 
+21 Aug 2024 
+4052/02 
+ 
+2 hours 15 minutes 
+ 
+ 
+0800h – 1015h 
+ 
+Name: ______________________________________ (          ) 
+Class: ________ 
+ 
+READ THESE INSTRUCTIONS FIRST 
+ 
+Write your full name, class and index number on all work you hand in.  
+Write in dark blue or black pen on both sides of the paper. 
+You may use a pencil for any diagrams or graphs. 
+Do not use staples, paper clips, highlighters, glue or correction fluid. 
+ 
+Answer all the questions. 
+If working is needed for any question it must be shown with the answer. 
+Omission of essential working will result in loss of marks. 
+Calculators should be used where appropriate. 
+If the degree of accuracy is not specified in the question, and if the answer is not exact, give 
+the answer to three significant figures. Give answers in degrees to one decimal place. 
+For, use either your calculator value or 3.142, unless the question requires the answer in 
+terms of . 
+ 
+The number of marks is given in brackets [  ] at the end of each question or part question. 
+The total number of marks for this paper is 90. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This question paper consists of 21 printed pages including the cover page. 
+ 
+Setter:  Ms Sim Yi Lian
+FOR MARKER’S USE 
+ 
+Marks 
+Awarded 
+Max 
+Marks 
+Total 
+ 
+90 
+O
+Errata
+Q4. AED is a straight line.
+Q9b. The second stage of the journey is 32 km longer than the first stage.
+2 
+ 
+ 
+Canberra Secondary School                                  Mathematics 4052/02                                             
+2024 Preliminary Examination                               Secondary 4 Express / 5 Normal Academic 
+ 
+ 
+ 
+ 
+ 
+Mathematical Formulae 
+ 
+ 
+Compound interest 
+ 
+Total amount = 
+1 100
+n
+r
+P
+
++
+
+
+
+
+ 
+ 
+Mensuration 
+ 
+Curved Surface area of a cone = rl
+
+ 
+ 
+Curved surface area of a sphere = 
+2
+4 r
+
+ 
+ 
+Volume of a sphere = 
+3
+4
+3
+r
+
+ 
+ 
+Area of triangle ABC = 1
+sin
+2 ab
+C  
+ 
+Arc length = r, where  is in radians 
+ 
+Sector Area =
+2
+1
+2 r , where  is in radians 
+ 
+Trigonometry 
+ 
+sin
+sin
+sin
+a
+b
+c
+A
+B
+C
+=
+=
+ 
+ 
+2
+2
+2
+2
+cos
+a
+b
+c
+bc
+A
+=
++
+−
+ 
+ 
+Statistics 
+Mean 
+fx
+f
+
+= 
+ 
+ 
+Standard deviation = 
+2
+2
+fx
+fx
+f
+f
+
+
+
+
+−
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+ 
+ 
+Canberra Secondary School                                  Mathematics 4052/02                                             
+2024 Preliminary Examination                               Secondary 4 Express / 5 Normal Academic 
+ 
+ 
+ 
+ 
+ 
+Answer all the questions. 
+ 
+1 
+(a) Solve the simultaneous equations.  
+ 
+     4
+6
+58
+3
+5
+46
+m
+n
+m
+n
++
+=
++
+=
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer m = 
+ 
+ 
+ 
+ 
+ 
+n = 
+ 
+ 
+[3] 
+ 
+ 
+ 
+ 
+ 
+[Turn Over 
+4 
+ 
+ 
+Canberra Secondary School                                  Mathematics 4052/02                                             
+2024 Preliminary Examination                               Secondary 4 Express / 5 Normal Academic 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) Write as a single fraction in the simplest form 
+2
+3
+1
+2
+50
+5
+x
+x
+x
+−
+−
+−
+. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer 
+ 
+[3] 
+ 
+ 
+ 
+ 
+ 
+ 
+(c) 
+3 25
+7
+2
+y
+x
+z
+=
++
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(i)    Find x when 
+25
+y =
+ and 
+1
+z = −. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer x = 
+ 
+[1] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(ii)   Rearrange the formula to make y the subject.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer y = 
+ 
+[2] 
+ 
+ 
+ 
+ 
+ 
+5 
+ 
+ 
+Canberra Secondary School                                  Mathematics 4052/02                                             
+2024 Preliminary Examination                               Secondary 4 Express / 5 Normal Academic 
+ 
+ 
+ 
+ 
+ 
+ 
+(d) Solve the equation 
+2
+3
+2
+0
+(3
+1)(
+1)
+x
+x
+x
++
+−
+=
++
+−
+. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer x = 
+ 
+or  
+ 
+[3] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Turn Over 
+6 
+ 
+ 
+Canberra Secondary School                                  Mathematics 4052/02                                             
+2024 Preliminary Examination                               Secondary 4 Express / 5 Normal Academic 
+ 
+ 
+ 
+ 
+ 
+2 
+(a) The heights, in centimeters, of 100 plants of each of species A and species 
+B are recorded.  
+The cumulative frequency curves show the distributions of their heights. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(i) Use the curve to estimate  
+ 
+ 
+ 
+ 
+(a) the median height for species B, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer 
+ cm [1] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) the 40th percentile for species A, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer 
+ 
+cm [1] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(c) the interquartile range for species A. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer 
+ cm [2] 
+ 
+ 
+ 
+ 
+ 
+Cumulative 
+frequency 
+Species A 
+Species B 
+10 
+20 
+30 
+40 
+50 
+60 
+70 
+80 
+90 
+100 
+20     25     30      35     40     45      50      55     60     65 
+Heights  
+7 
+ 
+ 
+Canberra Secondary School                                  Mathematics 4052/02                                             
+2024 Preliminary Examination                               Secondary 4 Express / 5 Normal Academic 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(ii) Plants from species B are used for an event.  
+Only plants with height within 10% of 50 cm are used.  
+Find the percentage of plants from species B which are used.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer 
+ % [2] 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) A box has 20 pots of plants. 
+There are 5 pink pots, 9 blue pots and the remaining pots are green.  
+ 
+ 
+ 
+ 
+(i)   Two pots are taken from the box at random, without replacement.  
+       Find, as a fraction in its simplest form, the probability that one pot is     
+pink and the other is blue.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer 
+ 
+[2] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(ii) These two pots are returned to the box. 
+Three pots are taken from the box at random, without replacement.   
+Find, as a fraction in its simplest form, the probability that only one 
+pot is green.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer 
+ 
+[2] 
+ 
+ 
+ 
+ 
+ 
+[Turn Over 
+8 
+ 
+ 
+Canberra Secondary School                                  Mathematics 4052/02                                             
+2024 Preliminary Examination                               Secondary 4 Express / 5 Normal Academic 
+ 
+ 
+ 
+ 
+ 
+3 
+(a) Wayne inherited a sum of money from his parents.  
+He decided to invest 60% of the money and shares 3
+4 of the remaining 
+amount with his wife. 
+The other $20 000 are meant for their travelling expenses.  
+Calculate the sum of money he inherited.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer $  
+[3] 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) A bank offers two investment packages. 
+ 
+Package A 
+Package B 
+• Simple interest of 0.97% 
+per annum. 
+• One time payout of 10% of 
+the amount of the 
+investment. 
+• Compound interest of 
+3.78% per annum. 
+ 
+Wayne wants to invest $55 000 in one of the packages for 3 years.  
+Which package should he choose if he wishes to reap the most benefits 
+from the investment? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[5] 
+ 
+ 
+ 
+ 
+ 
+9 
+ 
+ 
+Canberra Secondary School                                  Mathematics 4052/02                                             
+2024 Preliminary Examination                               Secondary 4 Express / 5 Normal Academic 
+ 
+ 
+ 
+ 
+ 
+ 
+(c) Wayne and his wife go on a seven days self-drive trip to Australia. 
+They pay 150 AUD per day for car hire and 380 AUD per night for hotel. 
+They pay using credit card and is charged with a fee of 2% for the 
+currency conversion. 
+The exchange rate between Singapore dollars and Australian dollars is  
+$1 = 0.91 AUD. 
+Calculate the total amount, including credit card fee, Wayne is charged for 
+car hire and accommodation. 
+Give your answer in Singapore dollars, correct to the nearest dollar.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer $  
+[3] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Turn Over 
+10 
+ 
+ 
+Canberra Secondary School                                  Mathematics 4052/02                                             
+2024 Preliminary Examination                               Secondary 4 Express / 5 Normal Academic 
+ 
+ 
+ 
+ 
+ 
+4 
+A, B, C and D are points on a circle.  
+Line PCQ is a tangent to the circle.  
+Line QE bisects angle AEC and is parallel to line CD.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) Show that EC
+ED
+=
+. 
+Give a reason for each statement you make. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2] 
+ 
+ 
+ 
+ 
+ 
+(b) Show that triangle AEF is similar to triangle QCF .  
+Give a reason for each statement you make.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2] 
+ 
+ 
+ 
+ 
+E 
+A 
+B 
+C 
+P 
+D 
+Q 
+F 
+11 
+ 
+ 
+Canberra Secondary School                                  Mathematics 4052/02                                             
+2024 Preliminary Examination                               Secondary 4 Express / 5 Normal Academic 
+ 
+ 
+ 
+ 
+ 
+ 
+(c) Diameter 
+28
+AD =
+cm and angle 
+61
+QCF =
+. 
+Calculate the area of segment CD.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer 
+ 
+cm2 [4] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Turn Over 
+12 
+ 
+ 
+Canberra Secondary School                                  Mathematics 4052/02                                             
+2024 Preliminary Examination                               Secondary 4 Express / 5 Normal Academic 
+ 
+ 
+ 
+ 
+ 
+5 
+A, B, C and D are points on horizontal ground.  
+35
+AB =
+m and 
+68
+BC =
+m. 
+The bearing of B from A is 137° and the bearing of C from B is 192°. 
+Angle 
+85
+ABD =
+and angle 
+70
+BCD =
+. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) Show that angle 
+125
+ABC =
+. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2] 
+ 
+ 
+(b) Calculate AC. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer 
+ 
+m [3] 
+ 
+ 
+ 
+ 
+ 
+35 m 
+68 m 
+13 
+ 
+ 
+Canberra Secondary School                                  Mathematics 4052/02                                             
+2024 Preliminary Examination                               Secondary 4 Express / 5 Normal Academic 
+ 
+ 
+ 
+ 
+ 
+ 
+(c) Calculate DC. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer 
+ m [2] 
+ 
+ 
+ 
+ 
+ 
+ 
+A man travels in a straight line from D to C.  
+X, is the position of the man where it is the shortest distance from B during this 
+journey. 
+ 
+ 
+ 
+(d) Show that 
+63.9
+BX =
+m.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(e) A drone is hovering vertically above B.  
+The angle of elevation of the drone from C is 40.5. 
+Calculate the greatest angle of elevation of the drone from a point on DC. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer 
+ 
+[3] 
+ 
+ 
+ 
+ 
+ 
+[Turn Over 
+14 
+ 
+ 
+Canberra Secondary School                                  Mathematics 4052/02                                             
+2024 Preliminary Examination                               Secondary 4 Express / 5 Normal Academic 
+ 
+ 
+ 
+ 
+ 
+6 
+In the diagram ABCD is a parallelogram.   
+The diagonal AC and BD intersect at E.  
+ and 
+4
+AF
+AB
+=
+=
+2p
+6p + q. 
+F is a point on AD such that 
+1
+3
+AF
+AD
+=
+. 
+G is the mid-point of AE. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) Express DE in terms of p and q, as simply as possible.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer 
+ 
+[2] 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) Express AG in terms of p and q, as simply as possible.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer 
+ 
+[2] 
+ 
+ 
+ 
+ 
+ 
+B 
+C 
+D 
+A 
+E 
+G 
+15 
+ 
+ 
+Canberra Secondary School                                  Mathematics 4052/02                                             
+2024 Preliminary Examination                               Secondary 4 Express / 5 Normal Academic 
+ 
+ 
+ 
+ 
+ 
+ 
+(c) Show that BG = -3p- 3q  . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(d) Explain why B, G and F lie on a straight line. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(e) Calculate 
+the area of triangle 
+the area of parellogram 
+ABF
+ABCD  . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer 
+ 
+[2] 
+ 
+ 
+ 
+ 
+ 
+[Turn Over 
+16 
+ 
+ 
+Canberra Secondary School                                  Mathematics 4052/02                                             
+2024 Preliminary Examination                               Secondary 4 Express / 5 Normal Academic 
+ 
+ 
+ 
+ 
+ 
+7 
+(a) Complete the table of values for 
+3
+2
+1
+4
+x
+y
+x
+=
+−
++ . 
+ 
+x  
+3
+− 
+2
+− 
+1
+− 
+0 
+1 
+2 
+3 
+y  
+0.25 
+3 
+2.75 
+1 
+0.75
+−
+ 
+ 
+1.75 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[1] 
+ 
+ 
+(b) On the grid opposite, draw the graph of 
+3
+2
+1
+4
+x
+y
+x
+=
+−
++  for 3
+3
+x
+−
+
+. 
+[3] 
+ 
+ 
+ 
+ 
+ 
+ 
+(c) Explain how your graph shows that there is only one solution of the 
+equation 
+3
+2
+1
+4
+x
+x
+k
+−
++ =
+for some values of k.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[1] 
+ 
+ 
+ 
+ 
+ 
+ 
+(d) The equation 
+3
+9
+4
+0
+x
+x
+−
+−
+=
+ can be solved by drawing a suitable straight 
+line on the grid. 
+ 
+ 
+ 
+ 
+(i) Find the equation of the straight line.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer 
+ 
+[2] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(ii) By drawing this straight line, solve the equation 
+3
+9
+4
+0
+x
+x
+−
+−
+=
+. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer x= 
+ 
+or 
+ 
+[2] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+17 
+ 
+ 
+Canberra Secondary School                                  Mathematics 4052/02                                             
+2024 Preliminary Examination                               Secondary 4 Express / 5 Normal Academic 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+3 
+1 
+0 
+x 
+y 
+ 
+ 
+1 
+ 
+ 
+3
+− 
+[Turn Over 
+18 
+ 
+ 
+Canberra Secondary School                                  Mathematics 4052/02                                             
+2024 Preliminary Examination                               Secondary 4 Express / 5 Normal Academic 
+ 
+ 
+ 
+ 
+ 
+8 
+The first four terms in a sequence of numbers are given below.  
+ 
+               
+1
+2
+3
+4
+(1 3)
+8
+11
+(2 4) 12
+20
+(3 5) 16
+31
+(4 6)
+20
+44
+T
+T
+T
+T
+=
+
++
+=
+=
+
++
+=
+=
+
++
+=
+=
+
++
+=
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) Find T5. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer 
+ 
+[1] 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) Show that the nth term of the sequence, Tn is given by 
+2
+6
+4
+n
+n
++
++
+. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2] 
+ 
+ 
+ 
+  
+ 
+19 
+ 
+ 
+Canberra Secondary School                                  Mathematics 4052/02                                             
+2024 Preliminary Examination                               Secondary 4 Express / 5 Normal Academic 
+ 
+ 
+ 
+ 
+ 
+ 
+(c) 
+1
+p
+T −and Tp are consecutive terms in the sequence.  
+Find and simplify an expression, in terms of p, for the sum of 
+1
+p
+T − and Tp. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer 
+ 
+[3] 
+ 
+ 
+ 
+ 
+ 
+ 
+(d) Find the value of p when the sum of 
+1
+p
+T − and Tp is 303.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer p= 
+ 
+[2] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[Turn Over 
+20 
+ 
+ 
+Canberra Secondary School                                  Mathematics 4052/02                                             
+2024 Preliminary Examination                               Secondary 4 Express / 5 Normal Academic 
+ 
+ 
+ 
+ 
+ 
+9 
+Jim, his wife and their child visited Hokkaido, Japan.  
+ 
+The tables below give information that can be used to work out some of their 
+expenses.  
+ 
+ 
+Prices of flight tickets for a return trip 
+Payment 
+mode 
+Cash 
+(Includes tax) 
+Redemption with miles  
+(Excludes tax of $115 per pax) 
+Class  
+Economy 
+Business 
+Economy 
+Business 
+Adult 
+$1920  
+$5500 
+90 000 miles 
+140 000 
+miles 
+Child  
+$1350 
+$4000 
+ 
+ 
+ 
+Amount of fuel used (litres/100 km) 
+ 
+Type of car 
+Type of driving 
+Sedan car 
+Sport Utility 
+Vehicle (SUV) 
+Mini van 
+City  
+7.8 
+9.3 
+10.8 
+Out of city 
+5.7 
+7.5 
+8.9 
+Combined 
+6.2 
+8.8 
+9.5 
+ 
+ 
+ 
+Daily rates of driver 
+Day(s) of hire 
+8 hours  
+Additional time 
+1 
+$350 
+$45 per hour 
+2 or more 
+$300 
+$40 per hour 
+ 
+ 
+ 
+ 
+(a) They travelled in business class and Jim had 150 000 miles to offset some 
+of the cost of their flight tickets.  
+Calculate the amount of money he paid for the tickets.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer $  
+[2] 
+ 
+ 
+ 
+ 
+ 
+21 
+ 
+ 
+Canberra Secondary School                                  Mathematics 4052/02                                             
+2024 Preliminary Examination                               Secondary 4 Express / 5 Normal Academic 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) Jim engaged a driver for 10 hours and his family travelled in a SUV for 
+one day during their trip.  
+The driver picked them from their accommodation in the city to 
+attractions outside the city. 
+ 
+The driver drove the first stage of the journey at an average speed of       
+70 km/h.  
+The second stage of the journey is 32 km longer than the second stage. 
+The driver drove at an average speed of 80 km/h.  
+The journey takes a total of 4 hours and 9 minutes.  
+ 
+Fuel price for the vehicle was $1.70 per litre. 
+Jim paid $550 to the driver. 
+He thinks that he included a 20% tips in the amount paid to the driver.  
+ 
+Is he correct? 
+Justify your decision with calculations.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[8] 
+ 
+ 
+ 
+ 
+ 
+End of paper 
+ 
+ 
+Canberra Secondary School                                  Mathematics 4052/01                                             
+2023 Preliminary Examination                               Secondary 4 Express / 5 Normal Academic 
+ 
+ 
+ 
+ 
+ 
+4E5N Prelim Exam 2024 Maths P1- Marking Scheme 
+ 
+1 
+1
+9
+25
+2
+1
+16
+2
+32
+x
+x
+x
+−
+=
+−
+=
+= −
+ 
+2 
+Total sum of money  
+$900 10
+3
+$3000
+=
+
+=
+ 
+3 
+3
+2
+2
+1
+1 2
+3
+2
+2
+1
+2
+1
+5
+2
+1
+a
+a
+a
+a
+a
+−
+−
+−
+=
++
+−
+−
+=
+−
+ 
+4 
+3, 3, 4, 5, 10 
+5a 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5b 
+A
+B
+
+ 
+6a 
+a = 3, b = 7 
+6b 
+Since the minimum point of y is at (-2, -25), y will not have a value smaller than -
+25. 
+ 
+7a 
+(
+)(
+)
+2
+2
+2
+2
+3
+3
+3
+3
+2
+x
+y
+y
+x
+xy
+x
+y
+xy
+x
+xy
+y
+−
++
+=
++
+−
+−
+=
++
+−
+ 
+ 
+7b 
+(
+)
+(
+)(
+)
+2
+2
+3 12
+3 1 4
+3 1 2
+1
+2
+a
+a
+a
+a
+−
+=
+−
+=
+−
++
+ 
+ 
+8a 
+3.5 
+A 
+B 
+ 
+Canberra Secondary School                                  Mathematics 4052/01                                             
+2023 Preliminary Examination                               Secondary 4 Express / 5 Normal Academic 
+ 
+ 
+ 
+ 
+ 
+8b 
+2
+2
+2
+2
+4
+2
+2
+4
+4
+4
+x
+x
+x
+x
+−
+
+
+
+
+
+
+
+
+=
+
+
+
+
+
+
+=
+
+
+
+
+=
+ 
+9a 
+(
+)
+2
+2
+2
+2
+2
+10
+27
+10
+5
+5
+27
+5
+2
+x
+x
+x
+x
+x
+−
++
+=
+−
++
+−
++
+=
+−
++
+ 
+ 
+p = -5, q = 2 
+9b 
+(5, 2) 
+10 
+70
+2
+35
+ACB
+
+=
+=
+ (angle at centre = twice the angle at circumference) 
+180
+70
+110
+ABC
+
+=
+−
+=
+ (angles in opposite segments) 
+180
+110
+35
+35
+BAC
+
+=
+−
+−
+=
+(angles sum of triangle) 
+Since angle ACB = angle BAC, triangle ABC is an isosceles triangle.  
+ 
+11a 
+18
+360
+20
+x
+x
+=
+=
+ 
+11b 
+3
+6
+9
+180
+the angles are interior angles.
+6
+5
+11
+180
+x
+x
+x
+x
+x
+x
++
+=
+=
+
++
+=
+
+ 
+ 
+The quadrilateral is a trapezium and not a parallelogram as it has 2 parallel sides 
+and 2 non-parallel sides. 
+ 
+12a 
+3
+3
+2
+300
+1
+2400
+L
+L
+V
+V
+m
+
+
+= 
+
+
+
+=
+ 
+ 
+Canberra Secondary School                                  Mathematics 4052/01                                             
+2023 Preliminary Examination                               Secondary 4 Express / 5 Normal Academic 
+ 
+ 
+ 
+ 
+ 
+12b 
+(
+)
+2
+2
+2
+2
+3
+3
+1
+300
+3
+900
+Volume of pyramid
+1
+2
+=
+3
+3
+3
+2
+2 900m
+1800m
+x y
+x y
+x
+y
+x y
+=
+=
+
+=
+=
+
+=
+ 
+13a 
+78 
+13b 
+The interquartile range 
+= 87 – 73 
+= 14 
+14a 
+2
+2
+15
+12
+81
+9
+9
+cos
+15
+3
+5
+AB
+ABD
+=
+−
+=
+=
+
+
+=
+=
+ 
+14b 
+20
+12
+15
+BC
+BE
+DA
+DB
+BC
+=
+=
+ 
+ 
+BC = 16 cm 
+15a 
+Total population = (33.57 + 5.64) million 
+                            = 39.21 million 
+                              
+6
+7
+39.21 10
+3.921 10
+=
+
+=
+
+ 
+15b 
+Population of Singapore in 2013 
+6
+5.64 100 million
+105
+=5.37 million (or 5370000 or 5.37 10 )
+=
+
+
+ 
+16a 
+15
+15
+x
+−
+ 
+16b 
+P(green marbles) = P(yellow marbles) 
+ 
+Canberra Secondary School                                  Mathematics 4052/01                                             
+2023 Preliminary Examination                               Secondary 4 Express / 5 Normal Academic 
+ 
+ 
+ 
+ 
+ 
+1
+2
+5
+1
+20
+2
+5
+x
+x
+=
++
+=
+=
+ 
+17a(i) 
+2
+3
+2
+3 5
+
+ 
+17a(ii) 
+2
+3
+2
+1500
+2
+3 5
+2
+3
+2 3
+1 and 
+7
+m
+p
+n
+HCF
+m
+n
+=
+
+=
+
+
+=
+
+
+=
+=
+ 
+17b 
+32
+3
+24
+LCM =
+
+=
+ 
+18a 
+10 km 
+18b 
+5 cm: 2.5 km 
+1 cm: 0.5 km 
+1 cm: 50000 cm 
+1 : 50000 
+18c 
+2
+2
+2
+2
+1
+:0.25
+30
+:7.5
+cm
+km
+cm
+km
+ 
+19a 
+12
+3
+Gradient 
+15
+0
+3
+5
+3
+ equation of PQ:  
+3
+5
+y
+x
+−
+=
+−
+=
+
+=
++
+ 
+19b 
+Gradient of R 
+(15, 12)
+=
+−
+ 
+Perimeter of OPQR 
+(
+)
+(
+)
+(
+)
+2
+2
+2
+2
+3
+15
+0
+12
+3
+12 2
+15
+12
+63.70223
+63.7
+=
++
+−
++
+−
++
+
++
++
+=
+ 
+20 
+The y-axis of the line chart does not start from zero and the reader may be misled 
+to think that the sales performance has increased greatly from Jan to Jun. 
+21a 
+72 days 
+21b 
+12 men will take 54 days. 
+18 men will take 54 12
+36
+18
+
+=
+days. 
+No. of days saved = (54 – 36) days 
+                              = 18 days 
+22 
+Area of shaded region in triangle ABC 
+ 
+Canberra Secondary School                                  Mathematics 4052/01                                             
+2023 Preliminary Examination                               Secondary 4 Express / 5 Normal Academic 
+ 
+ 
+ 
+ 
+ 
+( )
+( )
+2
+2
+2
+2
+1
+1
+5
+sin 60
+2
+2
+2
+25 3
+2
+4
+cm
+cm
+
+
+
+
+=
+−
+
+
+
+
+
+
+=
+−
+
+
+
+
+
+
+ 
+ 
+tan1.2
+2tan1.2
+4tan1.2
+EF
+OE
+EF
+DF
+=
+=
+=
+ 
+ 
+Area of shaded region in triangle ODF 
+( )
+(
+)
+2
+2
+2
+1
+1
+2 4tan1.2
+2
+2.4
+2
+2
+4tan1.2
+4.8
+cm
+cm
+
+
+
+
+=
+
+−
+
+
+
+
+
+
+
+
+=
+−
+ 
+ 
+2
+2
+2
+ area of shaded region of the logo
+25 3
+=
+2
+4tan1.2
+4.8
+4
+10.030739
+10.0
+cm
+cm
+cm
+
+
+
+
+−
++
+−
+
+
+
+
+
+
+=
+ 
+23a 
+Let the speed of the car after 9s be v m/s. 
+9
+20
+15
+12
+v
+v
+=
+=
+ 
+23b(i) 
+(
+)
+(
+)
+1
+1
+15 20
+20
+25
+900
+2
+2
+1 20
+25
+750
+2
+40
+u
+u
+u
+
+
+
+
++
++
+
+=
+
+
+
+
++
+
+=
+=
+ 
+23b(ii) 
+2 
+2
+/
+m s  
+ 
+24a 
+2
+3
+3
+   1
+0
+4
+
+
+
+
+
+
+ 
+ 
+24b 
+2
+3
+3
+   M= 1
+0
+4
+
+
+
+
+
+
+3.50
+0.40
+2.70
+0.20
+5.00
+0.50
+
+
+
+
+−
+
+
+
+
+−
+
+
+ 
+ 
+Canberra Secondary School                                  Mathematics 4052/01                                             
+2023 Preliminary Examination                               Secondary 4 Express / 5 Normal Academic 
+ 
+ 
+ 
+ 
+ 
+   
+30.10
+1.30
+23.50
+1.60
+−
+
+
+= 
+
+−
+
+
+ 
+24c 
+Azza should buy from Café B as she would save $1.30. 
+ 
+25 
+2
+2
+1
+tan35
+75
+75tan35
+40
+75
+7225
+tan
+75tan35
+7225
+75tan35
+tan
+7225
+31.70902
+31.7
+FC
+FC
+AC
+FC
+FAC
+AC
+FAC
+−
+=
+=
+=
++
+=
+
+=
+=
+
+
+
+=
+
+
+
+
+=
+ 
+ 
+26a 
+Let the radius of the water surface be r cm. 
+2
+4
+5
+8
+5
+2
+1
+5
+volume of water = 
+4
+3
+2
+25
+ (Shown)
+3
+r
+r
+
+
+=
+=
+
+
+
+
+
+
+
+
+=
+ 
+26b 
+Surface area 
+2
+2
+2
+2
+5
+5
+4
+2
+2
+37.04716
+37.0
+rl
+cm
+cm
+
+
+=
+
+
+
+
+=
++
+
+
+
+
+
+
+
+
+=
+ 
+26c 
+Let the height of the water above the hemisphere 
+be h cm.  
+ 
+ 
+Canberra Secondary School                                  Mathematics 4052/01                                             
+2023 Preliminary Examination                               Secondary 4 Express / 5 Normal Academic 
+ 
+ 
+ 
+ 
+ 
+2
+3
+3
+2
+3
+25
+2
+3
+2
+3
+9
+73
+4
+12
+19
+2
+cm
+27
+ height of water in the test-tube
+19
+3
+= 2
+cm
+27
+2
+11
+4
+cm (or 4.20 cm)
+54
+h
+h
+h
+
+
+
+
+
+
+
++
+=
+
+
+
+
+
+
+
+
+=
+=
+
+
+
++
+
+
+
+
+=
+ 
+ 
+ 
+ 
+ 
+ 
+2024 Sec 4/5 Prelims EM Marking Scheme 
+ 
+1a 
+4
+6
+58
+(1)
+3
+5
+46
+(2)
+12
+18
+174
+(3)
+12
+20
+184
+(4)
+(3)
+(4)
+2
+10
+5
+7
+m
+n
+m
+n
+m
+n
+m
+n
+n
+n
+m
++
+=
+−−−−−
++
+=
+−−−−−
++
+=
+−−−
++
+=
+−−−
+−
+−
+= −
+=
+=
+ 
+b 
+2
+3
+1
+2
+50
+5
+3
+1
+2(
+5)(
+5)
+5
+3
+2(
+5)
+2(
+5)(
+5)
+10
+2(
+5)(
+5)
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+−
+−
+−
+=
+−
+−
++
+−
+−
++
+=
+−
++
+−
+=
+−
++
+ 
+ci 
+5
+− 
+ii 
+3
+3
+3
+3
+25
+7
+2
+25
+7
+2
+(7
+2)
+25
+(7
+2)
+25
+y
+x
+z
+y
+x
+z
+x
+z
+y
+x
+z
+y
+=
++
+=
++
++
+=
++
+=
+ 
+d 
+2
+2
+2
+3
+2
+0
+(3
+1)(
+1)
+2
+3
+2
+(3
+1)(
+1)
+2
+3
+2(3
+1)(
+1)
+2
+3
+6
+4
+2
+6
+6
+5
+0
+1.54    or    
+0.541
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
++
+−
+=
++
+−
++
+=
++
+−
++
+=
++
+−
++
+=
+−
+−
+−
+−
+=
+=
+−
+ 
+2ai (a) 40.5 
+ 
+(b) 35.5 
+ 
+(c) 42
+33
+9
+−
+=
+ 
+2024 Sec 4/5 Prelims EM Marking Scheme 
+ 
+ii 
+90
+69 100%
+100
+21%
+−
+
+=
+ 
+bi 
+5
+9
+9
+5
+20
+19
+20
+19
+9
+38
+
+
+
+
+
++
+
+
+
+
+
+
+
+
+
+=
+ 
+ii 
+6
+14
+13
+14
+6
+13
+14
+13
+6
+20
+19
+18
+20
+19
+18
+20
+19
+18
+91
+190
+
+
+
+
+
+
+
+
++
+
+
++
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=
+ 
+3a 
+20000 4
+80000
+80000 100
+40
+$200000
+
+=
+
+=
+ 
+b 
+3
+(55000)(0.97)(3)
+100
+  
+$1600.50
+10
+1600.50
+55000
+100
+$7100.50
+3.78
+55000 1
+100
+  
+$61475.72916
+61475.72916
+55000
+  
+$6475.73
+I
+A
+I
+=
+=
+
+
++
+
+
+
+
+
+=
+
+
+=
++
+
+
+
+
+=
+=
+−
+=
+ 
+Wayne should choose package A as it will generate a higher interest. 
+c 
+(150 7)
+(380 6)
+3330AUD
+3330 1.02
+0.91
+3732.527
+$3733
+
++
+
+=
+
+
+
+
+
+
+
+=
+
+ 
+2024 Sec 4/5 Prelims EM Marking Scheme 
+ 
+4a 
+Let 
+ 
+180
+2
+180
+(180
+2 )
+Since 
+, 
+QEC
+QEC
+ECD
+AEF
+QEC
+CED
+EDC
+ECD
+EDC EC
+ED
+
+
+
+
+
+
+
+
+=
+
+= 
+=
+
+= 
+=
+
+=
+−
+
+=
+−
+−
+−
+=
+
+= 
+=
+ 
+b 
+ 
+90
+90
+(90
+)
+Triangle 
+ and 
+ are similar. (AA)
+AFE
+QFC
+ECF
+FCQ
+AEF
+FCQ
+AEF
+QCF
+
+
+
+
+
+= 
+
+=
+−
+
+=
+−
+−
+=
+
+= 
+=
+ 
+c 
+2
+2
+360
+2(61) 180
+58
+58
+Area of sector 
+(14)
+360
+                               
+99.20451468
+1
+Area of triangle 
+(14) sin58
+2
+                                 
+83.10871342
+Area of segment 
+ =99.2045
+CED
+ECD
+ECD
+CD
+
+
+=
+−
+−
+=
+=
+
+=
+=
+=
+1468
+83.10871342
+                                
+16.0958
+                                
+16.1
+−
+=
+
+ 
+ 
+5a 
+192 180
+12
+137 12
+           
+125 (shown)
+ABC
+−
+=
+
+=
+−
+=
+ 
+b 
+2
+2
+2
+2
+35
+68
+2(35)(68)cos125
+8579.223037
+92.62409966
+      
+92.6
+AC
+AC
+AC
+=
++
+−
+=
+=
+
+ 
+c 
+125
+85
+40
+180
+40
+70
+70
+68
+sin 40
+sin 70
+46.5147
+      
+46.5
+DBC
+BDC
+DC
+DC
+
+=
+−
+=
+
+=
+−
+−
+=
+=
+=
+
+ 
+(Alternate angles are equal) 
+(Angle bisector) 
+(Sum of angles on a straight line) 
+(Sum of angles in a triangle) 
+(Vertically opposite angles are equal) 
+(Angle in a semi-circle) 
+(Tangent perpendicular to radius) 
+ 
+2024 Sec 4/5 Prelims EM Marking Scheme 
+ 
+d 
+2
+1
+Area of triangle
+(68) sin 40
+2
+                         
+1486.124954
+1
+1486.124954
+46.5147
+2
+63.89915247
+  
+63.9
+h
+h
+=
+=
+=
+
+
+=
+
+ 
+e 
+tan 40.5
+68
+58.07748661
+58.07748661
+tan
+63.89915247
+42.3
+h
+h
+
+
+=
+=
+=
+=
+ 
+6a 
+AD
+DB
+DA
+AB
+DE
+=
+=
++
+=
+=
+=
+6p
+-6p + 6p + 4q
+4q
+2q
+ 
+b 
+AE
+AD
+DE
+AG
+=
++
+=
+=
+6p + 2q
+3p + q
+ 
+c 
+BG
+BA
+AG
+=
++
+=
+−
+=
+-6p
+4q + 3p +q
+-3p - 3q
+ 
+d 
+3
+3
+GF
+GA
+AF
+BG
+GF
+=
++
+=
+−
+=
+=
+- p
+q + 2p
+-p -q
+ 
+ 
+BG is parallel to GF  and there is a common point G; 
+therefore B, G and F lie on a straight line. 
+2024 Sec 4/5 Prelims EM Marking Scheme 
+ 
+e 
+the area of triangle 
+1
+the area of triangle 
+3
+the area of triangle 
+1
+3
+the area of parellogram 
+2
+6
+the area of triangle 
+1
+the area of parellogram 
+6
+ABF
+ABD
+ABD
+ABCD
+ABF
+ABCD
+=
+=
+=
+=
+ 
+7a 
+1
+− 
+c 
+From the graph, there is only one intersection point between the line y
+k
+=
+and the 
+curve for some values of k hence there is only one solution for some values of k.  
+di 
+3
+3
+3
+9
+4
+0
+9
+1
+0
+4
+4
+1
+2
+1
+2
+4
+4
+1
+2
+4
+x
+x
+x
+x
+x
+x
+x
+y
+x
+−
+−
+=
+−
+−=
+−
++ =
++
+=
++
+ 
+ii 
+0.45  or  
+2.75
+x = −
+−
+ 
+8a 
+5
+(5 7)
+24
+59
+T =
+
++
+=
+ 
+b 
+2
+2
+(
+2)
+4
+4
+2
+4
+4
+6
+4
+n n
+n
+n
+n
+n
+n
+n
++
++
++
+=
++
++
++
+=
++
++
+ 
+c 
+2
+1
+2
+2
+2
+2
+2
+(
+1)
+6(
+1)
+4
+2
+1 6
+6
+4
+4
+1
+(
+4
+1)
+(
+6
+4)
+2
+10
+3
+p
+T
+p
+p
+p
+p
+p
+p
+p
+p
+p
+p
+p
+p
+p
+−=
+−
++
+−
++
+=
+−
++ +
+−
++
+=
++
+−
++
+−
++
++
++
+=
++
++
+ 
+d 
+2
+2
+2
+10
+3
+303
+2
+10
+300
+0
+10  or  
+15 (
+)
+p
+p
+p
+p
+p
+NA
++
++
+=
++
+−
+=
+=
+−
+ 
+9a 
+115
+5500
+4000
+$9615
++
++
+=
+ 
+2024 Sec 4/5 Prelims EM Marking Scheme 
+ 
+b 
+32
+3
+4
+70
+80
+20
+80
+70(
+32)
+83
+5600
+20
+150
+2240
+83
+5600
+20
+150
+2240
+23240
+140
+Total distance
+140 140
+32
+312
+312
+Amount of fuel used
+8.8
+27.456
+100
+Cost
+(27.456 1.70)
+350
+90
+486.6752
+486.6752 1.20
+$584.0102
+100
+x
+x
+x
+x
+x
+x
+x
++
++
+=
++
++
+=
++
+=
++
+=
+=
+=
++
++
+=
+=
+
+=
+=
+
++
++
+=
+
+=
+4
+ 
+ 
+Jim is incorrect as the tips included is less than 20% of the amount he should be paying. 
+ 

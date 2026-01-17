@@ -17,6 +17,8 @@ export function AlignmentDropzones() {
     setSyllabusFile(acceptedFiles[0] ?? null);
   }, []);
 
+<<<<<<< HEAD
+=======
   const handlePracticeClear = useCallback(() => {
     setPracticeFile(null);
   }, []);
@@ -25,6 +27,7 @@ export function AlignmentDropzones() {
     setSyllabusFile(null);
   }, []);
 
+>>>>>>> 7f8550abe7418b32f77e00c0866523e641d130a0
   return (
     <div className="grid gap-6 md:grid-cols-2">
       <UploadZone
@@ -32,24 +35,34 @@ export function AlignmentDropzones() {
         helperText="Upload your practice paper"
         file={practiceFile}
         onDrop={handlePracticeDrop}
+<<<<<<< HEAD
+=======
         onClear={handlePracticeClear}
+>>>>>>> 7f8550abe7418b32f77e00c0866523e641d130a0
       />
       <UploadZone
         title="Syllabus Version"
         helperText="Upload the syllabus PDF to check against"
         file={syllabusFile}
         onDrop={handleSyllabusDrop}
+<<<<<<< HEAD
+=======
         onClear={handleSyllabusClear}
+>>>>>>> 7f8550abe7418b32f77e00c0866523e641d130a0
       />
     </div>
   );
 }
 
+<<<<<<< HEAD
+export function SyllabusDropzones() {
+=======
 type SyllabusDropzonesProps = {
   onCompare?: () => void;
 };
 
 export function SyllabusDropzones({ onCompare }: SyllabusDropzonesProps = {}) {
+>>>>>>> 7f8550abe7418b32f77e00c0866523e641d130a0
   const [oldFile, setOldFile] = useState<File | null>(null);
   const [newFile, setNewFile] = useState<File | null>(null);
 

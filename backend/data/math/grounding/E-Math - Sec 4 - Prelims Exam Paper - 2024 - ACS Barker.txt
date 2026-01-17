@@ -1,0 +1,5956 @@
+ 
+ 
+Full Name 
+Class Index No 
+Class 
+ 
+ 
+ 
+ 
+Anglo-Chinese School 
+(Barker Road) 
+ 
+PRELIMINARY EXAMINATION 2024  
+SECONDARY FOUR EXPRESS / FIVE NORMAL (ACADEMIC) 
+ 
+MATHEMATICS  
+4052 
+PAPER 1 
+ 
+2 HOURS 15 MINUTES 
+ 
+Candidates answer on the Question Paper. 
+ 
+READ THESE INSTRUCTIONS FIRST 
+ 
+Write your index number and name on all the work you hand in. 
+Write in dark blue or black pen. 
+You may use an HB pencil for any diagrams or graphs.  
+ 
+Answer all questions. 
+The number of marks is given in brackets [ ] at the end of each question or part question. 
+ 
+If working is needed for any question it must be shown with the answer. 
+Omission of essential working will result in loss of marks. 
+The total of the marks for this paper is 90. 
+ 
+The use of an approved scientific calculator is expected, where appropriate. 
+If the degree of accuracy is not specified in the question and if the answer is not exact, give the 
+answer to three significant figures. Give answers in degrees to one decimal place. 
+For , use either your calculator value or 3.142. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This document consists of 21 printed pages and 1 blank page. 
+ 
+ 
+ 
+For Examiner’s Use 
+Anglo-Chinese School (Barker Road) 
+ 
+2 
+Preliminary Examination 2024 
+Secondary 4 Express / 5 Normal (Academic) 
+ 
+Mathematics 4052 Paper 1 
+ 
+Mathematical Formulae 
+ 
+ 
+Compound interest 
+Total amount 
+1 100
+n
+r
+P
+
+=
++
+
+
+
+
+ 
+Mensuration 
+Curved surface area of a cone 
+rl
+
+=
+ 
+Surface area of a sphere 
+2
+4 r
+
+=
+ 
+Volume of a cone 
+2
+1
+3 r h
+
+=
+ 
+Volume of a sphere 
+3
+4
+3
+r
+
+=
+ 
+Area of triangle ABC 
+1
+sin
+2 ab
+C
+=
+ 
+Arc length 
+r
+=
+, where  is in radians 
+Sector area 
+2
+1
+2 r 
+=
+, where  is in radians 
+Trigonometry 
+sin
+sin
+sin
+a
+b
+c
+A
+B
+C
+=
+=
+ 
+2
+2
+2
+2
+cos
+a
+b
+c
+bc
+A
+=
++
+−
+ 
+ 
+Statistics 
+Mean 
+fx
+f
+= 
+
+ 
+ 
+Standard deviation 
+2
+2
+fx
+fx
+f
+f
+
+
+=
+−
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+Anglo-Chinese School (Barker Road) 
+ 
+3 
+Preliminary Examination 2024 
+Secondary 4 Express / 5 Normal (Academic) 
+ 
+Mathematics 4052 Paper 1 
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Write the following numbers in order of size, starting with the smallest. 
+ 
+81
+.0
+,     0.902,     441
+399 ,     
+3
+2
+86
+.0
+ 
+ 
+ 
+ 
+Answer ___________ , ___________ , ___________ , ___________  
+[1] 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Write as a single fraction in its simplest form 
+x
+x
+x
+−
++
+−
+5
+1
+)5
+(
+7
+2
+. 
+ 
+ 
+ 
+ 
+ 
+Answer __________________________ 
+[2] 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+The capacity of a SD card is 250 gigabytes correct to 2 significant figures. 
+The size of a picture file is 2.5 megabytes correct to 1 decimal place.  
+ 
+Calculate the largest number of files that can be stored in this SD card.  
+Give your answer in standard form, correct to 3 significant figures. 
+(1 gigabyte = 109 bytes, 1 megabyte = 106 bytes)  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  __________________________ 
+[2] 
+ 
+ 
+ 
+ 
+ 
+Anglo-Chinese School (Barker Road) 
+ 
+4 
+Preliminary Examination 2024 
+Secondary 4 Express / 5 Normal (Academic) 
+ 
+Mathematics 4052 Paper 1 
+ 
+4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Simplify 
+2
+5
+20
+2
+c
+c
+d
+
+. 
+ 
+ 
+ 
+ 
+ 
+Answer __________________________ 
+[2] 
+ 
+ 
+ 
+ 
+ 
+ 
+5 
+y is directly proportional to x2.  
+If x is increased by 200%, find the percentage increase in y. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  _________________________ % 
+[2] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6 
+A sum of money was divided between Amelia, Brandon and Claire in the ratio 2 : 3 : 4. 
+If instead, this money had been divided equally between them, Amelia would have received an 
+extra $20.  
+What was the total sum of money? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  $ _________________________  
+[2] 
+ 
+ 
+ 
+ 
+Anglo-Chinese School (Barker Road) 
+ 
+5 
+Preliminary Examination 2024 
+Secondary 4 Express / 5 Normal (Academic) 
+ 
+Mathematics 4052 Paper 1 
+ 
+7 
+(a) 
+Solve the inequalities 
+1
+8
+2
+3
+7
+2
+x
+x
+−
+−
+
+−
+. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer __________________________ [2] 
+ 
+ 
+ 
+ 
+ 
+(b) Write down all the integers that satisfy 
+1
+8
+2
+3
+7
+2
+x
+x
+−
+−
+
+−
+. 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer ___________________________________  [1] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8 
+(a) 
+On the Venn diagram, shade the region which represents
+'
+A
+B
+
+. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[1] 
+ 
+ 
+ 
+ 
+ 
+(b) 
+ = {integers x : 1 ≤ x ≤ 12} 
+A = {2, 3, 5, 7, 11} 
+B = {3, 6, 9, 12} 
+ 
+This information is shown on the Venn diagram. 
+ 
+ 
+ 
+Use one of the symbols below to complete each statement. 
+ 
+  
+  
+  
+  
+
+
+
+ 
+ 
+ 
+ 
+ 
+(i) 
+7  ___________ B 
+[1] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(ii) 
+
+3,7 _________ A  
+[1] 
+ 
+ 
+ 
+ 
+ 
+Anglo-Chinese School (Barker Road) 
+ 
+6 
+Preliminary Examination 2024 
+Secondary 4 Express / 5 Normal (Academic) 
+ 
+Mathematics 4052 Paper 1 
+ 
+9 
+The diagram represents a plot of land, ABCD, which is to be used for a park. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) 
+Construct the bisector of angle ABC. 
+[1] 
+ 
+ 
+ 
+ 
+ 
+(b) 
+Construct the perpendicular bisector of AD. 
+[1] 
+ 
+ 
+ 
+ 
+ 
+(c) 
+A toilet is to be built in the park, nearer to A than to D and nearer to BC than to AB.  
+ 
+ 
+Shade the region where the toilet is to be built. 
+[1] 
+ 
+ 
+ 
+ 
+ 
+ 
+10 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Using factorisation, solve 
+2
+6
+9
+6
+0
+p
+p
+−
+−
+=
+. 
+ 
+ 
+ 
+ 
+ 
+Answer p = _________  or  _________ 
+[3] 
+ 
+ 
+ 
+Anglo-Chinese School (Barker Road) 
+ 
+7 
+Preliminary Examination 2024 
+Secondary 4 Express / 5 Normal (Academic) 
+ 
+Mathematics 4052 Paper 1 
+ 
+11 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A supplier sells watches at $210 each.  
+Jimmy buys the watches from the supplier at a discount of 20%.  
+Jimmy intends to then sell the watches at a profit of 20%. 
+ 
+As a marketing strategy, Jimmy plans to offer a 10% discount on the marked price 
+without affecting his intended 20% profit.  
+Calculate the marked price that Jimmy should sell each watch at.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer $_________________________ [3] 
+ 
+ 
+ 
+ 
+ 
+ 
+12 
+Jim sets off at 08 50 to walk 1000 metres at an average speed of 4 km/h.  
+He takes a 5 minutes break and then runs 1.3 km in 5 minutes. 
+ 
+ 
+(a) 
+He aims to complete the entire exercise by 09 30. Will he achieve his target? 
+Show your working clearly. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer ______________________________________________________  
+[2] 
+ 
+ 
+ 
+ 
+ 
+ 
+______________________________________________________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) 
+Calculate his average speed for the entire exercise.  
+Give your answer in metres per minute. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer ____________________ m/min 
+[1] 
+ 
+ 
+ 
+Anglo-Chinese School (Barker Road) 
+ 
+8 
+Preliminary Examination 2024 
+Secondary 4 Express / 5 Normal (Academic) 
+ 
+Mathematics 4052 Paper 1 
+ 
+13 
+(a) 
+ 
+Two bottles of Brand A coffee are geometrically similar.  
+The larger bottle contains 200 g of coffee granules.  
+ 
+The larger bottle is approximately 49% taller than the smaller bottle.  
+Find, in grams, the amount of coffee granules in the smaller bottle.  
+Give your answer to the nearest gram. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  ____________________ g 
+[2] 
+ 
+ 
+ 
+ 
+ 
+(b) 
+ 
+Brand Y claims that its sales of 200 g bottles of coffee are better than that of Brand X 
+in the past 5 years.  
+State one aspect of the charts that makes this claim wrong. 
+ 
+ 
+ 
+Answer  ________________________________________________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+_______________________________________________________________ 
+[1] 
+ 
+ 
+ 
+Anglo-Chinese School (Barker Road) 
+ 
+9 
+Preliminary Examination 2024 
+Secondary 4 Express / 5 Normal (Academic) 
+ 
+Mathematics 4052 Paper 1 
+ 
+14 
+(a) 
+Express 1260 as a product of its prime factors. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer __________________________ [1] 
+ 
+ 
+ 
+ 
+ 
+(b) 
+The highest common factor of two numbers is 12 while the lowest common 
+multiple is 1260. Both numbers are less than 200. 
+Find the two numbers. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer ______________ and  ______________ 
+[2] 
+ 
+ 
+ 
+ 
+ 
+(c) 
+5
+486
+2 3
+=
+
+. 
+m and n are both prime numbers. 
+Find the values of m and n so that 486
+m
+n
+
+is both a perfect square and a 
+perfect cube. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer m = ___________ and  n = __________ 
+[1] 
+ 
+ 
+ 
+  
+ 
+Anglo-Chinese School (Barker Road) 
+ 
+10 
+Preliminary Examination 2024 
+Secondary 4 Express / 5 Normal (Academic) 
+ 
+Mathematics 4052 Paper 1 
+ 
+15 
+(a) 
+Express 
+2
+1
+1
+2
+x
+x
++
++  in the form 
+2
+(
+)
+x
+a
+b
++
++
+.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  __________________________ [2] 
+ 
+ 
+ 
+ 
+ 
+(b) 
+Sketch the graph of 
+2
+1
+1
+2
+y
+x
+x
+=
++
++  on the axes below. 
+Indicate clearly the coordinates of the point where the graph crosses the y-axis 
+and the turning point on the curve. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2] 
+ 
+  
+ 
+ 
+  
+ 
+ 
+ 
+Anglo-Chinese School (Barker Road) 
+ 
+11 
+Preliminary Examination 2024 
+Secondary 4 Express / 5 Normal (Academic) 
+ 
+Mathematics 4052 Paper 1 
+ 
+16 
+The table below shows the number of cars and motorcycles passing through an Electronic 
+Road Pricing (ERP) gantry on certain days of the week from 7.30 am to 7.55 am. 
+ 
+ 
+Cars Motorcycles 
+Wednesday 
+320 
+120 
+Thursday 
+380 
+100 
+Friday 
+410 
+130 
+Charges per vehicle 
+$2 
+$0.50 
+ 
+ 
+ 
+(a) 
+Represent the number of vehicles passing through the ERP gantry in a 
+2
+3matrix V. 
+ 
+ 
+ 
+ 
+ 
+Answer V = 
+                  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+[1] 
+ 
+ 
+ 
+ 
+ 
+(b) Write down a matrix C such that the product P = VC represents the total 
+charges incurred by all vehicles on each of the days. 
+ 
+ 
+ 
+ 
+ 
+Answer 
+ 
+ 
+ 
+C =  
+ 
+ 
+ 
+ 
+[1] 
+ 
+  
+ 
+ 
+(c) 
+Evaluate the matrix P = VC. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer P =  
+ 
+[1] 
+ 
+(d) A is a matrix such that A
+(
+)
+1 1 1 1
+3
+=
+P.  
+State what A represents. 
+ 
+ 
+ 
+Answer_________________________________________________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+_______________________________________________________________ 
+[1] 
+ 
+ 
+ 
+ 
+Anglo-Chinese School (Barker Road) 
+ 
+12 
+Preliminary Examination 2024 
+Secondary 4 Express / 5 Normal (Academic) 
+ 
+Mathematics 4052 Paper 1 
+ 
+17 
+ 
+The diagram shows a container in the shape of a prism with a triangular cross-section.  
+The container has a height of 40 cm.  
+Water is poured into the empty container at a constant rate. 
+It takes 12 minutes to fill the container completely. 
+After t minutes, the depth of the water is d cm.  
+ 
+ 
+ 
+(a) 
+Find the value of t when d = 20. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  t = ________________ 
+[2] 
+ 
+ 
+ 
+ 
+ 
+(b) On the grid, sketch the graph showing how the depth varies during the 12 minutes.  
+ 
+ 
+ 
+ 
+ 
+ 
+Answer 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2] 
+ 
+ 
+ 
+ 
+ 
+Anglo-Chinese School (Barker Road) 
+ 
+13 
+Preliminary Examination 2024 
+Secondary 4 Express / 5 Normal (Academic) 
+ 
+Mathematics 4052 Paper 1 
+ 
+18 
+The diagram shows a semicircle with centre O and radius 8 cm.  
+OP is perpendicular to PQ. 
+Angle PQO = 0.7 radians.  
+ 
+ 
+ 
+ 
+ 
+Find the area of the shaded region. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  ______________________________ cm2 
+[4] 
+ 
+ 
+ 
+ 
+Anglo-Chinese School (Barker Road) 
+ 
+14 
+Preliminary Examination 2024 
+Secondary 4 Express / 5 Normal (Academic) 
+ 
+Mathematics 4052 Paper 1 
+ 
+19 
+The diagram below shows the speed-time graph for a car travelling on the road. 
+ 
+ 
+ 
+ 
+ 
+(a) 
+The total distance travelled by the car from 0 to 23 seconds is 385 metres. 
+Calculate the value of v. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer v = _______________________ [2] 
+ 
+ 
+ 
+ 
+ 
+(b) 
+When t = 45, the car is travelling at a speed of 25 m/s. 
+When t = T, the car is travelling at a speed of 30 m/s. 
+Find the value of T. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer T = _______________________ [2] 
+ 
+ 
+ 
+Anglo-Chinese School (Barker Road) 
+ 
+15 
+Preliminary Examination 2024 
+Secondary 4 Express / 5 Normal (Academic) 
+ 
+Mathematics 4052 Paper 1 
+ 
+20 
+In the diagram, AB, QR and PC are parallel.  
+PQB, CQA and CRB are straight lines. 
+AB = 7 cm and QR = 3 cm. 
+ 
+ 
+ 
+ 
+(a) 
+Show that triangle PCB and triangle QRB are similar. 
+Give a reason for each statement. 
+ 
+Answer 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+_______________________________________________________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+_______________________________________________________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+_______________________________________________________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+_______________________________________________________________ 
+[2] 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) 
+Write down another pair of similar triangles. 
+ 
+ 
+ 
+ 
+ 
+Answer  Triangles ___________ and ___________ 
+[1] 
+ 
+ 
+  
+ 
+ 
+(c) 
+Calculate PC. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  __________________ cm 
+[2] 
+ 
+ 
+ 
+ 
+ 
+ 
+Anglo-Chinese School (Barker Road) 
+ 
+16 
+Preliminary Examination 2024 
+Secondary 4 Express / 5 Normal (Academic) 
+ 
+Mathematics 4052 Paper 1 
+ 
+21 
+(a) 
+Simplify 
+1
+6
+2
+4
+4a
+b
+−
+
+
+
+
+
+
+, giving your answer in positive index. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer __________________________ [2] 
+ 
+ 
+ 
+ 
+ 
+(b) 
+2
+4
+2
+4
+8
+k
+k
+=
+. 
+ 
+Use the laws of indices to find the value of k. 
+Show your working. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer k = _______________________ [3] 
+ 
+ 
+ 
+ 
+ 
+ 
+Anglo-Chinese School (Barker Road) 
+ 
+17 
+Preliminary Examination 2024 
+Secondary 4 Express / 5 Normal (Academic) 
+ 
+Mathematics 4052 Paper 1 
+ 
+22 
+The first three terms in a sequence of numbers are given below. 
+ 
+12
+10
+2
+1
+1
+=
++
+
+=
+T
+ 
+12
+6
+3
+2
+2
+=
++
+
+=
+T
+ 
+3
+3 4
+2
+14
+T = +
+=
+ 
+4
+4 5
+2
+18
+T =
+−
+=
+ 
+ 
+ 
+ 
+(a) 
+Show that the nth term of the sequence, 
+n
+T , is given by 
+14
+3
+2
++
+−
+=
+n
+n
+Tn
+. 
+ 
+ 
+ 
+Answer 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2] 
+ 
+ 
+ 
+ 
+ 
+(b) 
+Evaluate 
+50
+T . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  __________________ [1] 
+ 
+ 
+ 
+ 
+ 
+(c) 
+Explain why every term in the sequence is even. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  ________________________________________________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+_______________________________________________________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+_______________________________________________________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+_______________________________________________________________ 
+[2] 
+ 
+ 
+ 
+ 
+ 
+ 
+Anglo-Chinese School (Barker Road) 
+ 
+18 
+Preliminary Examination 2024 
+Secondary 4 Express / 5 Normal (Academic) 
+ 
+Mathematics 4052 Paper 1 
+ 
+23 
+In the diagram, ABCDE is a regular pentagon.  
+ 
+ 
+ 
+ 
+ 
+(a) 
+Show that BE is parallel to CD. 
+ 
+Answer __________________________________________________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+_________________________________________________________________  
+ 
+ 
+ 
+ 
+ 
+ 
+_________________________________________________________________  
+ 
+ 
+ 
+ 
+ 
+ 
+_________________________________________________________________  
+ 
+ 
+ 
+ 
+ 
+ 
+_________________________________________________________________  
+ 
+ 
+ 
+ 
+ 
+ 
+_________________________________________________________________  
+ 
+ 
+ 
+ 
+ 
+ 
+_________________________________________________________________ [3] 
+ 
+ 
+ 
+ 
+ 
+(b) 
+The sides AB and DC are produced to meet at X.  
+What type of quadrilateral is BECX?  
+Explain your answer. 
+ 
+ 
+  
+Answer __________________________________________________________ 
+ 
+ 
+  
+ 
+ 
+ _________________________________________________________________  
+ 
+  
+ 
+ 
+ _________________________________________________________________  
+ 
+  
+ 
+ 
+ _________________________________________________________________  
+ 
+  
+ 
+ 
+ _________________________________________________________________  
+ 
+  
+ 
+ 
+ _________________________________________________________________  
+ 
+  
+ 
+ 
+ _________________________________________________________________ [3] 
+ 
+ 
+ 
+ 
+  
+Anglo-Chinese School (Barker Road) 
+ 
+19 
+Preliminary Examination 2024 
+Secondary 4 Express / 5 Normal (Academic) 
+ 
+Mathematics 4052 Paper 1 
+ 
+24 
+A is the point (8, –2) and 
+4
+3
+AB
+
+
+= 
+
+−
+
+
+ . 
+ 
+ 
+(a) 
+Find 
+ 
+ 
+ 
+(i) 
+AB , 
+ 
+ 
+ 
+ 
+ 
+Answer  _______________________ [1] 
+ 
+ 
+  
+ 
+ 
+ 
+(ii) the equation of the line AB. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  _______________________ [2] 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) 
+The equation of the line CD is 2
+4
+19
+y
+x
+−
+=
+. 
+Find the coordinates of the point of intersection of AB and CD. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  ( ________ , __________) 
+[3] 
+ 
+ 
+ 
+ 
+Anglo-Chinese School (Barker Road) 
+ 
+20 
+Preliminary Examination 2024 
+Secondary 4 Express / 5 Normal (Academic) 
+ 
+Mathematics 4052 Paper 1 
+ 
+ 25 There are 12 boys and 13 girls in a class.  
+Two of the children are selected at random to participate in a forum. 
+ 
+ 
+(a) 
+Draw a tree diagram below to show the probabilities of the possible outcomes. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2] 
+ 
+  
+ 
+ 
+(b) 
+Find, as a fraction in its simplest form, the probability that 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(i) 
+two boys are selected, 
+ 
+ 
+ 
+ 
+Answer  __________________________ [1] 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+(ii) one boy and one girl are selected. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  __________________________ [2] 
+ 
+  
+ 
+Anglo-Chinese School (Barker Road) 
+ 
+21 
+Preliminary Examination 2024 
+Secondary 4 Express / 5 Normal (Academic) 
+ 
+Mathematics 4052 Paper 1 
+ 
+ 
+ 
+ 
+ 
+(c) 
+As a standby, a third student is selected.  
+Find the probability that out of the three students, there will be at least one boy 
+and one girl selected. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  __________________________ [2] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Anglo-Chinese School (Barker Road) 
+ 
+22 
+Preliminary Examination 2024 
+Secondary 4 Express / 5 Normal (Academic) 
+ 
+Mathematics 4052 Paper 1 
+ 
+BLANK PAGE 
+ 
+ 
+Full Name 
+Class Index No 
+Class 
+ 
+ 
+ 
+ 
+Anglo-Chinese School 
+(Barker Road) 
+ 
+PRELIMINARY EXAMINATION 2024 
+SECONDARY FOUR EXPRESS / FIVE NORMAL (ACADEMIC) 
+ 
+MATHEMATICS  
+4052 
+PAPER 2 
+ 
+2 HOURS 15 MINUTES 
+ 
+Candidates answer on the Question Paper. 
+ 
+READ THESE INSTRUCTIONS FIRST 
+ 
+Write your index number and name on all the work you hand in. 
+Write in dark blue or black pen. 
+You may use an HB pencil for any diagrams or graphs.  
+ 
+Answer all questions. 
+The number of marks is given in brackets [ ] at the end of each question or part question. 
+ 
+If working is needed for any question it must be shown with the answer. 
+Omission of essential working will result in loss of marks. 
+The total of the marks for this paper is 90. 
+ 
+The use of an approved scientific calculator is expected, where appropriate. 
+If the degree of accuracy is not specified in the question and if the answer is not exact, give the 
+answer to three significant figures. Give answers in degrees to one decimal place. 
+For , use either your calculator value or 3.142. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This document consists of 21 printed pages and 1 blank page. 
+ 
+ 
+ 
+For Examiner’s Use 
+Anglo-Chinese School (Barker Road) 
+ 
+2 
+Preliminary Examination 2024 
+Secondary 4 Express / 5 Normal (Academic) 
+ 
+Mathematics 4052 Paper 2 
+ 
+Mathematical Formulae 
+ 
+ 
+Compound interest 
+Total amount 
+1 100
+n
+r
+P
+
+=
++
+
+
+
+
+ 
+Mensuration 
+Curved surface area of a cone 
+rl
+
+=
+ 
+Surface area of a sphere 
+2
+4 r
+
+=
+ 
+Volume of a cone 
+2
+1
+3 r h
+
+=
+ 
+Volume of a sphere 
+3
+4
+3
+r
+
+=
+ 
+Area of triangle ABC 
+1
+sin
+2 ab
+C
+=
+ 
+Arc length 
+r
+=
+, where  is in radians 
+Sector area 
+2
+1
+2 r 
+=
+, where  is in radians 
+Trigonometry 
+sin
+sin
+sin
+a
+b
+c
+A
+B
+C
+=
+=
+ 
+2
+2
+2
+2
+cos
+a
+b
+c
+bc
+A
+=
++
+−
+ 
+ 
+Statistics 
+Mean 
+fx
+f
+= 
+
+ 
+ 
+Standard deviation 
+2
+2
+fx
+fx
+f
+f
+
+
+=
+−
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+Anglo-Chinese School (Barker Road) 
+ 
+3 
+Preliminary Examination 2024 
+Secondary 4 Express / 5 Normal (Academic) 
+ 
+Mathematics 4052 Paper 2 
+ 
+1 
+On a particular day in 2023, the exchange rate between Singapore dollars (SGD) and 
+United States dollars (USD) was USD 1 = SGD x. 
+ 
+ 
+ 
+(a) 
+Write down an expression, in terms of x, for the USD received in exchange for 
+SGD 10 000.  
+ 
+ 
+ 
+ 
+Answer  USD = ___________________ 
+[1] 
+ 
+  
+ 
+ 
+In 2022, the rate was such that USD 1 would exchange for SGD 0.030 less than in 2023. 
+The difference in exchanging SGD 10 000 in 2023 and SGD 10 000 in 2022, is USD 166. 
+ 
+ 
+(b) 
+Write down an equation to represent this information and show that it reduces to 
+2
+83
+2.49
+150
+0
+x
+x
+−
+−
+=
+. 
+ 
+Answer 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+[3] 
+ 
+  
+ 
+ 
+(c) 
+Solve the equation 
+2
+83
+2.49
+150
+0
+x
+x
+−
+−
+=
+, giving your solutions correct to three 
+decimal places.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  x = ______________ or ______________ 
+[3] 
+ 
+ 
+ 
+ 
+ 
+(d) Find the amount of USD received in exchange for SGD 20 000 in 2022. 
+Give your answer correct to the nearest dollar. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  USD = ___________________ 
+[2] 
+ 
+ 
+ 
+Anglo-Chinese School (Barker Road) 
+ 
+4 
+Preliminary Examination 2024 
+Secondary 4 Express / 5 Normal (Academic) 
+ 
+Mathematics 4052 Paper 2 
+ 
+2 
+(a) 
+It is given that 
+2
+2
+3
+sq
+r
+q
+=
+−
+. 
+ 
+ 
+ 
+ 
+(i) 
+Evaluate s when q = –3 and r = 5.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  s = _______________________ 
+[1] 
+ 
+ 
+(ii) Express q in terms of r and s. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  q = _______________________ [2] 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) (i) 
+Show that 
+2
+2
+(7
+1)
+(
+1)
+n
+n
+−
+−
+−
+ is a multiple of 12 for all integer values of n. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2] 
+ 
+  
+ 
+ 
+ 
+Anglo-Chinese School (Barker Road) 
+ 
+5 
+Preliminary Examination 2024 
+Secondary 4 Express / 5 Normal (Academic) 
+ 
+Mathematics 4052 Paper 2 
+ 
+ 
+(b) (ii) 
+Simplify 
+2
+2
+2
+3
+12
+4
+(7
+1)
+(
+1)
+p
+n
+n
+np
+n
+n
+−
++
+−
+−
+−
+−
+. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  _____________________________ [3] 
+ 
+ 
+ 
+ 
+ 
+Anglo-Chinese School (Barker Road) 
+ 
+6 
+Preliminary Examination 2024 
+Secondary 4 Express / 5 Normal (Academic) 
+ 
+Mathematics 4052 Paper 2 
+ 
+3 
+The diagram shows a circle ABCDEF, with centre O.  
+TA and TE are tangents to the circle.  
+BGF and COT are straight lines. 
+OA intersects BF at G. CT is parallel to BA. 
+Angle OTE = 32°. 
+ 
+ 
+ 
+ 
+ 
+(a) 
+Identify the triangle that is congruent to triangle TOE and show that they are 
+congruent. 
+Give a reason for each statement you make. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+_______________________________________________________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+_______________________________________________________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+_______________________________________________________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+_______________________________________________________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+_______________________________________________________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+_______________________________________________________________ 
+[3] 
+ 
+ 
+ 
+ 
+ 
+ 
+Anglo-Chinese School (Barker Road) 
+ 
+7 
+Preliminary Examination 2024 
+Secondary 4 Express / 5 Normal (Academic) 
+ 
+Mathematics 4052 Paper 2 
+ 
+ 
+(b) Find, giving reasons for each step of your working, 
+ 
+ 
+ 
+(i) 
+angle OFG, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer angle OFG  = ___________  
+[3] 
+ 
+ 
+ 
+ 
+ 
+ 
+(ii) angle CDE. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer angle CDE = ___________  
+[3] 
+ 
+  
+ 
+ 
+(c) 
+Explain why points O,E,T and A can also be points on the circumference of 
+another circle. 
+ 
+ 
+ 
+ 
+Answer_________________________________________________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+_______________________________________________________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+_______________________________________________________________ 
+[1] 
+ 
+ 
+ 
+ 
+ 
+Anglo-Chinese School (Barker Road) 
+ 
+8 
+Preliminary Examination 2024 
+Secondary 4 Express / 5 Normal (Academic) 
+ 
+Mathematics 4052 Paper 2 
+ 
+4 
+ 
+The position vectors of A and B, relative to O, are a and 2b respectively. 
+3
+4
+BC
+BA
+=
+ and 
+1
+2
+AD
+BO
+=
+. 
+ 
+ 
+(a) 
+Find, in terms of a and b, 
+ 
+ 
+ 
+(i) 
+AB , 
+ 
+ 
+ 
+ 
+  
+Answer 
+AB  = ___________ 
+[1] 
+ 
+ 
+ 
+ 
+ 
+ 
+(ii) 
+OC . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer OC  = ___________ 
+[2] 
+ 
+ 
+ 
+ 
+ 
+(b) (i) 
+P is a point outside of triangle ABO.  
+Find OP , such that 
+3
+BP
+OA
+=
+. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer OP  = ___________ 
+[1] 
+ 
+ 
+  
+ 
+Anglo-Chinese School (Barker Road) 
+ 
+9 
+Preliminary Examination 2024 
+Secondary 4 Express / 5 Normal (Academic) 
+ 
+Mathematics 4052 Paper 2 
+ 
+ 
+ 
+(ii) Show that O, C and P lie on a straight line. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer_____________________________________________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+___________________________________________________________ 
+[2] 
+ 
+  
+ 
+ 
+(c) 
+Find the ratio  
+ 
+ 
+ 
+(i) 
+area of triangle OCB : area of triangle OCA, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Answer _______ : _______ 
+[1] 
+ 
+ 
+ 
+ 
+ 
+ 
+(ii) area of triangle OAC : area of triangle OAD.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Answer _______ : _______ 
+[1] 
+ 
+ 
+ 
+ 
+ 
+ 
+Anglo-Chinese School (Barker Road) 
+ 
+10 
+Preliminary Examination 2024 
+Secondary 4 Express / 5 Normal (Academic) 
+ 
+Mathematics 4052 Paper 2 
+ 
+5 
+A stone is thrown from the top of a cliff next to the sea. 
+The height, h metres, of the stone above the sea level t seconds after it is released can 
+be modelled by the equation 
+2
+16
+5
+80
+h
+t
+t
+=
+−
++
+. 
+Some corresponding values of t and h are given in the table below. 
+t 
+0 
+1 
+2 
+3 
+4 
+5 
+6 
+h 
+80 
+91 
+92 
+83 
+64 
+35 
+p 
+ 
+ 
+ 
+ 
+ 
+(a) 
+Calculate the value of p. 
+ 
+ 
+ 
+  
+Answer p = _____________ 
+[1] 
+ 
+  
+ 
+ 
+(b) On the grid, draw the graph of 
+2
+16
+5
+80
+h
+t
+t
+=
+−
++
+ for 0
+6
+t
+
+. 
+ 
+[3] 
+  
+ 
+ 
+ 
+ 
+(c) 
+Explain how the graph shows that the stone will not reach a height of 100m. 
+ 
+ 
+ 
+ 
+Answer __________________________________________________________  
+  
+  
+ 
+ 
+ 
+________________________________________________________________ 
+[1] 
+ 
+ 
+ 
+ 
+ 
+ 
+Anglo-Chinese School (Barker Road) 
+ 
+11 
+Preliminary Examination 2024 
+Secondary 4 Express / 5 Normal (Academic) 
+ 
+Mathematics 4052 Paper 2 
+ 
+ 
+(d) Use the graph to find the length of time that the stone was 84 metres or more 
+above sea level. 
+ 
+ 
+ 
+ 
+ 
+  
+Answer ____________________ s   [1] 
+ 
+ 
+ 
+ 
+ 
+ 
+(e) 
+By drawing a tangent on the grid in part (b), find the gradient of the curve at (4, 64). 
+State the units of your answer.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Answer _____________________ 
+[3] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Anglo-Chinese School (Barker Road) 
+ 
+12 
+Preliminary Examination 2024 
+Secondary 4 Express / 5 Normal (Academic) 
+ 
+Mathematics 4052 Paper 2 
+ 
+6 
+A water dispenser is in the shape of a cylinder and a hemisphere both of radius 10 cm. 
+The height of the dispenser is 90 cm.  
+ 
+Conical disposable cups of diameter 6 cm and height 5.3 cm are provided to drink the 
+water from the dispenser.  
+ 
+ 
+ 
+ 
+ 
+(a) 
+Water is filled to the brim of the dispenser.  
+Show that the amount of water in the dispenser is 
+2
+8666 3 cm3. 
+Answer 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+[2] 
+ 
+ 
+ 
+ 
+ 
+(b) Find the capacity of one conical cup.  
+Give your answer to the nearest cm3. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Answer _________________ cm3 
+[2] 
+ 
+ 
+ 
+ 
+Anglo-Chinese School (Barker Road) 
+ 
+13 
+Preliminary Examination 2024 
+Secondary 4 Express / 5 Normal (Academic) 
+ 
+Mathematics 4052 Paper 2 
+ 
+ 
+(c) 
+Find the height of the water remaining in the dispenser after 250 cups of water 
+have been dispensed. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Answer _________________ cm 
+[4] 
+ 
+ 
+ 
+ 
+ 
+(d) The conical disposable cups are made of a thin material of negligible thickness. 
+Calculate the cost of 250 conical cups given that the cost of material is  
+0.003 cents/cm2.  
+Give your answer to the nearest cent. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Answer ________________ cents 
+[3] 
+ 
+ 
+ 
+ 
+ 
+ 
+Anglo-Chinese School (Barker Road) 
+ 
+14 
+Preliminary Examination 2024 
+Secondary 4 Express / 5 Normal (Academic) 
+ 
+Mathematics 4052 Paper 2 
+ 
+7 
+The map shown has a scale of 1 : 7500. 
+An area on the map is formed by a triangle PQR.  
+PQ = 7 cm, QR = 5.5 cm and RP = 6 cm.  
+ 
+ 
+ 
+ 
+(a) 
+Find the actual perimeter, in kilometres, of triangle PQR. 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Answer ___________________ km 
+[2] 
+ 
+  
+ 
+ 
+(b) P is due north of Q.  
+Calculate the bearing of Q from R. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Answer ______________________   [4] 
+ 
+ 
+Anglo-Chinese School (Barker Road) 
+ 
+15 
+Preliminary Examination 2024 
+Secondary 4 Express / 5 Normal (Academic) 
+ 
+Mathematics 4052 Paper 2 
+ 
+ 
+(c) 
+Calculate, in square metres, the actual area of triangle PQR. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Answer __________________ m2 
+[3] 
+ 
+  
+ 
+ 
+(d) A drone flies along the line QP at a vertical height of 75m. 
+Find the greatest angle of elevation of the drone from R.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Answer ___________________ 
+[4] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Anglo-Chinese School (Barker Road) 
+ 
+16 
+Preliminary Examination 2024 
+Secondary 4 Express / 5 Normal (Academic) 
+ 
+Mathematics 4052 Paper 2 
+ 
+8 
+The marks attained by 40 students in a Mathematics test were recorded. 
+The cumulative frequency curve shows the distribution of the marks. 
+ 
+ 
+ 
+(a) 
+Use the curve to estimate the 
+ 
+ 
+ 
+(i) 
+the median mark, 
+ 
+ 
+  
+Answer ____________________ 
+[1] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(ii) the interquartile range. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Answer ____________________ 
+[2] 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) 12.5% of students achieved more than x marks in this test. Estimate the value of x. 
+ 
+ 
+ 
+ 
+ 
+  
+Answer x = _________________ 
+[1] 
+ 
+  
+ 
+ 
+ 
+Anglo-Chinese School (Barker Road) 
+ 
+17 
+Preliminary Examination 2024 
+Secondary 4 Express / 5 Normal (Academic) 
+ 
+Mathematics 4052 Paper 2 
+ 
+ 
+(c) 
+Complete the frequency distribution table of the marks attained by the students. 
+ 
+Marks (x) 
+4
+10
+x
+
+
+ 
+10
+15
+x
+
+
+ 
+15
+20
+x
+
+
+ 
+20
+24
+x
+
+
+ 
+Number of 
+students 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2] 
+ 
+ 
+ 
+Calculate an estimate for 
+ 
+ 
+ 
+(i) 
+the mean mark, 
+ 
+ 
+ 
+  
+Answer _____________________  [1] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(ii) the standard deviation of their marks. 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Answer _____________________  [1] 
+ 
+ 
+ 
+ 
+ 
+ 
+The same group of students sat for a Chemistry test.  
+The maximum mark for the test was also 25.  
+The box-and-whisker plot of the distribution of the marks is shown below.  
+ 
+ 
+ 
+(d) 
+The scores of the top 25% of the students for the Chemistry test were less 
+consistent than the scores of the bottom 25%.  
+Given that a is an integer, write down the value of a. 
+ 
+ 
+  
+Answer a = ______________________ 
+[1] 
+ 
+ 
+ 
+ 
+ 
+ 
+(e) 
+Make two comparisons between the performances of the students in the 
+Mathematics test and the Chemistry test.  
+Use figures to support your answer. 
+ 
+ 
+ 
+ 
+1. ____________________________________________________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+_______________________________________________________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2. ____________________________________________________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+_______________________________________________________________ 
+[2] 
+ 
+ 
+ 
+ 
+ 
+ 
+Anglo-Chinese School (Barker Road) 
+ 
+18 
+Preliminary Examination 2024 
+Secondary 4 Express / 5 Normal (Academic) 
+ 
+Mathematics 4052 Paper 2 
+ 
+9 Lee started work on 1 January 2019.  
+He started with a monthly salary of $4100 and has seen his salary increase by 4% annually.  
+ 
+ 
+(a) Show that Lee’s current monthly salary, in January 2024, is $5000, correct to the nearest 
+thousand.   
+ 
+ 
+ 
+Answer 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+[1] 
+ 
+ 
+ 
+ 
+Lee has savings of $105 000.  
+With his savings and monthly income, he intends to buy a car, in January 2024.  
+He is deciding between buying an EV 60kWh electric car or a 1998cc petrol car. 
+ 
+The table below is used to calculate the cost price of the car: 
+ 
+Car Type 
+EV 60kWh electric car 
+1998cc petrol car 
+a. Base cost (without COE) 
+$100,000 
+$110,000 
+b. COE 
+Refer to Table A (COE Prices)  
+c. 
+Rebates (clean energy initiatives) 
+$30,000 
+Not applicable 
+Total cost price of car = a + b – c  
+ 
+ 
+ 
+Every car owner in Singapore must purchase a Certificate of Entitlement (COE) for the car, 
+which gives him the right to own and use a vehicle in Singapore. The COE prices since 
+January 2023 can be seen below.  
+Table A: COE Prices 
+ 
+ 
+ 
+ 
+Anglo-Chinese School (Barker Road) 
+ 
+19 
+Preliminary Examination 2024 
+Secondary 4 Express / 5 Normal (Academic) 
+ 
+Mathematics 4052 Paper 2 
+ 
+ 
+Lee will take a loan from a financial institution. He intends to take the largest loan possible. 
+The loan amount can be calculated using the information in Table B below: 
+ 
+Table B: Calculation of Loan 
+Car Type 
+EV 60kWh 
+1998cc petrol car 
+Maximum loan amount 
+60% of cost price of car 
+70% of cost price of car 
+Maximum loan period 
+7 years 
+7 years 
+Interest rate 
+(based on simple interest) 
+2.78% yearly 
+2.78% yearly 
+ 
+ 
+Being prudent, he would like to maintain an amount equivalent to at least 6 months of his 
+salary in his savings. 
+ 
+ 
+(b) Show that Lee can only make the downpayment for one of the two cars. 
+Show your calculations clearly and justify any decisions you make. 
+ 
+ 
+ 
+Answer 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[3] 
+ 
+ 
+ 
+ 
+ 
+Anglo-Chinese School (Barker Road) 
+ 
+20 
+Preliminary Examination 2024 
+Secondary 4 Express / 5 Normal (Academic) 
+ 
+Mathematics 4052 Paper 2 
+ 
+ 
+The approximate expenses for each car are seen in Table C below.  
+Table C: Maintenance Cost 
+Car Type 
+EV 60kWh 
+1998cc petrol car 
+a. Road Tax 
+Refer to Table D below 
+b. Repayment of loan 
+to be calculated 
+c. Other costs (Annual) 
+$4700 
+$3000 
+d. Other costs (Monthly) 
+$600 
+$800 
+Total expenses = a + b + c + d 
+ 
+ 
+Table D: Road Tax (for 6 months) 
+The table calculates the road tax for 6 months 
+For Petrol Car 
+Engine Capacity 
+(EC) in cc 
+1000 < EC ≤ 1600  
+[$250 + $0.375(EC - 1000)] x 0.782 
+1600 < EC ≤ 3000 
+[$475 + $0.75(EC - 1600)] x 0.782 
+For Electric Car 
+Power Rating (PR) 
+in kWh 
+30 < PR ≤ 230 
+[$250 + $3.75(PR – 30)] x 0.782 
+PR > 230 
+[$1,525 + $10(PR – 230)] x 0.782 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(c) 
+Lee’s monthly expenditure is around $2700 on average. 
+Based on the information given, determine if Lee can afford the car identified in 
+part (b). 
+Show your calculations clearly and justify any decisions you make. 
+ 
+ 
+ 
+ 
+Anglo-Chinese School (Barker Road) 
+ 
+21 
+Preliminary Examination 2024 
+Secondary 4 Express / 5 Normal (Academic) 
+ 
+Mathematics 4052 Paper 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer       Lee _____________________afford the car. 
+[7] 
+ 
+ 
+ 
+ 
+ 
+ 
+Anglo-Chinese School (Barker Road) 
+ 
+22 
+Preliminary Examination 2024 
+Secondary 4 Express / 5 Normal (Academic) 
+ 
+Mathematics 4052 Paper 2 
+ 
+BLANK PAGE 
+ Mathematics Paper 1 Marking Scheme 
+ 
+ 
+ Secondary 4 Express / 5 Normal Academic  
+Preliminary Exams 2024 
+ 
+ 
+Anglo-Chinese School 
+(Barker Road) 
+Qn 
+ 
+Steps/Answer 
+Remarks 
+1 
+ 
+ 
+81
+.0
+ 
+0.902 
+3
+2
+86
+.0
+ 
+441
+399
+ 
+2 
+ 
+5
+1
+)
+5
+(
+7
+2
+−
+−
+−
+=
+x
+x
+x
+  
+Also accept 
+2
+7
+1
+(5
+)
+5
+x
+x
+x
++
+−
+−
+ 
+ 
+ 
+2
+7
+(
+5)
+(
+5)
+x
+x
+x
+−
+−
+=
+−
+2
+7
+5
+(5
+)
+x
+x
+x
++
+−
+=
+−
+ 
+ 
+2
+6
+5
+(
+5)
+x
+x
++
+=
+−
+2
+6
+5
+(5
+)
+x
+x
++
+=
+−
+ 
+ 
+ 
+ 
+3 
+ 
+9
+6
+(254.9 10 )
+(2.45 10 )
+
+
+
+ 
+Accept 
+9
+6
+(254 10 )
+(2.45 10 )
+
+
+
+ or 
+higher accuracy 
+ 
+ 
+= 
+5
+1.04 10
+
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+ 
+2
+5
+20
+2
+c
+c
+d
+
+ 
+ 
+ 
+2
+5
+2
+20
+c
+d
+c
+=
+
+ 
+ 
+ 
+8
+d
+c
+=
+ 
+ 
+ 
+ 
+ 
+ 
+5 
+ 
+2
+2
+2
+9
+100%
+kx
+kx
+kx
+−
+
+ 
+ 
+ 
+= 800% 
+ 
+ 
+ 
+ 
+ 
+6 
+ 
+(3-2) units -> $20 
+ 
+ 
+ 
+Total 9 units -> $180 
+ 
+ 
+ 
+ 
+ 
+7 
+(a) 
+x
+3
+2
+8
+−
+
+−
+      and      
+1
+2
+3
+7
+2
+x
+x
+−
+
+−
+ 
+ 
+ 
+ 
+10
+3x
+−
+−
+       and     
+1
+5
+2 2 x
+−
+ 
+ 
+ 
+ 
+3
+1
+3
+2
+
+
+−
+x
+cannot accept 3.33 
+ 
+(b) 
+-1, 0, 1, 2, 3 
+ 
+ 
+ 
+ 
+ 
+8 
+(a) 
+ 
+ 
+(bi) 
+7   B 
+ 
+ 
+(bii) 
+
+
+3,7
+ A  
+ 
+ 
+ 
+ 
+ 
+ Mathematics Paper 1 Marking Scheme 
+ 
+ 
+ Secondary 4 Express / 5 Normal Academic  
+Preliminary Exams 2024 
+ 
+ 
+Anglo-Chinese School 
+(Barker Road) 
+9 
+ 
+Construction arcs are to be clearly 
+seen. 
+ 
+ 
+Correct angle bisector 
+ 
+ 
+Correct perpendicular bisector 
+ 
+ 
+Correct region shaded 
+ 
+ 
+ 
+ 
+10 
+ 
+(2
+1)(
+2)
+0
+p
+p
++
+−
+=
+ 
+Accept  (2
+1)(3
+6)
+0
+p
+p
++
+−
+=
+ 
+ 
+ 
+1 ,
+2
+2
+p
+p
+= −
+=
+ 
+ 
+ 
+ 
+ 
+11 
+ 
+Cost price of watch for Jimmy = 
+210
+100
+80 
+ 
+ 
+168
+$
+=
+ 
+ 
+ 
+ 
+Profit price = 
+168
+$
+100
+120 
+                                    
+60
+.
+201
+$
+=
+ 
+ 
+ 
+ 
+Marked price = 
+60
+.
+201
+$
+90
+100 
+= $224 
+ 
+ 
+ 
+ 
+ 
+12 (a) Total time taken 
+= 15 5 5
++ + = 25 min 
+ 
+ 
+ 
+Yes, he will achieve his target as he will complete by 09 15. 
+ 
+ 
+ 
+ 
+ 
+ 
+(b)  2.3 1000
+25
+
+ 
+ 
+ 
+= 92 m/min 
+ 
+ 
+ 
+ 
+ 
+13 (a) 
+3
+200
+1.49
+(
+)
+1
+V
+=
+ 
+ 
+ 
+ 
+V = 60g 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) Different vertical scales/intervals are used. 
+ 
+ 
+ 
+ 
+ 
+14 (a) 
+2
+2
+1260
+2
+3
+5 7
+=
+
+
+ 
+ 
+ 
+(b) 84 and 180 
+ 
+ 
+(c)  
+3,
+2
+m
+n
+=
+=
+ 
+ 
+ Mathematics Paper 1 Marking Scheme 
+ 
+ 
+ Secondary 4 Express / 5 Normal Academic  
+Preliminary Exams 2024 
+ 
+ 
+Anglo-Chinese School 
+(Barker Road) 
+ 
+ 
+ 
+ 
+15 (a) 
+2
+2
+1
+1
+2
+1
+15
+4
+16
+x
+x
+x
++
++
+
+
+=
++
++
+
+
+
+
+ 
+ 
+(b) 
+ 
+16 (a) 
+V = 
+
+
+
+
+
+
+
+
+
+
+130
+100
+120
+410
+380
+320
+ 
+ 
+ 
+(b) 
+C = 
+
+
+
+
+
+
+5.0
+2
+ 
+ 
+ 
+(c) 
+P = 
+
+
+
+
+
+
+
+
+
+
+885
+810
+700
+ 
+ 
+ 
+(d) A represents the average ERP charges collected across the 
+three days.  
+ 
+ 
+ 
+ 
+ 
+17 (a) 
+1
+20
+2
+12
+1
+(2
+) 40
+2
+base
+width
+base
+width
+
+
+
+
+
+
+
+
+or 
+2
+20
+12
+40
+
+
+
+
+
+
+ 
+ 
+ 
+= 3 min 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Mathematics Paper 1 Marking Scheme 
+ 
+ 
+ Secondary 4 Express / 5 Normal Academic  
+Preliminary Exams 2024 
+ 
+ 
+Anglo-Chinese School 
+(Barker Road) 
+18 
+ 
+4979
+.9
+7.0
+tan
+8
+=
+=
+rad
+QP
+ 
+ 
+ 
+ 
+Area of triangle OPQ = 
+992
+.
+37
+)
+4979
+.9
+)(
+8
+(
+2
+1
+=
+ 
+ 
+ 
+ 
+Area of sector = (
+)
+2
+1 8
+0.7
+27.865
+2
+2
+
+
+
+−
+=
+
+
+
+
+ 
+ 
+ 
+ 
+Area of shaded region = 10.1 cm2 
+ 
+ 
+ 
+ 
+ 
+19 
+(a) 
+1
+1
+(6)
+(18
+6)
+(23 18)
+385
+2
+2
+v
+v
+v
++
+−
++
+−
+=
+ 
+ 
+ 
+ 
+22 m/s
+v =
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) 
+30
+0
+25
+0
+35
+45
+35
+T
+−
+−
+=
+−
+−
+ 
+or 
+10
+2
+2 =
+ 
+ 
+ 
+30(10)
+25(
+35)
+T
+=
+−
+ 
+ 
+ 
+ 
+47s
+T =
+ 
+or 45+2=47 
+ 
+ 
+ 
+ 
+20 
+(a) 
+angle PBC = angle QBR (common angle) 
+angle BQR = angle BPC (corr. angles, PC//QR) 
+ 
+ 
+ 
+Triangle PCB and triangle QRB are similar (AA test) 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) 
+Triangles ABC and QRC 
+or 
+Triangles ABQ and CPQ 
+ 
+ 
+ 
+ 
+ 
+ 
+(c) 
+3
+7
+CR
+CB =
+ 
+ 
+ 
+3
+4
+7
+QR
+BR
+PC
+BC
+PC
+=
+=
+ 
+ 
+ 
+5.25
+PC =
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Mathematics Paper 1 Marking Scheme 
+ 
+ 
+ Secondary 4 Express / 5 Normal Academic  
+Preliminary Exams 2024 
+ 
+ 
+Anglo-Chinese School 
+(Barker Road) 
+21 
+(a) 
+1
+6
+2
+4
+4a
+b
+−
+
+
+
+
+
+
+ 
+ 
+ 
+1
+4
+2
+6
+4
+b
+a
+
+
+= 
+
+
+
+ 
+ 
+ 
+2
+3
+2
+b
+a
+=
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(b)  
+2
+4
+2
+4
+8
+k
+k
+=
+ 
+ 
+ 
+4
+3
+4
+2
+2
+2
+k
+k
+=
+ 
+ 
+ 
+3
+4
+4
+k
+k
+=
++
+ 
+ 
+ 
+1
+4
+k = −
+ 
+22 
+(a) 
+2
+(
+1) 10
+4(
+1)
+10
+4
+4
+nT
+n n
+n
+n
+n
+n
+=
++
++
+−
+−
+=
++
++
+−
++
+ 
+ 
+ 
+2
+3
+14
+n
+n
+=
+−
++
+ 
+ 
+ 
+(b) 
+2364
+50 =
+T
+ 
+ 
+(c) 
+14
+)3
+(
+14
+3
+2
++
+−
+=
++
+−
+n
+n
+n
+n
+ 
+ 
+ 
+ 
+When n is even n(n-3) is (even x odd) = even.  
+When n is odd, n(n-3) is (odd x even) = even. 
+Adding to 14 which is also even,  
+ 
+14
+3
+2
++
+−
+=
+n
+n
+Tn
+will always be even for all terms. 
+ 
+ 
+ 
+ 
+ 
+23 
+(a) 
+(
+)
+5
+2
+180
+108
+5
+EDC
+BAE
+−
+
+
+= 
+=
+=
+
+ 
+ 
+ 
+180 108
+36
+2
+AEB
+−
+
+=
+=
+
+ 
+ 
+ 
+108
+36
+72
+BED
+
+=
+−
+=
+ 
+ 
+ 
+ 
+72 108
+180
+BED
+EDC
+
++ 
+=
++
+=
+ 
+ 
+ 
+ 
+By the converse of interior angles, BE is parallel to CD 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) 
+180
+36
+144
+EBX
+
+=
+−
+=
+ 
+Or equivalent methods, with 
+correct reasoning.  
+(eg  BE//CX and a pair of 
+opposite equal angles) 
+ 
+ 
+108
+36
+36
+36
+BEC
+
+=
+−
+−
+=
+ 
+ 
+ 
+As 
+180
+EBX
+BEC
+
++ 
+=
+, by the converse/property of 
+interior angles, EC//BX. 
+ 
+ 
+ 
+BECX is a rhombus as BE//CX (or DX) and EC//BX and 
+adjacent sides BE=EC.  
+ 
+ 
+ 
+ Mathematics Paper 1 Marking Scheme 
+ 
+ 
+ Secondary 4 Express / 5 Normal Academic  
+Preliminary Exams 2024 
+ 
+ 
+Anglo-Chinese School 
+(Barker Road) 
+ 
+24 
+(ai) 
+5 
+ 
+ 
+(aii) Gradient of PQ = 
+3
+4
+− 
+ 
+ 
+ 
+3
+2
+(8)
+4
+c
+−
+−=
++
+ 
+ 
+ 
+ 
+c = 4 
+ 
+ 
+ 
+Equation is 
+3
+4
+4
+y
+x
+−
+=
++
+ 
+ 
+ 
+(b) 
+3
+2
+4
+4
+19
+4 x
+x
+−
+
+
++
+−
+=
+
+
+
+
+ 
+Or elimination method correctly 
+follow-thru from a(ii) 
+ 
+ 
+2,
+5.5
+x
+y
+= −
+=
+ 
+ 
+ 
+ 
+( 2,5.5)
+−
+ 
+ 
+ 
+ 
+ 
+ 
+25 
+(a) 
+ 
+ 
+(b) 
+12
+11
+11
+25
+24
+50
+
+
+
+
+
+=
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+(c) 
+13
+12
+2
+25
+24
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+= 13
+25
+
+
+
+
+
+
+ 
+ 
+ 
+(d) 
+12
+11
+10
+13
+12
+11
+1
+25
+24
+23
+25
+24
+23
+
+
+
+
+
+
+
+
+−
+−
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+or 
+P(BBG)+P(BGB)+P(GBB)+P(GGB)+P(GBG)+P(BGG) 
+=
+12
+11
+13
+13
+12
+12
+3
+3
+25
+24
+23
+25
+24
+23
+
+
+
+
+
+
+
+
++
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+= 0.78 or 39
+50
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Mathematics Paper 2 Marking Scheme 
+ 
+ 
+ Secondary 4 Express / 5 Normal Academic 
+ 
+ 
+ Preliminary Exams 2024 
+ 
+ 
+Anglo-Chinese School 
+(Barker Road) 
+Qn  
+Steps/Answer 
+Remarks 
+1 
+(a) 
+USD =
+10000
+𝑥
+ 
+ 
+ 
+(b) 
+10000
+𝑥−0.030 −10000
+𝑥
+= 166 
+ 
+ 
+ 
+10000𝑥−10000(𝑥−0.030) = 166𝑥(𝑥−0.030) 
+ 
+ 
+ 
+166𝑥2 −4.98𝑥−300 = 0 
+ 
+ 
+ 
+83𝑥2 −2.49𝑥−150 = 0 
+ 
+ 
+ 
+ 
+ 
+ 
+(c) 
+𝑥= 2.49 ± √(−2.49)2 −4(83)(−150)
+2(83)
+ 
+ 
+ 
+ 
+𝑥= 1.359 or 𝑥= −1.329 
+ 
+ 
+(d) 
+20000
+1.359 −0.030 
+ 
+ 
+ 
+= USD 15 049 
+Accept 15 048 
+ 
+ 
+ 
+ 
+2 
+(ai) 
+𝑠= [5 −3(−3)2] ÷ (−3)2 
+ 
+ 
+ 
+𝑠= −2
+4
+9   or  𝑠= −
+22
+9  
+Cannot accept 3 sf 
+ 
+(aii) 
+𝑠𝑞2 = 𝑟−3𝑞2 
+ 
+ 
+ 
+𝑠𝑞2 + 3𝑞2 = 𝑟 
+ 
+ 
+ 
+𝑞2(𝑠+ 3) = 𝑟 
+ 
+ 
+ 
+𝑞= ±√
+𝑟
+(𝑠+ 3) 
+ 
+ 
+(b)(i) 
+(7𝑛−1)2 −(𝑛−1)2 
+= [(7𝑛−1) + (𝑛−1)][(7𝑛−1) −(𝑛−1)] 
+= 6𝑛(8𝑛−2) 
+ 
+ 
+ 
+= 12𝑛(4𝑛−1) 
+= 12(4𝑛2 −𝑛) is also accepted 
+ 
+ 
+ 
+ 
+ 
+(b)(ii) 
+𝑝−3𝑛+ 12𝑛2 −4𝑛𝑝
+(7𝑛+ 1)2 −(𝑛−1)2 
+ 
+ 
+ 
+= 𝑝(1 −4𝑛) −3𝑛(1 −4𝑛)
+12𝑛(4𝑛−1)
+ 
+ 
+ 
+ 
+= (3𝑛−𝑝)(4𝑛−1)
+12𝑛(4𝑛−1)
+ 
+ 
+ 
+ 
+= 3𝑛−𝑝
+12𝑛 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Mathematics Paper 2 Marking Scheme 
+ 
+ 
+ Secondary 4 Express / 5 Normal Academic 
+ 
+ 
+ Preliminary Exams 2024 
+ 
+ 
+Anglo-Chinese School 
+(Barker Road) 
+3 
+(a) 
+One possible answer 
+• ET = AT (tangents from external points are equal) 
+• TO is common  
+• OE = OA (radii of circle)  
+Triangle TOA is congruent to triangle TOE (SSS test) 
+ 
+ 
+ 
+ 
+Another possible answer 
+• angle TAO = angle TEO = 90° (tangent perpendicular to radius) 
+• TO is common  
+• OE = OA (radii of circle)  
+Triangle TOA is congruent to triangle TOE (RHS test) 
+ 
+ 
+ 
+ 
+ 
+(bi) 
+angle AOT = (180 – 90 – 32)° = 58° 
+(tangent perpendicular to radius) 
+ 
+ 
+ 
+angle ABF = 
+1
+2angle AOT  
+1
+2 (58°) = 29° 
+(angle at centre is twice angle at circumference) 
+ 
+ 
+ 
+angle OFG = angle ABF = 29° 
+(alternate angles, OF //BA) 
+ 
+ 
+ 
+ 
+ 
+ 
+(bii) 
+angle ACF = angle ABF =29° 
+(angles in the same segment) 
+ 
+ 
+ 
+angle CAE = 180 – 90 – 29 = 61° 
+(OT is perpendicular bisector of chord AE) 
+ 
+ 
+ 
+angle CDE = 180 – 61 = 119° 
+(angles in opposite segments) 
+ 
+ 
+ 
+ 
+ 
+ 
+(c) 
+As angle OET and angle OAT are right-angles, by the property of right 
+angle in a semicircle, OT is a diameter and points E and A will lie on 
+the circumference. OETA are thus four points on the circumference of 
+this circle. 
+Or 
+Angle AOE + angle ATE = (58 × 2) + (32 × 2) = 180° 
+Angle OET + angle OAT = 180°. 
+By the property of angles in opposite segments, OETA are thus four 
+points on the circumference of this circle. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4 
+(a)(i) 
+𝐴𝐵
+⃗⃗⃗⃗⃗ = 2𝑏−𝑎 
+ 
+ 
+(a)(ii) 
+𝐵𝐶
+⃗⃗⃗⃗⃗ = −3
+4 𝐵𝐴
+⃗⃗⃗⃗⃗ = −3
+4 (2𝑏−𝑎) 
+ 
+ 
+ 
+𝑂𝐶
+⃗⃗⃗⃗⃗ = 𝑂𝐵
+⃗⃗⃗⃗⃗ + 𝐵𝐶
+⃗⃗⃗⃗⃗ = 2𝑏−3
+4 (2𝑏−𝑎) = 3
+4 𝑎+ 1
+2 𝑏 
+ 
+ 
+(b)(i) 
+𝑂𝑃
+⃗⃗⃗⃗⃗ = 𝑂𝐵
+⃗⃗⃗⃗⃗ + 𝐵𝑃
+⃗⃗⃗⃗⃗ = 2𝑏+ 3𝑎 
+ 
+ 
+(b)(ii) 𝑂𝑃
+⃗⃗⃗⃗⃗ = 3𝑎+ 2𝑏.   𝑂𝐶
+⃗⃗⃗⃗⃗ =
+1
+4 (3𝑎+ 2𝑏) 
+ 
+ 
+ 
+As 𝑂𝐶
+⃗⃗⃗⃗⃗ =
+1
+4 𝑂𝑃
+⃗⃗⃗⃗⃗ ,  
+ 
+ 
+ 
+and O is a common point, O, C and P lie on a straight line. 
+ 
+ Mathematics Paper 2 Marking Scheme 
+ 
+ 
+ Secondary 4 Express / 5 Normal Academic 
+ 
+ 
+ Preliminary Exams 2024 
+ 
+ 
+Anglo-Chinese School 
+(Barker Road) 
+ 
+(ci) 
+3:1 
+ 
+ 
+(cii) 
+OAC : OAB : OAD 
+   1     :    4 
+               2    :    1 
+               4    :    2 
+Therefore, OAC : OAD is 1 : 2. 
+ 
+ 
+ 
+ 
+ 
+5 
+(a) 
+𝑝= −4 
+ 
+ 
+(b) 
+ 
+ 
+(c) 
+The maximum point of the curve is 93m. 
+±1m 
+ 
+(d) 
+2.9 – 0.3 = 2.6 
+±0.2s 
+ 
+(e) 
+Tangent drawn correctly 
+ 
+ 
+ 
+–24 (±4)  
+ 
+ 
+ 
+m/s 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Mathematics Paper 2 Marking Scheme 
+ 
+ 
+ Secondary 4 Express / 5 Normal Academic 
+ 
+ 
+ Preliminary Exams 2024 
+ 
+ 
+Anglo-Chinese School 
+(Barker Road) 
+6 
+(a) 
+volume of water = 𝜋(102)(80) +
+(
+2
+3)(𝜋)(103) 
+ 
+ 
+ 
+ 
+= 8666 2
+3 𝜋 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) 
+Capacity of one conical cup = 
+(
+1
+3)(𝜋)(32)(5.3)                                    
+ 
+ 
+ 
+ 
+= 50 cm3 
+ 
+ 
+ 
+ 
+ 
+Alternative 
+ 
+ 
+(c) 
+Volume of water remaining after 
+dispensing 250 cups  
+= 8666 2
+3 𝜋−(250 × 1
+3 𝜋(32)(5.3) 
+Volume of water dispensed for 250 
+cups 
+= 250 × 15.9𝜋 
+ 
+ 
+ 
+= 4691
+2
+3 𝜋 or 14739 cm2. 
+ 
+ 
+ 
+ 
+Volume of water in cylinder =
+4691
+2
+3 𝜋−
+2
+3 𝜋(103) 
+Height of water dispensed for 250 
+cups 
+= 
+250×15.9𝜋
+100𝜋
+ 
+ 
+ 
+ 
+= 4025𝜋 or 12645 cm2. 
+ 
+ 
+ 
+ 
+Height of water in cylindrical section 
+=
+4025𝜋
+𝜋(102) or 
+12645
+𝜋(102) 
+Height of water remaining in 
+dispenser 
+= 90 −
+125
+𝜋 
+ 
+ 
+ 
+ 
+= 40.25 or 40.250 
+ 
+ 
+ 
+ 
+Height of water remaining in 
+dispenser 
+= 40.25+10 or 40.250+10 
+ 
+ 
+ 
+ 
+= 50.25 cm or 50.3 cm 
+= 50.2 (3sf) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(d) 
+Slant height of cup = √32 + 5. 32 
+                               = 6.0902  
+ 
+ 
+ 
+ 
+Curved surface area of cup = 
+𝜋(3)(6.0902) 
+= 57.399 cm2 
+ 
+ 
+ 
+ 
+250 cups will cost 57.399 × 250 ×
+0.003 
+ 
+ 
+ 
+ 
+= 43 cents 
+ 
+Accept 44 
+cents 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Mathematics Paper 2 Marking Scheme 
+ 
+ 
+ Secondary 4 Express / 5 Normal Academic 
+ 
+ 
+ Preliminary Exams 2024 
+ 
+ 
+Anglo-Chinese School 
+(Barker Road) 
+ 
+7 
+(a) 
+18.5 × 7500 ÷ 100000 
+M1 
+ 
+ 
+ 
+1.3875 km 
+A1 
+c.a.o. 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) 
+62 = 72 + 5. 52 −2(7)(5.5) 𝑐𝑜𝑠∠𝑃𝑄𝑅 
+M1 
+Or equivalent method 
+leading to the correct bearing 
+ 
+ 
+𝑐𝑜𝑠∠𝑃𝑄𝑅= −43.25
+−77  
+M1 
+ 
+ 
+𝑎𝑛𝑔𝑙𝑒 𝑃𝑄𝑅= 55.827° 
+M1 
+ 
+ 
+Bearing of Q from R is (180+55.827) = 235.8° 
+A1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(c) 
+Area of QPR = 
+1
+2 (7 × 75)(5.5 × 75) 𝑠𝑖𝑛5 5.827° 
+√M2  
+ 
+ 
+                          = 89 585 m2                           
+ 
+ 
+ 
+                          = 89 600 m2                           
+A1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(d) 
+Let shortest distance from R to PQ be X. 
+ 
+ 
+ 
+ 
+𝑠𝑖𝑛∠𝑃𝑄𝑅= 𝑅𝑋
+𝑄𝑅 
+ 
+ 
+ 
+ 
+𝑠𝑖𝑛5 5.827° =
+𝑅𝑋
+412.5 
+M1 
+Or equivalent method 
+ 
+ 
+𝑅𝑋= 341.28m 
+M1 
+ 
+ 
+ 
+Let greatest angle of elevation be y. 
+ 
+ 
+ 
+ 
+𝑡𝑎𝑛𝑦=
+75
+𝑡ℎ𝑒𝑖𝑟 𝑅𝑋 
+M1 
+ 
+ 
+ 
+y =12.4° 
+A1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Mathematics Paper 2 Marking Scheme 
+ 
+ 
+ Secondary 4 Express / 5 Normal Academic 
+ 
+ 
+ Preliminary Exams 2024 
+ 
+ 
+Anglo-Chinese School 
+(Barker Road) 
+8 
+(ai) 
+15 marks 
+ 
+ 
+(aii) 
+18 – 12  
+ 
+ 
+ 
+6 marks 
+ 
+ 
+(b) 
+20.5 marks 
+ 
+ 
+ 
+ 
+ 
+ 
+(c) 
+Marks (x) 
+4 ≤𝑥
+< 10 
+10 ≤𝑥
+< 15 
+15 ≤𝑥
+< 20 
+20 ≤𝑥
+< 24 
+Number of 
+students 
+6 
+14 
+14 
+6 
+ 
+ 
+(ci) 
+(6×7)+(14×12.5)+(14×17.5)+(6×22)
+40
+=14.85 
+ 
+ 
+(cii) 
+4.62 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Alternative answer 
+ 
+ 
+(c) 
+Marks (x) 
+4 ≤𝑥
+< 10 
+10 ≤𝑥
+< 15 
+15 ≤𝑥
+< 20 
+20 ≤𝑥
+< 24 
+Number of 
+students 
+7 
+13 
+14 
+6 
+ 
+ 
+(ci) 
+(6×7)+(14×12.5)+(14×17.5)+(6×22)
+40
+=14.7125 
+ 
+ 
+(cii) 
+4.76 
+ 
+ 
+ 
+ 
+ 
+ 
+(d) 
+15 
+ 
+ 
+(e) 
+The students performed better in Mathematics as the median score (15 
+marks) was higher than Chemistry’s (14 marks) 
+ 
+The students performed more consistently in Chemistry as the interquartile 
+range (3 marks) is lower than Mathematics (6 marks) 
+ 
+ 
+ 
+ 
+ Mathematics Paper 2 Marking Scheme 
+ 
+ 
+ Secondary 4 Express / 5 Normal Academic 
+ 
+ 
+ Preliminary Exams 2024 
+ 
+ 
+Anglo-Chinese School 
+(Barker Road) 
+ 
+9 
+(a) 
+$4100 (1 +
+4
+100)
+5
+= $4988 
+ 
+ 
+= $5000 
+ 
+ 
+ 
+ 
+ 
+(b) 
+Justification: Choose the highest COE price recorded in the past 12 months to cover the 
+worst-case scenario 
+ 
+ 
+ 
+EV 60kWh 
+ 
+ 
+Cost price of car 
+$(100,000+105,000 – 30,000 
+=$175,000 
+ 
+ 
+Minimum downpayment 
+40% × $175,000 = $70,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1998cc petrol car 
+ 
+ 
+Cost price of car 
+$(110,000+150,000) = $260,000 
+ 
+ 
+Minimum downpayment 
+30% × $260,000 = $78,000 
+ 
+ 
+ 
+ 
+ 
+ 
+6 months of Lee’s salary 
+= 6 × $5000 = $30,000 
+ 
+ 
+ 
+ 
+ 
+ 
+Savings – downpayment 
+EV 60kWh:  
+$(105,000 – 70,000) = $35,000 
+1998cc petrol car:  
+$(105,000 – 78,000) = $27,000  
+ 
+ 
+conclusion 
+Lee can only afford the downpayment for the EV 60kWh.  
+($35,000 – $30,000 = $5000) 
+ 
+ 
+ 
+ 
+ 
+(c) 
+To determine is Lee can afford the car in Jan 2024. 
+ 
+ 
+i) Road Tax 
+[250 + 3.75(60 −30)] × 0.7826 ÷ 6 
+= $47.246 
+ 
+ 
+ii) Loan amount 
+175000 – 70000 = $105,000 
+ 
+ 
+Interest 
+105,000×2.78×7
+100
+= $20,433 
+ 
+ 
+(iii) Monthly Instalment 
+(105,000 + 20,433) ÷ 84 
+=$1493.25 
+ 
+ 
+iv) Other costs (monthly 
+basis)  
+4700
+12 + 600 = $991.667 
+ 
+ 
+Total monthly expense 
+$2532.1625 
+ 
+ 
+Spare cash for the month 
+5000 – 2700 = $2300 
+ 
+ 
+v) Affordability  
+Spare cash – total monthly 
+expenses 
+2300 – 2532.1625 
+= – $232.1625  
+Lee would not be able to afford the car. 
+ 
+ 
+ 
+However, if we take into consideration that Lee still has 
+$5,000 remaining after making the downpayment in part (b), 
+with $30,000 already set aside, he would be able to afford 
+the car 
+ 
+ 
