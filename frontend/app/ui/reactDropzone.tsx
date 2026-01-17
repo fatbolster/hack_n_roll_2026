@@ -3,7 +3,7 @@
 import { useCallback, useState } from "react";
 import type { SVGProps } from "react";
 import { useDropzone } from "react-dropzone";
-import { Button } from "./button";
+import { Button, CheckMappingButton, CompareSyllabiButton } from "./button";
 
 type AlignmentDropzonesProps = {
   onAnalyze?: () => void;
@@ -96,9 +96,10 @@ export function AlignmentDropzones({ onAnalyze }: AlignmentDropzonesProps = {}) 
 
 type SyllabusDropzonesProps = {
   onCompare?: () => void;
+  onCheckMapping?: () => void;
 };
 
-export function SyllabusDropzones({ onCompare }: SyllabusDropzonesProps = {}) {
+export function SyllabusDropzones({ onCompare, onCheckMapping }: SyllabusDropzonesProps = {}) {
   const [oldFile, setOldFile] = useState<File | null>(null);
   const [newFile, setNewFile] = useState<File | null>(null);
   const [errorState, setErrorState] = useState({ old: false, new: false });
@@ -129,17 +130,31 @@ export function SyllabusDropzones({ onCompare }: SyllabusDropzonesProps = {}) {
     setErrorState((prev) => ({ ...prev, new: false }));
   }, []);
 
-  const handleCompareClick = useCallback(() => {
+  const ensureFilesSelected = useCallback(() => {
     const missingOld = !oldFile;
     const missingNew = !newFile;
 
     if (missingOld || missingNew) {
       setErrorState({ old: missingOld, new: missingNew });
-      return;
+      return false;
     }
 
+    return true;
+  }, [newFile, oldFile]);
+
+  const handleCompareClick = useCallback(() => {
+    const ready = ensureFilesSelected();
+    if (!ready) return;
+
     onCompare?.();
-  }, [newFile, oldFile, onCompare]);
+  }, [ensureFilesSelected, onCompare]);
+
+  const handleCheckMappingClick = useCallback(() => {
+    const ready = ensureFilesSelected();
+    if (!ready) return;
+
+    onCheckMapping?.();
+  }, [ensureFilesSelected, onCheckMapping]);
 
   const showOldError = errorState.old;
   const showNewError = errorState.new;
@@ -167,14 +182,8 @@ export function SyllabusDropzones({ onCompare }: SyllabusDropzonesProps = {}) {
       </div>
 
       <div className="mt-8 flex flex-wrap items-center gap-3">
-        <Button
-          variant="solid"
-          startIcon={<CompareIcon className="h-4 w-4" />}
-          className="bg-emerald-500 hover:bg-emerald-600 focus-visible:outline-emerald-500"
-          onClick={handleCompareClick}
-        >
-          Compare Syllabi
-        </Button>
+        <CompareSyllabiButton onClick={handleCompareClick} />
+        <CheckMappingButton onClick={handleCheckMappingClick} />
         {hasAnyErrors ? (
           <span className="text-sm font-semibold text-rose-600">Missing PDF</span>
         ) : null}
