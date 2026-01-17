@@ -17,6 +17,7 @@ node_modules/
 # next.js
 /.next/
 /out/
+frontend/.next/dev/
 
 # production
 /build
@@ -42,3 +43,7 @@ yarn-error.log*
 next-env.d.ts
 
 backend/services/.env
+__pycache__/
+*.pyc
+backend/uploads/
+backend/outputs/
