@@ -151,7 +151,7 @@
         "Geometric Similarity"
       ],
       "in_syllabus": true,
-      "confidence": 0.9,
+      "confidence": 1.0,
       "out_of_scope_reason": null
     },
     {
@@ -161,7 +161,7 @@
         "Data Interpretation"
       ],
       "in_syllabus": true,
-      "confidence": 0.7,
+      "confidence": 1.0,
       "out_of_scope_reason": null
     },
     {
@@ -192,7 +192,7 @@
         "Perfect Squares and Perfect Cubes"
       ],
       "in_syllabus": true,
-      "confidence": 0.7,
+      "confidence": 1.0,
       "out_of_scope_reason": null
     },
     {
@@ -202,7 +202,7 @@
         "Algebraic Expressions"
       ],
       "in_syllabus": true,
-      "confidence": 0.9,
+      "confidence": 1.0,
       "out_of_scope_reason": null
     },
     {
@@ -212,7 +212,7 @@
         "Graphing Functions"
       ],
       "in_syllabus": true,
-      "confidence": 0.9,
+      "confidence": 1.0,
       "out_of_scope_reason": null
     },
     {
@@ -245,7 +245,7 @@
         "Statistics"
       ],
       "in_syllabus": true,
-      "confidence": 0.7,
+      "confidence": 0.9,
       "out_of_scope_reason": null
     },
     {
@@ -278,7 +278,7 @@
         "Trigonometry"
       ],
       "in_syllabus": true,
-      "confidence": 0.9,
+      "confidence": 0.7,
       "out_of_scope_reason": null
     },
     {
@@ -322,7 +322,7 @@
         "Similarity"
       ],
       "in_syllabus": true,
-      "confidence": 0.9,
+      "confidence": 0.8,
       "out_of_scope_reason": null
     },
     {
@@ -333,7 +333,7 @@
         "Similarity"
       ],
       "in_syllabus": true,
-      "confidence": 0.9,
+      "confidence": 0.8,
       "out_of_scope_reason": null
     },
     {
@@ -344,7 +344,7 @@
         "Similarity"
       ],
       "in_syllabus": true,
-      "confidence": 0.9,
+      "confidence": 0.8,
       "out_of_scope_reason": null
     },
     {
@@ -355,7 +355,7 @@
         "Similarity"
       ],
       "in_syllabus": true,
-      "confidence": 0.9,
+      "confidence": 0.8,
       "out_of_scope_reason": null
     },
     {
@@ -372,7 +372,7 @@
       "question_id": "Q21b",
       "page": 16,
       "topics": [
-        "Simplifying expressions"
+        "Solving equations"
       ],
       "in_syllabus": true,
       "confidence": 1.0,
@@ -392,7 +392,7 @@
       "question_id": "Q22b",
       "page": 17,
       "topics": [
-        "Sequences and series"
+        "Evaluating expressions"
       ],
       "in_syllabus": true,
       "confidence": 1.0,
@@ -402,7 +402,7 @@
       "question_id": "Q22c",
       "page": 17,
       "topics": [
-        "Sequences and series"
+        "Properties of numbers"
       ],
       "in_syllabus": true,
       "confidence": 1.0,
@@ -577,30 +577,30 @@
       "question_id": "Q5a",
       "page": 32,
       "topics": [
-        "Quadratic Functions",
-        "Graphing"
+        "Graphs",
+        "Quadratic Functions"
       ],
       "in_syllabus": true,
-      "confidence": 1.0,
+      "confidence": 0.7,
       "out_of_scope_reason": null
     },
     {
       "question_id": "Q5c",
       "page": 32,
       "topics": [
-        "Quadratic Functions",
-        "Graphing"
+        "Graphs",
+        "Quadratic Functions"
       ],
       "in_syllabus": true,
-      "confidence": 1.0,
+      "confidence": 0.7,
       "out_of_scope_reason": null
     },
     {
       "question_id": "Q5e",
       "page": 32,
       "topics": [
-        "Calculus",
-        "Gradient"
+        "Graphs",
+        "Calculus"
       ],
       "in_syllabus": true,
       "confidence": 0.7,
@@ -632,7 +632,8 @@
       "question_id": "Q7a",
       "page": 36,
       "topics": [
-        "Scale and measurement"
+        "Scale drawing",
+        "Measurement"
       ],
       "in_syllabus": true,
       "confidence": 1.0,
@@ -677,7 +678,7 @@
       "page": 38,
       "topics": [
         "Statistics",
-        "Comparative analysis"
+        "Comparison of data"
       ],
       "in_syllabus": true,
       "confidence": 1.0,
