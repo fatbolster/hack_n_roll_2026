@@ -16,6 +16,7 @@ type ChangeItem = {
 type ModalProps = {
   isOpen: boolean;
   onClose: () => void;
+  refreshToken?: number;
 };
 
 const statusStyles: Record<
@@ -51,7 +52,7 @@ type SummaryCounts = {
 
 const emptyCounts: SummaryCounts = { all: 0, added: 0, removed: 0, modified: 0 };
 
-export function SyllabusChangesModal({ isOpen, onClose }: ModalProps) {
+export function SyllabusChangesModal({ isOpen, onClose, refreshToken = 0 }: ModalProps) {
   const [changes, setChanges] = useState<ChangeItem[]>([]);
   const [activeFilter, setActiveFilter] = useState<keyof SummaryCounts>("all");
 
@@ -106,7 +107,7 @@ export function SyllabusChangesModal({ isOpen, onClose }: ModalProps) {
     return () => {
       isMounted = false;
     };
-  }, [isOpen]);
+  }, [isOpen, refreshToken]);
 
   const counts = useMemo(() => {
     if (!changes.length) return emptyCounts;

@@ -759,3 +759,15 @@ https://nextjs.org/docs/messages/module-not-found
 [02:16:26.797] Server  LOG     ✓ Compiled in 15ms
 [02:17:57.300] Server  LOG     ✓ Compiled in 14ms
 [02:19:55.994] Server  LOG     ✓ Compiled in 22ms
+[02:27:55.055] Server  LOG     ✓ Compiled in 26ms
+[02:27:59.217] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:28:42.940] Server  LOG     ✓ Compiled in 20ms
+[02:31:55.495] Server  LOG     ✓ Compiled in 15ms
+[02:32:06.093] Server  LOG     ✓ Compiled in 14ms
+[02:32:06.189] Browser ERROR   The final argument passed to %s changed size between renders. The order and size of this array must remain constant.
+
+Previous: %s
+Incoming: %s useEffect [false] [false, 0]
+[02:32:36.204] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:32:52.741] Server  LOG     ✓ Compiled in 16ms
+[02:33:09.499] Server  LOG     ✓ Compiled in 14ms
