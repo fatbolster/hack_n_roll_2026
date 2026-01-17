@@ -1,7 +1,13 @@
+"use client";
+
+import { useState } from "react";
 import { SyllabusDropzones } from "../ui/reactDropzone";
 import { TopNav } from "../ui/topnav";
+import { SyllabusChangesModal } from "./modal";
 
 export default function SyllabusChangesPage() {
+  const [isModalOpen, setIsModalOpen] = useState(false);
+
   return (
     <div className="min-h-screen bg-slate-50 text-slate-900">
       <div className="mx-auto flex min-h-screen max-w-6xl flex-col px-6 pb-16 pt-8">
@@ -18,7 +24,11 @@ export default function SyllabusChangesPage() {
           </div>
 
           <div className="mt-8">
-            <SyllabusDropzones />
+            <SyllabusDropzones onCompare={() => setIsModalOpen(true)} />
+            <SyllabusChangesModal
+              isOpen={isModalOpen}
+              onClose={() => setIsModalOpen(false)}
+            />
           </div>
         </main>
       </div>
