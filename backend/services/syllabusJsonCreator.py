@@ -21,9 +21,10 @@ def generate_syllabus_json(file1_path, file2_path):
     Act as a Senior O level Curriculum Developer. Audit the following math syllabi.
     
     TASK:
-    1. Identify unique mathematical or chemistry concepts (e.g., Trigonometry, Differential Equations).
-    2. Compare the technical scope and "Cognitive Demand" (complexity).
-    3. Status logic:
+    1. Identify the given subject of the syllabus given (Math, Chemistry etc)
+    2. Identify unique mathematical or chemistry concepts (e.g., Trigonometry, Differential Equations).
+    3. Compare the technical scope and "Cognitive Demand" (complexity).
+    4. Status logic:
        - 'unchanged': Math concepts and operations remain the same, even if wording changed.
        - 'modified': The topic exists in both, but specific formulas, theorems, or sub-topics were added/removed.
        - 'added': Entirely new mathematical domain in 2026.
