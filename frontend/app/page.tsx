@@ -9,13 +9,10 @@ export default function Home() {
       <div className="mx-auto flex min-h-screen max-w-6xl flex-col px-6 pb-16 pt-8">
         <TopNav />
         <main className="mt-14 flex flex-1 flex-col items-center text-center">
-          <Button
-            variant="pill"
-            size="sm"
-            startIcon={<SparklesIcon className="h-4 w-4 text-emerald-600" />}
-          >
-            AI-Powered Syllabus Intelligence
-          </Button>
+          <span className="inline-flex h-9 items-center gap-2 rounded-full bg-white px-4 text-sm font-medium text-emerald-700 shadow-sm ring-1 ring-emerald-100">
+            <SparklesIcon className="h-4 w-4 text-emerald-600" />
+            <span>AI-Powered Syllabus Intelligence</span>
+          </span>
 
           <h1 className="mt-6 text-5xl font-bold leading-tight tracking-tight sm:text-6xl">
             Stay Ahead of <span className="text-emerald-600">Syllabus Changes</span>
