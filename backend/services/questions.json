@@ -1,0 +1,366 @@
+{
+  "paper_id": "samplePaper.pdf",
+  "questions": [
+    {
+      "id": "Q1",
+      "text": "",
+      "page": 3,
+      "subparts": [
+        {
+          "id": "Q1a",
+          "label": "a",
+          "text": " 3 4( 6) a \uf02d \uf02d"
+        },
+        {
+          "id": "Q1b",
+          "label": "b",
+          "text": " Factorise completely 2 2 18 \uf02d ."
+        }
+      ]
+    },
+    {
+      "id": "Q2",
+      "text": "6 9 3 2 bd ad ac bc \uf02d \uf02b \uf02d . ",
+      "page": 3,
+      "subparts": []
+    },
+    {
+      "id": "Q3",
+      "text": "{integers :1 16} x x \uf078\uf03d \uf0a3 \uf0a3 {factors of 12} \uf03d {prime numbers} \uf03d ",
+      "page": 3,
+      "subparts": [
+        {
+          "id": "Q3a",
+          "label": "a",
+          "text": " On the Venn diagram, shade the region which represents ' A B \uf0c7 [1]"
+        },
+        {
+          "id": "Q3b",
+          "label": "b",
+          "text": " List the elements in ' A B \uf0c7 [1] A B"
+        }
+      ]
+    },
+    {
+      "id": "Q4",
+      "text": "4 If 2 ( ) 19 a b \uf02d \uf03d and 2 ( ) 36 a b \uf02b \uf03d . [2] ",
+      "page": 4,
+      "subparts": []
+    },
+    {
+      "id": "Q5",
+      "text": "Kelly has 300 one-centimetre cubes. She arranges all of the cubes into a cuboid. The perimeter of the top of the cuboid is 18 cm. Each side of the cuboid has a length greater than 3 cm. Find the height of the cuboid. [2] ",
+      "page": 4,
+      "subparts": []
+    },
+    {
+      "id": "Q6",
+      "text": "Write as a single fraction in its simplest form 2 7 5 (3 1) 1 3 x x \uf02d \uf02d \uf02d . [2] ",
+      "page": 4,
+      "subparts": []
+    },
+    {
+      "id": "Q7",
+      "text": "The bar chart shows the revenue of a company in its first four years of operation. State one aspect of the graph that may be misleading and explain how this may lead to a misinterpretation of the graph. \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 [2] ",
+      "page": 5,
+      "subparts": []
+    },
+    {
+      "id": "Q8",
+      "text": "-axis at 2 and 3 . 3 , 5). Find the equation of the quadratic graph. [2] 25 30 35 40 45 50 55 60 Year 1 Year 2 Year 3 Year 4 ANNUAL REVENUE Revenue in thousands 6 ",
+      "page": 5,
+      "subparts": []
+    },
+    {
+      "id": "Q9",
+      "text": "is a trapezium. BAD 90 \uf03d . is a straight line. ",
+      "page": 6,
+      "subparts": [
+        {
+          "id": "Q9a",
+          "label": "a",
+          "text": " , for cos \u02c6 . cos \u02c6 [1]"
+        },
+        {
+          "id": "Q9b",
+          "label": "b",
+          "text": " . . [2] A B D E C 7 x"
+        }
+      ]
+    },
+    {
+      "id": "Q10",
+      "text": ". These cylinders are made with the same material. is 9 cm. is 12 cm. ",
+      "page": 7,
+      "subparts": [
+        {
+          "id": "Q10a",
+          "label": "a",
+          "text": " [1]"
+        },
+        {
+          "id": "Q10b",
+          "label": "b",
+          "text": " . [2] 9 5 12 8"
+        }
+      ]
+    },
+    {
+      "id": "Q11",
+      "text": "Peter should choose Plan \u2026\u2026\u2026\u2026\u2026because \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.[3] ",
+      "page": 8,
+      "subparts": []
+    },
+    {
+      "id": "Q12",
+      "text": "m/s, at which a train can turn at a circular bend is directly proportional to the m of the circular bend. The safe speed of the train is 22 m/s when it ",
+      "page": 8,
+      "subparts": [
+        {
+          "id": "Q12a",
+          "label": "a",
+          "text": " [2]"
+        },
+        {
+          "id": "Q12b",
+          "label": "b",
+          "text": " [1]"
+        }
+      ]
+    },
+    {
+      "id": "Q13",
+      "text": "",
+      "page": 9,
+      "subparts": [
+        {
+          "id": "Q13a",
+          "label": "a",
+          "text": " Express 462 as a product of its prime factors. [1]"
+        },
+        {
+          "id": "Q13b",
+          "label": "b",
+          "text": " Written as a product of its prime factors, 3 3 1512 2 3 7 \uf03d \uf0b4 \uf0b4 .  [1]  ..\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026. \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 [1]"
+        }
+      ]
+    },
+    {
+      "id": "Q14",
+      "text": "",
+      "page": 9,
+      "subparts": [
+        {
+          "id": "Q14a",
+          "label": "a",
+          "text": " [2]"
+        },
+        {
+          "id": "Q14b",
+          "label": "b",
+          "text": " [2] 10"
+        }
+      ]
+    },
+    {
+      "id": "Q15",
+      "text": "",
+      "page": 10,
+      "subparts": [
+        {
+          "id": "Q15a",
+          "label": "a",
+          "text": " Express 2 4 7 x x \uf02d \uf02d in the form 2 ( ) x p q \uf02d \uf02d . [2]"
+        },
+        {
+          "id": "Q15b",
+          "label": "b",
+          "text": " the graph of 2 4 7 y x x \uf03d \uf02d \uf02d . Indicate clearly the coordinates of the turning point and the points where the graph crosses - axes. [2] O y x"
+        }
+      ]
+    },
+    {
+      "id": "Q16",
+      "text": "is a straight line. . Show your working and give reasons. ",
+      "page": 11,
+      "subparts": [
+        {
+          "id": "Q16a",
+          "label": "a",
+          "text": " . [3]"
+        },
+        {
+          "id": "Q16b",
+          "label": "b",
+          "text": " [2] F O G H J 12"
+        }
+      ]
+    },
+    {
+      "id": "Q17",
+      "text": "(8, 8). ",
+      "page": 12,
+      "subparts": [
+        {
+          "id": "Q17a",
+          "label": "a",
+          "text": " . [2]"
+        },
+        {
+          "id": "Q17b",
+          "label": "b",
+          "text": " is a diagonal of the kite, find the coordinates of [1]"
+        },
+        {
+          "id": "Q17c",
+          "label": "c",
+          "text": " ABCO. [2] x O (0, 4) (8, 8) y"
+        }
+      ]
+    },
+    {
+      "id": "Q18",
+      "text": "of sides 6 cm forms the base of a crystal pyramid. is the centre of the hexagon. . , of the pyramid is 16 cm. ",
+      "page": 13,
+      "subparts": [
+        {
+          "id": "Q18a",
+          "label": "a",
+          "text": " , of the pyramid. [2]"
+        },
+        {
+          "id": "Q18b",
+          "label": "b",
+          "text": " The mass of 1 cubic centimetre of crystal is 3.2 grams. The price of 1 gram of the crystal is $9.75. Calculate the price of the crystal pyramid. Give your answer to the nearest dollar. [4] 16 6 A B C D X E F O M 14"
+        }
+      ]
+    },
+    {
+      "id": "Q19",
+      "text": ". ADP 36 \uf03d . Give a reason for each step of your working. [4] A P B C D ",
+      "page": 14,
+      "subparts": []
+    },
+    {
+      "id": "Q20",
+      "text": "is a quadrant of a circle, = 50\u00b0. ",
+      "page": 15,
+      "subparts": [
+        {
+          "id": "Q20a",
+          "label": "a",
+          "text": " [1]"
+        },
+        {
+          "id": "Q20b",
+          "label": "b",
+          "text": " . [3] A B C D O E M 14 16 Cumulative frequency 6 8 10 12 14 16 18 20 0 10 20 30 Time (minutes)"
+        }
+      ]
+    },
+    {
+      "id": "Q21",
+      "text": "The times taken by 30 students in Class Alpha to run 2.4 km in their fitness test are recorded. The cumulative frequency curve below shows the distribution of their times. ",
+      "page": 16,
+      "subparts": [
+        {
+          "id": "Q21a",
+          "label": "a",
+          "text": " Use the curve to estimate the interquartile range of the times. [2]"
+        },
+        {
+          "id": "Q21b",
+          "label": "b",
+          "text": " The maximum number of points a student can obtain in the test is 5 points. The students who take less than 9 minutes to run 2.4 km are given 5 points for the test. Find the probability that a student, chosen at random, receives less than 5 points. [1]"
+        },
+        {
+          "id": "Q21c",
+          "label": "c",
+          "text": " The times taken by 30 students from Class Beta to run 2.4 km in their fitness test had the same median as Class Alpha\u2019s times but a higher interquartile range. for Class Alpha. \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 [1]"
+        }
+      ]
+    },
+    {
+      "id": "Q22",
+      "text": "is a triangular field. ",
+      "page": 17,
+      "subparts": [
+        {
+          "id": "Q22a",
+          "label": "a",
+          "text": " Use a scale of 1 cm to 10 m. [2] has already been drawn."
+        },
+        {
+          "id": "Q22b",
+          "label": "b",
+          "text": "  . [1]  . [1]  . can possibly be. [1] . is the shortest, and measure this actual distance. ..........................................................................m [1] X Y North 18"
+        }
+      ]
+    },
+    {
+      "id": "Q23",
+      "text": "\uf03d \uf03d . 1 4 OL OA \uf03d . ",
+      "page": 18,
+      "subparts": [
+        {
+          "id": "Q23a",
+          "label": "a",
+          "text": " . Give your answers in their simplest form.  BM . [1]  OM . [1]  LM . [1]"
+        },
+        {
+          "id": "Q23b",
+          "label": "b",
+          "text": " OP such that 3 LP LM \uf03d . [1] O A B L M OP OM . \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026 [1] ON is a parallelogram. [2] END OF PAPER 20 YISHUN TOWN SECONDARY SCHOOL 2018 Prelim Examination Secondary Four Express/ Five Normal Qn Answer Qn Answer 1(a) 15(a) 2 ( 2) 11 \uf02d \uf02d 1(b) 15(b) 2 3(a) 3(b) 16(a) 4 34 16(b) 5 15 17(a) 1 4 2 y x \uf03d \uf02b 6 2 2 15 (3 1) x x \uf02b \uf02d 17(b) 17(c) ( 4, 0) 32 units square 7 The vertical axis does not start from 0, making it seems that there are thrice the number of students who choose Year 2 than Year 1. 18(a) 18(b) 15.1 cm $14720 8 5 ( 2)( 3) 6 y x x \uf03d \uf02b \uf02d 19 9(a) 7 cos ABE x \uf0d0 \uf03d\uf02d 20(a) 6.11 cm 9(b) 14 20(b) 10(a) 21(a) 8.6 10(b) 1458 g 21(b) 2/3 11 Peter should choose Plan B because Plan B offers a higher interest/ amount of money at the end of 5 years. 21(c) The curve will have wider spread with gentler gradient. 12(a) 18 23(a)(i) 12(b) 196 23(a)(ii) 13(a) 462 2 3 7 11 \uf03d\uf0b4\uf0b4\uf0b4 23(b) The powers of 7 is not multiples of 3. 23(c) OM OP , hence . 14(a) 1250 m 23(d) 14(b) A B 22 Yishun Town Secondary School (        ) CLASS: YISHUN TOWN SECONDARY SCHOOL PRELIMINARY EXAMINATION 2018 SECONDARY 4 EXPRESS / 5 NORMAL ACADEMIC 14 Aug 2018 Tues 2 h 30 min 100 Do not turn over the cover page until you are told to do so. Write your name, class and class index number on the work you hand in. Write in dark blue or black pen on both sides of the paper. You may use an HB pencil for any diagrams or graphs. Do not use staples, paper clips, highlighters, glue or correction fluid/ tape. questions. If working is needed for any question it must be shown with the answer. Omission of essential working will result in loss of marks. The use of an approved scientific calculator is expected, where appropriate. If the degree of accuracy is not specified in the question, and if the answer is not exact, give the answer to three significant figures.  Give answers in degrees to one decimal place. , use either your calculator value or 3.142, unless the question requires the answer in terms . At the end of the examination, fasten all your work securely together. The number of marks is given in brackets [   ] at the end of each question or part question. The total number of marks for this paper is 100. 2 Yishun Town Secondary School Compound Interest Total amount = n r P \uf0f7\uf0f8 \uf0f6 \uf0e7\uf0e8 100 1 Mensuration rl \uf070 Surface area of a sphere = 2 r \uf070 Volume of a cone = h 2 3 \uf070 Volume of a sphere = 3 3 r \uf070 1 sin ab is in radians Sector area = \uf071 2 2 r is in radians Trigonometry C c B b A a sin sin sin \uf03d \uf03d 2 2 2 2 cos a b c bc A \uf03d \uf02b \uf02d Statistics \uf0e5 \uf0e5 f Standard deviation = 2 2 \uf0f7 \uf0f8 \uf0f6 \uf0e7 \uf0e8 \uf0e6 \uf0e5 \uf0e5 \uf0e5 \uf0e5 f fx f fx 3 Yishun Town Secondary School the questions."
+        }
+      ]
+    },
+    {
+      "id": "Q1",
+      "text": "It is given that 2 4 5 3 q \uf03d \uf02b .  when 3 . [1]  . [2] Solve the equation 2 3 2 5 6 x \uf02d \uf02d \uf03d . [2] Solve these simultaneous equations. = 15 = 27.5 [3] Simplify 2 2 4( 2) 2(3 1) 4 3 5 2 x x x x x \uf02d \uf02d \uf02d \uf02d \uf02b \uf02d . [3] ",
+      "page": 25,
+      "subparts": []
+    },
+    {
+      "id": "Q2",
+      "text": "The total number of visitors who visited a newly opened Theme Park on weekdays and weekends is given by the table below. Categories Child Adult Senior citizen Weekdays 600 1500 400 Weekends 1600 3500 1000 . [1] The admission tickets are priced at $12 per child, $20 per adult and $16 per senior citizen. . [1] . [1] represent. [1] The Theme Park decides to increase earnings by increasing the prices of all admission tickets by 35%. This causes the total number of visitors in each category on both weekdays and weekends to drop by 20% due to the increase in prices. Determine the difference in earnings and state whether it is an increase or decrease. [3] 4 Yishun Town Secondary School 3       (a) Name a quadrilateral with four equal sides and unequal diagonals. [1] . . . [1] are congruent. [2] . [2] are parallel.  [2] 5 Yishun Town Secondary School 4 The first four terms in a sequence of numbers are given below. 0 2 2 1 2 1 2 4 \uf03d \uf02d \uf02b \uf03d 1 2 2 2 2 2 3 7 \uf03d \uf02d \uf02b \uf03d 2 2 2 3 2 3 4 11 \uf03d \uf02d \uf02b \uf03d 3 2 2 4 2 4 5 17 \uf03d \uf02d \uf02b \uf03d . [1] , is given by 1 2 2 1 n n \uf02b . [2] By first finding an expression for n n T T \uf02d , show that the difference between any 2 consecutive terms is always even for 2 \uf0b3 . [2] if 1026 p p T T \uf02d \uf03d . 6 Yishun Town Secondary School 5 are connected by the equation 3 2 3 2 y x x \uf03d \uf02d \uf02b . are given in the table below. x 2 1 0 1 2 3 4 y p 2 2 0 2 2 18 ",
+      "page": 25,
+      "subparts": [
+        {
+          "id": "Q2a",
+          "label": "a",
+          "text": " . [1] 2 4 x \uf02d\uf0a3 \uf0a3 . 20 20 y \uf02d \uf0a3 \uf0a3 . On your axes, plot the points given in the table and join them with a smooth curve. [3] Use your graph to find the solutions to the equation 3 2 3 2 x x \uf02d in the range 2 4 x \uf02d\uf0a3 \uf0a3 . [2] ."
+        },
+        {
+          "id": "Q2e",
+          "label": "e",
+          "text": " On the same axes, draw the line with gradient 3 that passes through the point with coordinates (0, 1). Write down the equation of this line. [1] Write down the coordinates of the points where the line intersects the curve. [2] are solutions of the equation 3 2 3 0 x x Ax B \uf02d \uf02b \uf02b \uf03d . . [2] 7 Yishun Town Secondary School 6 . is a tangent to both the smaller and larger semicircle. lie on the same straight line. = 12 cm. are similar. Give a reason for each statement you make. [2] = 2 cm. . Calculate the area of the shaded region. A B E F G T P Q 16 12 8 Yishun Town Secondary School 7 A tank has a capacity of 1080 litres. litres per minute. to fill up the tank completely. [1] to fill up the tank completely. [1] to fill the tank completely is 40 minutes 36 seconds. to represent this information and show that it reduces to 2 203 406 10800 0 x x \uf02d \uf02d \uf03d . [3] Solve the equation 2 203 406 10800 0 x x \uf02d \uf02d \uf03d , giving your solutions correct to 2 decimal places. [3] are turned on together to fill the tank when it is empty. Find the time taken for the tank to be completely filled. Give your answer in minutes and seconds, correct to the nearest second. [2] 9 Yishun Town Secondary School on horizontal ground. . . . . . . . [2] . when seen from the top of the treehouse.                [2] is nearest . . [2] 58 K L M S 7.2 6.4 30 North 10 Yishun Town Secondary School years) Frequency 20 30 x \uf0a3 \uf03c 15 30 40 x \uf0a3 \uf03c 12 40 50 x \uf0a3 \uf03c 10 50 60 x \uf0a3 \uf03c 8 60 70 x \uf0a3 \uf03c 5 Calculate an estimate of the mean age. [1] Calculate an estimate of the standard deviation. [1] is 11 years. and . [1]"
+        },
+        {
+          "id": "Q2b",
+          "label": "b",
+          "text": " 30 students sat for a Mathematics test. The mean mark was 12.8 and the median mark was 12. One student was late and sat for the test on the next day. The new mean mark was 13. Calculate the marks scored by the student who was late. [2] Copy and complete the sentence below with the correct phrase from the list. The new median \u2026 [1] is definitely bigger than 12 is definitely smaller than 12 might be bigger than 12 but might still be 12 might be smaller than 12 but might still be 12 is still 12 11 Yishun Town Secondary School"
+        },
+        {
+          "id": "Q2c",
+          "label": "c",
+          "text": " There are some coloured cards in a bag. The probability of drawing a red card is 1 and that of drawing a green card is 1 . 5 points are awarded when a red card is drawn and 3 points are awarded when a green card is drawn. No points are awarded when other coloured cards are drawn. After each card is drawn, it is then put back into the bag before the next card is drawn. Charles draws a card at random from the bag. Find the probability that he will not be awarded any points. [1] Charlene draws 2 cards at random from the bag. Find the probability that she will be awarded less than 8 points. [2] 12 Yishun Town Secondary School Lim, Xian and Hui use smartphones as part of their everyday routine. Lim and Xian sign up for the same mobile plan for 2 years as shown. Mobile Plan Contract Details (Bundled Plan and Extra Surcharges are subjected to 7% GST) Bundled Plan Phone Price $1115 Local Free SMS 1000 Monthly Subscription $42 Local Free Data Bundle 3GB Local Free Voice Calls 200 mins One Time Registration Charge (not subjected to GST nor service charge) $10.70 Extra Surcharges (Exceed Bundled Plan) Per global SMS $0.15 Per local SMS $0.0535 0.2675 cents/sec Excess local mobile data charged at $10.70 per GB or part thereof* and final capped at $188.32 per month. Any additional charges on top of final capped amount will be $2.14 per MB. (1GB = 1000 MB) *For example, if user uses excess of 1.1GB, $21.40 will be charged. Lim bought a phone together with the bundled plan."
+        },
+        {
+          "id": "Q2a",
+          "label": "a",
+          "text": " for using the bundled plan for 2 years if he does not incur any extra surcharges? [2] Xian sends 1100 local SMS, makes 205 minutes 40 seconds of local voice calls and uses 6.3GB of data locally in a particular month."
+        },
+        {
+          "id": "Q2b",
+          "label": "b",
+          "text": " does Xian need to pay in that month? [3] Hui is looking for a new mobile plan contract and saw an advertisement from Eunonia Telecommunications Pte Ltd. The advertisement is on page 13. Assume Hui\u2019s usage of SMS, calls, mobile data and global SMS is constant every month as shown below. Local SMS: 500 Local Mobile Data: 8.5GB Local Voice Calls: 980 minutes Global SMS: 10"
+        },
+        {
+          "id": "Q2c",
+          "label": "c",
+          "text": " Suggest the mobile plan that Hui should choose from Eunonia Telecommunications Pte Ltd. Justify the decision you make by showing your calculations clearly. [5] 13 Yishun Town Secondary School . Eunonia Telecommunications Pte Ltd _____________________________________________________________________________________ With packages inclusive of 7% GST and discounts, _____________________________________________________________________________________ Mobile Plan Name XS Monthly Subscription** $48 $68 $88 Discount 30% off monthly subscription Local Free Mobile Data 3GB 4GB 5GB DataJump*** Additional 3GB local data at $6/month! Super DataJump $10/month!*** +5GB local data! + 10GB local data! Local Free Voice Calls (Mins) 200 400 Unlimited! Local Free SMS/MMS** 100 $0.0535 per SMS **Prices are based on the mobile plan featured. All prices are inclusive of 7% GST. *** Optional and all prices quoted are inclusive of 7% GST. Not allowed to combine DataJump and Super DataJump and/or multiple DataJumps and/or multiple SuperDataJumps. End of Paper Eunonia Telecommunications Pte Ltd Extra Surcharges (inclusive of 7% GST) (Exceed Bundled Plan) Per global SMS $0.20 Per local SMS $0.06 0.2675 cents/sec Excess local mobile data charged at $10.70 per GB or part thereof* and final capped at $238 per month. Any additional charges on top of final capped amount will be 0.0107 cents per KB. (1MB = 1000 KB) *For example, if user uses excess of 1.1GB, $21.40 will be charged. 14 Yishun Town Secondary School 15 Yishun Town Secondary School YISHUN TOWN SECONDARY SCHOOL 2018 Prelim Examination Secondary 4E5N MATHEMATICS Qn Answer Qn Answer 1ai 17 \uf03d 7a 1080 x min 1aii 3 15 4 p q \uf0b1 \uf02d \uf03d 7b 1080 2 \uf02d min 1b 11.25 \uf03d\uf02d 7c 2 203 406 10800 0 x x \uf02d \uf02d \uf03d (shown) 1c 2 7d 6.36 \uf02d (2 d.p.) 1d 2 2 \uf02b 7e 73 min 21 seconds (nearest second) 2a 600 1500 400 1600 3500 1000 \uf0e6 \uf0f6 \uf0e7 \uf0f7 \uf0e8 \uf0f8 8a 2b = 12 20 16 \uf0e6 \uf0f6 \uf0e7 \uf0f7 \uf0e7 \uf0f7 \uf0e7 \uf0f7 \uf0e8 \uf0f8 8b 6.63 \uf03d m ( 3 s.f.) 2c = 43600 105200 \uf0e6 \uf0f6 \uf0e7 \uf0f7 \uf0e8 \uf0f8 8c 6.01 \uf03d m (3 s.f.) 2d The theme park earned $ 43600 and $105200 from the sale of admission tickets on weekdays and weekends respectively. or The amount of money collected by the theme park on weekdays and weekends respectively. 8d (3 s.f.) 2e The Theme Park increases their earnings by $11904. 8e 3a Rhombus 8f 3.81 \uf03d m (3 s.f.) 3bi 9ai Mean age = 40.2 years old 3bii are congruent. 9aii Standard deviation = 13.3 years old (3 s.f.) 3biii 120 FXC \uf0d0 \uf03d 9aiii Since the standard deviation by the Company of 50 staff . 16 Yishun Town Secondary School 3biv 180 \uf03d , then sum of interior angles show that sides are parallel. 9bi 19 4a 4 2 2 5 2 5 6 27 \uf03d \uf02d \uf02b \uf03d 9bii The new median might be bigger than 12 but might still be 12 4b 1 2 2 1 n n T n \uf02d \uf03d \uf02b 9ci 19 4c 1 2 2(2 1 2 ) n n \uf02d \uf02d \uf02b\uf02d 9cii 163 4d 11 \uf03d 10a $2282. 31 6a and are similar. 10b $52.49 (2 d.p.) 6b = 2 cm 10c Eunonia Telecommunications Pte Ltd XS: $222.89/month 70 20 ($48)   +  $6         + 3($10.70) + 780($0.1605) + 10($ ) 400($0.06) 100 100 Mthly Sub   Data Jump   Extra Data   Voice call          G SMS      Local SMS \uf02b S: $179.44/month 70 20 ($68)   +  $10               + 580($0.1605) + 10($ ) 500($0.0535) 100 100 Mthly Sub      S Data Jump    Voice call          G SMS      Local SMS \uf02b M: $100.35/month 70 20 ($88)   +  $10                + 10($ ) 500($0.0535) 100 100 Mthly Sub      S Data Jump     G SMS      Local SMS \uf02b Plan M at for him to suit . 6c : area of is 1 : 8. 6d"
+        }
+      ]
+    }
+  ]
+}

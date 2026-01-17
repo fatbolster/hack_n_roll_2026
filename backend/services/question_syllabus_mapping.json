@@ -1,0 +1,289 @@
+{
+  "paper_id": "samplePaper.pdf",
+  "question_topic_mapping": [
+    {
+      "question_id": "Q1a",
+      "page": 3,
+      "topics": [
+        "Algebraic expressions and formulae"
+      ],
+      "in_syllabus": true,
+      "confidence": 0,
+      "out_of_scope_reason": null
+    },
+    {
+      "question_id": "Q1b",
+      "page": 3,
+      "topics": [
+        "Algebraic expressions and formulae"
+      ],
+      "in_syllabus": true,
+      "confidence": 0,
+      "out_of_scope_reason": null
+    },
+    {
+      "question_id": "Q3a",
+      "page": 3,
+      "topics": [
+        "Set language and notation"
+      ],
+      "in_syllabus": true,
+      "confidence": 0,
+      "out_of_scope_reason": null
+    },
+    {
+      "question_id": "Q3b",
+      "page": 3,
+      "topics": [
+        "Set language and notation"
+      ],
+      "in_syllabus": true,
+      "confidence": 0,
+      "out_of_scope_reason": null
+    },
+    {
+      "question_id": "Q5",
+      "page": 4,
+      "topics": [
+        "Mensuration",
+        "Geometry and Measurement"
+      ],
+      "in_syllabus": true,
+      "confidence": 0,
+      "out_of_scope_reason": null
+    },
+    {
+      "question_id": "Q6",
+      "page": 4,
+      "topics": [
+        "Algebraic expressions and formulae"
+      ],
+      "in_syllabus": true,
+      "confidence": 0,
+      "out_of_scope_reason": null
+    },
+    {
+      "question_id": "Q7",
+      "page": 5,
+      "topics": [
+        "Data handling and analysis"
+      ],
+      "in_syllabus": true,
+      "confidence": 0,
+      "out_of_scope_reason": null
+    },
+    {
+      "question_id": "Q8",
+      "page": 5,
+      "topics": [
+        "Functions and graphs"
+      ],
+      "in_syllabus": true,
+      "confidence": 0,
+      "out_of_scope_reason": null
+    },
+    {
+      "question_id": "Q9",
+      "page": 6,
+      "topics": [
+        "Angles, triangles and polygons"
+      ],
+      "in_syllabus": true,
+      "confidence": 0,
+      "out_of_scope_reason": null
+    },
+    {
+      "question_id": "Q10",
+      "page": 7,
+      "topics": [
+        "Mensuration"
+      ],
+      "in_syllabus": true,
+      "confidence": 0,
+      "out_of_scope_reason": null
+    },
+    {
+      "question_id": "Q11",
+      "page": 8,
+      "topics": [],
+      "in_syllabus": false,
+      "confidence": 0,
+      "out_of_scope_reason": "The question does not contain a mathematical problem or inquiry."
+    },
+    {
+      "question_id": "Q12",
+      "page": 8,
+      "topics": [
+        "Rate and speed"
+      ],
+      "in_syllabus": true,
+      "confidence": 0,
+      "out_of_scope_reason": null
+    },
+    {
+      "question_id": "Q13",
+      "page": 9,
+      "topics": [
+        "Numbers and their operations"
+      ],
+      "in_syllabus": true,
+      "confidence": 0,
+      "out_of_scope_reason": null
+    },
+    {
+      "question_id": "Q14",
+      "page": 9,
+      "topics": [],
+      "in_syllabus": false,
+      "confidence": 0,
+      "out_of_scope_reason": "The question does not contain a mathematical problem or inquiry."
+    },
+    {
+      "question_id": "Q15",
+      "page": 10,
+      "topics": [
+        "Algebraic expressions and formulae",
+        "Functions and graphs"
+      ],
+      "in_syllabus": true,
+      "confidence": 0,
+      "out_of_scope_reason": null
+    },
+    {
+      "question_id": "Q16",
+      "page": 11,
+      "topics": [
+        "Geometry and Measurement",
+        "Angles, triangles and polygons"
+      ],
+      "in_syllabus": true,
+      "confidence": 0,
+      "out_of_scope_reason": null
+    },
+    {
+      "question_id": "Q17",
+      "page": 12,
+      "topics": [
+        "Geometry and Measurement",
+        "Coordinate geometry"
+      ],
+      "in_syllabus": true,
+      "confidence": 0,
+      "out_of_scope_reason": null
+    },
+    {
+      "question_id": "Q18",
+      "page": 13,
+      "topics": [
+        "Geometry and Measurement",
+        "Mensuration"
+      ],
+      "in_syllabus": true,
+      "confidence": 0,
+      "out_of_scope_reason": null
+    },
+    {
+      "question_id": "Q19",
+      "page": 14,
+      "topics": [
+        "Geometry and Measurement",
+        "Angles, triangles and polygons"
+      ],
+      "in_syllabus": true,
+      "confidence": 0,
+      "out_of_scope_reason": null
+    },
+    {
+      "question_id": "Q20",
+      "page": 15,
+      "topics": [
+        "Geometry and Measurement",
+        "Angles, triangles and polygons"
+      ],
+      "in_syllabus": true,
+      "confidence": 0,
+      "out_of_scope_reason": null
+    },
+    {
+      "question_id": "Q21a",
+      "page": 16,
+      "topics": [
+        "Statistics and Probability"
+      ],
+      "in_syllabus": true,
+      "confidence": 0,
+      "out_of_scope_reason": null
+    },
+    {
+      "question_id": "Q21b",
+      "page": 16,
+      "topics": [
+        "Statistics and Probability"
+      ],
+      "in_syllabus": true,
+      "confidence": 0,
+      "out_of_scope_reason": null
+    },
+    {
+      "question_id": "Q21c",
+      "page": 16,
+      "topics": [
+        "Statistics and Probability"
+      ],
+      "in_syllabus": true,
+      "confidence": 0,
+      "out_of_scope_reason": null
+    },
+    {
+      "question_id": "Q1",
+      "page": 25,
+      "topics": [
+        "Algebraic expressions and formulae",
+        "Equations and inequalities"
+      ],
+      "in_syllabus": true,
+      "confidence": 0,
+      "out_of_scope_reason": null
+    },
+    {
+      "question_id": "Q2",
+      "page": 25,
+      "topics": [
+        "Statistics and Probability"
+      ],
+      "in_syllabus": true,
+      "confidence": 0,
+      "out_of_scope_reason": null
+    },
+    {
+      "question_id": "Q2a",
+      "page": 25,
+      "topics": [
+        "Statistics and Probability"
+      ],
+      "in_syllabus": true,
+      "confidence": 0,
+      "out_of_scope_reason": null
+    },
+    {
+      "question_id": "Q2b",
+      "page": 25,
+      "topics": [
+        "Statistics and Probability"
+      ],
+      "in_syllabus": true,
+      "confidence": 0,
+      "out_of_scope_reason": null
+    },
+    {
+      "question_id": "Q2c",
+      "page": 25,
+      "topics": [
+        "Statistics and Probability"
+      ],
+      "in_syllabus": true,
+      "confidence": 0,
+      "out_of_scope_reason": null
+    }
+  ]
+}
