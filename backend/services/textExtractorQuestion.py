@@ -91,12 +91,9 @@ def extract_questions_from_pdf(pdf_path: str) -> dict:
     
                 
     
-                    # Detect bold question number (allow trailing '.' or ')')
-                    qnum_match = re.fullmatch(r"(\d+)[\.)]?", text)
-                    if qnum_match and ("Bold" in font or "bold" in font.lower()):
-                        num = int(qnum_match.group(1))
-                        if not (1 <= num <= 50):
-                            continue
+                    # Detect bold question number
+                    if (re.fullmatch(r"\d+", text) and ("Bold" in font or "bold" in font.lower()) and 1 <= int(text) <= 50):
+                        num = int(text)
     
                         # First question found - initialize expected_question_num
                         if expected_question_num is None:
@@ -119,28 +116,14 @@ def extract_questions_from_pdf(pdf_path: str) -> dict:
                     line_text += text + " "
     
     
-                # IMPORTANT: question numbers may appear on their own line.
-                # We must create the question even if the remaining line_text is empty.
                 if detected_q_num is not None:
                     saw_question_number = True
                     q_num = detected_q_num
-
-                    if current_q:
-                        questions.append(current_q)
-
-                    current_q = {
-                        "id": f"Q{q_num}",
-                        "text": "",
-                        "page": page_num,
-                        "subparts": []
-                    }
-                    current_subpart = None
-
+    
+                    
+                
                 line_text = line_text.strip()
                 if not line_text:
-                    # If we just started a question number-only line, move on.
-                    if saw_question_number:
-                        continue
                     continue
     
             
@@ -154,8 +137,20 @@ def extract_questions_from_pdf(pdf_path: str) -> dict:
     
     
                 if saw_question_number:
-                    # If the question number shares a line with text, remove any leading number token.
-                    line_text = re.sub(r"^\s*\d+[\.)]?\s*", "", line_text).strip()
+                    if current_q:
+                        questions.append(current_q)
+    
+                    current_q = {
+                        "id": f"Q{q_num}",
+                        "text": "",
+                        "page": page_num,
+                        "subparts": []
+                    }
+    
+                    current_subpart = None  # reset subpart context
+    
+                    # Remove leading question number from text
+                    line_text = re.sub(r"^\s*\d+\s*", "", line_text).strip()
                     if not line_text:
                         continue
     
