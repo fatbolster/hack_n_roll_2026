@@ -85,6 +85,9 @@ OUTPUT FORMAT (STRICT JSON):
   ]
 }}
 
+SYLLABUS:
+{syllabus_text}
+
 QUESTIONS:
 {json.dumps(q_chunk, indent=2)}
 """

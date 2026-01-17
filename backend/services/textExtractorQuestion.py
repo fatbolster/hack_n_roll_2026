@@ -37,10 +37,6 @@ def extract_questions_from_pdf(pdf_path: str) -> dict:
     Returns:
         dict with paper_id and questions array
     """
-    print(f"\n{'='*80}")
-    print(f"🔍 EXTRACTING QUESTIONS FROM: {pdf_path}")
-    print(f"{'='*80}")
-    
     global break_all_parsing
     break_all_parsing = False
     
@@ -48,7 +44,6 @@ def extract_questions_from_pdf(pdf_path: str) -> dict:
     last_question_page = None
     
     doc = fitz.open(pdf_path)
-    print(f"📄 PDF opened: {len(doc)} pages")
     
     questions = []
     current_q = None
@@ -64,13 +59,10 @@ def extract_questions_from_pdf(pdf_path: str) -> dict:
             break
     
         if page_num <= 2:
-            print(f"⏭️  Skipping page {page_num} (cover pages)")
             continue
     
-        print(f"\n📄 Processing page {page_num}...")
         blocks = page.get_text("dict")["blocks"]
         page_height = page.rect.height
-        print(f"   Found {len(blocks)} blocks on page {page_num}")
     
         # This helps to extract stuff like font also
         for block in blocks:
@@ -91,63 +83,64 @@ def extract_questions_from_pdf(pdf_path: str) -> dict:
                     font = span["font"]
                     y0 = span["bbox"][1]
     
-                    # Ignore header (top 12% - where page numbers appear)
-                    if y0 < page_height * 0.12:
-                        continue
-                    
                     # Ignore footer
                     if y0 > page_height * 0.88:
                         continue
     
-                    # Check if this is a number
-                    if re.fullmatch(r"\d+", text):
-                        num = int(text)
-                        is_bold = "Bold" in font or "bold" in font.lower()
-                        print(f"      Number found: {num}, font: {font}, is_bold: {is_bold}, range: 1-50: {1 <= num <= 50}, y_pos: {y0:.1f}/{page_height:.1f}")
-                        
-                        # Detect bold question number
-                        if is_bold and 1 <= num <= 50:
-                            print(f"   🔢 Found bold number: {num} (font: {font}, expected: {expected_question_num})")
-        
-                            # First question found - initialize expected_question_num
-                            if expected_question_num is None:
-                                detected_q_num = num
-                                expected_question_num = num + 1
-                                last_question_page = page_num
-                                print(f"   ✅ First question number detected: {num}, next expected: {expected_question_num}")
-                            # Normal progression
-                            elif num == expected_question_num:
-                                detected_q_num = num
-                                expected_question_num += 1
-                                last_question_page = page_num
-                                print(f"   ✅ Sequential question: Q{num}, next expected: {expected_question_num}")
-                            # Reset case: new paper starts at Q1
-                            elif num == 1 and last_question_page is not None and page_num > last_question_page:
-                                detected_q_num = 1
-                                expected_question_num = 2
-                                last_question_page = page_num
-                                print(f"   🔄 Reset to Q1 detected")
-                            else:
-                                print(f"   ⚠️  Skipped non-sequential number: {num} (expected {expected_question_num})")
-        
+    
+    
+                
+    
+                    # Detect bold question number (allow trailing '.' or ')')
+                    qnum_match = re.fullmatch(r"(\d+)[\.)]?", text)
+                    if qnum_match and ("Bold" in font or "bold" in font.lower()):
+                        num = int(qnum_match.group(1))
+                        if not (1 <= num <= 50):
                             continue
+    
+                        # First question found - initialize expected_question_num
+                        if expected_question_num is None:
+                            detected_q_num = num
+                            expected_question_num = num + 1
+                            last_question_page = page_num
+                        # Normal progression
+                        elif num == expected_question_num:
+                            detected_q_num = num
+                            expected_question_num += 1
+                            last_question_page = page_num
+                        # Reset case: new paper starts at Q1
+                        elif num == 1 and last_question_page is not None and page_num > last_question_page:
+                            detected_q_num = 1
+                            expected_question_num = 2
+                            last_question_page = page_num
+    
+                        continue
     
                     line_text += text + " "
     
     
+                # IMPORTANT: question numbers may appear on their own line.
+                # We must create the question even if the remaining line_text is empty.
                 if detected_q_num is not None:
                     saw_question_number = True
                     q_num = detected_q_num
-                    print(f"      ✓ Line has question number Q{q_num}, line_text before strip: '{line_text}'")
-    
-                    
-                
+
+                    if current_q:
+                        questions.append(current_q)
+
+                    current_q = {
+                        "id": f"Q{q_num}",
+                        "text": "",
+                        "page": page_num,
+                        "subparts": []
+                    }
+                    current_subpart = None
+
                 line_text = line_text.strip()
-                
-                # Don't skip if we found a question number, even if line is empty
-                # The question number might be on its own line
-                if not line_text and not saw_question_number:
-                    print(f"      ⚠️  Line text is empty and no question number, skipping")
+                if not line_text:
+                    # If we just started a question number-only line, move on.
+                    if saw_question_number:
+                        continue
                     continue
     
             
@@ -161,22 +154,8 @@ def extract_questions_from_pdf(pdf_path: str) -> dict:
     
     
                 if saw_question_number:
-                    if current_q:
-                        questions.append(current_q)
-                        print(f"   ✅ Saved Q{current_q['id']}")
-    
-                    current_q = {
-                        "id": f"Q{q_num}",
-                        "text": "",
-                        "page": page_num,
-                        "subparts": []
-                    }
-    
-                    current_subpart = None  # reset subpart context
-                    print(f"   📝 Created new question: Q{q_num}")
-    
-                    # Remove leading question number from text
-                    line_text = re.sub(r"^\s*\d+\s*", "", line_text).strip()
+                    # If the question number shares a line with text, remove any leading number token.
+                    line_text = re.sub(r"^\s*\d+[\.)]?\s*", "", line_text).strip()
                     if not line_text:
                         continue
     
@@ -206,11 +185,6 @@ def extract_questions_from_pdf(pdf_path: str) -> dict:
     # Save last question
     if current_q:
         questions.append(current_q)
-        print(f"   ✅ Saved final question Q{current_q['id']}")
-    
-    print(f"\n{'='*80}")
-    print(f"✅ EXTRACTION COMPLETE: {len(questions)} questions found")
-    print(f"{'='*80}\n")
     
     paper_json = {
         "paper_id": os.path.basename(pdf_path),
@@ -223,7 +197,7 @@ def extract_questions_from_pdf(pdf_path: str) -> dict:
 # ---- RUN ----
 if __name__ == "__main__":
     pdf_path = os.path.join(BASE_DIR, "samplePaper2.pdf")
-    output_path = os.path.join(BASE_DIR, "questions.json")
+    output_path = os.path.join(BASE_DIR, "questions2.json")
     
     result = extract_questions_from_pdf(pdf_path)
     

@@ -1,0 +1,204 @@
+{
+  "paper_id": "samplePaper2.pdf",
+  "questions": [
+    {
+      "id": "Q25",
+      "text": "There are 12 boys and 13 girls in a class. Two of the children are selected at random to participate in a forum. ",
+      "page": 20,
+      "subparts": [
+        {
+          "id": "Q25a",
+          "label": "a",
+          "text": " Draw a tree diagram below to show the probabilities of the possible outcomes. [2]"
+        },
+        {
+          "id": "Q25b",
+          "label": "b",
+          "text": " Find, as a fraction in its simplest form, the probability that  two boys are selected, Answer __________________________ [1] one boy and one girl are selected. Answer __________________________ [2] Anglo-Chinese School (Barker Road)"
+        },
+        {
+          "id": "Q25c",
+          "label": "c",
+          "text": " As a standby, a third student is selected. Find the probability that out of the three students, there will be at least one boy and one girl selected. Answer __________________________ [2] Anglo-Chinese School (Barker Road) Full Name Class Index No Class Anglo-Chinese School (Barker Road) PRELIMINARY EXAMINATION 2024 SECONDARY FOUR EXPRESS / FIVE NORMAL (ACADEMIC) MATHEMATICS 4052 2 HOURS 15 MINUTES Candidates answer on the Question Paper. Write your index number and name on all the work you hand in. Write in dark blue or black pen. You may use an HB pencil for any diagrams or graphs. Answer all questions. The number of marks is given in brackets [ ] at the end of each question or part question. If working is needed for any question it must be shown with the answer. Omission of essential working will result in loss of marks. The total of the marks for this paper is 90. The use of an approved scientific calculator is expected, where appropriate. If the degree of accuracy is not specified in the question and if the answer is not exact, give the answer to three significant figures. Give answers in degrees to one decimal place. For \uf070 , use either your calculator value or 3.142. For Examiner\u2019s Use Anglo-Chinese School (Barker Road) Compound interest Total amount 1 100 n r P \uf0e6 \uf0f6 = + \uf0e7 \uf0f7 \uf0e8 \uf0f8 Mensuration Curved surface area of a cone rl \uf070 = Surface area of a sphere 2 4 r \uf070 = Volume of a cone 2 1 3 r h \uf070 = Volume of a sphere 3 4 3 r \uf070 = Area of triangle ABC 1 sin 2 ab C = Arc length r \uf071 = , where \uf071 is in radians Sector area 2 1 2 r \uf071 = , where \uf071 is in radians Trigonometry sin sin sin a b c A B C = = 2 2 2 2 cos a b c bc A = + \u2212 Statistics Mean fx f = \uf0e5 \uf0e5 Standard deviation 2 2 fx fx f f \uf0e6 \uf0f6 = \u2212\uf0e7 \uf0f7 \uf0e7 \uf0f7 \uf0e8 \uf0f8 \uf0e5 \uf0e5 \uf0e5 \uf0e5 Anglo-Chinese School (Barker Road) On a particular day in 2023, the exchange rate between Singapore dollars (SGD) and United States dollars (USD) was USD 1 = SGD x ."
+        },
+        {
+          "id": "Q25a",
+          "label": "a",
+          "text": " Write down an expression, in terms of x , for the USD received in exchange for SGD 10 000. Answer USD = ___________________ [1] In 2022, the rate was such that USD 1 would exchange for SGD 0.030 less than in 2023. The difference in exchanging SGD 10 000 in 2023 and SGD 10 000 in 2022, is USD 166."
+        },
+        {
+          "id": "Q25b",
+          "label": "b",
+          "text": " Write down an equation to represent this information and show that it reduces to 2 83 2.49 150 0 x x \u2212 \u2212 = . Answer [3]"
+        },
+        {
+          "id": "Q25c",
+          "label": "c",
+          "text": " Solve the equation 2 83 2.49 150 0 x x \u2212 \u2212 = , giving your solutions correct to three decimal places. Answer  x = ______________ or ______________ [3]"
+        },
+        {
+          "id": "Q25d",
+          "label": "d",
+          "text": "Find the amount of USD received in exchange for SGD 20 000 in 2022. Give your answer correct to the nearest dollar. Answer USD = ___________________ [2] Anglo-Chinese School (Barker Road)"
+        },
+        {
+          "id": "Q25a",
+          "label": "a",
+          "text": " It is given that 2 2 3 sq r q = \u2212 .  Evaluate s when q = \u20133 and r = 5. Answer  s = _______________________ [1] Express q in terms of r and s . Answer  q = _______________________ [2]"
+        },
+        {
+          "id": "Q25b",
+          "label": "b",
+          "text": "(i) Show that 2 2 (7 1) ( 1) n n \u2212 \u2212 \u2212 is a multiple of 12 for all integer values of n . Answer [2] Anglo-Chinese School (Barker Road)"
+        },
+        {
+          "id": "Q25b",
+          "label": "b",
+          "text": "(ii) Simplify 2 2 2 3 12 4 (7 1) ( 1) p n n np n n \u2212 + \u2212 \u2212 \u2212 \u2212 . Answer _____________________________ [3] Anglo-Chinese School (Barker Road) The diagram shows a circle ABCDEF , with centre O . TA and TE are tangents to the circle. BGF and COT are straight lines. OA intersects BF at G . CT is parallel to BA . Angle OTE = 32\u00b0."
+        },
+        {
+          "id": "Q25a",
+          "label": "a",
+          "text": " Identify the triangle that is congruent to triangle TOE and show that they are congruent. Give a reason for each statement you make. Answer _______________________________________________________________ _______________________________________________________________ _______________________________________________________________ _______________________________________________________________ _______________________________________________________________ _______________________________________________________________ [3] Anglo-Chinese School (Barker Road)"
+        },
+        {
+          "id": "Q25b",
+          "label": "b",
+          "text": "Find, giving reasons for each step of your working,  angle OFG , Answer angle OFG = ___________ [3] angle CDE . Answer angle CDE = ___________ [3]"
+        },
+        {
+          "id": "Q25c",
+          "label": "c",
+          "text": " Explain why points O,E,T and A can also be points on the circumference of another circle. Answer _________________________________________________________ _______________________________________________________________ _______________________________________________________________ [1] Anglo-Chinese School (Barker Road) The position vectors of A and B , relative to O , are a and 2 b respectively. 3 4 BC BA = and 1 2 AD BO = ."
+        },
+        {
+          "id": "Q25a",
+          "label": "a",
+          "text": " Find, in terms of a and b ,  AB , Answer AB = ___________ [1]  OC . Answer  OC = ___________ [2]"
+        },
+        {
+          "id": "Q25b",
+          "label": "b",
+          "text": "(i) P is a point outside of triangle ABO . Find OP , such that 3 BP OA = . Answer  OP = ___________ [1] Anglo-Chinese School (Barker Road) Show that O , C and P lie on a straight line. Answer _____________________________________________________ ___________________________________________________________ [2]"
+        },
+        {
+          "id": "Q25c",
+          "label": "c",
+          "text": " Find the ratio  area of triangle OCB : area of triangle OCA, Answer _______ : _______ [1] area of triangle OAC : area of triangle OAD . Answer _______ : _______ [1] Anglo-Chinese School (Barker Road) A stone is thrown from the top of a cliff next to the sea. The height, h metres, of the stone above the sea level t seconds after it is released can be modelled by the equation 2 16 5 80 h t t = \u2212 + . Some corresponding values of t and h are given in the table below. t 0 1 2 3 4 5 6 h 80 91 92 83 64 35 p"
+        },
+        {
+          "id": "Q25a",
+          "label": "a",
+          "text": " Calculate the value of p . Answer  p = _____________ [1]"
+        },
+        {
+          "id": "Q25b",
+          "label": "b",
+          "text": "On the grid, draw the graph of 2 16 5 80 h t t = \u2212 + for 0 6 t \uf0a3\uf0a3 . [3]"
+        },
+        {
+          "id": "Q25c",
+          "label": "c",
+          "text": " Explain how the graph shows that the stone will not reach a height of 100m. Answer __________________________________________________________ ________________________________________________________________ [1] Anglo-Chinese School (Barker Road)"
+        },
+        {
+          "id": "Q25d",
+          "label": "d",
+          "text": "Use the graph to find the length of time that the stone was 84 metres or more above sea level. Answer ____________________ s    [1]"
+        },
+        {
+          "id": "Q25e",
+          "label": "e",
+          "text": " By drawing a tangent on the grid in part (b) , find the gradient of the curve at (4, 64). State the units of your answer. Answer _____________________ [3] Anglo-Chinese School (Barker Road) A water dispenser is in the shape of a cylinder and a hemisphere both of radius 10 cm. The height of the dispenser is 90 cm. Conical disposable cups of diameter 6 cm and height 5.3 cm are provided to drink the water from the dispenser."
+        },
+        {
+          "id": "Q25a",
+          "label": "a",
+          "text": " Water is filled to the brim of the dispenser. Show that the amount of water in the dispenser is 2 8666 3 \uf070 cm 3 . Answer [2]"
+        },
+        {
+          "id": "Q25b",
+          "label": "b",
+          "text": "Find the capacity of one conical cup. Give your answer to the nearest cm 3 . Answer _________________ cm 3 [2] Anglo-Chinese School (Barker Road)"
+        },
+        {
+          "id": "Q25c",
+          "label": "c",
+          "text": " Find the height of the water remaining in the dispenser after 250 cups of water have been dispensed. Answer _________________ cm [4]"
+        },
+        {
+          "id": "Q25d",
+          "label": "d",
+          "text": "The conical disposable cups are made of a thin material of negligible thickness. Calculate the cost of 250 conical cups given that the cost of material is 0.003 cents/cm 2 . Give your answer to the nearest cent. Answer ________________ cents [3] Anglo-Chinese School (Barker Road) The map shown has a scale of 1 : 7500. An area on the map is formed by a triangle PQR . PQ = 7 cm, QR = 5.5 cm and RP = 6 cm."
+        },
+        {
+          "id": "Q25a",
+          "label": "a",
+          "text": " Find the actual perimeter, in kilometres, of triangle PQR . Answer ___________________ km [2]"
+        },
+        {
+          "id": "Q25b",
+          "label": "b",
+          "text": "P is due north of Q . Calculate the bearing of Q from R . Answer ______________________  [4] Anglo-Chinese School (Barker Road)"
+        },
+        {
+          "id": "Q25c",
+          "label": "c",
+          "text": " Calculate, in square metres, the actual area of triangle PQR . Answer __________________ m 2 [3]"
+        },
+        {
+          "id": "Q25d",
+          "label": "d",
+          "text": "A drone flies along the line QP at a vertical height of 75m. Find the greatest angle of elevation of the drone from R . Answer ___________________ [4] Anglo-Chinese School (Barker Road) The marks attained by 40 students in a Mathematics test were recorded. The cumulative frequency curve shows the distribution of the marks."
+        },
+        {
+          "id": "Q25a",
+          "label": "a",
+          "text": " Use the curve to estimate the  the median mark, Answer ____________________ [1] the interquartile range. Answer ____________________ [2]"
+        },
+        {
+          "id": "Q25b",
+          "label": "b",
+          "text": "12.5% of students achieved more than x marks in this test. Estimate the value of x . Answer  x = _________________ [1] Anglo-Chinese School (Barker Road)"
+        },
+        {
+          "id": "Q25c",
+          "label": "c",
+          "text": " Complete the frequency distribution table of the marks attained by the students. Marks ( x ) 4 10 x \uf0a3 \uf03c 10 15 x \uf0a3 \uf03c 15 20 x \uf0a3 \uf03c 20 24 x \uf0a3 \uf03c Number of students [2] Calculate an estimate for  the mean mark, Answer _____________________  [1] the standard deviation of their marks. Answer _____________________  [1] The same group of students sat for a Chemistry test. The maximum mark for the test was also 25. The box-and-whisker plot of the distribution of the marks is shown below."
+        },
+        {
+          "id": "Q25d",
+          "label": "d",
+          "text": " The scores of the top 25% of the students for the Chemistry test were less consistent than the scores of the bottom 25%. Given that a is an integer, write down the value of a . Answer  a = ______________________ [1]"
+        },
+        {
+          "id": "Q25e",
+          "label": "e",
+          "text": " Make two comparisons between the performances of the students in the Mathematics test and the Chemistry test. Use figures to support your answer. 1.  ____________________________________________________________ _______________________________________________________________ 2.  ____________________________________________________________ _______________________________________________________________ [2] Anglo-Chinese School (Barker Road)"
+        }
+      ]
+    },
+    {
+      "id": "Q9",
+      "text": "Lee started work on 1 January 2019. He started with a monthly salary of $4100 and has seen his salary increase by 4% annually. ",
+      "page": 40,
+      "subparts": [
+        {
+          "id": "Q9a",
+          "label": "a",
+          "text": "Show that Lee\u2019s current monthly salary, in January 2024, is $5000, correct to the nearest thousand. Answer [1] Lee has savings of $105 000. With his savings and monthly income, he intends to buy a car, in January 2024. He is deciding between buying an EV 60kWh electric car or a 1998cc petrol car. The table below is used to calculate the cost price of the car: Car Type EV 60kWh electric car 1998cc petrol car a.  Base cost (without COE) $100,000 $110,000 b.  COE Refer to Table A (COE  Prices) c.  Rebates (clean energy initiatives) $30,000 Not applicable Total cost price of car = a + b \u2013 c Every car owner in Singapore must purchase a Certificate of Entitlement (COE) for the car, which gives him the right to own and use a vehicle in Singapore. The COE prices since January 2023 can be seen below. Table A: COE Prices Anglo-Chinese School (Barker Road) Lee will take a loan from a financial institution. He intends to take the largest loan possible. The loan amount can be calculated using the information in Table B below: Table B: Calculation of Loan Car Type EV 60kWh 1998cc petrol car Maximum loan amount 60% of cost price of car 70% of cost price of car Maximum loan period 7 years 7 years Interest rate (based on simple interest) 2.78% yearly 2.78% yearly Being prudent, he would like to maintain an amount equivalent to at least 6 months of his salary in his savings."
+        },
+        {
+          "id": "Q9b",
+          "label": "b",
+          "text": "Show that Lee can only make the downpayment for one of the two cars. Show your calculations clearly and justify any decisions you make. Answer [3] Anglo-Chinese School (Barker Road) The approximate expenses for each car are seen in Table C below. Table C: Maintenance Cost Car Type EV 60kWh 1998cc petrol car a.  Road Tax Refer to Table D below b.  Repayment of loan to be calculated c.  Other costs (Annual) $4700 $3000 d.  Other costs (Monthly) $600 $800 Total expenses = a + b + c + d Table D: Road Tax (for 6 months) The table calculates the road tax for 6 months For Petrol Car Engine Capacity (EC) in cc 1000 < EC \u2264 1600 [$250 + $0.375(EC - 1000)] x 0.782 1600 < EC \u2264 3000 [$475 + $0.75(EC - 1600)] x 0.782 For Electric Car Power Rating (PR) in kWh 30 < PR \u2264 230 [$250 + $3.75(PR \u2013 30)] x 0.782 PR > 230 [$1,525 + $10(PR \u2013 230)] x 0.782"
+        },
+        {
+          "id": "Q9c",
+          "label": "c",
+          "text": " Lee\u2019s monthly expenditure is around $2700 on average. Based on the information given, determine if Lee can afford the car identified in part (b) . Show your calculations clearly and justify any decisions you make. Anglo-Chinese School (Barker Road) Answer Lee _____________________afford the car. [7] Anglo-Chinese School (Barker Road)"
+        }
+      ]
+    }
+  ]
+}
