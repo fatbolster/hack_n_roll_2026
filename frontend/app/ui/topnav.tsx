@@ -1,17 +1,26 @@
-import { ReactNode } from "react";
+import Link from "next/link";
+import type { ReactNode, SVGProps } from "react";
 import { Button } from "./button";
 
 type NavItem = {
   label: string;
-  active?: boolean;
   icon?: ReactNode;
+  href: string;
 };
 
-export function TopNav() {
+type TopNavProps = {
+  active?: NavItem["label"];
+};
+
+export function TopNav({ active = "Home" }: TopNavProps) {
   const navItems: NavItem[] = [
-    { label: "Home", active: true, icon: <HomeIcon className="h-4 w-4" /> },
-    { label: "Syllabus Changes" },
-    { label: "Paper Alignment" },
+    { label: "Home", icon: <HomeIcon className="h-4 w-4" />, href: "/" },
+    {
+      label: "Syllabus Changes",
+      icon: <LinkIcon className="h-4 w-4" />,
+      href: "/SyllabusChanges",
+    },
+    { label: "Paper Alignment", icon: <ClipboardIcon className="h-4 w-4" />, href: "/" },
   ];
 
   return (
@@ -25,22 +34,26 @@ export function TopNav() {
         </span>
       </div>
       <nav className="flex items-center gap-2">
-        {navItems.map((item) => (
-          <Button
-            key={item.label}
-            variant={item.active ? "navActive" : "nav"}
-            size="sm"
-            startIcon={item.icon}
-          >
-            {item.label}
-          </Button>
-        ))}
+        {navItems.map((item) => {
+          const isActive = item.label === active;
+          return (
+            <Link key={item.label} href={item.href}>
+              <Button
+                variant={isActive ? "navActive" : "nav"}
+                size="sm"
+                startIcon={item.icon}
+              >
+                {item.label}
+              </Button>
+            </Link>
+          );
+        })}
       </nav>
     </header>
   );
 }
 
-type IconProps = React.SVGProps<SVGSVGElement>;
+type IconProps = SVGProps<SVGSVGElement>;
 
 function HomeIcon(props: IconProps) {
   return (
@@ -51,6 +64,41 @@ function HomeIcon(props: IconProps) {
         strokeLinecap="round"
         strokeLinejoin="round"
       />
+    </svg>
+  );
+}
+
+function LinkIcon(props: IconProps) {
+  return (
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" {...props}>
+      <path
+        d="M7.5 15.5 6 17a4 4 0 0 0 5.66 5.66l2-2M16.5 8.5 18 7a4 4 0 0 0-5.66-5.66l-2 2M9.5 14.5l5-5"
+        strokeWidth="1.6"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+      />
+    </svg>
+  );
+}
+
+function ClipboardIcon(props: IconProps) {
+  return (
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" {...props}>
+      <rect
+        x="5.5"
+        y="5"
+        width="13"
+        height="16"
+        rx="2"
+        ry="2"
+        strokeWidth="1.6"
+      />
+      <path
+        d="M9.5 5.5a2 2 0 0 1 2-2h1a2 2 0 0 1 2 2v1a.5.5 0 0 1-.5.5h-4a.5.5 0 0 1-.5-.5z"
+        strokeWidth="1.6"
+        strokeLinejoin="round"
+      />
+      <path d="M9 11h6M9 14h6M9 17h3" strokeWidth="1.6" strokeLinecap="round" />
     </svg>
   );
 }

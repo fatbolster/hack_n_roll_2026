@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { ReactNode } from "react";
 import { Button } from "./ui/button";
 import { TopNav } from "./ui/topnav";
@@ -25,12 +26,13 @@ export default function Home() {
           </p>
 
           <section className="mt-12 grid w-full gap-6 lg:grid-cols-2">
-            <FeatureCard
-              title="Syllabus Change Detection"
-              description="Upload old and new MOE syllabus PDFs to instantly identify what's been added, removed, or modified."
-              ctaLabel="Compare Syllabi"
-              icon={<LinkIcon className="h-6 w-6 text-emerald-600" />}
-            />
+          <FeatureCard
+            title="Syllabus Change Detection"
+            description="Upload old and new MOE syllabus PDFs to instantly identify what's been added, removed, or modified."
+            ctaLabel="Compare Syllabi"
+            href="/SyllabusChanges"
+            icon={<LinkIcon className="h-6 w-6 text-emerald-600" />}
+          />
             <FeatureCard
               title="Practice Paper Alignment"
               description="Analyze your practice papers against the latest syllabus to ensure every question is still relevant."
@@ -53,9 +55,10 @@ type FeatureCardProps = {
   description: string;
   ctaLabel: string;
   icon: ReactNode;
+  href?: string;
 };
 
-function FeatureCard({ title, description, ctaLabel, icon }: FeatureCardProps) {
+function FeatureCard({ title, description, ctaLabel, icon, href }: FeatureCardProps) {
   return (
     <div className="rounded-3xl bg-white p-8 text-left shadow-sm ring-1 ring-slate-200">
       <div className="flex h-12 w-12 items-center justify-center rounded-2xl bg-emerald-50 text-emerald-700">
@@ -64,9 +67,17 @@ function FeatureCard({ title, description, ctaLabel, icon }: FeatureCardProps) {
       <h2 className="mt-5 text-xl font-semibold text-slate-900">{title}</h2>
       <p className="mt-2 text-base leading-relaxed text-slate-600">{description}</p>
       <div className="mt-6">
-        <Button variant="link" size="sm" endIcon={<ArrowRightIcon className="h-4 w-4" />}>
-          {ctaLabel}
-        </Button>
+        {href ? (
+          <Link href={href}>
+            <Button variant="link" size="sm" endIcon={<ArrowRightIcon className="h-4 w-4" />}>
+              {ctaLabel}
+            </Button>
+          </Link>
+        ) : (
+          <Button variant="link" size="sm" endIcon={<ArrowRightIcon className="h-4 w-4" />}>
+            {ctaLabel}
+          </Button>
+        )}
       </div>
     </div>
   );
