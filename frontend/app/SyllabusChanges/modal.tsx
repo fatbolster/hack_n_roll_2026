@@ -10,6 +10,8 @@ type ChangeItem = {
   id?: string | number;
   title: string;
   change_summary: string;
+  old_summary?: string;
+  new_summary?: string;
   status: ChangeStatus;
 };
 
@@ -55,6 +57,7 @@ const emptyCounts: SummaryCounts = { all: 0, added: 0, removed: 0, modified: 0 }
 export function SyllabusChangesModal({ isOpen, onClose, refreshToken = 0 }: ModalProps) {
   const [changes, setChanges] = useState<ChangeItem[]>([]);
   const [activeFilter, setActiveFilter] = useState<keyof SummaryCounts>("all");
+  const [expanded, setExpanded] = useState<Record<string, boolean>>({});
 
   useEffect(() => {
     if (!isOpen) return;
@@ -83,11 +86,15 @@ export function SyllabusChangesModal({ isOpen, onClose, refreshToken = 0 }: Moda
             }
             const title = item?.title ?? item?.topic ?? item?.topic_name ?? `Change ${idx + 1}`;
             const change_summary = item?.change_summary ?? item?.description ?? "";
+            const old_summary = item?.old_summary ?? "";
+            const new_summary = item?.new_summary ?? "";
             return {
               id: item?.id ?? idx,
               status,
               title,
               change_summary,
+              old_summary,
+              new_summary,
             };
           })
           .filter(Boolean) as ChangeItem[];
@@ -95,6 +102,7 @@ export function SyllabusChangesModal({ isOpen, onClose, refreshToken = 0 }: Moda
         if (isMounted) {
           setChanges(parsedChanges);
           setActiveFilter("all");
+          setExpanded({});
         }
       } catch (error) {
         console.error("Failed to load syllabus changes", error);
@@ -128,8 +136,18 @@ export function SyllabusChangesModal({ isOpen, onClose, refreshToken = 0 }: Moda
 
   const filteredChanges =
     activeFilter === "all"
-      ? changes
-      : changes.filter((change) => change.status === activeFilter);
+      ? [...changes].sort(
+          (a, b) =>
+            (a.status === "added" ? 0 : a.status === "removed" ? 1 : 2) -
+            (b.status === "added" ? 0 : b.status === "removed" ? 1 : 2),
+        )
+      : changes
+          .filter((change) => change.status === activeFilter)
+          .sort(
+            (a, b) =>
+              (a.status === "added" ? 0 : a.status === "removed" ? 1 : 2) -
+              (b.status === "added" ? 0 : b.status === "removed" ? 1 : 2),
+          );
 
   if (!isOpen) return null;
 
@@ -193,24 +211,62 @@ export function SyllabusChangesModal({ isOpen, onClose, refreshToken = 0 }: Moda
           ) : (
             filteredChanges.map((change, index) => {
               const meta = statusStyles[change.status];
+              const key = String(change.id ?? `${change.status}-${index}`);
+              const isExpanded = expanded[key] === true;
+              const hasDetails = Boolean(change.old_summary || change.new_summary);
               return (
                 <article
                   key={change.id ?? `${change.status}-${index}`}
                   className="group relative flex overflow-hidden rounded-xl border border-slate-100 bg-white shadow-sm ring-1 ring-slate-100 transition hover:shadow-md"
                 >
                   <div className={`w-1 ${meta.accentClass}`} />
-                  <div className="flex w-full flex-col gap-2 px-4 py-3">
-                    <div className="flex items-center gap-2 text-sm font-semibold">
-                      <span className={`rounded-full px-2 py-1 text-xs ${meta.pillClass}`}>
-                        {meta.label}
-                      </span>
-                      <span className="text-slate-900">{change.title}</span>
+                  <div className="flex w-full flex-col gap-2">
+                    <div className="flex items-start gap-2 px-4 pt-3">
+                      <div className="flex flex-1 items-center gap-2 text-sm font-semibold">
+                        <span className={`rounded-full px-2 py-1 text-xs ${meta.pillClass}`}>
+                          {meta.label}
+                        </span>
+                        <span className="text-slate-900">{change.title}</span>
+                      </div>
+                      <button
+                        type="button"
+                        disabled={!hasDetails}
+                        className={`absolute right-3 top-3 rounded-full p-[0.36rem] transition focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-emerald-500 ${hasDetails ? "group/chevron cursor-pointer text-slate-500 hover:bg-slate-100 hover:text-slate-700" : "cursor-default text-slate-300"}`}
+                        onClick={() =>
+                          hasDetails
+                            ? setExpanded((prev) => ({
+                                ...prev,
+                                [key]: !prev[key],
+                              }))
+                            : undefined
+                        }
+                        aria-label={isExpanded ? "Hide details" : "Show details"}
+                      >
+                        <ChevronDownIcon
+                          className={`h-6 w-6 transition ${isExpanded ? "rotate-180" : ""} ${
+                            hasDetails ? "group-hover/chevron:scale-[1.2]" : ""
+                          }`}
+                        />
+                      </button>
                     </div>
-                    <p className="text-sm text-slate-600">{change.change_summary}</p>
+                    <div className="px-4 pb-3">
+                      <p className="text-sm text-slate-600">{change.change_summary}</p>
+                    </div>
+                    {isExpanded && hasDetails ? (
+                      <div className="border-t border-slate-100 bg-slate-50 px-4 py-3 text-sm leading-relaxed text-slate-700">
+                        {change.old_summary ? (
+                          <p>
+                            <span className="font-semibold text-slate-800">Old:</span> {change.old_summary}
+                          </p>
+                        ) : null}
+                        {change.new_summary ? (
+                          <p className="mt-2">
+                            <span className="font-semibold text-slate-800">New:</span> {change.new_summary}
+                          </p>
+                        ) : null}
+                      </div>
+                    ) : null}
                   </div>
-                  <span className="absolute right-3 top-3 text-slate-300 transition group-hover:text-slate-400">
-                    <ChevronRightIcon className="h-4 w-4" />
-                  </span>
                 </article>
               );
             })
@@ -251,10 +307,10 @@ function CloseIcon(props: IconProps) {
   );
 }
 
-function ChevronRightIcon(props: IconProps) {
+function ChevronDownIcon(props: IconProps) {
   return (
     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" {...props}>
-      <path d="m9 6 6 6-6 6" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" />
+      <path d="m7 10 5 5 5-5" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" />
     </svg>
   );
 }
