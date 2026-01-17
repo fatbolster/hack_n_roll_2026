@@ -9,6 +9,8 @@ from io import BytesIO
 
 from config.openai_client import call_openai_json
 from services.syllabusJsonCreator import generate_syllabus_json
+from services.comparePrompt import map_questions_to_syllabus
+from services.textExtractorQuestion import extract_questions_from_pdf
 
 
 async def extract_text_from_pdf(file: UploadFile) -> str:
@@ -174,42 +176,74 @@ async def analyze_paper(
     Returns JSON with question_no, topic_name, status (aligned/out_of_syllabus/needs_review), prompt.
     """
     try:
+        print(f"\n📄 ANALYZE PAPER REQUEST")
+        print(f"Paper: {paper.filename}")
+        print(f"Syllabus: {syllabus.filename}")
+        
         # Validate file types
         if not (paper.filename.endswith('.pdf') and syllabus.filename.endswith('.pdf')):
             raise HTTPException(status_code=400, detail="Both files must be PDFs")
         
-        # Extract text from PDFs
-        paper_content = await extract_text_from_pdf(paper)
-        syllabus_content = await extract_text_from_pdf(syllabus)
+        # Save PDFs to uploads folder
+        print("💾 Saving PDFs to uploads folder...")
+        uploads_dir = Path("uploads")
+        uploads_dir.mkdir(exist_ok=True)
         
-        # Call OpenAI directly to analyze
-        prompt = f"""
-        Analyze this practice paper against the syllabus and return a JSON array.
+        paper_path = uploads_dir / f"paper_{paper.filename}"
+        syllabus_path = uploads_dir / f"syllabus_{syllabus.filename}"
         
-        For each question, return:
-        - question_no: string
-        - topic_name: string (mapped syllabus topic)
-        - status: string (aligned/out_of_syllabus/needs_review)
-        - prompt: string (explanation/evidence)
+        with open(paper_path, "wb") as f:
+            f.write(await paper.read())
         
-        PAPER ({paper.filename}):
-        {paper_content}
+        with open(syllabus_path, "wb") as f:
+            f.write(await syllabus.read())
         
-        SYLLABUS ({syllabus.filename}):
-        {syllabus_content}
+        print(f"✅ PDFs saved: {paper_path}, {syllabus_path}")
         
-        Return format:
-        {{
-            "questions": [
-                {{"question_no": "1", "topic_name": "Algebra", "status": "aligned", "prompt": "..."}}
-            ]
-        }}
-        """
+        # Extract questions from paper PDF using textExtractorQuestion
+        print("📤 Extracting questions from paper PDF...")
+        questions_data = extract_questions_from_pdf(str(paper_path))
+        print(f"✅ Extracted {len(questions_data['questions'])} questions")
         
-        alignment_report = await call_openai_json(
-            prompt=prompt,
-            system_message="You are an expert at analyzing exam papers and syllabus alignment."
+        # Extract syllabus text
+        print("📤 Extracting text from syllabus PDF...")
+        syllabus_doc = fitz.open(str(syllabus_path))
+        syllabus_text = ""
+        for page in syllabus_doc:
+            syllabus_text += page.get_text()
+        syllabus_doc.close()
+        
+        print(f"✅ Syllabus extracted: {len(syllabus_text)} chars")
+        
+        # Save syllabus text
+        syllabus_txt_path = uploads_dir / "syllabus_temp.txt"
+        with open(syllabus_txt_path, "w", encoding="utf-8") as f:
+            f.write(syllabus_text)
+        
+        # Save questions JSON
+        questions_json_path = uploads_dir / "questions_temp.json"
+        with open(questions_json_path, "w", encoding="utf-8") as f:
+            json.dump(questions_data, f)
+        
+        # Call map_questions_to_syllabus directly
+        print("🤖 Calling map_questions_to_syllabus...")
+        result = map_questions_to_syllabus(
+            syllabus_path=str(syllabus_txt_path),
+            questions_path=str(questions_json_path),
+            chunk_size=5
         )
+        
+        # Return raw format from map_questions_to_syllabus
+        alignment_report = result
+        
+        print(f"✅ Analysis complete")
+        print(f"📊 Response type: {type(alignment_report)}")
+        print(f"📋 Full JSON response:\n{json.dumps(alignment_report, indent=2)}\n")
+        
+        if isinstance(alignment_report, dict):
+            print(f"🔑 Response keys: {list(alignment_report.keys())}")
+            if 'question_topic_mapping' in alignment_report:
+                print(f"📝 Found {len(alignment_report['question_topic_mapping'])} questions")
         
         return JSONResponse(content={
             "success": True,
