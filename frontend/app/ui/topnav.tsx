@@ -20,7 +20,11 @@ export function TopNav({ active = "Home" }: TopNavProps) {
       icon: <LinkIcon className="h-4 w-4" />,
       href: "/SyllabusChanges",
     },
-    { label: "Paper Alignment", icon: <ClipboardIcon className="h-4 w-4" />, href: "/" },
+    {
+      label: "Paper Alignment",
+      icon: <ClipboardIcon className="h-4 w-4" />,
+      href: "/PaperAlignment",
+    },
   ];
 
   return (
