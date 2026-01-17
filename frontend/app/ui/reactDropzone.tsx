@@ -45,7 +45,11 @@ export function AlignmentDropzones() {
   );
 }
 
-export function SyllabusDropzones() {
+type SyllabusDropzonesProps = {
+  onCompare?: () => void;
+};
+
+export function SyllabusDropzones({ onCompare }: SyllabusDropzonesProps = {}) {
   const [oldFile, setOldFile] = useState<File | null>(null);
   const [newFile, setNewFile] = useState<File | null>(null);
 
@@ -89,6 +93,7 @@ export function SyllabusDropzones() {
           variant="solid"
           startIcon={<CompareIcon className="h-4 w-4" />}
           className="bg-emerald-500 hover:bg-emerald-600 focus-visible:outline-emerald-500"
+          onClick={onCompare}
         >
           Compare Syllabi
         </Button>
