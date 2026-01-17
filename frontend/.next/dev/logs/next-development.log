@@ -23,7 +23,11 @@
 [00:11:32.200] Server  LOG     ✓ Compiled in 474ms
 [00:11:51.821] Server  LOG     ✓ Compiled in 25ms
 [00:12:11.889] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+<<<<<<< Updated upstream
 >>>>>>> main
+=======
+>>>>>>> 2c70028e38646330cbe5193a0f8416f9eab1ac4e
+>>>>>>> Stashed changes
        please check the style of container, or the props width(100%) and height(100%),
        or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
        height and width.
