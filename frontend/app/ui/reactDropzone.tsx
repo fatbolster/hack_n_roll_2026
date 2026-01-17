@@ -12,56 +12,23 @@ type AlignmentDropzonesProps = {
 export function AlignmentDropzones({ onFilesChange }: AlignmentDropzonesProps = {}) {
   const [practiceFile, setPracticeFile] = useState<File | null>(null);
   const [syllabusFile, setSyllabusFile] = useState<File | null>(null);
-  const [isUploading, setIsUploading] = useState(false);
 
-  const uploadPaper = async (file: File) => {
-    const formData = new FormData();
-    formData.append('file', file);
-    
-    const response = await fetch('http://localhost:8000/api/upload-paper', {
-      method: 'POST',
-      body: formData,
-    });
-    
-    if (!response.ok) {
-      throw new Error('Failed to upload paper');
-    }
-    
-    return response.json();
-  };
-
-  const handlePracticeDrop = useCallback(async (acceptedFiles: File[]) => {
+  const handlePracticeDrop = useCallback((acceptedFiles: File[]) => {
     const file = acceptedFiles[0];
     if (!file) return;
     
     setPracticeFile(file);
-    setIsUploading(true);
-    try {
-      await uploadPaper(file);
-      console.log('Practice paper uploaded successfully');
-      onFilesChange?.(file, syllabusFile);
-    } catch (error) {
-      console.error('Error uploading practice paper:', error);
-    } finally {
-      setIsUploading(false);
-    }
+    console.log('Practice paper selected:', file.name);
+    onFilesChange?.(file, syllabusFile);
   }, [syllabusFile, onFilesChange]);
 
-  const handleSyllabusDrop = useCallback(async (acceptedFiles: File[]) => {
+  const handleSyllabusDrop = useCallback((acceptedFiles: File[]) => {
     const file = acceptedFiles[0];
     if (!file) return;
     
     setSyllabusFile(file);
-    setIsUploading(true);
-    try {
-      await uploadPaper(file);
-      console.log('Syllabus uploaded successfully');
-      onFilesChange?.(practiceFile, file);
-    } catch (error) {
-      console.error('Error uploading syllabus:', error);
-    } finally {
-      setIsUploading(false);
-    }
+    console.log('Syllabus selected:', file.name);
+    onFilesChange?.(practiceFile, file);
   }, [practiceFile, onFilesChange]);
 
   const handlePracticeClear = useCallback(() => {
@@ -101,55 +68,22 @@ type SyllabusDropzonesProps = {
 export function SyllabusDropzones({ onCompare }: SyllabusDropzonesProps = {}) {
   const [oldFile, setOldFile] = useState<File | null>(null);
   const [newFile, setNewFile] = useState<File | null>(null);
-  const [isUploading, setIsUploading] = useState(false);
   const [isComparing, setIsComparing] = useState(false);
 
-  const uploadSyllabus = async (file: File) => {
-    const formData = new FormData();
-    formData.append('file', file);
-    
-    const response = await fetch('http://localhost:8000/api/upload-syllabus', {
-      method: 'POST',
-      body: formData,
-    });
-    
-    if (!response.ok) {
-      throw new Error('Failed to upload syllabus');
-    }
-    
-    return response.json();
-  };
-
-  const handleOldDrop = useCallback(async (acceptedFiles: File[]) => {
+  const handleOldDrop = useCallback((acceptedFiles: File[]) => {
     const file = acceptedFiles[0];
     if (!file) return;
     
     setOldFile(file);
-    setIsUploading(true);
-    try {
-      await uploadSyllabus(file);
-      console.log('Old syllabus uploaded successfully');
-    } catch (error) {
-      console.error('Error uploading old syllabus:', error);
-    } finally {
-      setIsUploading(false);
-    }
+    console.log('Old syllabus selected:', file.name);
   }, []);
 
-  const handleNewDrop = useCallback(async (acceptedFiles: File[]) => {
+  const handleNewDrop = useCallback((acceptedFiles: File[]) => {
     const file = acceptedFiles[0];
     if (!file) return;
     
     setNewFile(file);
-    setIsUploading(true);
-    try {
-      await uploadSyllabus(file);
-      console.log('New syllabus uploaded successfully');
-    } catch (error) {
-      console.error('Error uploading new syllabus:', error);
-    } finally {
-      setIsUploading(false);
-    }
+    console.log('New syllabus selected:', file.name);
   }, []);
 
   const handleOldClear = useCallback(() => {
@@ -222,7 +156,7 @@ export function SyllabusDropzones({ onCompare }: SyllabusDropzonesProps = {}) {
           startIcon={<CompareIcon className="h-4 w-4" />}
           className="bg-emerald-500 hover:bg-emerald-600 focus-visible:outline-emerald-500"
           onClick={handleCompare}
-          disabled={!oldFile || !newFile || isUploading || isComparing}
+          disabled={!oldFile || !newFile || isComparing}
         >
           {isComparing ? 'Comparing...' : 'Compare Syllabi'}
         </Button>

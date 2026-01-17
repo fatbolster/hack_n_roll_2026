@@ -32,42 +32,8 @@ export default function PaperAlignmentPage() {
     console.log('✅ Both files present, starting analysis...');
     setIsAnalyzing(true);
     try {
-      // Step 1: Upload practice paper
-      console.log('📤 Step 1: Uploading practice paper...');
-      const paperFormData = new FormData();
-      paperFormData.append('file', practiceFile);
-      
-      const paperUploadResponse = await fetch('http://localhost:8000/api/upload-paper', {
-        method: 'POST',
-        body: paperFormData,
-      });
-      
-      if (!paperUploadResponse.ok) {
-        throw new Error('Failed to upload practice paper');
-      }
-      
-      const paperUploadResult = await paperUploadResponse.json();
-      console.log('✅ Practice paper uploaded:', paperUploadResult.filename);
-      
-      // Step 2: Upload syllabus
-      console.log('📤 Step 2: Uploading syllabus...');
-      const syllabusFormData = new FormData();
-      syllabusFormData.append('file', syllabusFile);
-      
-      const syllabusUploadResponse = await fetch('http://localhost:8000/api/upload-syllabus', {
-        method: 'POST',
-        body: syllabusFormData,
-      });
-      
-      if (!syllabusUploadResponse.ok) {
-        throw new Error('Failed to upload syllabus');
-      }
-      
-      const syllabusUploadResult = await syllabusUploadResponse.json();
-      console.log('✅ Syllabus uploaded:', syllabusUploadResult.filename);
-      
-      // Step 3: Analyze using uploaded files
-      console.log('📤 Step 3: Analyzing paper...');
+      // Send both files to analyze endpoint
+      console.log('📤 Analyzing paper...');
       const formData = new FormData();
       formData.append('paper', practiceFile);
       formData.append('syllabus', syllabusFile);

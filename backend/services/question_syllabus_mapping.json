@@ -25,11 +25,11 @@
       "question_id": "Q3",
       "page": 3,
       "topics": [
-        "Estimation and Approximation",
-        "Standard Form"
+        "Standard Form",
+        "Significant Figures"
       ],
       "in_syllabus": true,
-      "confidence": 0.9,
+      "confidence": 1.0,
       "out_of_scope_reason": null
     },
     {
@@ -38,7 +38,7 @@
       "topics": [],
       "in_syllabus": false,
       "confidence": 0.0,
-      "out_of_scope_reason": "The content is unclear and does not match any syllabus topic."
+      "out_of_scope_reason": "Content is unclear and does not match any syllabus topic."
     },
     {
       "question_id": "Q5",
@@ -46,7 +46,7 @@
       "topics": [],
       "in_syllabus": false,
       "confidence": 0.0,
-      "out_of_scope_reason": "The content is unclear and does not match any syllabus topic."
+      "out_of_scope_reason": "Content is unclear and does not match any syllabus topic."
     },
     {
       "question_id": "Q6",
@@ -72,7 +72,7 @@
       "question_id": "Q8a",
       "page": 5,
       "topics": [
-        "Sets and Venn Diagrams"
+        "Set Theory"
       ],
       "in_syllabus": true,
       "confidence": 1.0,
@@ -82,40 +82,27 @@
       "question_id": "Q8b",
       "page": 5,
       "topics": [
-        "Sets and Venn Diagrams"
+        "Set Theory"
       ],
       "in_syllabus": true,
       "confidence": 1.0,
       "out_of_scope_reason": null
     },
     {
-      "question_id": "Q9a",
-      "page": 6,
-      "topics": [],
-      "in_syllabus": false,
-      "confidence": 0.0,
-      "out_of_scope_reason": "Question lacks mathematical content."
-    },
-    {
-      "question_id": "Q9b",
-      "page": 6,
-      "topics": [],
-      "in_syllabus": false,
-      "confidence": 0.0,
-      "out_of_scope_reason": "Question lacks mathematical content."
-    },
-    {
       "question_id": "Q9c",
       "page": 6,
-      "topics": [],
-      "in_syllabus": false,
-      "confidence": 0.0,
-      "out_of_scope_reason": "Question lacks mathematical content."
+      "topics": [
+        "Geometric Representation"
+      ],
+      "in_syllabus": true,
+      "confidence": 0.7,
+      "out_of_scope_reason": null
     },
     {
       "question_id": "Q10",
       "page": 6,
       "topics": [
+        "Algebra",
         "Factorization"
       ],
       "in_syllabus": true,
@@ -137,7 +124,9 @@
       "question_id": "Q12a",
       "page": 7,
       "topics": [
-        "Speed, Distance and Time"
+        "Speed",
+        "Time",
+        "Distance"
       ],
       "in_syllabus": true,
       "confidence": 1.0,
@@ -147,7 +136,9 @@
       "question_id": "Q12b",
       "page": 7,
       "topics": [
-        "Speed, Distance and Time"
+        "Speed",
+        "Time",
+        "Distance"
       ],
       "in_syllabus": true,
       "confidence": 1.0,
@@ -157,10 +148,11 @@
       "question_id": "Q13a",
       "page": 8,
       "topics": [
+        "Ratio and Proportion",
         "Geometric Similarity"
       ],
       "in_syllabus": true,
-      "confidence": 1.0,
+      "confidence": 0.9,
       "out_of_scope_reason": null
     },
     {
@@ -170,7 +162,7 @@
         "Data Interpretation"
       ],
       "in_syllabus": true,
-      "confidence": 1.0,
+      "confidence": 0.7,
       "out_of_scope_reason": null
     },
     {
@@ -187,7 +179,8 @@
       "question_id": "Q14b",
       "page": 9,
       "topics": [
-        "Highest Common Factor and Lowest Common Multiple"
+        "Highest Common Factor",
+        "Lowest Common Multiple"
       ],
       "in_syllabus": true,
       "confidence": 1.0,
@@ -200,7 +193,7 @@
         "Perfect Squares and Perfect Cubes"
       ],
       "in_syllabus": true,
-      "confidence": 1.0,
+      "confidence": 0.7,
       "out_of_scope_reason": null
     },
     {
@@ -210,7 +203,7 @@
         "Algebraic Expressions"
       ],
       "in_syllabus": true,
-      "confidence": 1.0,
+      "confidence": 0.9,
       "out_of_scope_reason": null
     },
     {
@@ -220,7 +213,7 @@
         "Graphing Functions"
       ],
       "in_syllabus": true,
-      "confidence": 1.0,
+      "confidence": 0.9,
       "out_of_scope_reason": null
     },
     {
@@ -253,7 +246,7 @@
         "Statistics"
       ],
       "in_syllabus": true,
-      "confidence": 0.9,
+      "confidence": 0.7,
       "out_of_scope_reason": null
     },
     {
@@ -330,7 +323,7 @@
         "Similarity"
       ],
       "in_syllabus": true,
-      "confidence": 0.8,
+      "confidence": 0.7,
       "out_of_scope_reason": null
     },
     {
@@ -341,7 +334,7 @@
         "Similarity"
       ],
       "in_syllabus": true,
-      "confidence": 0.8,
+      "confidence": 0.7,
       "out_of_scope_reason": null
     },
     {
@@ -352,7 +345,7 @@
         "Similarity"
       ],
       "in_syllabus": true,
-      "confidence": 0.8,
+      "confidence": 0.7,
       "out_of_scope_reason": null
     },
     {
@@ -363,7 +356,7 @@
         "Similarity"
       ],
       "in_syllabus": true,
-      "confidence": 0.8,
+      "confidence": 0.7,
       "out_of_scope_reason": null
     },
     {
@@ -490,10 +483,11 @@
       "question_id": "Q1a",
       "page": 25,
       "topics": [
-        "Exchange Rates"
+        "Exchange Rates",
+        "Algebra"
       ],
       "in_syllabus": true,
-      "confidence": 1.0,
+      "confidence": 0.7,
       "out_of_scope_reason": null
     },
     {
@@ -510,7 +504,8 @@
       "question_id": "Q1c",
       "page": 25,
       "topics": [
-        "Algebra"
+        "Algebra",
+        "Equations"
       ],
       "in_syllabus": true,
       "confidence": 1.0,
@@ -540,10 +535,11 @@
       "question_id": "Q3a",
       "page": 28,
       "topics": [
-        "Geometry"
+        "Geometry",
+        "Congruence"
       ],
       "in_syllabus": true,
-      "confidence": 1.0,
+      "confidence": 0.7,
       "out_of_scope_reason": null
     },
     {
@@ -553,57 +549,62 @@
         "Geometry"
       ],
       "in_syllabus": true,
-      "confidence": 1.0,
+      "confidence": 0.7,
       "out_of_scope_reason": null
     },
     {
       "question_id": "Q4a",
       "page": 30,
       "topics": [
-        "Geometry"
+        "Geometry",
+        "Ratios"
       ],
       "in_syllabus": true,
-      "confidence": 1.0,
+      "confidence": 0.7,
       "out_of_scope_reason": null
     },
     {
       "question_id": "Q4c",
       "page": 30,
       "topics": [
-        "Geometry"
+        "Geometry",
+        "Ratios"
       ],
       "in_syllabus": true,
-      "confidence": 1.0,
+      "confidence": 0.7,
       "out_of_scope_reason": null
     },
     {
       "question_id": "Q5a",
       "page": 32,
       "topics": [
+        "Graphs",
         "Quadratic Functions"
       ],
       "in_syllabus": true,
-      "confidence": 1.0,
+      "confidence": 0.7,
       "out_of_scope_reason": null
     },
     {
       "question_id": "Q5c",
       "page": 32,
       "topics": [
+        "Graphs",
         "Quadratic Functions"
       ],
       "in_syllabus": true,
-      "confidence": 1.0,
+      "confidence": 0.7,
       "out_of_scope_reason": null
     },
     {
       "question_id": "Q5e",
       "page": 32,
       "topics": [
-        "Differentiation"
+        "Graphs",
+        "Calculus"
       ],
       "in_syllabus": true,
-      "confidence": 1.0,
+      "confidence": 0.7,
       "out_of_scope_reason": null
     },
     {
@@ -673,22 +674,10 @@
       "out_of_scope_reason": null
     },
     {
-      "question_id": "Q8e",
-      "page": 38,
-      "topics": [
-        "Statistics",
-        "Comparative analysis"
-      ],
-      "in_syllabus": true,
-      "confidence": 1.0,
-      "out_of_scope_reason": null
-    },
-    {
       "question_id": "Q9c",
       "page": 40,
       "topics": [
         "Financial mathematics",
-        "Simple interest",
         "Budgeting"
       ],
       "in_syllabus": true,
