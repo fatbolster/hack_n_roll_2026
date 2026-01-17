@@ -1,73 +1,43 @@
 {
   "success": true,
-  "old_file": "2025 Chemistry.pdf",
-  "new_file": "2026 Chemistry.pdf",
+  "old_file": "2026 Chemistry.pdf",
+  "new_file": "2023 Chemistry.pdf",
   "report": {
-    "changes": [
+    "syllabi_diff": [
       {
-        "topic_name": "INTRODUCTION",
-        "status": "added",
-        "description": "The introduction remains largely the same, emphasizing the need for students to develop long-term skills rather than focusing solely on factual knowledge."
+        "topic": "Experimental Chemistry",
+        "status": "modified",
+        "change_summary": "Assessed learning outcomes largely retained; NEW syllabus adds narrative context and guiding questions.",
+        "old_summary": "Focuses on core lab skills and separation techniques without additional context.",
+        "new_summary": "Adds non-assessed context and narrative around experimental planning and investigation aims."
       },
       {
-        "topic_name": "AIMS",
-        "status": "added",
-        "description": "The aims section has been retained but may have slight rewording for clarity or emphasis."
+        "topic": "Stoichiometry",
+        "status": "modified",
+        "change_summary": "NEW syllabus expands mole concept applications to include concentration calculations in different units.",
+        "old_summary": "Covers basic mole concept, empirical formula, limiting reagent, and concentration.",
+        "new_summary": "Adds molarity variations and contextual calculations for real-lab scenarios."
       },
       {
-        "topic_name": "PRACTICES OF SCIENCE",
+        "topic": "Chemical Bonding",
         "status": "removed",
-        "description": "No significant changes were made, but the language may have been refined for clarity."
+        "change_summary": "Learning outcomes for valence electrons, bonding types, and structure-properties link are no longer explicitly listed.",
+        "old_summary": "Detailed coverage of ionic, covalent, and metallic bonding including particle models.",
+        "new_summary": "Content appears absorbed under 'Structure & Properties of Matter' with no standalone bonding section."
       },
       {
-        "topic_name": "ASSESSMENT OBJECTIVES",
-        "status": "removed",
-        "description": "The assessment objectives remain unchanged, but the wording may have been adjusted for clarity."
+        "topic": "Structure & Properties of Matter",
+        "status": "added",
+        "change_summary": "Introduces particle model explanations linking microstructure to observed physical/chemical properties.",
+        "old_summary": "No equivalent standalone topic; aspects were scattered across bonding and states of matter.",
+        "new_summary": "Consolidates bonding, molecular geometry, and material properties under a concept-driven model."
       },
       {
-        "topic_name": "SCHEME OF ASSESSMENT",
+        "topic": "Electrolysis",
         "status": "modified",
-        "description": "The scheme of assessment is consistent with the previous syllabus, but there may be minor adjustments in wording."
-      },
-      {
-        "topic_name": "CONTENT STRUCTURE",
-        "status": "modified",
-        "description": "The content structure remains the same, but there may be slight rewording for clarity."
-      },
-      {
-        "topic_name": "SUBJECT CONTENT",
-        "status": "modified",
-        "description": "The subject content is largely unchanged, but there may be minor adjustments in wording or clarity."
-      },
-      {
-        "topic_name": "SUMMARY OF KEY QUANTITIES, SYMBOLS AND UNITS",
-        "status": "modified",
-        "description": "This section remains largely the same, but there may be minor adjustments in wording for clarity."
-      },
-      {
-        "topic_name": "PRACTICAL ASSESSMENT",
-        "status": "modified",
-        "description": "The practical assessment section remains unchanged, but the language may have been refined for clarity."
-      },
-      {
-        "topic_name": "NOTES FOR QUALITATIVE ANALYSIS",
-        "status": "modified",
-        "description": "This section remains consistent with the previous syllabus, but there may be minor adjustments in wording."
-      },
-      {
-        "topic_name": "MATHEMATICAL REQUIREMENTS",
-        "status": "modified",
-        "description": "The mathematical requirements remain unchanged, but there may be minor adjustments in wording for clarity."
-      },
-      {
-        "topic_name": "GLOSSARY OF TERMS USED IN CHEMISTRY PAPERS",
-        "status": "modified",
-        "description": "The glossary remains largely the same, but there may be minor adjustments in wording for clarity."
-      },
-      {
-        "topic_name": "SPECIAL NOTE",
-        "status": "modified",
-        "description": "The special note section remains consistent with the previous syllabus, but there may be minor adjustments in wording."
+        "change_summary": "Assessment scope adjusted: NEW syllabus removes specific industrial case studies (e.g., electroplating) and simplifies electrolytic cell descriptions.",
+        "old_summary": "Includes industrial electrolysis applications, copper refining, and electroplating context.",
+        "new_summary": "Focuses on core redox processes and decomposition reactions without industrial depth."
       }
     ]
   }
