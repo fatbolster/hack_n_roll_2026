@@ -1,7 +1,4 @@
 {
   "/PaperAlignment/page": "app/PaperAlignment/page.js",
-  "/PaperAllignment/page": "app/PaperAllignment/page.js",
-  "/SyllabusChanges/page": "app/SyllabusChanges/page.js",
-  "/_not-found/page": "app/_not-found/page.js",
-  "/page": "app/page.js"
+  "/SyllabusChanges/page": "app/SyllabusChanges/page.js"
 }
