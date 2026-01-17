@@ -756,3 +756,6 @@ https://nextjs.org/docs/messages/module-not-found
 [02:13:04.452] Browser ERROR   Failed to load syllabus changes {}
 [02:13:08.464] Browser ERROR   Failed to load syllabus changes {}
 [02:13:10.111] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:16:26.797] Server  LOG     ✓ Compiled in 15ms
+[02:17:57.300] Server  LOG     ✓ Compiled in 14ms
+[02:19:55.994] Server  LOG     ✓ Compiled in 22ms
