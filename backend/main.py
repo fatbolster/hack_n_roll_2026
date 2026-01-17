@@ -6,9 +6,10 @@ import json
 from pathlib import Path
 import fitz  # PyMuPDF
 from io import BytesIO
-
-from config.openai_client import call_openai_json
+import re
 from services.syllabusJsonCreator import generate_syllabus_json
+from services.comparePrompt import map_questions_to_syllabus
+from services.textExtractorQuestion import extract_questions_from_pdf
 
 
 async def extract_text_from_pdf(file: UploadFile) -> str:
@@ -41,6 +42,7 @@ async def extract_text_from_pdf(file: UploadFile) -> str:
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Error extracting PDF text: {str(e)}")
 
+
 app = FastAPI(title="Syllabus Alignment API", version="1.0.0")
 
 # CORS middleware for Next.js frontend
@@ -66,7 +68,9 @@ async def root():
 
 
 @app.post("/api/upload-syllabus")
-async def upload_syllabus(file: UploadFile = File(...)):
+async def upload_syllabus(
+    file: UploadFile = File(...)
+    ):
     """
     Upload a single syllabus PDF.
     Simple confirmation - actual processing happens in diff-syllabus.
@@ -171,52 +175,120 @@ async def analyze_paper(
 ):
     """
     Analyze a practice paper against a syllabus using OpenAI.
-    Returns JSON with question_no, topic_name, status (aligned/out_of_syllabus/needs_review), prompt.
+    Returns JSON with question_topic_mapping format.
     """
     try:
+        print("=" * 80)
+        print("🚀 ANALYZE PAPER ENDPOINT CALLED")
+        print(f"📄 Paper filename: {paper.filename}")
+        print(f"📄 Syllabus filename: {syllabus.filename}")
+        print("=" * 80)
+    
         # Validate file types
+        print("🔍 Validating file types...")
         if not (paper.filename.endswith('.pdf') and syllabus.filename.endswith('.pdf')):
+            print("❌ Validation failed: not PDFs")
             raise HTTPException(status_code=400, detail="Both files must be PDFs")
+        print("✅ File types validated")
+
+        # Save PDFs to uploads folder
+        print("\n💾 Saving PDFs to uploads folder...")
+        uploads_dir = Path("uploads")
+        uploads_dir.mkdir(exist_ok=True)
         
-        # Extract text from PDFs
-        paper_content = await extract_text_from_pdf(paper)
-        syllabus_content = await extract_text_from_pdf(syllabus)
+        paper_path = uploads_dir / f"paper_{paper.filename}"
+        syllabus_path = uploads_dir / f"syllabus_{syllabus.filename}"
         
-        # Call OpenAI directly to analyze
-        prompt = f"""
-        Analyze this practice paper against the syllabus and return a JSON array.
+        print(f"📁 Paper path: {paper_path}")
+        print(f"📁 Syllabus path: {syllabus_path}")
         
-        For each question, return:
-        - question_no: string
-        - topic_name: string (mapped syllabus topic)
-        - status: string (aligned/out_of_syllabus/needs_review)
-        - prompt: string (explanation/evidence)
+        paper_content = await paper.read()
+        print(f"📊 Paper size: {len(paper_content)} bytes")
+        with open(paper_path, "wb") as f:
+            f.write(paper_content)
+        print(f"✅ Paper saved to {paper_path}")
         
-        PAPER ({paper.filename}):
-        {paper_content}
+        syllabus_content = await syllabus.read()
+        print(f"📊 Syllabus size: {len(syllabus_content)} bytes")
+        with open(syllabus_path, "wb") as f:
+            f.write(syllabus_content)
+        print(f"✅ Syllabus saved to {syllabus_path}")
         
-        SYLLABUS ({syllabus.filename}):
-        {syllabus_content}
+        # Extract questions
+        print("\n🔍 Extracting questions from PDF...")
+        questions_data = extract_questions_from_pdf(str(paper_path))
+        print(f"✅ Questions extracted: {type(questions_data)}")
+        print(f"📝 Questions data keys: {list(questions_data.keys()) if isinstance(questions_data, dict) else 'Not a dict'}")
+        if isinstance(questions_data, dict) and 'questions' in questions_data:
+            print(f"📊 Number of questions: {len(questions_data['questions'])}")
+            if questions_data['questions']:
+                print(f"🔢 First question ID: {questions_data['questions'][0].get('id', 'N/A')}")
         
-        Return format:
-        {{
-            "questions": [
-                {{"question_no": "1", "topic_name": "Algebra", "status": "aligned", "prompt": "..."}}
-            ]
-        }}
-        """
+        # Extract syllabus text
+        print("\n📤 Extracting text from syllabus PDF...")
+        syllabus_doc = fitz.open(str(syllabus_path))
+        syllabus_text = ""
+        for page_num, page in enumerate(syllabus_doc):
+            page_text = page.get_text()
+            syllabus_text += page_text
+            print(f"📄 Page {page_num + 1}: {len(page_text)} chars")
+        syllabus_doc.close()
         
-        alignment_report = await call_openai_json(
-            prompt=prompt,
-            system_message="You are an expert at analyzing exam papers and syllabus alignment."
+        print(f"✅ Syllabus extracted: {len(syllabus_text)} chars total")
+        
+        # Save syllabus text
+        print("\n💾 Saving temporary files...")
+        syllabus_txt_path = uploads_dir / "syllabus_temp.txt"
+        with open(syllabus_txt_path, "w", encoding="utf-8") as f:
+            f.write(syllabus_text)
+        print(f"✅ Syllabus text saved to {syllabus_txt_path}")
+        
+        # Save questions JSON
+        questions_json_path = uploads_dir / "questions_temp.json"
+        with open(questions_json_path, "w", encoding="utf-8") as f:
+            json.dump(questions_data, f, indent=2)
+        print(f"✅ Questions JSON saved to {questions_json_path}")
+        
+        # Call map_questions_to_syllabus directly
+        print("\n🤖 Calling map_questions_to_syllabus...")
+        print(f"   Syllabus path: {syllabus_txt_path}")
+        print(f"   Questions path: {questions_json_path}")
+        print(f"   Chunk size: 5")
+        
+        result = map_questions_to_syllabus(
+            syllabus_path=str(syllabus_txt_path),
+            questions_path=str(questions_json_path),
+            chunk_size=5
         )
         
-        return JSONResponse(content={
+        print(f"\n✅ map_questions_to_syllabus returned: {type(result)}")
+        
+        # Return raw format from map_questions_to_syllabus
+        alignment_report = result
+        
+        if isinstance(alignment_report, dict):
+            print(f"🔑 Response keys: {list(alignment_report.keys())}")
+            if 'question_topic_mapping' in alignment_report:
+                print(f"📝 Found {len(alignment_report['question_topic_mapping'])} questions in mapping")
+                if alignment_report['question_topic_mapping']:
+                    first_q = alignment_report['question_topic_mapping'][0]
+                    print(f"🔢 First question mapping: {first_q.get('question_id', 'N/A')}")
+        else:
+            print(f"⚠️  Result is not a dict: {alignment_report}")
+        
+        response_data = {
             "success": True,
             "paper_file": paper.filename,
             "syllabus_file": syllabus.filename,
             "report": alignment_report
-        })
+        }
+        
+        print(f"\n📤 Returning response with keys: {list(response_data.keys())}")
+        print("=" * 80)
+        print("✅ ANALYZE PAPER ENDPOINT COMPLETE")
+        print("=" * 80)
+        
+        return JSONResponse(content=response_data)
     
     except HTTPException:
         raise

@@ -85,6 +85,9 @@ OUTPUT FORMAT (STRICT JSON):
   ]
 }}
 
+SYLLABUS:
+{syllabus_text}
+
 QUESTIONS:
 {json.dumps(q_chunk, indent=2)}
 """
@@ -109,14 +112,15 @@ QUESTIONS:
 
 
 # ---- RUN ----
-result = map_questions_to_syllabus(
-    os.path.join(BASE_DIR, "extractedSyllabus.txt"),
-    os.path.join(BASE_DIR, "questions.json"),
-    chunk_size=5
-)
+if __name__ == "__main__":
+    result = map_questions_to_syllabus(
+        os.path.join(BASE_DIR, "extractedSyllabus.txt"),
+        os.path.join(BASE_DIR, "questions.json"),
+        chunk_size=5
+    )
 
-output_path = os.path.join(BASE_DIR, "question_syllabus_mapping.json")
-with open(output_path, "w", encoding="utf-8") as f:
-    json.dump(result, f, indent=2)
+    output_path = os.path.join(BASE_DIR, "question_syllabus_mapping.json")
+    with open(output_path, "w", encoding="utf-8") as f:
+        json.dump(result, f, indent=2)
 
-print(f"✅ Success! Saved to {output_path}")
+    print(f"✅ Success! Saved to {output_path}")

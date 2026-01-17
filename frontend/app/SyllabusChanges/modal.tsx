@@ -66,8 +66,18 @@ export function SyllabusChangesModal({ isOpen, onClose, refreshToken = 0 }: Moda
 
     async function loadChanges() {
       try {
-        const data = await import("./database.json");
-        const raw = (data.default as any) ?? {};
+        // Try to get data from sessionStorage first (from API response)
+        const storedResult = sessionStorage.getItem('syllabusComparisonResult');
+        let raw: any = null;
+        
+        if (storedResult) {
+          raw = JSON.parse(storedResult);
+        } else {
+          // Fallback to database.json if no API result
+          const data = await import("./database.json");
+          raw = (data.default as any) ?? {};
+        }
+        
         const sourceArray = Array.isArray(raw)
           ? raw
           : Array.isArray(raw.changes)
@@ -76,7 +86,9 @@ export function SyllabusChangesModal({ isOpen, onClose, refreshToken = 0 }: Moda
               ? raw.report.syllabi_diff
             : Array.isArray(raw.report?.changes)
               ? raw.report.changes
-              : [];
+              : Array.isArray(raw.syllabi_diff)
+                ? raw.syllabi_diff
+                : [];
 
         const parsedChanges: ChangeItem[] = sourceArray
           .map((item, idx) => {

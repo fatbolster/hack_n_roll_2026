@@ -79,37 +79,78 @@ export function PaperAlignmentModal({ isOpen, onClose, refreshToken = 0 }: Modal
 
     async function loadAnalysis() {
       try {
-        // Add cache-busting query so every Analyze click re-imports the data file.
-        const data = await import(`./database.json?refresh=${refreshToken}`);
-        const raw = (data.default as any) ?? {};
+        // Try to get data from sessionStorage first (from API response)
+        const storedResult = sessionStorage.getItem('paperAnalysisResult');
+        let raw: any = null;
+        
+        if (storedResult) {
+          raw = JSON.parse(storedResult);
+          console.log('📊 Loaded paper analysis from API:', raw);
+        } else {
+          // Fallback to database.json if no API result
+          const data = await import("./database.json");
+          raw = (data.default as any) ?? {};
+          console.log('📊 Loaded from database.json:', raw);
+        }
+        
         const sourceArray = Array.isArray(raw)
           ? raw
+          : Array.isArray(raw.report?.question_topic_mapping)
+            ? raw.report.question_topic_mapping
+          : Array.isArray(raw.question_topic_mapping)
+            ? raw.question_topic_mapping
+          : Array.isArray(raw.report?.questions)
+            ? raw.report.questions
+          : Array.isArray(raw.questions)
+            ? raw.questions
           : Array.isArray(raw.paper_analysis)
             ? raw.paper_analysis
-            : Array.isArray(raw.report?.paper_analysis)
-              ? raw.report.paper_analysis
-              : [];
+          : Array.isArray(raw.report?.paper_analysis)
+                ? raw.report.paper_analysis
+                : [];
+
+        console.log('📊 Extracted sourceArray length:', sourceArray.length);
 
         const parsed: PaperItem[] = sourceArray
           .map((entry: any, index: number) => {
-            const status: AlignmentStatus | undefined = entry?.status;
+            // Handle question_topic_mapping format
+            let status: AlignmentStatus | undefined;
+            if (entry?.in_syllabus === false) {
+              status = "out_of_scope";
+            } else if (entry?.in_syllabus === true) {
+              status = "aligned";
+            } else {
+              status = entry?.status;
+            }
+            
             if (status !== "aligned" && status !== "need_review" && status !== "out_of_scope") {
               return null;
             }
 
-            const questionNoRaw = Number(entry?.question_no ?? index + 1);
+            // Parse question number - handle both "Q1" format and "3(a)" format
+            const questionNoRaw = entry?.question_id ?? entry?.question_no ?? `${index + 1}`;
+            const questionNoString = String(questionNoRaw).replace(/[()]/g, '').replace(/[Qq]/, '');
+            const questionNoNumeric = parseFloat(questionNoString) || index + 1;
+            
             const confidenceValue = parseFloat(entry?.confidence ?? entry?.score ?? "0");
+
+            // Handle topics array or single topic string
+            const topicValue = entry?.topics 
+              ? (Array.isArray(entry.topics) ? entry.topics.join(", ") : entry.topics)
+              : (entry?.topic ?? entry?.topic_name ?? `Question ${index + 1}`);
 
             return {
               id: entry?.id ?? index,
-              questionNo: Number.isFinite(questionNoRaw) ? questionNoRaw : index + 1,
-              topic: entry?.topic ?? `Question ${index + 1}`,
+              questionNo: Number.isFinite(questionNoNumeric) ? questionNoNumeric : index + 1,
+              topic: topicValue,
               status,
               confidence: Number.isFinite(confidenceValue) ? Math.max(0, Math.min(1, confidenceValue)) : 0,
-              elaboration: entry?.elaboration ?? entry?.notes ?? "",
+              elaboration: entry?.out_of_scope_reason ?? entry?.elaboration ?? entry?.notes ?? entry?.prompt ?? "",
             };
           })
           .filter(Boolean) as PaperItem[];
+
+        console.log('📊 Parsed items count:', parsed.length);
 
         if (isMounted) {
           setItems(parsed);

@@ -1,19 +1,3 @@
-<<<<<<< HEAD
-[00:00:00.822] Server  LOG     ✓ Ready in 606ms
-[00:00:01.069] Server  ERROR   ⨯ ReferenceError: CompareIcon is not defined
-[00:00:01.182] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:01.313] Browser ERROR   uncaughtError: ReferenceError: CompareIcon is not defined
-[00:00:09.581] Server  ERROR   ⨯ ReferenceError: CompareIcon is not defined
-[00:00:09.727] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:09.844] Browser ERROR   uncaughtError: ReferenceError: CompareIcon is not defined
-[00:00:16.429] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:18.064] Browser ERROR   uncaughtError: ReferenceError: CompareIcon is not defined
-[00:03:02.820] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
-[00:03:02.824] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
-[00:03:02.913] Server  LOG     ✓ Compiled in 217ms
-[00:03:03.001] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:03:42.010] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
-=======
 [00:00:00.577] Server  LOG     ✓ Ready in 413ms
 [01:10:51.481] Server  LOG     ✓ Compiled in 8ms
 [01:16:30.226] Server  LOG     ✓ Compiled in 28ms
@@ -23,11 +7,6 @@
 [00:11:32.200] Server  LOG     ✓ Compiled in 474ms
 [00:11:51.821] Server  LOG     ✓ Compiled in 25ms
 [00:12:11.889] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
-<<<<<<< Updated upstream
->>>>>>> main
-=======
->>>>>>> 2c70028e38646330cbe5193a0f8416f9eab1ac4e
->>>>>>> Stashed changes
        please check the style of container, or the props width(100%) and height(100%),
        or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
        height and width.
@@ -97,3 +76,366 @@ Import traces:
 [00:44:46.932] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
 [00:44:47.023] Server  LOG     ✓ Compiled in 14ms
 [00:44:47.117] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+=======
+[00:00:00.807] Server  LOG     ✓ Ready in 613ms
+[00:00:17.012] Browser LOG     Old syllabus uploaded successfully
+[00:00:19.241] Browser LOG     New syllabus uploaded successfully
+[00:00:29.933] Browser LOG     Old syllabus uploaded successfully
+[00:00:31.769] Browser LOG     New syllabus uploaded successfully
+[00:00:46.677] Browser LOG     Comparison result: {"new_file":"2026 Math (1).pdf","old_file":"2026 Chemistry.pdf","report":{"syllabi_diff":[{"change_summary":"New Mathematics syllabus introduces learning outcomes on primes/prime factorisation, number types and ordering, approximation/estimation, standard form, indices and laws of indices; no corresponding topic exists in the Old (Chemistry) syllabus.","new_summary":"Primes and prime factorisation; HCF/LCM via prime factors; number sets (integers/rational/real) and operations; ordering on number line and inequality symbols; estimation/rounding; standard form; indices and index laws; calculator computation expectations.","old_summary":"Not Applicable (topic not present; old syllabus is Chemistry).","status":"added","topic":"Numbers and their operations"},{"change_summary":"New Mathematics syllabus adds extensive algebra learning outcomes (expression manipulation, factorisation/expansion, algebraic fractions, changing subject of formula, nth term patterns), which do not exist in the Old Chemistry syllabus.","new_summary":"Interpret algebraic notation; evaluate expressions; translate simple contexts into algebra; nth term; simplify/expand/factorise (linear & quadratic); use identities; solve for unknowns by changing subject; operate on algebraic fractions (multiply/divide/add/subtract).","old_summary":"Not Applicable (topic not present; old syllabus is Chemistry).","status":"added","topic":"Algebraic expressions and formulae"},{"change_summary":"New Mathematics syllabus introduces geometry/trigonometry outcomes including Pythagoras, trig ratios, sine/cosine extension, area formula, sine/cosine rules, and 2D/3D problem contexts; no equivalent topic exists in Old Chemistry syllabus.","new_summary":"Apply Pythagoras; determine right-angled triangles from side lengths; use trig ratios for right triangles; extend sine/cosine to obtuse angles; use 1/2 ab sin C; apply sine and cosine rules for any triangle; solve 2D/3D problems including bearings and elevation/depression.","old_summary":"Not Applicable (topic not present; old syllabus is Chemistry).","status":"added","topic":"Pythagoras’ theorem and trigonometry"},{"change_summary":"New Mathematics syllabus adds statistical representation and inference outcomes (charts/plots, measures of central tendency and spread including standard deviation); not present in the Old Chemistry syllabus.","new_summary":"Collect/classify/tabulate data; interpret multiple statistical graphs (including cumulative frequency and box plots); discuss pros/cons and misinterpretation; compute and use mean/mode/median (including grouped mean); quartiles/percentiles; range/IQR/standard deviation (grouped & ungrouped) and compare datasets using mean and SD.","old_summary":"Not Applicable (topic not present; old syllabus is Chemistry).","status":"added","topic":"Data handling and analysis"},{"change_summary":"Old syllabus contains Experimental Chemistry learning outcomes (apparatus selection, purification/separation techniques, chromatography and purity concepts). New syllabus (Mathematics) contains no corresponding experimental/practical chemistry topic.","new_summary":"Not Applicable (topic removed in new syllabus domain).","old_summary":"Apparatus for time/temperature/mass/volume; select apparatus for experiments including gas collection and rate measurement (limited drying agents); separation/purification methods (filtration, crystallisation/evaporation, sublimation, distillation/fractional distillation, separating funnel, paper chromatography); choose methods for mixture types; interpret chromatograms incl. Rf; explain locating agents; use mp/bp for identity/purity; importance of purity in everyday substances.","status":"removed","topic":"Experimental Chemistry"}]},"success":true}
+[00:00:54.678] Browser LOG     Old syllabus uploaded successfully
+[00:00:58.607] Browser LOG     New syllabus uploaded successfully
+[00:01:52.083] Browser LOG     Comparison result: {"new_file":"2026 Chemistry.pdf","old_file":"2026 Math (1).pdf","report":{"syllabi_diff":[{"change_summary":"Topic present in OLD Mathematics syllabus but absent in NEW Chemistry syllabus; all learning outcomes on primes/HCF/LCM, indices, standard form, approximation and number-line representation removed from the compared scope.","new_summary":"Not Applicable","old_summary":"Primes and prime factorisation; HCF/LCM; real number operations; number line ordering; inequalities symbols; approximation/estimation; standard form; indices and laws of indices.","status":"removed","topic":"Numbers and their operations"},{"change_summary":"Topic present in OLD Mathematics syllabus but absent in NEW Chemistry syllabus; outcomes on ratios, map scales, direct/inverse proportion removed from the compared scope.","new_summary":"Not Applicable","old_summary":"Ratios involving rational numbers; simplest form; map scales (distance/area); direct and inverse proportion.","status":"removed","topic":"Ratio and proportion"},{"change_summary":"Topic present in OLD Mathematics syllabus but absent in NEW Chemistry syllabus; percentage comparisons, increase/decrease, reverse percentage outcomes removed.","new_summary":"Not Applicable","old_summary":"Express quantity as a percentage; compare by percentage; >100%; percentage increase/decrease; reverse percentages.","status":"removed","topic":"Percentage"},{"change_summary":"Topic present in OLD Mathematics syllabus but absent in NEW Chemistry syllabus; outcomes on average rate/speed and unit conversions removed from the compared scope.","new_summary":"Not Applicable","old_summary":"Average rate and speed; unit conversions (e.g., km/h to m/s).","status":"removed","topic":"Rate and speed"},{"change_summary":"Topic present in OLD Mathematics syllabus but absent in NEW Chemistry syllabus; all algebraic manipulation and formula-related learning outcomes removed from the compared scope.","new_summary":"Not Applicable","old_summary":"Algebraic notation interpretation; evaluate expressions; translate situations to algebra; nth term; simplify/expand/factorise (linear/quadratic); change subject; algebraic fractions operations; use of standard identities.","status":"removed","topic":"Algebraic expressions and formulae"},{"change_summary":"Topic present in OLD Mathematics syllabus but absent in NEW Chemistry syllabus; learning outcomes on Cartesian graphs, linear/quadratic/power/exponential graphs and gradient estimation removed from the compared scope.","new_summary":"Not Applicable","old_summary":"Coordinates; graphs as relationships; linear/quadratic graphs and properties; sketching quadratics in various forms; power/exponential functions; tangent gradient estimation.","status":"removed","topic":"Functions and graphs"},{"change_summary":"Topic present in OLD Mathematics syllabus but absent in NEW Chemistry syllabus; equation solving (linear/simultaneous/quadratic/fractional) and inequalities outcomes removed.","new_summary":"Not Applicable","old_summary":"Solve linear and fractional linear equations; simultaneous equations (algebraic/graphical); quadratic equations (factorisation/formula/completing square/graphical); quadratic-type fractional equations; formulate equations; linear inequalities and number-line representation.","status":"removed","topic":"Equations and inequalities"},{"change_summary":"Topic present in OLD Mathematics syllabus but absent in NEW Chemistry syllabus; set notation and Venn diagram outcomes removed from the compared scope.","new_summary":"Not Applicable","old_summary":"Set notation (∪, ∩, n(A), ∈, complement, empty/universal set, subset relations); union/intersection; Venn diagrams.","status":"removed","topic":"Set language and notation"},{"change_summary":"Topic present in OLD Mathematics syllabus but absent in NEW Chemistry syllabus; matrix representation and operations outcomes removed from the compared scope.","new_summary":"Not Applicable","old_summary":"Represent information in matrices; interpret matrices; scalar multiplication; matrix addition and multiplication (where appropriate).","status":"removed","topic":"Matrices"},{"change_summary":"Topic present in OLD Mathematics syllabus but absent in NEW Chemistry syllabus; all geometry outcomes on angle properties, polygons, and constructions removed from the compared scope.","new_summary":"Not Applicable","old_summary":"Angle types and relationships; parallel lines with transversal; properties of triangles/quadrilaterals/regular polygons; symmetry; interior/exterior angle sums; basic constructions using instruments.","status":"removed","topic":"Angles, triangles and polygons"},{"change_summary":"Topic present in OLD Mathematics syllabus but absent in NEW Chemistry syllabus; similarity/congruence properties, scale drawings, and ratio outcomes removed from the compared scope.","new_summary":"Not Applicable","old_summary":"Congruent/similar figures; triangle/polygon similarity properties; enlargement/reduction; scale drawings; perpendicular/angle bisectors; determine congruence/similarity; area/volume ratios; solve problems.","status":"removed","topic":"Congruence and similarity"},{"change_summary":"Topic present in OLD Mathematics syllabus but absent in NEW Chemistry syllabus; circle symmetry and angle theorems outcomes removed from the compared scope.","new_summary":"Not Applicable","old_summary":"Chord/tangent symmetry properties; circle angle properties (semicircle, tangent-radius, centre vs circumference, same segment, opposite segments).","status":"removed","topic":"Properties of circles"},{"change_summary":"Topic present in OLD Mathematics syllabus but absent in NEW Chemistry syllabus; trigonometric and 2D/3D problem-solving outcomes removed from the compared scope.","new_summary":"Not Applicable","old_summary":"Pythagoras and right-triangle identification; trig ratios; sine/cosine for obtuse angles; area formula 1/2 ab sin C; sine/cosine rules; bearings and elevation/depression in 2D/3D.","status":"removed","topic":"Pythagoras’ theorem and trigonometry"},{"change_summary":"Topic present in OLD Mathematics syllabus but absent in NEW Chemistry syllabus; area/volume/surface area and radian measure outcomes removed from the compared scope.","new_summary":"Not Applicable","old_summary":"Areas of parallelogram/trapezium; composite perimeters/areas; volumes/surface areas of standard solids; unit conversions; composite solids; arc length/sector/segment; radians conversion and use.","status":"removed","topic":"Mensuration"},{"change_summary":"Topic present in OLD Mathematics syllabus but absent in NEW Chemistry syllabus; outcomes on gradient/length/equation of line and coordinate-based geometry removed.","new_summary":"Not Applicable","old_summary":"Gradient from two points; distance between points; line equation y=mx+c; coordinate geometry problem-solving.","status":"removed","topic":"Coordinate geometry"},{"change_summary":"Topic present in OLD Mathematics syllabus but absent in NEW Chemistry syllabus; vector notation, operations, and geometric vector problem outcomes removed.","new_summary":"Not Applicable","old_summary":"Vector notation; directed segments; translations; position vectors; magnitude; addition/subtraction; scalar multiplication; geometric applications.","status":"removed","topic":"Vectors in two dimensions"},{"change_summary":"Topic present in OLD Mathematics syllabus but absent in NEW Chemistry syllabus; statistical representation and descriptive statistics outcomes removed from the compared scope.","new_summary":"Not Applicable","old_summary":"Collect/classify/tabulate data; interpret many graph types (including box plots and cumulative frequency); evaluate misleading diagrams; mean/median/mode (including grouped mean); quartiles/percentiles; range/IQR/standard deviation (grouped/ungrouped); compare datasets using mean/SD.","status":"removed","topic":"Data handling and analysis"},{"change_summary":"Topic present in OLD Mathematics syllabus but absent in NEW Chemistry syllabus; probability of single/combined events and rules removed from the compared scope.","new_summary":"Not Applicable","old_summary":"Probability as chance; single events including outcome listing; combined events using possibility/tree diagrams; addition/multiplication rules for mutually exclusive and independent events.","status":"removed","topic":"Probability"},{"change_summary":"Topic appears in NEW Chemistry syllabus but not in OLD Mathematics syllabus; introduces laboratory apparatus selection, experimental design choices, and purification/analysis methods (chromatography with Rf and locating agents, purity via mp/bp).","new_summary":"Apparatus for measuring time/temperature/mass/volume and gas handling; select apparatus for simple experiments (incl. drying/collecting gases, rate measurements). Separation/purification methods (filtration, crystallisation/evaporation, sublimation, distillation/fractional distillation, separating funnel, paper chromatography); choose methods for mixture types; interpret chromatograms with Rf; explain locating agents; use mp/bp for identity/purity; explain importance of purity in everyday substances.","old_summary":"Not Applicable","status":"added","topic":"Experimental Chemistry"},{"change_summary":"Topic appears in NEW Chemistry syllabus but not in OLD Mathematics syllabus; adds kinetic particle theory (states/interconversion, diffusion factors) and atomic structure (subatomic particles, nuclide notation, isotopes, proton/nucleon numbers).","new_summary":"Explain solids/liquids/gases and interconversion via kinetic particle theory and energy changes; evidence for particle motion; diffusion in daily contexts; qualitative effects of molecular mass and temperature on diffusion rate. Atomic structure: charges/masses of proton/neutron/electron; nucleus/electron shells; define atomic and mass numbers; use nuclide notation; define isotopes; deduce numbers of protons/neutrons/electrons in atoms/ions.","old_summary":"Not Applicable","status":"added","topic":"The Particulate Nature of Matter"},{"change_summary":"Topic appears in NEW Chemistry syllabus but not in OLD Mathematics syllabus; introduces ionic/covalent/metallic bonding models, dot-and-cross diagrams, lattice/structure-property links, and comparison of material structures (simple molecular, polymers, giant covalent; diamond vs graphite; alloys).","new_summary":"Ionic bonding: ion formation and noble gas configuration; dot-and-cross for ionic compounds; giant ionic lattice; relate properties to lattice. Covalent bonding: shared electron pairs; dot-and-cross for common molecules; deduce electron arrangements; relate properties to structure/bonding. Metallic bonding: positive ions in sea of electrons; explain metal properties. Materials: distinguish elements/compounds/mixtures; alloys and their properties/representations; compare structures (simple molecular, macromolecules, giant covalent) and diamond vs graphite; deduce properties from bonding/structure and vice versa.","old_summary":"Not Applicable","status":"added","topic":"Chemical Bonding and Structure"},{"change_summary":"Topic appears in NEW Chemistry syllabus but not in OLD Mathematics syllabus; adds chemical formula/equation writing (incl. ionic equations) and mole/stoichiometry calculations (Mr/Ar, empirical/molecular formula, limiting reactants, concentration, titration processing, % yield and % purity).","new_summary":"Write/interpret symbols, formulae and equations with state symbols; deduce formulae from atom ratios and ionic charges; construct chemical and ionic equations. Mole concept: define Ar/Mr and mole via Avogadro constant; % composition; empirical/molecular formula; stoichiometric masses and gas volumes at RTP (24 dm3 mol−1) including limiting reactant idea; apply concentration (mol/dm3, g/dm3) to volumetric work such as titration; calculate % yield and % purity.","old_summary":"Not Applicable","status":"added","topic":"Chemical Calculations"},{"change_summary":"Topic appears in NEW Chemistry syllabus but not in OLD Mathematics syllabus; introduces acids/alkalis definitions, pH/indicator interpretation, strong vs weak acids, neutralisation, salt preparation and solubility rules, plus ammonia manufacture and reversible reactions (Haber) interpretation.","new_summary":"Acids/bases in terms of ions and Universal Indicator; neutrality and relative acidity/alkalinity via H+/OH−, indicator colour and pH scale; strong vs weak acids qualitatively; acid reactions with metals/bases/carbonates; neutralisation equation; soil pH control using calcium hydroxide; base reactions with acids/ammonium salts; classify oxides (acidic/basic/amphoteric/neutral). Salts: preparation (precipitation, titration, acid + metal/insoluble base/carbonate), separation and purification; solubility rules; choose preparation methods. Ammonia: sources of N2 and H2; reversible reactions; interpret industrial condition data for Haber process (no Le Chatelier required).","old_summary":"Not Applicable","status":"added","topic":"Acid-Base Chemistry"},{"change_summary":"Topic appears in NEW Chemistry syllabus but not in OLD Mathematics syllabus; adds systematic ion and gas tests using reagents (NaOH/NH3, AgNO3, Ba(NO3)2, etc.) with observation-based identification.","new_summary":"Identify cations using aqueous NaOH and/or NH3 by precipitate formation/solubility (Al3+, NH4+ with warming, Ca2+, Cu2+, Fe2+, Fe3+, Zn2+). Identify anions: CO3^2−, Cl−, I−, NO3− (Al in NaOH reduction), SO4^2−. Identify gases: NH3, CO2, Cl2, H2, O2, SO2 using standard tests (litmus, limewater, splints, acidified KMnO4).","old_summary":"Not Applicable","status":"added","topic":"Qualitative Analysis"},{"change_summary":"Topic appears in NEW Chemistry syllabus but not in OLD Mathematics syllabus; introduces redox definitions (oxygen/hydrogen and electron/oxidation state), identification of redox processes, oxidising/reducing agent tests, and extensive electrochemistry (electrolysis, selective discharge, electrode equations, plating, purification, simple cells, fuel cells).","new_summary":"Define oxidation/reduction via oxygen/hydrogen and via electron transfer/oxidation state; identify redox reactions by these criteria; test oxidising/reducing agents using KI and acidified KMnO4 colour changes. Electrochemistry: electrolysis concept and ionic mobility; electrolysis of molten NaCl; predict products for molten/aqueous electrolytes; selective discharge (reactivity series/anion type/concentration); write electrode ionic equations; copper purification via electrolysis; electroplating uses; simple cells linked to reactivity series and electron transfer; hydrogen fuel cell as direct electricity generation (no construction details).","old_summary":"Not Applicable","status":"added","topic":"Redox Chemistry"}]},"success":true}
+[00:02:03.366] Browser LOG     Old syllabus uploaded successfully
+[00:02:05.186] Browser LOG     New syllabus uploaded successfully
+[00:02:36.359] Browser LOG     Comparison result: {"new_file":"2026 Math (1).pdf","old_file":"2026 Chemistry (1).pdf","report":{"syllabi_diff":[{"change_summary":"Topic present in OLD Chemistry syllabus (apparatus selection, experimental design, purification/separation techniques, chromatography, purity via mp/bp) but absent from NEW Mathematics syllabus; replaced by mathematics content strands.","new_summary":"Not Applicable","old_summary":"Apparatus selection for measurements and gas collection; separation/purification (filtration, crystallisation/evaporation, sublimation, distillation/fractional, separating funnel, chromatography); interpret chromatograms incl. Rf; use of locating agents; infer purity/identity from melting/boiling points; importance of purity in everyday substances.","status":"removed","topic":"Experimental Chemistry"},{"change_summary":"Topic present in OLD Chemistry syllabus (kinetic particle theory, diffusion, atomic structure and isotopes) but absent from NEW Mathematics syllabus.","new_summary":"Not Applicable","old_summary":"States of matter and interconversion via kinetic particle theory and energy changes; diffusion phenomena and effects of molecular mass/temperature; atomic structure (protons/neutrons/electrons, shells), atomic/mass numbers, nuclide notation, isotopes, and deducing subatomic particle counts in atoms/ions.","status":"removed","topic":"The Particulate Nature of Matter"},{"change_summary":"Topic present in OLD Chemistry syllabus (ionic/covalent/metallic bonding; structure–property relationships; alloys; giant covalent vs molecular structures) but absent from NEW Mathematics syllabus.","new_summary":"Not Applicable","old_summary":"Formation and properties of ionic, covalent, metallic bonding (incl. dot-and-cross for ionic/covalent); lattice/structure explanations for conductivity and melting/boiling; elements vs compounds vs mixtures; alloys and their altered properties; compare structures (simple molecular, macromolecules, giant covalent); diamond vs graphite; deducing properties from bonding/structure and vice versa.","status":"removed","topic":"Chemical Bonding and Structure"},{"change_summary":"Topic present in OLD Chemistry syllabus (equation writing, mole concept, stoichiometry, concentrations, yield/purity) but absent from NEW Mathematics syllabus.","new_summary":"Not Applicable","old_summary":"Write/interpret chemical and ionic equations with state symbols; compute Ar/Mr; mole and Avogadro constant; % composition; empirical/molecular formula; stoichiometric masses/volumes (24 dm3 mol−1 at r.t.p.) incl. limiting reactants; solution concentration (mol/dm3, g/dm3) with volumetric analysis; % yield and % purity.","status":"removed","topic":"Chemical Calculations"},{"change_summary":"Topic present in OLD Chemistry syllabus (acids/alkalis, pH/indicator, strong vs weak acids, salts preparation/solubility, ammonia and Haber process) but absent from NEW Mathematics syllabus.","new_summary":"Not Applicable","old_summary":"Acid/alkali definitions via ions; pH/Universal Indicator and neutrality; strong vs weak acids (extent of ionisation); acid reactions with metals/bases/carbonates and neutralisation equation; soil pH control using Ca(OH)2; base reactions with acids/ammonium salts; oxide classification; salts preparation methods and solubility rules; ammonia manufacture (N2 from air, H2 from cracking), reversible reactions and industrial conditions (Haber) without Le Chatelier’s principle.","status":"removed","topic":"Acid-Base Chemistry"},{"change_summary":"Topic present in OLD Chemistry syllabus (cation/anion/gas tests using reagents and observations) but absent from NEW Mathematics syllabus.","new_summary":"Not Applicable","old_summary":"Cation tests with NaOH/NH3 (Al3+, NH4+, Ca2+, Cu2+, Fe2+, Fe3+, Zn2+) including precipitate behaviour and NH3 evolution; anion tests for CO3^2−, Cl−, I−, NO3−, SO4^2−; gas tests for NH3, CO2, Cl2, H2, O2, SO2 using standard reagents/indicators.","status":"removed","topic":"Qualitative Analysis"},{"change_summary":"Topic present in OLD Chemistry syllabus (redox definitions, oxidising/reducing tests, electrolysis, cells, fuel cells) but absent from NEW Mathematics syllabus.","new_summary":"Not Applicable","old_summary":"Oxidation/reduction via oxygen/hydrogen and via electron transfer/oxidation states; identify redox processes; redox testing using KI and acidified KMnO4 colour changes; electrolysis concepts and predictions (molten/aqueous), selective discharge, electrode ionic equations; copper purification and electroplating; simple cells linked to reactivity series and electron transfer; hydrogen fuel cell concept.","status":"removed","topic":"Redox Chemistry"},{"change_summary":"Topic present in NEW Mathematics syllabus (number systems, indices, standard form, approximation, calculator computation) but not in OLD Chemistry syllabus learning outcomes provided.","new_summary":"Primes and prime factorisation (HCF/LCM, roots via factorisation); operations on integers/rationals/reals; ordering on number line and inequality symbols; approximation/estimation and rounding; standard form; fractional/negative indices and laws of indices; calculator-based computation.","old_summary":"Not Applicable","status":"added","topic":"Numbers and their operations"},{"change_summary":"Topic present in NEW Mathematics syllabus (algebraic manipulation, factorisation/expansion, algebraic fractions, changing subject of formula) but not in OLD Chemistry syllabus learning outcomes provided.","new_summary":"Use letters/notation; evaluate expressions; model simple situations; nth-term expressions; simplify linear expressions; expand and factorise (including quadratics); use identities (a±b)^2 and a^2−b^2; manipulate algebraic fractions; change subject of formula and solve for unknowns.","old_summary":"Not Applicable","status":"added","topic":"Algebraic expressions and formulae"},{"change_summary":"Topic present in NEW Mathematics syllabus (Pythagoras, trig ratios, sine/cosine rules, 2D/3D problems, bearings) but not in OLD Chemistry syllabus learning outcomes provided.","new_summary":"Apply Pythagoras and test right-angled triangles; trig ratios in right triangles; extend sine/cosine to obtuse angles; area formula (1/2 ab sin C); sine and cosine rules; solve 2D/3D problems including elevation/depression and bearings.","old_summary":"Not Applicable","status":"added","topic":"Pythagoras’ theorem and trigonometry"},{"change_summary":"Topic present in NEW Mathematics syllabus (statistical representations, summary measures including standard deviation, interpreting/misinterpretation) but not in OLD Chemistry syllabus learning outcomes provided.","new_summary":"Collect/classify/tabulate data; interpret a range of graphs/plots (including histogram, cumulative frequency, box plot); evaluate pros/cons and misinterpretation; compute and use mean/median/mode (incl. grouped mean); quartiles/percentiles; spread measures including standard deviation (grouped/ungrouped) and compare datasets.","old_summary":"Not Applicable","status":"added","topic":"Data handling and analysis"},{"change_summary":"Topic present in NEW Mathematics syllabus (single/combined events, tree/possibility diagrams, addition/multiplication rules) but not in OLD Chemistry syllabus learning outcomes provided.","new_summary":"Probability as chance; compute probabilities for single events via outcome listing; combined events using possibility and tree diagrams; apply addition and multiplication rules for mutually exclusive and independent events.","old_summary":"Not Applicable","status":"added","topic":"Probability"}]},"success":true}
+[00:02:54.823] Browser LOG     Practice paper uploaded successfully
+[00:02:56.859] Browser LOG     Syllabus uploaded successfully
+[00:02:58.748] Browser LOG     🔍 Analyze button clicked
+[00:02:58.748] Browser LOG     📄 Practice file: samplePaper1.pdf
+[00:02:58.748] Browser LOG     📄 Syllabus file: 2026 O Level Physics.pdf
+[00:02:58.748] Browser LOG     ✅ Both files present, starting analysis...
+[00:02:58.748] Browser LOG     📤 Step 1: Uploading practice paper...
+[00:02:58.748] Browser LOG     ✅ Practice paper uploaded: samplePaper1.pdf
+[00:02:58.748] Browser LOG     📤 Step 2: Uploading syllabus...
+[00:02:58.748] Browser LOG     ✅ Syllabus uploaded: 2026 O Level Physics.pdf
+[00:02:58.748] Browser LOG     📤 Step 3: Analyzing paper...
+[00:02:58.748] Browser LOG     📥 Response status: 500
+[00:02:58.748] Browser ERROR   ❌ Response error: {"detail":"name 'extract_questions_from_pdf' is not defined"}
+[00:02:58.748] Browser ERROR   ❌ Error analyzing paper: {}
+[00:02:58.748] Browser LOG     🏁 Analysis complete
+[00:22:31.653] Browser LOG     Practice paper uploaded successfully
+[00:22:34.491] Browser LOG     Syllabus uploaded successfully
+[00:22:36.380] Browser LOG     🔍 Analyze button clicked
+[00:22:36.380] Browser LOG     📄 Practice file: samplePaper1.pdf
+[00:22:36.380] Browser LOG     📄 Syllabus file: 2026 Math (1).pdf
+[00:22:36.380] Browser LOG     ✅ Both files present, starting analysis...
+[00:22:36.380] Browser LOG     📤 Step 1: Uploading practice paper...
+[00:22:36.380] Browser LOG     ✅ Practice paper uploaded: samplePaper1.pdf
+[00:22:36.380] Browser LOG     📤 Step 2: Uploading syllabus...
+[00:22:36.380] Browser LOG     ✅ Syllabus uploaded: 2026 Math (1).pdf
+[00:22:36.380] Browser LOG     📤 Step 3: Analyzing paper...
+[00:22:36.380] Browser LOG     📥 Response status: 500
+[00:22:36.380] Browser ERROR   ❌ Response error: {"detail":"bad filename: type(filename)=<class 'starlette.datastructures.UploadFile'> filename=UploadFile(filename='samplePaper1.pdf', size=1158910, headers=Headers({'content-disposition': 'form-data; name=\"paper\"; filename=\"samplePaper1.pdf\"', 'content-type': 'application/pdf'}))."}
+[00:22:36.380] Browser ERROR   ❌ Error analyzing paper: {}
+[00:22:36.380] Browser LOG     🏁 Analysis complete
+[00:23:57.601] Browser LOG     Practice paper uploaded successfully
+[00:24:00.496] Browser LOG     Syllabus uploaded successfully
+[00:24:02.177] Browser LOG     🔍 Analyze button clicked
+[00:24:02.177] Browser LOG     📄 Practice file: samplePaper1.pdf
+[00:24:02.177] Browser LOG     📄 Syllabus file: 2026 Math (1).pdf
+[00:24:02.177] Browser LOG     ✅ Both files present, starting analysis...
+[00:24:02.177] Browser LOG     📤 Step 1: Uploading practice paper...
+[00:24:02.177] Browser LOG     ✅ Practice paper uploaded: samplePaper1.pdf
+[00:24:02.177] Browser LOG     📤 Step 2: Uploading syllabus...
+[00:24:02.177] Browser LOG     ✅ Syllabus uploaded: 2026 Math (1).pdf
+[00:24:02.177] Browser LOG     📤 Step 3: Analyzing paper...
+[00:24:02.177] Browser LOG     📥 Response status: 500
+[00:24:02.177] Browser ERROR   ❌ Response error: {"detail":"'coroutine' object is not subscriptable"}
+[00:24:02.177] Browser ERROR   ❌ Error analyzing paper: {}
+[00:24:02.177] Browser LOG     🏁 Analysis complete
+[00:24:58.314] Browser LOG     Practice paper uploaded successfully
+[00:25:00.388] Browser LOG     Syllabus uploaded successfully
+[00:25:01.198] Browser LOG     🔍 Analyze button clicked
+[00:25:01.198] Browser LOG     📄 Practice file: samplePaper1.pdf
+[00:25:01.198] Browser LOG     📄 Syllabus file: 2026 Math (1).pdf
+[00:25:01.198] Browser LOG     ✅ Both files present, starting analysis...
+[00:25:01.198] Browser LOG     📤 Step 1: Uploading practice paper...
+[00:25:01.198] Browser LOG     ✅ Practice paper uploaded: samplePaper1.pdf
+[00:25:01.198] Browser LOG     📤 Step 2: Uploading syllabus...
+[00:25:01.198] Browser LOG     ✅ Syllabus uploaded: 2026 Math (1).pdf
+[00:25:01.198] Browser LOG     📤 Step 3: Analyzing paper...
+[00:25:01.452] Browser LOG     📥 Response status: 200
+[00:25:01.452] Browser LOG     ✅ Analysis result: {"paper_file":"samplePaper1.pdf","report":{"paper_id":"paper_samplePaper1.pdf","question_topic_mapping":[]},"success":true,"syllabus_file":"2026 Math (1).pdf"}
+[00:25:01.452] Browser LOG     💾 Stored in sessionStorage
+[00:25:01.452] Browser LOG     ✅ Modal opened
+[00:25:01.452] Browser LOG     🏁 Analysis complete
+[00:25:01.452] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:25:01.452] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:25:01.452] Browser LOG     📊 Loaded paper analysis from API: {"paper_file":"samplePaper1.pdf","report":{"paper_id":"paper_samplePaper1.pdf","question_topic_mapping":[]},"success":true,"syllabus_file":"2026 Math (1).pdf"}
+[00:25:01.452] Browser LOG     📊 Extracted sourceArray length: 0
+[00:25:01.452] Browser LOG     📊 Parsed items count: 0
+[00:27:46.323] Browser LOG     Practice paper uploaded successfully
+[00:27:49.464] Browser LOG     Syllabus uploaded successfully
+[00:27:50.840] Browser LOG     🔍 Analyze button clicked
+[00:27:50.840] Browser LOG     📄 Practice file: samplePaper1.pdf
+[00:27:50.840] Browser LOG     📄 Syllabus file: 2026 Math (1).pdf
+[00:27:50.840] Browser LOG     ✅ Both files present, starting analysis...
+[00:27:50.840] Browser LOG     📤 Step 1: Uploading practice paper...
+[00:27:50.840] Browser LOG     ✅ Practice paper uploaded: samplePaper1.pdf
+[00:27:50.840] Browser LOG     📤 Step 2: Uploading syllabus...
+[00:27:50.840] Browser LOG     ✅ Syllabus uploaded: 2026 Math (1).pdf
+[00:27:50.840] Browser LOG     📤 Step 3: Analyzing paper...
+[00:27:50.840] Browser LOG     📥 Response status: 500
+[00:27:50.840] Browser ERROR   ❌ Response error: {"detail":"'coroutine' object is not subscriptable"}
+[00:27:50.840] Browser ERROR   ❌ Error analyzing paper: {}
+[00:27:50.840] Browser LOG     🏁 Analysis complete
+[00:29:30.538] Browser LOG     Practice paper uploaded successfully
+[00:29:32.690] Browser LOG     Syllabus uploaded successfully
+[00:29:33.103] Browser LOG     🔍 Analyze button clicked
+[00:29:33.103] Browser LOG     📄 Practice file: samplePaper1.pdf
+[00:29:33.103] Browser LOG     📄 Syllabus file: 2026 Math (1).pdf
+[00:29:33.103] Browser LOG     ✅ Both files present, starting analysis...
+[00:29:33.103] Browser LOG     📤 Step 1: Uploading practice paper...
+[00:29:33.103] Browser LOG     ✅ Practice paper uploaded: samplePaper1.pdf
+[00:29:33.103] Browser LOG     📤 Step 2: Uploading syllabus...
+[00:29:33.103] Browser LOG     ✅ Syllabus uploaded: 2026 Math (1).pdf
+[00:29:33.103] Browser LOG     📤 Step 3: Analyzing paper...
+[00:29:33.312] Browser LOG     📥 Response status: 200
+[00:29:33.312] Browser LOG     ✅ Analysis result: {"paper_file":"samplePaper1.pdf","report":{"paper_id":"paper_samplePaper1.pdf","question_topic_mapping":[]},"success":true,"syllabus_file":"2026 Math (1).pdf"}
+[00:29:33.312] Browser LOG     💾 Stored in sessionStorage
+[00:29:33.312] Browser LOG     ✅ Modal opened
+[00:29:33.312] Browser LOG     🏁 Analysis complete
+[00:29:33.312] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:29:33.312] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:29:33.312] Browser LOG     📊 Loaded paper analysis from API: {"paper_file":"samplePaper1.pdf","report":{"paper_id":"paper_samplePaper1.pdf","question_topic_mapping":[]},"success":true,"syllabus_file":"2026 Math (1).pdf"}
+[00:29:33.312] Browser LOG     📊 Extracted sourceArray length: 0
+[00:29:33.312] Browser LOG     📊 Parsed items count: 0
+[00:35:44.957] Browser LOG     Practice paper uploaded successfully
+[00:35:48.177] Browser LOG     Syllabus uploaded successfully
+[00:35:48.541] Browser LOG     🔍 Analyze button clicked
+[00:35:48.541] Browser LOG     📄 Practice file: samplePaper1.pdf
+[00:35:48.541] Browser LOG     📄 Syllabus file: 2026 Math (1).pdf
+[00:35:48.541] Browser LOG     ✅ Both files present, starting analysis...
+[00:35:48.541] Browser LOG     📤 Step 1: Uploading practice paper...
+[00:35:48.541] Browser LOG     ✅ Practice paper uploaded: samplePaper1.pdf
+[00:35:48.541] Browser LOG     📤 Step 2: Uploading syllabus...
+[00:35:48.541] Browser LOG     ✅ Syllabus uploaded: 2026 Math (1).pdf
+[00:35:48.541] Browser LOG     📤 Step 3: Analyzing paper...
+[00:35:48.739] Browser LOG     📥 Response status: 200
+[00:35:48.739] Browser LOG     ✅ Analysis result: {"paper_file":"samplePaper1.pdf","report":{"paper_id":"paper_samplePaper1.pdf","question_topic_mapping":[]},"success":true,"syllabus_file":"2026 Math (1).pdf"}
+[00:35:48.739] Browser LOG     💾 Stored in sessionStorage
+[00:35:48.739] Browser LOG     ✅ Modal opened
+[00:35:48.739] Browser LOG     🏁 Analysis complete
+[00:35:48.739] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:35:48.739] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:35:48.739] Browser LOG     📊 Loaded paper analysis from API: {"paper_file":"samplePaper1.pdf","report":{"paper_id":"paper_samplePaper1.pdf","question_topic_mapping":[]},"success":true,"syllabus_file":"2026 Math (1).pdf"}
+[00:35:48.739] Browser LOG     📊 Extracted sourceArray length: 0
+[00:35:48.739] Browser LOG     📊 Parsed items count: 0
+[00:36:39.154] Server  LOG     ✓ Compiled in 372ms
+[00:37:35.267] Browser LOG     Practice paper uploaded successfully
+[00:37:44.882] Browser LOG     Syllabus uploaded successfully
+[00:37:45.326] Browser LOG     🔍 Analyze button clicked
+[00:37:45.326] Browser LOG     📄 Practice file: samplePaper1.pdf
+[00:37:45.326] Browser LOG     📄 Syllabus file: 2025 Math.pdf
+[00:37:45.326] Browser LOG     ✅ Both files present, starting analysis...
+[00:37:45.326] Browser LOG     📤 Analyzing paper...
+[00:37:45.580] Browser LOG     📥 Response status: 200
+[00:37:45.580] Browser LOG     ✅ Analysis result: {"paper_file":"samplePaper1.pdf","report":{"paper_id":"paper_samplePaper1.pdf","question_topic_mapping":[]},"success":true,"syllabus_file":"2025 Math.pdf"}
+[00:37:45.580] Browser LOG     💾 Stored in sessionStorage
+[00:37:45.580] Browser LOG     ✅ Modal opened
+[00:37:45.580] Browser LOG     🏁 Analysis complete
+[00:37:45.580] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:37:45.580] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:37:45.580] Browser LOG     📊 Loaded paper analysis from API: {"paper_file":"samplePaper1.pdf","report":{"paper_id":"paper_samplePaper1.pdf","question_topic_mapping":[]},"success":true,"syllabus_file":"2025 Math.pdf"}
+[00:37:45.580] Browser LOG     📊 Extracted sourceArray length: 0
+[00:37:45.580] Browser LOG     📊 Parsed items count: 0
+[00:40:17.958] Browser LOG     Practice paper uploaded successfully
+[00:40:22.739] Browser LOG     Syllabus uploaded successfully
+[00:40:23.183] Browser LOG     🔍 Analyze button clicked
+[00:40:23.183] Browser LOG     📄 Practice file: samplePaper1.pdf
+[00:40:23.183] Browser LOG     📄 Syllabus file: 2026 Math (1).pdf
+[00:40:23.183] Browser LOG     ✅ Both files present, starting analysis...
+[00:40:23.183] Browser LOG     📤 Analyzing paper...
+[00:40:23.448] Browser LOG     📥 Response status: 200
+[00:40:23.449] Browser LOG     ✅ Analysis result: {"paper_file":"samplePaper1.pdf","report":{"paper_id":"paper_samplePaper1.pdf","question_topic_mapping":[]},"success":true,"syllabus_file":"2026 Math (1).pdf"}
+[00:40:23.449] Browser LOG     💾 Stored in sessionStorage
+[00:40:23.449] Browser LOG     ✅ Modal opened
+[00:40:23.449] Browser LOG     🏁 Analysis complete
+[00:40:23.449] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:40:23.449] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:40:23.449] Browser LOG     📊 Loaded paper analysis from API: {"paper_file":"samplePaper1.pdf","report":{"paper_id":"paper_samplePaper1.pdf","question_topic_mapping":[]},"success":true,"syllabus_file":"2026 Math (1).pdf"}
+[00:40:23.449] Browser LOG     📊 Extracted sourceArray length: 0
+[00:40:23.449] Browser LOG     📊 Parsed items count: 0
+[00:44:04.108] Server  LOG     ✓ Compiled in 205ms
+[00:44:04.622] Browser ERROR   ./Downloads/hack_n_roll_2026/frontend/app/ui/reactDropzone.tsx:79:7
+Parsing ecmascript source code failed
+  77 |     setOldFile(file);
+  78 |       console.log('Old syllabus uploaded successfully');
+> 79 |     } catch (error) {
+     |       ^^^^^
+  80 |       console.error('Error uploading old syllabus:', error);
+  81 |     } finally {
+  82 |       setIsUploading(false);
+
+Expected ',', got 'catch'
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/hack_n_roll_2026/frontend/app/ui/reactDropzone.tsx [Client Component Browser]
+    ./Downloads/hack_n_roll_2026/frontend/app/PaperAlignment/page.tsx [Client Component Browser]
+    ./Downloads/hack_n_roll_2026/frontend/app/PaperAlignment/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/hack_n_roll_2026/frontend/app/ui/reactDropzone.tsx [Client Component SSR]
+    ./Downloads/hack_n_roll_2026/frontend/app/PaperAlignment/page.tsx [Client Component SSR]
+    ./Downloads/hack_n_roll_2026/frontend/app/PaperAlignment/page.tsx [Server Component]
+[00:44:04.622] Browser ERROR   ./Downloads/hack_n_roll_2026/frontend/app/ui/reactDropzone.tsx:79:7
+Parsing ecmascript source code failed
+  77 |     setOldFile(file);
+  78 |       console.log('Old syllabus uploaded successfully');
+> 79 |     } catch (error) {
+     |       ^^^^^
+  80 |       console.error('Error uploading old syllabus:', error);
+  81 |     } finally {
+  82 |       setIsUploading(false);
+
+Expected ',', got 'catch'
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/hack_n_roll_2026/frontend/app/ui/reactDropzone.tsx [Client Component Browser]
+    ./Downloads/hack_n_roll_2026/frontend/app/PaperAlignment/page.tsx [Client Component Browser]
+    ./Downloads/hack_n_roll_2026/frontend/app/PaperAlignment/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/hack_n_roll_2026/frontend/app/ui/reactDropzone.tsx [Client Component SSR]
+    ./Downloads/hack_n_roll_2026/frontend/app/PaperAlignment/page.tsx [Client Component SSR]
+    ./Downloads/hack_n_roll_2026/frontend/app/PaperAlignment/page.tsx [Server Component]
+[00:44:04.622] Browser ERROR   ./Downloads/hack_n_roll_2026/frontend/app/ui/reactDropzone.tsx:79:7
+Parsing ecmascript source code failed
+  77 |     setOldFile(file);
+  78 |       console.log('Old syllabus uploaded successfully');
+> 79 |     } catch (error) {
+     |       ^^^^^
+  80 |       console.error('Error uploading old syllabus:', error);
+  81 |     } finally {
+  82 |       setIsUploading(false);
+
+Expected ',', got 'catch'
+
+Import traces:
+  Client Component Browser:
+    ./Downloads/hack_n_roll_2026/frontend/app/ui/reactDropzone.tsx [Client Component Browser]
+    ./Downloads/hack_n_roll_2026/frontend/app/PaperAlignment/page.tsx [Client Component Browser]
+    ./Downloads/hack_n_roll_2026/frontend/app/PaperAlignment/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./Downloads/hack_n_roll_2026/frontend/app/ui/reactDropzone.tsx [Client Component SSR]
+    ./Downloads/hack_n_roll_2026/frontend/app/PaperAlignment/page.tsx [Client Component SSR]
+    ./Downloads/hack_n_roll_2026/frontend/app/PaperAlignment/page.tsx [Server Component]
+[00:44:27.530] Server  LOG     ✓ Compiled in 44ms
+[00:44:28.388] Server  LOG     ✓ Compiled in 14ms
+[00:51:17.893] Browser LOG     Practice paper selected: samplePaper1.pdf
+[00:51:21.195] Browser LOG     Syllabus selected: 2026 Math (1).pdf
+[00:51:21.642] Browser LOG     🔍 Analyze button clicked
+[00:51:21.642] Browser LOG     📄 Practice file: samplePaper1.pdf
+[00:51:21.642] Browser LOG     📄 Syllabus file: 2026 Math (1).pdf
+[00:51:21.642] Browser LOG     ✅ Both files present, starting analysis...
+[00:51:21.642] Browser LOG     📤 Analyzing paper...
+[00:51:21.881] Browser LOG     📥 Response status: 200
+[00:51:21.881] Browser LOG     ✅ Analysis result: {"paper_file":"samplePaper1.pdf","report":{"paper_id":"paper_samplePaper1.pdf","question_topic_mapping":[]},"success":true,"syllabus_file":"2026 Math (1).pdf"}
+[00:51:21.881] Browser LOG     💾 Stored in sessionStorage
+[00:51:21.881] Browser LOG     ✅ Modal opened
+[00:51:21.881] Browser LOG     🏁 Analysis complete
+[00:51:21.881] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:51:21.881] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:51:21.881] Browser LOG     📊 Loaded paper analysis from API: {"paper_file":"samplePaper1.pdf","report":{"paper_id":"paper_samplePaper1.pdf","question_topic_mapping":[]},"success":true,"syllabus_file":"2026 Math (1).pdf"}
+[00:51:21.881] Browser LOG     📊 Extracted sourceArray length: 0
+[00:51:21.881] Browser LOG     📊 Parsed items count: 0
+[00:55:33.766] Browser LOG     Practice paper selected: samplePaper1.pdf
+[00:55:37.285] Browser LOG     Syllabus selected: 2026 Math (1).pdf
+[00:55:51.013] Browser LOG     🔍 Analyze button clicked
+[00:55:51.013] Browser LOG     📄 Practice file: samplePaper1.pdf
+[00:55:51.013] Browser LOG     📄 Syllabus file: 2026 Math (1).pdf
+[00:55:51.013] Browser LOG     ✅ Both files present, starting analysis...
+[00:55:51.013] Browser LOG     📤 Analyzing paper...
+[00:55:51.258] Browser LOG     📥 Response status: 200
+[00:55:51.258] Browser LOG     ✅ Analysis result: {"paper_file":"samplePaper1.pdf","report":{"paper_id":"paper_samplePaper1.pdf","question_topic_mapping":[]},"success":true,"syllabus_file":"2026 Math (1).pdf"}
+[00:55:51.258] Browser LOG     💾 Stored in sessionStorage
+[00:55:51.258] Browser LOG     ✅ Modal opened
+[00:55:51.258] Browser LOG     🏁 Analysis complete
+[00:55:51.258] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:55:51.258] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:55:51.258] Browser LOG     📊 Loaded paper analysis from API: {"paper_file":"samplePaper1.pdf","report":{"paper_id":"paper_samplePaper1.pdf","question_topic_mapping":[]},"success":true,"syllabus_file":"2026 Math (1).pdf"}
+[00:55:51.258] Browser LOG     📊 Extracted sourceArray length: 0
+[00:55:51.258] Browser LOG     📊 Parsed items count: 0
+[00:57:43.118] Browser LOG     Practice paper selected: samplePaper1.pdf
+[00:57:46.382] Browser LOG     Syllabus selected: 2026 Math (1).pdf
+[00:57:46.836] Browser LOG     🔍 Analyze button clicked
+[00:57:46.836] Browser LOG     📄 Practice file: samplePaper1.pdf
+[00:57:46.836] Browser LOG     📄 Syllabus file: 2026 Math (1).pdf
+[00:57:46.836] Browser LOG     ✅ Both files present, starting analysis...
+[00:57:46.836] Browser LOG     📤 Analyzing paper...
+[00:57:47.085] Browser LOG     📥 Response status: 200
+[00:57:47.085] Browser LOG     ✅ Analysis result: {"paper_file":"samplePaper1.pdf","report":{"paper_id":"paper_samplePaper1.pdf","question_topic_mapping":[]},"success":true,"syllabus_file":"2026 Math (1).pdf"}
+[00:57:47.085] Browser LOG     💾 Stored in sessionStorage
+[00:57:47.085] Browser LOG     ✅ Modal opened
+[00:57:47.085] Browser LOG     🏁 Analysis complete
+[00:57:47.085] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:57:47.085] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:57:47.085] Browser LOG     📊 Loaded paper analysis from API: {"paper_file":"samplePaper1.pdf","report":{"paper_id":"paper_samplePaper1.pdf","question_topic_mapping":[]},"success":true,"syllabus_file":"2026 Math (1).pdf"}
+[00:57:47.085] Browser LOG     📊 Extracted sourceArray length: 0
+[00:57:47.085] Browser LOG     📊 Parsed items count: 0
+[01:06:02.414] Browser LOG     Practice paper selected: samplePaper1.pdf
+[01:06:04.943] Browser LOG     Syllabus selected: 2026 Math (1).pdf
+[01:06:05.660] Browser LOG     🔍 Analyze button clicked
+[01:06:05.660] Browser LOG     📄 Practice file: samplePaper1.pdf
+[01:06:05.660] Browser LOG     📄 Syllabus file: 2026 Math (1).pdf
+[01:06:05.660] Browser LOG     ✅ Both files present, starting analysis...
+[01:06:05.660] Browser LOG     📤 Analyzing paper...
+[01:06:29.445] Browser LOG     📥 Response status: 200
+[01:06:29.445] Browser LOG     ✅ Analysis result: {"paper_file":"samplePaper1.pdf","report":{"paper_id":"paper_samplePaper1.pdf","question_topic_mapping":[{"confidence":1,"in_syllabus":true,"out_of_scope_reason":null,"page":3,"question_id":"Q2","topics":["Factorization"]},{"confidence":1,"in_syllabus":true,"out_of_scope_reason":null,"page":3,"question_id":"Q3","topics":["Set Theory","Venn Diagrams"]},{"confidence":1,"in_syllabus":true,"out_of_scope_reason":null,"page":3,"question_id":"Q3a","topics":["Set Theory","Venn Diagrams"]},{"confidence":1,"in_syllabus":true,"out_of_scope_reason":null,"page":3,"question_id":"Q3b","topics":["Volume and Surface Area","Cuboids"]},{"confidence":1,"in_syllabus":true,"out_of_scope_reason":null,"page":3,"question_id":"Q3b","topics":["Algebra","Fractions"]},{"confidence":1,"in_syllabus":true,"out_of_scope_reason":null,"page":3,"question_id":"Q3b","topics":["Quadratic Functions"]},{"confidence":1,"in_syllabus":true,"out_of_scope_reason":null,"page":3,"question_id":"Q3b","topics":["Trapezium","Area"]},{"confidence":1,"in_syllabus":true,"out_of_scope_reason":null,"page":3,"question_id":"Q3a","topics":["Volume and Surface Area","Cylinders"]},{"confidence":1,"in_syllabus":true,"out_of_scope_reason":null,"page":3,"question_id":"Q3b","topics":["Volume and Surface Area","Cylinders"]},{"confidence":1,"in_syllabus":true,"out_of_scope_reason":null,"page":3,"question_id":"Q3a","topics":["Compound Interest"]},{"confidence":1,"in_syllabus":true,"out_of_scope_reason":null,"page":3,"question_id":"Q3a","topics":["Direct and Inverse Proportions"]},{"confidence":1,"in_syllabus":true,"out_of_scope_reason":null,"page":3,"question_id":"Q3b","topics":["Direct and Inverse Proportions"]},{"confidence":1,"in_syllabus":true,"out_of_scope_reason":null,"page":3,"question_id":"Q3b","topics":["Prime Factorization"]},{"confidence":1,"in_syllabus":true,"out_of_scope_reason":null,"page":3,"question_id":"Q3a","topics":["Scale Drawings"]},{"confidence":1,"in_syllabus":true,"out_of_scope_reason":null,"page":3,"question_id":"Q3b","topics":["Area","Scale Drawings"]},{"confidence":1,"in_syllabus":true,"out_of_scope_reason":null,"page":3,"question_id":"Q3b","topics":["Cumulative Frequency"]},{"confidence":1,"in_syllabus":true,"out_of_scope_reason":null,"page":3,"question_id":"Q3a","topics":["Probability"]},{"confidence":1,"in_syllabus":true,"out_of_scope_reason":null,"page":3,"question_id":"Q3c","topics":["Cumulative Frequency"]},{"confidence":1,"in_syllabus":true,"out_of_scope_reason":null,"page":3,"question_id":"Q3a","topics":["Construction"]},{"confidence":1,"in_syllabus":true,"out_of_scope_reason":null,"page":3,"question_id":"Q3b","topics":["Construction"]},{"confidence":1,"in_syllabus":true,"out_of_scope_reason":null,"page":3,"question_id":"Q3c","topics":["Distance","Geometry"]}]},"success":true,"syllabus_file":"2026 Math (1).pdf"}
+[01:06:29.445] Browser LOG     💾 Stored in sessionStorage
+[01:06:29.445] Browser LOG     ✅ Modal opened
+[01:06:29.445] Browser LOG     🏁 Analysis complete
+[01:06:29.445] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[01:06:29.445] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[01:06:29.445] Browser LOG     📊 Loaded paper analysis from API: {"paper_file":"samplePaper1.pdf","report":{"paper_id":"paper_samplePaper1.pdf","question_topic_mapping":[{"confidence":1,"in_syllabus":true,"out_of_scope_reason":null,"page":3,"question_id":"Q2","topics":["Factorization"]},{"confidence":1,"in_syllabus":true,"out_of_scope_reason":null,"page":3,"question_id":"Q3","topics":["Set Theory","Venn Diagrams"]},{"confidence":1,"in_syllabus":true,"out_of_scope_reason":null,"page":3,"question_id":"Q3a","topics":["Set Theory","Venn Diagrams"]},{"confidence":1,"in_syllabus":true,"out_of_scope_reason":null,"page":3,"question_id":"Q3b","topics":["Volume and Surface Area","Cuboids"]},{"confidence":1,"in_syllabus":true,"out_of_scope_reason":null,"page":3,"question_id":"Q3b","topics":["Algebra","Fractions"]},{"confidence":1,"in_syllabus":true,"out_of_scope_reason":null,"page":3,"question_id":"Q3b","topics":["Quadratic Functions"]},{"confidence":1,"in_syllabus":true,"out_of_scope_reason":null,"page":3,"question_id":"Q3b","topics":["Trapezium","Area"]},{"confidence":1,"in_syllabus":true,"out_of_scope_reason":null,"page":3,"question_id":"Q3a","topics":["Volume and Surface Area","Cylinders"]},{"confidence":1,"in_syllabus":true,"out_of_scope_reason":null,"page":3,"question_id":"Q3b","topics":["Volume and Surface Area","Cylinders"]},{"confidence":1,"in_syllabus":true,"out_of_scope_reason":null,"page":3,"question_id":"Q3a","topics":["Compound Interest"]},{"confidence":1,"in_syllabus":true,"out_of_scope_reason":null,"page":3,"question_id":"Q3a","topics":["Direct and Inverse Proportions"]},{"confidence":1,"in_syllabus":true,"out_of_scope_reason":null,"page":3,"question_id":"Q3b","topics":["Direct and Inverse Proportions"]},{"confidence":1,"in_syllabus":true,"out_of_scope_reason":null,"page":3,"question_id":"Q3b","topics":["Prime Factorization"]},{"confidence":1,"in_syllabus":true,"out_of_scope_reason":null,"page":3,"question_id":"Q3a","topics":["Scale Drawings"]},{"confidence":1,"in_syllabus":true,"out_of_scope_reason":null,"page":3,"question_id":"Q3b","topics":["Area","Scale Drawings"]},{"confidence":1,"in_syllabus":true,"out_of_scope_reason":null,"page":3,"question_id":"Q3b","topics":["Cumulative Frequency"]},{"confidence":1,"in_syllabus":true,"out_of_scope_reason":null,"page":3,"question_id":"Q3a","topics":["Probability"]},{"confidence":1,"in_syllabus":true,"out_of_scope_reason":null,"page":3,"question_id":"Q3c","topics":["Cumulative Frequency"]},{"confidence":1,"in_syllabus":true,"out_of_scope_reason":null,"page":3,"question_id":"Q3a","topics":["Construction"]},{"confidence":1,"in_syllabus":true,"out_of_scope_reason":null,"page":3,"question_id":"Q3b","topics":["Construction"]},{"confidence":1,"in_syllabus":true,"out_of_scope_reason":null,"page":3,"question_id":"Q3c","topics":["Distance","Geometry"]}]},"success":true,"syllabus_file":"2026 Math (1).pdf"}
+[01:06:29.445] Browser LOG     📊 Extracted sourceArray length: 21
+[01:06:29.445] Browser LOG     📊 Parsed items count: 21
+
