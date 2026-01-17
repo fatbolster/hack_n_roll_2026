@@ -5,43 +5,92 @@ import type { SVGProps } from "react";
 import { useDropzone } from "react-dropzone";
 import { Button } from "./button";
 
-export function AlignmentDropzones() {
+type AlignmentDropzonesProps = {
+  onAnalyze?: () => void;
+};
+
+export function AlignmentDropzones({ onAnalyze }: AlignmentDropzonesProps = {}) {
   const [practiceFile, setPracticeFile] = useState<File | null>(null);
   const [syllabusFile, setSyllabusFile] = useState<File | null>(null);
+  const [errorState, setErrorState] = useState({ practice: false, syllabus: false });
 
   const handlePracticeDrop = useCallback((acceptedFiles: File[]) => {
-    setPracticeFile(acceptedFiles[0] ?? null);
+    const file = acceptedFiles[0] ?? null;
+    setPracticeFile(file);
+    if (file) {
+      setErrorState((prev) => ({ ...prev, practice: false }));
+    }
   }, []);
 
   const handleSyllabusDrop = useCallback((acceptedFiles: File[]) => {
-    setSyllabusFile(acceptedFiles[0] ?? null);
+    const file = acceptedFiles[0] ?? null;
+    setSyllabusFile(file);
+    if (file) {
+      setErrorState((prev) => ({ ...prev, syllabus: false }));
+    }
   }, []);
 
   const handlePracticeClear = useCallback(() => {
     setPracticeFile(null);
+    setErrorState((prev) => ({ ...prev, practice: false }));
   }, []);
 
   const handleSyllabusClear = useCallback(() => {
     setSyllabusFile(null);
+    setErrorState((prev) => ({ ...prev, syllabus: false }));
   }, []);
 
+  const handleAnalyzeClick = useCallback(() => {
+    const missingPractice = !practiceFile;
+    const missingSyllabus = !syllabusFile;
+
+    if (missingPractice || missingSyllabus) {
+      setErrorState({ practice: missingPractice, syllabus: missingSyllabus });
+      return;
+    }
+
+    onAnalyze?.();
+  }, [onAnalyze, practiceFile, syllabusFile]);
+
+  const showPracticeError = errorState.practice;
+  const showSyllabusError = errorState.syllabus;
+  const hasAnyErrors = showPracticeError || showSyllabusError;
+
   return (
-    <div className="grid gap-6 md:grid-cols-2">
-      <UploadZone
-        title="Practice Paper PDF"
-        helperText="Upload your practice paper"
-        file={practiceFile}
-        onDrop={handlePracticeDrop}
-        onClear={handlePracticeClear}
-      />
-      <UploadZone
-        title="Syllabus Version"
-        helperText="Upload the syllabus PDF to check against"
-        file={syllabusFile}
-        onDrop={handleSyllabusDrop}
-        onClear={handleSyllabusClear}
-      />
-    </div>
+    <>
+      <div className="grid gap-6 md:grid-cols-2">
+        <UploadZone
+          title="Practice Paper PDF"
+          helperText="Upload your practice paper"
+          file={practiceFile}
+          onDrop={handlePracticeDrop}
+          onClear={handlePracticeClear}
+          showError={showPracticeError}
+        />
+        <UploadZone
+          title="Syllabus Version"
+          helperText="Upload the syllabus PDF to check against"
+          file={syllabusFile}
+          onDrop={handleSyllabusDrop}
+          onClear={handleSyllabusClear}
+          showError={showSyllabusError}
+        />
+      </div>
+
+      <div className="mt-8 flex flex-wrap items-center gap-3">
+        <Button
+          variant="solid"
+          startIcon={<AnalyzeIcon className="h-4 w-4" />}
+          className="bg-emerald-500 hover:bg-emerald-600 focus-visible:outline-emerald-500"
+          onClick={handleAnalyzeClick}
+        >
+          Analyze Paper
+        </Button>
+        {hasAnyErrors ? (
+          <span className="text-sm font-semibold text-rose-600">Please upload PDF to the highlighted zone</span>
+        ) : null}
+      </div>
+    </>
   );
 }
 
@@ -266,6 +315,17 @@ function TrashIcon(props: IconProps) {
         strokeLinejoin="round"
       />
       <path d="M10.5 10.5v6M13.5 10.5v6" strokeWidth="1.6" strokeLinecap="round" />
+    </svg>
+  );
+}
+
+function AnalyzeIcon(props: IconProps) {
+  return (
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" {...props}>
+      <rect x="4.75" y="3.75" width="9.5" height="14.5" rx="1.4" strokeWidth="1.6" />
+      <path d="M8 7.5h3.5M8 11h3.5" strokeWidth="1.6" strokeLinecap="round" />
+      <circle cx="16.25" cy="15.75" r="3" strokeWidth="1.6" />
+      <path d="m18.4 17.9 2.35 2.35" strokeWidth="1.6" strokeLinecap="round" />
     </svg>
   );
 }
