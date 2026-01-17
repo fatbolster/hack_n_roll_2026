@@ -2,11 +2,13 @@ from fastapi import FastAPI, UploadFile, File, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse
 import os
+import json
 from pathlib import Path
 import fitz  # PyMuPDF
 from io import BytesIO
 
 from config.openai_client import call_openai_json
+from services.syllabusJsonCreator import generate_syllabus_json
 
 
 async def extract_text_from_pdf(file: UploadFile) -> str:
@@ -91,45 +93,33 @@ async def diff_syllabus(
 ):
     """
     Compare two syllabus PDFs (old vs new) using OpenAI.
-    Returns JSON with topic_name, question_no, status, prompt fields.
-    accepts two files: old_syllabus and new_syllabus
+    Uses generate_syllabus_json from syllabusJsonCreator.py
+    Returns JSON with topic_name, status, description fields.
     """
     try:
         # Validate file types
         if not (old_syllabus.filename.endswith('.pdf') and new_syllabus.filename.endswith('.pdf')):
             raise HTTPException(status_code=400, detail="Both files must be PDFs")
         
-        # Extract text from PDFs
-        old_content = await extract_text_from_pdf(old_syllabus)
-        new_content = await extract_text_from_pdf(new_syllabus)
+        # Extract text from PDFs (doc_old and doc_new)
+        doc_old = await extract_text_from_pdf(old_syllabus)
+        doc_new = await extract_text_from_pdf(new_syllabus)
         
-        # Call OpenAI directly to compare
-        prompt = f"""
-        Compare these two syllabi and return a JSON array of changes.
-        
-        Each change should have:
-        - topic_name: string
-        - status: string (added/removed/modified)
-        - description: string (explanation of the change)
-        
-        OLD SYLLABUS ({old_syllabus.filename}):
-        {old_content}
-        
-        NEW SYLLABUS ({new_syllabus.filename}):
-        {new_content}
-        
-        Return format:
-        {{
-            "changes": [
-                {{"topic": "...", "status": "...", "description": "..."}}
-            ]
-        }}
-        """
-        
-        diff_report = await call_openai_json(
-            prompt=prompt,
-            system_message="You are an expert at comparing educational syllabi."
+        # Use generate_syllabus_json function from services
+        json_result = generate_syllabus_json(
+            doc_old=doc_old,
+            doc_new=doc_new,
+            old_filename=old_syllabus.filename,
+            new_filename=new_syllabus.filename
         )
+        
+        # Debug: Print what we got back
+        print(f"🔍 DEBUG - OpenAI returned: {json_result[:500]}...")
+        
+        # Parse the JSON string result
+        diff_report = json.loads(json_result)
+        print(f"🔍 DEBUG - Parsed report keys: {diff_report.keys()}")
+        print(f"🔍 DEBUG - syllabi_diff content: {diff_report.get('syllabi_diff', 'NOT FOUND')}")
         
         return JSONResponse(content={
             "success": True,

@@ -6,63 +6,83 @@ from openai import OpenAI
 load_dotenv()
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
-def generate_syllabus_json(file1_path, file2_path):
-    # --- STEP 1: READ THE ACTUAL TEXT ---
-    try:
-        with open(file1_path, 'r') as f:
-            text_2026 = f.read()
-        with open(file2_path, 'r') as f:
-            text_2025 = f.read()
-    except FileNotFoundError:
-        return {"error": f"Could not find {file1_path} or {file2_path} in the folder."}
+def generate_syllabus_json(doc_old: str, doc_new: str, old_filename: str = "old_syllabus", new_filename: str = "new_syllabus") -> str:
+    """
+    Generate syllabus comparison JSON from extracted text.
+    
+    Args:
+        doc_old: Extracted text from old syllabus 
+        doc_new: Extracted text from new syllabus 
+        old_filename: Filename of old syllabus (for reference)
+        new_filename: Filename of new syllabus (for reference)
+        
+    Returns:
+        str: JSON string with syllabi_diff array
+    """
+    # Validate inputs
+    if not doc_old or not doc_new:
+        return json.dumps({"error": "Both syllabus texts are required"})
+    
+    # Truncate text to avoid token limits (30000 chars each for more content)
+    doc_old_truncated = doc_old[:30000]
+    doc_new_truncated = doc_new[:30000]
+    
 
-    # --- STEP 2: MATH-SPECIFIC PROMPT ---
+    # Math-specific prompt
     prompt = f"""
-    Act as a Senior O level Curriculum Developer. Audit the following math syllabi.
+    You are comparing two O-Level syllabi: an OLD version and a NEW version.
     
-    TASK:
-    1. Identify the given subject of the syllabus given (Math, Chemistry etc)
-    2. Identify unique mathematical or chemistry concepts (e.g., Trigonometry, Differential Equations).
-    3. Compare the technical scope and "Cognitive Demand" (complexity).
-    4. Status logic:
-       - 'unchanged': Math concepts and operations remain the same, even if wording changed.
-       - 'modified': The topic exists in both, but specific formulas, theorems, or sub-topics were added/removed.
-       - 'added': Entirely new mathematical domain in 2026.
-       - 'removed': Topic present in 2025 but not in 2026.
+    CRITICAL INSTRUCTIONS:
+    1. Find all BOLDED TOPIC HEADERS in the syllabi 
+    2. For EACH bolded topic, look at the LEARNING OUTCOMES listed below it
+    3. Compare the learning outcomes between OLD and NEW for each topic
+    4. Create a SEPARATE entry for EACH topic that has changes
+    
+    HOW TO IDENTIFY TOPICS:
+    - Look for bolded/emphasized section headings
+    - Main curriculum topics like: "Experimental Chemistry", "Chemical Bonding", "Stoichiometry", "Trigonometry", "Algebra"
+    - IGNORE administrative sections: "Aims", "Assessment", "Introduction"
+    
+    HOW TO FIND CHANGES:
+    - For each bolded topic, read the learning outcomes below it
+    - Compare if learning outcomes were added, removed, or modified
+    - Check if sub-topics changed
+    - Look for changes in scope, depth, or emphasis
 
-    SYLLABUS 2026:
-    {text_2026}
+    FOR EACH TOPIC, determine:
+    - "added": This bolded topic appears in NEW but NOT in OLD
+    - "removed": This bolded topic was in OLD but NOT in NEW
+    - "modified": Topic exists in BOTH but learning outcomes/sub-topics changed
+
+    OLD SYLLABUS:
+    {doc_old_truncated}
     
-    SYLLABUS 2025:
-    {text_2025}
+    NEW SYLLABUS:
+    {doc_new_truncated}
 
     OUTPUT:
     Return a JSON object with a key "syllabi_diff" containing an array of objects:
     {{
-      "topic": "Math concept name",
-      "math_scope": "Technical summary of formulas/operations (e.g., Solving 2nd order ODEs)",
-      "status": "added | removed | modified | unchanged",
-      "change_summary": "Concise technical explanation of the mathematical shift"
+      "topic": "Concept name",
+      "status": "added | removed | modified",
+      "change_summary": "Concise technical explanation of the change in syllabus"
     }}
+    
+    IMPORTANT: 
+    - List each bolded topic separately
+    - Focus on changes in the learning outcomes below each topic
+    - Report ALL topics with any changes to their learning outcomes
+
+
     """
 
     response = client.chat.completions.create(
-        model="gpt-5-mini", 
+        model="gpt-5.2", 
         messages=[
-            {"role": "system", "content": "You are a math curriculum expert that outputs strictly valid JSON."},
+            {"role": "system", "content": "You are a curriculum expert that outputs strictly valid JSON."},
             {"role": "user", "content": prompt}
         ],
         response_format={ "type": "json_object" } 
     )
     
     return response.choices[0].message.content
-
-# --- EXECUTION ---
-# Pass the file paths here
-json_result = generate_syllabus_json("extractedSyllabus1.txt", "extractedSyllabus2.txt")
-
-# Save to file
-with open("syllabus_comparison.json", "w") as f:
-    f.write(json_result)
-
-print("✅ Success! Check syllabus_comparison.json")
