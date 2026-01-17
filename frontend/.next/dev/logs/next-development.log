@@ -115,3 +115,6 @@
        please check the style of container, or the props width(100%) and height(100%),
        or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
        height and width.
+[01:31:37.825] Server  LOG     ✓ Compiled in 17ms
+[01:31:57.547] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:36:00.219] Server  LOG     ✓ Compiled in 16ms

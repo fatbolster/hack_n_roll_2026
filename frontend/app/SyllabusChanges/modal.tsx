@@ -9,7 +9,7 @@ type ChangeStatus = "added" | "removed" | "modified";
 type ChangeItem = {
   id?: string | number;
   title: string;
-  description: string;
+  change_summary: string;
   status: ChangeStatus;
 };
 
@@ -69,6 +69,8 @@ export function SyllabusChangesModal({ isOpen, onClose, refreshToken = 0 }: Moda
           ? raw
           : Array.isArray(raw.changes)
             ? raw.changes
+            : Array.isArray(raw.report?.syllabi_diff)
+              ? raw.report.syllabi_diff
             : Array.isArray(raw.report?.changes)
               ? raw.report.changes
               : [];
@@ -79,13 +81,13 @@ export function SyllabusChangesModal({ isOpen, onClose, refreshToken = 0 }: Moda
             if (status !== "added" && status !== "removed" && status !== "modified") {
               return null;
             }
-            const title = item?.title ?? item?.topic_name ?? `Change ${idx + 1}`;
-            const description = item?.description ?? "";
+            const title = item?.title ?? item?.topic ?? item?.topic_name ?? `Change ${idx + 1}`;
+            const change_summary = item?.change_summary ?? item?.description ?? "";
             return {
               id: item?.id ?? idx,
               status,
               title,
-              description,
+              change_summary,
             };
           })
           .filter(Boolean) as ChangeItem[];
@@ -204,7 +206,7 @@ export function SyllabusChangesModal({ isOpen, onClose, refreshToken = 0 }: Moda
                       </span>
                       <span className="text-slate-900">{change.title}</span>
                     </div>
-                    <p className="text-sm text-slate-600">{change.description}</p>
+                    <p className="text-sm text-slate-600">{change.change_summary}</p>
                   </div>
                   <span className="absolute right-3 top-3 text-slate-300 transition group-hover:text-slate-400">
                     <ChevronRightIcon className="h-4 w-4" />
