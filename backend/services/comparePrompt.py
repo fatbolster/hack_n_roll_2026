@@ -33,15 +33,42 @@ def map_questions_to_syllabus(syllabus_path, questions_path, chunk_size=5):
         prompt = f"""
 You are a Senior Mathematics Curriculum Specialist.
 
-SYLLABUS (AUTHORITATIVE SCOPE):
-{syllabus_text}
+You are given:
+• An OFFICIAL mathematics syllabus in text format(authoritative).
+• A list of extracted exam questions in json
+
+Your job is to analyse ONLY genuine mathematics questions.
+
 
 TASK:
-For EACH question below:
-1. Assign syllabus topics (use syllabus wording).
-2. Decide if the question is IN-SCOPE or OUT-OF-SCOPE.
-3. If out-of-scope, explain why.
-4. If there are any questions that arent questions ignore them during output
+For EACH valid mathematics question below:
+
+1. Assign one or more syllabus topics using the EXACT wording from the syllabus where possible.
+2. Decide whether the question is IN-SCOPE or OUT-OF-SCOPE.
+3. If you are unsure which exact topic applies, choose the CLOSEST reasonable syllabus topic instead of leaving it empty.
+4. Be conservative when marking OUT-OF-SCOPE. Only mark OUT-OF-SCOPE if the content is clearly not covered by the syllabus.
+
+IMPORTANT RULES:
+• Do NOT invent new topics.
+• Do NOT output empty topic lists for IN-SCOPE questions.
+• Do NOT merge multiple questions into one.
+• Treat subparts (e.g. a, b, c) as separate questions IF they test different skills.
+• Preserve the original question_id exactly as given.
+• Do NOT renumber questions.
+• Output STRICTLY valid JSON only.
+• Do NOT include explanations outside the JSON.
+
+You are NOT allowed to mark a question as OUT-OF-SCOPE
+unless you can explicitly name the mathematical topic
+and state that it is absent from the syllabus.
+
+
+CONFIDENCE SCORE:
+Assign a confidence score between 0 and 1:
+• 1.0 → topic match is very clear
+• 0.7–0.9 → reasonable match with minor ambiguity
+• 0.4–0.6 → weak or approximate match
+• 0.0 → OUT-OF-SCOPE
 
 
 OUTPUT FORMAT (STRICT JSON):
@@ -64,6 +91,7 @@ QUESTIONS:
 
         response = client.chat.completions.create(
             model="gpt-4o-mini",
+            temperature=0,
             messages=[
                 {"role": "system", "content": "You output ONLY valid JSON."},
                 {"role": "user", "content": prompt}

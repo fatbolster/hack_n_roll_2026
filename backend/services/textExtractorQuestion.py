@@ -25,7 +25,7 @@ break_all_parsing = False
 
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-pdf_path = os.path.join(BASE_DIR, "samplePaper1.pdf")
+pdf_path = os.path.join(BASE_DIR, "samplePaper2.pdf")
 output_path = os.path.join(BASE_DIR, "questions.json")
 
 #Ensure question number is accurate 

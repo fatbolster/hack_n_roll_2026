@@ -2,287 +2,714 @@
   "paper_id": "samplePaper.pdf",
   "question_topic_mapping": [
     {
-      "question_id": "Q1a",
+      "question_id": "Q1",
       "page": 3,
       "topics": [
-        "Algebraic expressions and formulae"
+        "Ordering Numbers"
       ],
       "in_syllabus": true,
-      "confidence": 0,
+      "confidence": 1.0,
       "out_of_scope_reason": null
     },
     {
-      "question_id": "Q1b",
+      "question_id": "Q2",
       "page": 3,
       "topics": [
-        "Algebraic expressions and formulae"
+        "Fractions"
       ],
       "in_syllabus": true,
-      "confidence": 0,
+      "confidence": 1.0,
       "out_of_scope_reason": null
     },
     {
-      "question_id": "Q3a",
+      "question_id": "Q3",
       "page": 3,
       "topics": [
-        "Set language and notation"
+        "Estimation and Approximation",
+        "Standard Form"
       ],
       "in_syllabus": true,
-      "confidence": 0,
+      "confidence": 0.9,
       "out_of_scope_reason": null
     },
     {
-      "question_id": "Q3b",
-      "page": 3,
-      "topics": [
-        "Set language and notation"
-      ],
-      "in_syllabus": true,
-      "confidence": 0,
-      "out_of_scope_reason": null
+      "question_id": "Q4",
+      "page": 4,
+      "topics": [],
+      "in_syllabus": false,
+      "confidence": 0.0,
+      "out_of_scope_reason": "The content is unclear and does not match any syllabus topic."
     },
     {
       "question_id": "Q5",
       "page": 4,
-      "topics": [
-        "Mensuration",
-        "Geometry and Measurement"
-      ],
-      "in_syllabus": true,
-      "confidence": 0,
-      "out_of_scope_reason": null
+      "topics": [],
+      "in_syllabus": false,
+      "confidence": 0.0,
+      "out_of_scope_reason": "The content is unclear and does not match any syllabus topic."
     },
     {
       "question_id": "Q6",
       "page": 4,
       "topics": [
-        "Algebraic expressions and formulae"
+        "Ratio and Proportion"
       ],
       "in_syllabus": true,
-      "confidence": 0,
+      "confidence": 1.0,
       "out_of_scope_reason": null
     },
     {
-      "question_id": "Q7",
+      "question_id": "Q7a",
       "page": 5,
       "topics": [
-        "Data handling and analysis"
+        "Inequalities"
       ],
       "in_syllabus": true,
-      "confidence": 0,
+      "confidence": 1.0,
       "out_of_scope_reason": null
     },
     {
-      "question_id": "Q8",
+      "question_id": "Q8a",
       "page": 5,
       "topics": [
-        "Functions and graphs"
+        "Sets and Venn Diagrams"
       ],
       "in_syllabus": true,
-      "confidence": 0,
+      "confidence": 1.0,
       "out_of_scope_reason": null
     },
     {
-      "question_id": "Q9",
+      "question_id": "Q8b",
+      "page": 5,
+      "topics": [
+        "Sets and Venn Diagrams"
+      ],
+      "in_syllabus": true,
+      "confidence": 1.0,
+      "out_of_scope_reason": null
+    },
+    {
+      "question_id": "Q9a",
       "page": 6,
-      "topics": [
-        "Angles, triangles and polygons"
-      ],
-      "in_syllabus": true,
-      "confidence": 0,
-      "out_of_scope_reason": null
+      "topics": [],
+      "in_syllabus": false,
+      "confidence": 0.0,
+      "out_of_scope_reason": "Question lacks mathematical content."
+    },
+    {
+      "question_id": "Q9b",
+      "page": 6,
+      "topics": [],
+      "in_syllabus": false,
+      "confidence": 0.0,
+      "out_of_scope_reason": "Question lacks mathematical content."
+    },
+    {
+      "question_id": "Q9c",
+      "page": 6,
+      "topics": [],
+      "in_syllabus": false,
+      "confidence": 0.0,
+      "out_of_scope_reason": "Question lacks mathematical content."
     },
     {
       "question_id": "Q10",
-      "page": 7,
+      "page": 6,
       "topics": [
-        "Mensuration"
+        "Factorization"
       ],
       "in_syllabus": true,
-      "confidence": 0,
+      "confidence": 1.0,
       "out_of_scope_reason": null
     },
     {
       "question_id": "Q11",
-      "page": 8,
-      "topics": [],
-      "in_syllabus": false,
-      "confidence": 0,
-      "out_of_scope_reason": "The question does not contain a mathematical problem or inquiry."
-    },
-    {
-      "question_id": "Q12",
-      "page": 8,
+      "page": 7,
       "topics": [
-        "Rate and speed"
+        "Percentage",
+        "Profit and Loss"
       ],
       "in_syllabus": true,
-      "confidence": 0,
+      "confidence": 1.0,
       "out_of_scope_reason": null
     },
     {
-      "question_id": "Q13",
-      "page": 9,
+      "question_id": "Q12a",
+      "page": 7,
       "topics": [
-        "Numbers and their operations"
+        "Speed",
+        "Time",
+        "Distance"
       ],
       "in_syllabus": true,
-      "confidence": 0,
+      "confidence": 1.0,
       "out_of_scope_reason": null
     },
     {
-      "question_id": "Q14",
-      "page": 9,
-      "topics": [],
-      "in_syllabus": false,
-      "confidence": 0,
-      "out_of_scope_reason": "The question does not contain a mathematical problem or inquiry."
+      "question_id": "Q12b",
+      "page": 7,
+      "topics": [
+        "Speed",
+        "Time",
+        "Distance"
+      ],
+      "in_syllabus": true,
+      "confidence": 1.0,
+      "out_of_scope_reason": null
     },
     {
-      "question_id": "Q15",
+      "question_id": "Q13a",
+      "page": 8,
+      "topics": [
+        "Geometric Similarity"
+      ],
+      "in_syllabus": true,
+      "confidence": 1.0,
+      "out_of_scope_reason": null
+    },
+    {
+      "question_id": "Q13b",
+      "page": 8,
+      "topics": [
+        "Data Interpretation"
+      ],
+      "in_syllabus": true,
+      "confidence": 1.0,
+      "out_of_scope_reason": null
+    },
+    {
+      "question_id": "Q14a",
+      "page": 9,
+      "topics": [
+        "Prime Factorization"
+      ],
+      "in_syllabus": true,
+      "confidence": 1.0,
+      "out_of_scope_reason": null
+    },
+    {
+      "question_id": "Q14b",
+      "page": 9,
+      "topics": [
+        "Highest Common Factor",
+        "Lowest Common Multiple"
+      ],
+      "in_syllabus": true,
+      "confidence": 1.0,
+      "out_of_scope_reason": null
+    },
+    {
+      "question_id": "Q14c",
+      "page": 9,
+      "topics": [
+        "Perfect Squares and Perfect Cubes"
+      ],
+      "in_syllabus": true,
+      "confidence": 1.0,
+      "out_of_scope_reason": null
+    },
+    {
+      "question_id": "Q15a",
       "page": 10,
       "topics": [
-        "Algebraic expressions and formulae",
-        "Functions and graphs"
+        "Algebraic Expressions"
       ],
       "in_syllabus": true,
-      "confidence": 0,
+      "confidence": 1.0,
+      "out_of_scope_reason": null
+    },
+    {
+      "question_id": "Q15b",
+      "page": 10,
+      "topics": [
+        "Graphing Functions"
+      ],
+      "in_syllabus": true,
+      "confidence": 1.0,
       "out_of_scope_reason": null
     },
     {
       "question_id": "Q16",
       "page": 11,
       "topics": [
-        "Geometry and Measurement",
-        "Angles, triangles and polygons"
+        "Data Representation",
+        "Statistics"
       ],
       "in_syllabus": true,
-      "confidence": 0,
+      "confidence": 0.9,
+      "out_of_scope_reason": null
+    },
+    {
+      "question_id": "Q16a",
+      "page": 11,
+      "topics": [
+        "Data Representation",
+        "Statistics"
+      ],
+      "in_syllabus": true,
+      "confidence": 0.9,
+      "out_of_scope_reason": null
+    },
+    {
+      "question_id": "Q16c",
+      "page": 11,
+      "topics": [
+        "Data Representation",
+        "Statistics"
+      ],
+      "in_syllabus": true,
+      "confidence": 0.9,
       "out_of_scope_reason": null
     },
     {
       "question_id": "Q17",
       "page": 12,
       "topics": [
-        "Geometry and Measurement",
-        "Coordinate geometry"
+        "Graphs",
+        "Functions"
       ],
       "in_syllabus": true,
-      "confidence": 0,
+      "confidence": 0.7,
+      "out_of_scope_reason": null
+    },
+    {
+      "question_id": "Q17a",
+      "page": 12,
+      "topics": [
+        "Graphs",
+        "Functions"
+      ],
+      "in_syllabus": true,
+      "confidence": 0.7,
       "out_of_scope_reason": null
     },
     {
       "question_id": "Q18",
       "page": 13,
       "topics": [
-        "Geometry and Measurement",
-        "Mensuration"
+        "Geometry",
+        "Trigonometry"
       ],
       "in_syllabus": true,
-      "confidence": 0,
+      "confidence": 0.7,
       "out_of_scope_reason": null
     },
     {
       "question_id": "Q19",
       "page": 14,
       "topics": [
-        "Geometry and Measurement",
-        "Angles, triangles and polygons"
+        "Graphs",
+        "Functions"
       ],
       "in_syllabus": true,
-      "confidence": 0,
+      "confidence": 0.9,
+      "out_of_scope_reason": null
+    },
+    {
+      "question_id": "Q19a",
+      "page": 14,
+      "topics": [
+        "Graphs",
+        "Functions"
+      ],
+      "in_syllabus": true,
+      "confidence": 0.9,
+      "out_of_scope_reason": null
+    },
+    {
+      "question_id": "Q19b",
+      "page": 14,
+      "topics": [
+        "Graphs",
+        "Functions"
+      ],
+      "in_syllabus": true,
+      "confidence": 0.9,
       "out_of_scope_reason": null
     },
     {
       "question_id": "Q20",
       "page": 15,
       "topics": [
-        "Geometry and Measurement",
-        "Angles, triangles and polygons"
+        "Geometry",
+        "Similarity"
       ],
       "in_syllabus": true,
-      "confidence": 0,
+      "confidence": 0.8,
+      "out_of_scope_reason": null
+    },
+    {
+      "question_id": "Q20a",
+      "page": 15,
+      "topics": [
+        "Geometry",
+        "Similarity"
+      ],
+      "in_syllabus": true,
+      "confidence": 0.8,
+      "out_of_scope_reason": null
+    },
+    {
+      "question_id": "Q20b",
+      "page": 15,
+      "topics": [
+        "Geometry",
+        "Similarity"
+      ],
+      "in_syllabus": true,
+      "confidence": 0.8,
+      "out_of_scope_reason": null
+    },
+    {
+      "question_id": "Q20c",
+      "page": 15,
+      "topics": [
+        "Geometry",
+        "Similarity"
+      ],
+      "in_syllabus": true,
+      "confidence": 0.8,
       "out_of_scope_reason": null
     },
     {
       "question_id": "Q21a",
       "page": 16,
       "topics": [
-        "Statistics and Probability"
+        "Simplifying expressions with indices"
       ],
       "in_syllabus": true,
-      "confidence": 0,
+      "confidence": 1.0,
       "out_of_scope_reason": null
     },
     {
       "question_id": "Q21b",
       "page": 16,
       "topics": [
-        "Statistics and Probability"
+        "Simplifying expressions with indices"
       ],
       "in_syllabus": true,
-      "confidence": 0,
+      "confidence": 1.0,
       "out_of_scope_reason": null
     },
     {
-      "question_id": "Q21c",
-      "page": 16,
+      "question_id": "Q22a",
+      "page": 17,
       "topics": [
-        "Statistics and Probability"
+        "Sequences and series"
       ],
       "in_syllabus": true,
-      "confidence": 0,
+      "confidence": 1.0,
       "out_of_scope_reason": null
     },
     {
-      "question_id": "Q1",
+      "question_id": "Q22b",
+      "page": 17,
+      "topics": [
+        "Sequences and series"
+      ],
+      "in_syllabus": true,
+      "confidence": 1.0,
+      "out_of_scope_reason": null
+    },
+    {
+      "question_id": "Q22c",
+      "page": 17,
+      "topics": [
+        "Sequences and series"
+      ],
+      "in_syllabus": true,
+      "confidence": 1.0,
+      "out_of_scope_reason": null
+    },
+    {
+      "question_id": "Q23a",
+      "page": 18,
+      "topics": [
+        "Properties of shapes"
+      ],
+      "in_syllabus": true,
+      "confidence": 1.0,
+      "out_of_scope_reason": null
+    },
+    {
+      "question_id": "Q23b",
+      "page": 18,
+      "topics": [
+        "Properties of shapes"
+      ],
+      "in_syllabus": true,
+      "confidence": 1.0,
+      "out_of_scope_reason": null
+    },
+    {
+      "question_id": "Q24a",
+      "page": 19,
+      "topics": [
+        "Coordinate geometry"
+      ],
+      "in_syllabus": true,
+      "confidence": 1.0,
+      "out_of_scope_reason": null
+    },
+    {
+      "question_id": "Q24b",
+      "page": 19,
+      "topics": [
+        "Coordinate geometry"
+      ],
+      "in_syllabus": true,
+      "confidence": 1.0,
+      "out_of_scope_reason": null
+    },
+    {
+      "question_id": "Q25a",
+      "page": 20,
+      "topics": [
+        "Probability"
+      ],
+      "in_syllabus": true,
+      "confidence": 1.0,
+      "out_of_scope_reason": null
+    },
+    {
+      "question_id": "Q25b",
+      "page": 20,
+      "topics": [
+        "Probability"
+      ],
+      "in_syllabus": true,
+      "confidence": 1.0,
+      "out_of_scope_reason": null
+    },
+    {
+      "question_id": "Q25c",
+      "page": 20,
+      "topics": [
+        "Probability"
+      ],
+      "in_syllabus": true,
+      "confidence": 1.0,
+      "out_of_scope_reason": null
+    },
+    {
+      "question_id": "Q1a",
       "page": 25,
       "topics": [
-        "Algebraic expressions and formulae",
-        "Equations and inequalities"
+        "Exchange Rates"
       ],
       "in_syllabus": true,
-      "confidence": 0,
+      "confidence": 1.0,
       "out_of_scope_reason": null
     },
     {
-      "question_id": "Q2",
+      "question_id": "Q1b",
       "page": 25,
       "topics": [
-        "Statistics and Probability"
+        "Algebra"
       ],
       "in_syllabus": true,
-      "confidence": 0,
+      "confidence": 1.0,
+      "out_of_scope_reason": null
+    },
+    {
+      "question_id": "Q1c",
+      "page": 25,
+      "topics": [
+        "Algebra"
+      ],
+      "in_syllabus": true,
+      "confidence": 1.0,
       "out_of_scope_reason": null
     },
     {
       "question_id": "Q2a",
-      "page": 25,
+      "page": 26,
       "topics": [
-        "Statistics and Probability"
+        "Algebra"
       ],
       "in_syllabus": true,
-      "confidence": 0,
+      "confidence": 1.0,
       "out_of_scope_reason": null
     },
     {
       "question_id": "Q2b",
-      "page": 25,
+      "page": 26,
       "topics": [
-        "Statistics and Probability"
+        "Algebra"
       ],
       "in_syllabus": true,
-      "confidence": 0,
+      "confidence": 1.0,
       "out_of_scope_reason": null
     },
     {
-      "question_id": "Q2c",
-      "page": 25,
+      "question_id": "Q3a",
+      "page": 28,
       "topics": [
-        "Statistics and Probability"
+        "Geometry"
       ],
       "in_syllabus": true,
-      "confidence": 0,
+      "confidence": 1.0,
+      "out_of_scope_reason": null
+    },
+    {
+      "question_id": "Q3c",
+      "page": 28,
+      "topics": [
+        "Geometry"
+      ],
+      "in_syllabus": true,
+      "confidence": 1.0,
+      "out_of_scope_reason": null
+    },
+    {
+      "question_id": "Q4a",
+      "page": 30,
+      "topics": [
+        "Geometry"
+      ],
+      "in_syllabus": true,
+      "confidence": 1.0,
+      "out_of_scope_reason": null
+    },
+    {
+      "question_id": "Q4c",
+      "page": 30,
+      "topics": [
+        "Geometry"
+      ],
+      "in_syllabus": true,
+      "confidence": 1.0,
+      "out_of_scope_reason": null
+    },
+    {
+      "question_id": "Q5a",
+      "page": 32,
+      "topics": [
+        "Quadratic Functions"
+      ],
+      "in_syllabus": true,
+      "confidence": 1.0,
+      "out_of_scope_reason": null
+    },
+    {
+      "question_id": "Q5c",
+      "page": 32,
+      "topics": [
+        "Quadratic Functions"
+      ],
+      "in_syllabus": true,
+      "confidence": 1.0,
+      "out_of_scope_reason": null
+    },
+    {
+      "question_id": "Q5e",
+      "page": 32,
+      "topics": [
+        "Differentiation"
+      ],
+      "in_syllabus": true,
+      "confidence": 1.0,
+      "out_of_scope_reason": null
+    },
+    {
+      "question_id": "Q6a",
+      "page": 34,
+      "topics": [
+        "Volume of solids",
+        "Surface area of solids"
+      ],
+      "in_syllabus": true,
+      "confidence": 1.0,
+      "out_of_scope_reason": null
+    },
+    {
+      "question_id": "Q6c",
+      "page": 34,
+      "topics": [
+        "Volume of solids",
+        "Surface area of solids"
+      ],
+      "in_syllabus": true,
+      "confidence": 1.0,
+      "out_of_scope_reason": null
+    },
+    {
+      "question_id": "Q7a",
+      "page": 36,
+      "topics": [
+        "Scale drawing",
+        "Measurement"
+      ],
+      "in_syllabus": true,
+      "confidence": 1.0,
+      "out_of_scope_reason": null
+    },
+    {
+      "question_id": "Q7c",
+      "page": 36,
+      "topics": [
+        "Scale drawing",
+        "Measurement"
+      ],
+      "in_syllabus": true,
+      "confidence": 1.0,
+      "out_of_scope_reason": null
+    },
+    {
+      "question_id": "Q8a",
+      "page": 38,
+      "topics": [
+        "Statistics",
+        "Cumulative frequency"
+      ],
+      "in_syllabus": true,
+      "confidence": 1.0,
+      "out_of_scope_reason": null
+    },
+    {
+      "question_id": "Q8c",
+      "page": 38,
+      "topics": [
+        "Statistics",
+        "Mean",
+        "Standard deviation"
+      ],
+      "in_syllabus": true,
+      "confidence": 1.0,
+      "out_of_scope_reason": null
+    },
+    {
+      "question_id": "Q8d",
+      "page": 38,
+      "topics": [
+        "Statistics",
+        "Comparative analysis"
+      ],
+      "in_syllabus": true,
+      "confidence": 1.0,
+      "out_of_scope_reason": null
+    },
+    {
+      "question_id": "Q8e",
+      "page": 38,
+      "topics": [
+        "Statistics",
+        "Comparative analysis"
+      ],
+      "in_syllabus": true,
+      "confidence": 1.0,
+      "out_of_scope_reason": null
+    },
+    {
+      "question_id": "Q9c",
+      "page": 40,
+      "topics": [
+        "Financial mathematics",
+        "Simple interest",
+        "Budgeting"
+      ],
+      "in_syllabus": true,
+      "confidence": 1.0,
       "out_of_scope_reason": null
     }
   ]
