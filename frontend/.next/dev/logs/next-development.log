@@ -176,3 +176,20 @@
        or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
        height and width.
 [02:24:42.182] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[03:38:38.482] Server  LOG     ✓ Compiled in 27ms
+[03:40:15.064] Server  LOG     ✓ Compiled in 16ms
+[03:48:24.655] Server  LOG     ✓ Compiled in 16ms
+[03:49:45.896] Server  LOG     ✓ Compiled in 25ms
+[03:51:10.959] Server  LOG     ✓ Compiled in 25ms
+[03:52:18.930] Server  LOG     ✓ Compiled in 23ms
+[03:53:45.351] Server  LOG     ✓ Compiled in 16ms
+[04:26:46.973] Server  LOG     ✓ Compiled in 18ms
+[04:30:25.628] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:33:32.912] Server  LOG     ✓ Compiled in 27ms
+[04:39:08.025] Server  LOG     ✓ Compiled in 25ms
+[04:40:36.331] Server  LOG     ✓ Compiled in 20ms
+[04:42:10.913] Server  LOG     ✓ Compiled in 20ms
+[04:42:45.382] Server  LOG     ✓ Compiled in 16ms
+[04:45:43.225] Server  LOG     ✓ Compiled in 25ms
+[04:46:51.028] Server  LOG     ✓ Compiled in 16ms
+[04:47:30.891] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
