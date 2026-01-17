@@ -1,0 +1,94 @@
+{
+  "syllabi_diff": [
+    {
+      "topic": "Subject identification",
+      "math_scope": "Chemistry (GCE O-Level syllabus 6092) — overall subject and assessment structure (papers 1–3, weightings, practical assessment).",
+      "status": "unchanged",
+      "change_summary": "The subject remains Chemistry (O-Level 6092). Assessment structure, paper types, durations and weightings are the same in 2025 and 2026. Only minor editorial/publisher metadata changed (© line)."
+    },
+    {
+      "topic": "Experimental Chemistry",
+      "math_scope": "Measurement and instrumentation: naming and using apparatus for time, temperature, mass, volume; experimental design variables; separation methods (filtration, crystallisation, distillation, chromatography) and interpretation of chromatograms (Rf).",
+      "status": "unchanged",
+      "change_summary": "Learning outcomes and practical techniques (including chromatography, Rf interpretation and apparatus expectations) are the same; no new quantitative methods introduced."
+    },
+    {
+      "topic": "Particulate Nature of Matter",
+      "math_scope": "Qualitative particle theory and atomic structure: states of matter, kinetic particle explanations, relative charges and masses of subatomic particles, nuclide notation, isotopes; qualitative dependence of diffusion on mass and temperature.",
+      "status": "unchanged",
+      "change_summary": "Content identical — same subtopics and depth (no addition of orbital quantum classifications)."
+    },
+    {
+      "topic": "Chemical Bonding and Structure",
+      "math_scope": "Descriptive bonding models: ionic, covalent (dot-and-cross), metallic bonding; deducing structures and relating to macroscopic properties, comparison of allotropes (diamond vs graphite), alloys and macromolecules.",
+      "status": "unchanged",
+      "change_summary": "Topic scope and required representations (dot-and-cross, no lattice diagrams required) remain the same; no additions or removals of subtopics."
+    },
+    {
+      "topic": "Chemical Calculations (Stoichiometry and Mole Concept)",
+      "math_scope": "Numerical chemistry: Ar, Mr, definition of mole (Avogadro constant), percentage mass, empirical and molecular formulae, reacting masses, gas volumes (one mole = 24 dm^3 at RTP), concentration (mol/dm^3 or g/dm^3), titration calculations, limiting reactant problems, % yield and % purity.",
+      "status": "unchanged",
+      "change_summary": "Technical scope unchanged — same formulas, constants and calculation types. No new quantitative laws or variable-temperature gas law calculations introduced."
+    },
+    {
+      "topic": "Acid-Base Chemistry",
+      "math_scope": "Ionic description of acids/alkalis (H+/OH-), pH conceptual scale and qualitative acidity/alkalinity comparisons (no pH calculations), strong vs weak acids qualitatively, neutralisation equations and solubility rules for salts.",
+      "status": "unchanged",
+      "change_summary": "Coverage and cognitive demand preserved; pH calculations remain excluded and only qualitative/ion-based descriptions required."
+    },
+    {
+      "topic": "Qualitative Analysis",
+      "math_scope": "Identification tests and inference: precipitation reactions with NaOH/NH3, anion tests (carbonate, chloride, iodide, nitrate, sulfate), gas tests (CO2, O2, H2, NH3, Cl2, SO2). Emphasis on observational interpretation rather than quantitative analysis.",
+      "status": "unchanged",
+      "change_summary": "Same list of tests and expected outcomes; procedural expectations and exclusions (e.g., some SO2 tests not required) unchanged."
+    },
+    {
+      "topic": "Redox Chemistry (Oxidation/Reduction)",
+      "math_scope": "Conceptual and symbolic redox: definitions via oxygen/hydrogen gain–loss and electron transfer; identifying redox by changes in oxidation state; simple test reactions (KI, acidified KMnO4).",
+      "status": "unchanged",
+      "change_summary": "No change in scope — redox defined both in classical and electron-transfer terms; same practical tests and cognitive level."
+    },
+    {
+      "topic": "Electrochemistry",
+      "math_scope": "Predictive and symbolic work: electrolysis of molten and aqueous electrolytes, selective discharge principles (cations/anions, concentration effects, reactivity series), construction of ionic electrode equations, electroplating, purification of copper, simple cells and fuel cell concept (qualitative).",
+      "status": "unchanged",
+      "change_summary": "Topic content unchanged; quantitative Faraday-law calculations and detailed fuel cell construction are explicitly excluded in both versions."
+    },
+    {
+      "topic": "Patterns in the Periodic Table",
+      "math_scope": "Qualitative patterns and predictions: arranging by proton number, relation to electronic configuration, valence/ionic charge for first 20 elements, group trends (Groups 1, 17, 18), transition element characteristics and reactivity series with experimental deduction.",
+      "status": "unchanged",
+      "change_summary": "Same conceptual and inferential demands — predicting properties from periodic position and deducing reactivity from experimental data remain unchanged."
+    },
+    {
+      "topic": "Chemical Energetics",
+      "math_scope": "Energy conceptualisation: definition of enthalpy change (exothermic/endothermic), energy profile diagrams (∆H, activation energy), qualitative bond-breaking/bond-making energetics and overall enthalpy analysis.",
+      "status": "unchanged",
+      "change_summary": "Scope and cognitive demand preserved — qualitative energy diagrams and explanations required; no quantitative thermochemistry (entropy, Hess's law calculations) added."
+    },
+    {
+      "topic": "Rate of Reactions",
+      "math_scope": "Qualitative kinetics: effect of concentration, pressure, particle size, temperature and catalysts explained by collision theory; activation energy pathway reasoning; experimental design and data interpretation for reaction-rate investigations.",
+      "status": "unchanged",
+      "change_summary": "No addition of rate equations or integrated rate-law mathematics; emphasis remains on conceptual collision-based explanations and practical data interpretation."
+    },
+    {
+      "topic": "Organic Chemistry (Fuels, Hydrocarbons, Alcohols, Acids, Esters, Polymers)",
+      "math_scope": "Structural representation and nomenclature (C1–C4), homologous series formulas (alkanes CnH2n+2, alkenes CnH2n), isomer identification, simple organic reactions (combustion, addition, oxidation, esterification), polymer structures and deduced monomer–polymer relationships, recycling/disposal issues (qualitative).",
+      "status": "unchanged",
+      "change_summary": "Same coverage of structural drawing, naming and reaction types; no new mechanistic or advanced organic calculations introduced."
+    },
+    {
+      "topic": "Maintaining Air Quality",
+      "math_scope": "Quantitative/qualitative atmospheric chemistry: composition of dry air (approx. % by volume), identification of pollutants and sources, pollutant mitigation reactions (e.g., catalytic converter redox, flue-gas desulfurisation), carbon cycle processes and greenhouse gas effects (qualitative impacts).",
+      "status": "unchanged",
+      "change_summary": "Same learning outcomes and level of quantitative detail (percent by volume, qualitative cycle descriptions); no novel modelling or quantitative climate calculations added."
+    },
+    {
+      "topic": "Mathematical Requirements (for Chemistry)",
+      "math_scope": "List of required math skills: arithmetic operations, fractions/percentages/ratios, standard notation, direct/inverse proportion, positive integer indices, graph drawing/interpretation, unit conversion, dimensional reasoning (length/area/volume), solving x = yz algebraically, inequality/approximation symbols, use of significant figures.",
+      "status": "unchanged",
+      "change_summary": "Mathematical competencies expected of candidates are unchanged; same explicit list of operations and graph skills."
+    }
+  ]
+}
