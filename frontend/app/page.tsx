@@ -28,7 +28,7 @@ export default function Home() {
             description="Upload old and new MOE syllabus PDFs to instantly identify what's been added, removed, or modified."
             ctaLabel="Compare Syllabi"
             href="/SyllabusChanges"
-            icon={<LinkIcon className="h-6 w-6 text-emerald-600" />}
+            icon={<ChangeIcon className="h-6 w-6 text-emerald-600" />}
           />
             <FeatureCard
               title="Practice Paper Alignment"
@@ -96,11 +96,17 @@ function SparklesIcon(props: IconProps) {
   );
 }
 
-function LinkIcon(props: IconProps) {
+function ChangeIcon(props: IconProps) {
   return (
     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" {...props}>
       <path
-        d="M7.5 15.5 6 17a4 4 0 0 0 5.66 5.66l2-2M16.5 8.5 18 7a4 4 0 0 0-5.66-5.66l-2 2M9.5 14.5l5-5"
+        d="M5 15h9.5l-2.75 2.75M19 9h-9.5l2.75-2.75"
+        strokeWidth="1.6"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+      />
+      <path
+        d="M12.25 17.75 14.5 15.5 12.25 13.25M11.75 6.25 9.5 8.5l2.25 2.25"
         strokeWidth="1.6"
         strokeLinecap="round"
         strokeLinejoin="round"

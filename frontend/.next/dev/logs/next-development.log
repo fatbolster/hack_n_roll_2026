@@ -771,3 +771,36 @@ Incoming: %s useEffect [false] [false, 0]
 [02:32:36.204] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
 [02:32:52.741] Server  LOG     ✓ Compiled in 16ms
 [02:33:09.499] Server  LOG     ✓ Compiled in 14ms
+[03:27:23.222] Server  LOG     ✓ Compiled in 17ms
+[03:27:23.331] Browser ERROR   ./app/SyllabusChanges/database.json
+Code generation for chunk item errored
+An error occurred while generating the chunk item [project]/app/SyllabusChanges/database.json (json)
+
+Caused by:
+- Unable to make a module from invalid JSON: expected value at line 1 column 1
+
+Debug info:
+- An error occurred while generating the chunk item [project]/app/SyllabusChanges/database.json (json)
+- Execution of <JsonChunkItem as EcmascriptChunkItem>::content failed
+- Unable to make a module from invalid JSON: expected value at line 1 column 1
+    at .
+         | v
+       1 + /* {
+         | ^
+       2 |   "success": true,
+       3 |   "old_file": "2025 Chemistry.pdf",
+       4 |   "new_file": "2026 Chemistry.pdf",
+       5 |   "report": {
+
+Import trace:
+  Client Component SSR:
+    ./app/SyllabusChanges/database.json
+    ./app/SyllabusChanges/modal.tsx [Client Component SSR]
+    ./app/SyllabusChanges/page.tsx [Client Component SSR]
+    ./app/SyllabusChanges/page.tsx [Server Component]
+[03:27:51.232] Server  LOG     ✓ Compiled in 13ms
+[03:33:01.577] Server  LOG     ✓ Compiled in 14ms
+[03:37:27.460] Server  LOG     ✓ Compiled in 14ms
+[03:44:27.159] Server  LOG     ✓ Compiled in 13ms
+[03:45:17.428] Server  LOG     ✓ Compiled in 13ms
+[03:45:26.201] Server  LOG     ✓ Compiled in 13ms
