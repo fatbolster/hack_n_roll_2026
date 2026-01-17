@@ -17,6 +17,7 @@ node_modules/
 # next.js
 /.next/
 /out/
+frontend/.next/dev/
 
 # production
 /build
@@ -42,3 +43,41 @@ yarn-error.log*
 next-env.d.ts
 
 backend/services/.env
+__pycache__/
+*.pyc
+<<<<<<< HEAD
+=======
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Environment
+.env
+.env.local
+.venv/
+venv/
+ENV/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build outputs
+.next/
+frontend/.next/
+out/
+>>>>>>> ca821947 (Edit gitignore)
+backend/uploads/
+backend/outputs/

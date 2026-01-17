@@ -40,6 +40,7 @@ export default function PaperAlignmentPage() {
               refreshToken={refreshToken}
             />
           </div>
+
         </main>
       </div>
     </div>

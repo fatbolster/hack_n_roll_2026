@@ -1,0 +1,26 @@
+# FastAPI Backend Dependencies
+
+# Core
+fastapi==0.115.0
+uvicorn[standard]==0.32.0
+python-multipart==0.0.12
+
+# PDF Processing
+PyMuPDF==1.24.13
+
+# AI
+openai==1.54.0
+httpx>=0.27.0
+
+# Async File I/O
+aiofiles==24.1.0
+
+# Data Validation
+pydantic==2.9.0
+pydantic-settings==2.5.0
+
+# CORS
+# (included with fastapi)
+
+# Optional: for development
+python-dotenv==1.0.1

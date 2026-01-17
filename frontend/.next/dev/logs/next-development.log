@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [00:00:00.822] Server  LOG     ✓ Ready in 606ms
 [00:00:01.069] Server  ERROR   ⨯ ReferenceError: CompareIcon is not defined
 [00:00:01.182] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
@@ -12,6 +13,17 @@
 [00:03:02.913] Server  LOG     ✓ Compiled in 217ms
 [00:03:03.001] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
 [00:03:42.010] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+=======
+[00:00:00.577] Server  LOG     ✓ Ready in 413ms
+[01:10:51.481] Server  LOG     ✓ Compiled in 8ms
+[01:16:30.226] Server  LOG     ✓ Compiled in 28ms
+[00:00:00.843] Server  LOG     ✓ Ready in 619ms
+[00:00:02.097] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:10:40.147] Server  LOG     ✓ Compiled in 26ms
+[00:11:32.200] Server  LOG     ✓ Compiled in 474ms
+[00:11:51.821] Server  LOG     ✓ Compiled in 25ms
+[00:12:11.889] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+>>>>>>> main
        please check the style of container, or the props width(100%) and height(100%),
        or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
        height and width.

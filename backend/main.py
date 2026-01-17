@@ -1,0 +1,229 @@
+from fastapi import FastAPI, UploadFile, File, HTTPException
+from fastapi.middleware.cors import CORSMiddleware
+from fastapi.responses import JSONResponse
+import os
+import json
+from pathlib import Path
+import fitz  # PyMuPDF
+from io import BytesIO
+
+from config.openai_client import call_openai_json
+from services.syllabusJsonCreator import generate_syllabus_json
+
+
+async def extract_text_from_pdf(file: UploadFile) -> str:
+    """
+    Extract text content from a PDF file using PyMuPDF.
+    
+    Args:
+        file: UploadFile object from FastAPI
+        
+    Returns:
+        str: Extracted text from all pages of the PDF
+    """
+    try:
+        # Read file content
+        content = await file.read()
+        
+        # Open PDF from bytes
+        pdf_document = fitz.open(stream=content, filetype="pdf")
+        
+        # Extract text from all pages
+        text = ""
+        for page_num in range(pdf_document.page_count):
+            page = pdf_document[page_num]
+            text += page.get_text()
+        
+        pdf_document.close()
+        
+        return text.strip()
+    
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Error extracting PDF text: {str(e)}")
+
+app = FastAPI(title="Syllabus Alignment API", version="1.0.0")
+
+# CORS middleware for Next.js frontend
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["http://localhost:3000"],  # Next.js dev server
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
+# Ensure directories exist
+UPLOAD_DIR = Path("uploads")
+OUTPUT_DIR = Path("outputs")
+UPLOAD_DIR.mkdir(exist_ok=True)
+OUTPUT_DIR.mkdir(exist_ok=True)
+
+
+@app.get("/")
+async def root():
+    """Health check endpoint"""
+    return {"status": "ok", "message": "Syllabus Alignment API is running"}
+
+
+@app.post("/api/upload-syllabus")
+async def upload_syllabus(file: UploadFile = File(...)):
+    """
+    Upload a single syllabus PDF.
+    Simple confirmation - actual processing happens in diff-syllabus.
+    """
+    try:
+        # Validate file type
+        if not file.filename.endswith('.pdf'):
+            raise HTTPException(status_code=400, detail="Only PDF files are allowed")
+        
+        return JSONResponse(content={
+            "success": True,
+            "filename": file.filename,
+            "message": "Syllabus uploaded successfully"
+        })
+    
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+
+@app.post("/api/diff-syllabus")
+async def diff_syllabus(
+    old_syllabus: UploadFile = File(...),
+    new_syllabus: UploadFile = File(...)
+):
+    """
+    Compare two syllabus PDFs (old vs new) using OpenAI.
+    Uses generate_syllabus_json from syllabusJsonCreator.py
+    Returns JSON with topic_name, status, description fields.
+    """
+    try:
+        # Validate file types
+        if not (old_syllabus.filename.endswith('.pdf') and new_syllabus.filename.endswith('.pdf')):
+            raise HTTPException(status_code=400, detail="Both files must be PDFs")
+        
+        # Extract text from PDFs (doc_old and doc_new)
+        doc_old = await extract_text_from_pdf(old_syllabus)
+        doc_new = await extract_text_from_pdf(new_syllabus)
+        
+        # Use generate_syllabus_json function from services
+        json_result = generate_syllabus_json(
+            doc_old=doc_old,
+            doc_new=doc_new,
+            old_filename=old_syllabus.filename,
+            new_filename=new_syllabus.filename
+        )
+        
+        # Debug: Print what we got back
+        print(f"🔍 DEBUG - OpenAI returned: {json_result[:500]}...")
+        
+        # Parse the JSON string result
+        diff_report = json.loads(json_result)
+        print(f"🔍 DEBUG - Parsed report keys: {diff_report.keys()}")
+        print(f"🔍 DEBUG - syllabi_diff content: {diff_report.get('syllabi_diff', 'NOT FOUND')}")
+        
+        return JSONResponse(content={
+            "success": True,
+            "old_file": old_syllabus.filename,
+            "new_file": new_syllabus.filename,
+            "report": diff_report
+        })
+    
+    except Exception as e:
+        import traceback
+        error_details = traceback.format_exc()
+        print(f"ERROR in diff_syllabus: {error_details}")
+        raise HTTPException(status_code=500, detail=str(e))
+
+
+@app.post("/api/upload-paper")
+async def upload_paper(file: UploadFile = File(...)):
+    """
+    Upload a practice paper PDF and save it to the uploads directory.
+    Returns confirmation with file path for later retrieval.
+    """
+    try:
+        # Validate file type
+        if not file.filename.endswith('.pdf'):
+            raise HTTPException(status_code=400, detail="Only PDF files are allowed")
+        
+        # Save file to uploads directory
+        file_path = UPLOAD_DIR / file.filename
+        content = await file.read()
+        
+        with open(file_path, "wb") as f:
+            f.write(content)
+        
+        return JSONResponse(content={
+            "success": True,
+            "filename": file.filename,
+            "file_path": str(file_path),
+            "message": "Paper uploaded and saved successfully."
+        })
+    
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+
+@app.post("/api/analyze-paper")
+async def analyze_paper(
+    paper: UploadFile = File(...),
+    syllabus: UploadFile = File(...)
+):
+    """
+    Analyze a practice paper against a syllabus using OpenAI.
+    Returns JSON with question_no, topic_name, status (aligned/out_of_syllabus/needs_review), prompt.
+    """
+    try:
+        # Validate file types
+        if not (paper.filename.endswith('.pdf') and syllabus.filename.endswith('.pdf')):
+            raise HTTPException(status_code=400, detail="Both files must be PDFs")
+        
+        # Extract text from PDFs
+        paper_content = await extract_text_from_pdf(paper)
+        syllabus_content = await extract_text_from_pdf(syllabus)
+        
+        # Call OpenAI directly to analyze
+        prompt = f"""
+        Analyze this practice paper against the syllabus and return a JSON array.
+        
+        For each question, return:
+        - question_no: string
+        - topic_name: string (mapped syllabus topic)
+        - status: string (aligned/out_of_syllabus/needs_review)
+        - prompt: string (explanation/evidence)
+        
+        PAPER ({paper.filename}):
+        {paper_content}
+        
+        SYLLABUS ({syllabus.filename}):
+        {syllabus_content}
+        
+        Return format:
+        {{
+            "questions": [
+                {{"question_no": "1", "topic_name": "Algebra", "status": "aligned", "prompt": "..."}}
+            ]
+        }}
+        """
+        
+        alignment_report = await call_openai_json(
+            prompt=prompt,
+            system_message="You are an expert at analyzing exam papers and syllabus alignment."
+        )
+        
+        return JSONResponse(content={
+            "success": True,
+            "paper_file": paper.filename,
+            "syllabus_file": syllabus.filename,
+            "report": alignment_report
+        })
+    
+    except HTTPException:
+        raise
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+
+if __name__ == "__main__":
+    import uvicorn
+    uvicorn.run(app, host="0.0.0.0", port=8000)
