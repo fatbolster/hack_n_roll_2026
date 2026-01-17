@@ -1,0 +1,8026 @@
+ 
+ 
+ 
+ 
+ 
+ 
+CANDIDATE  
+NAME 
+ 
+ 
+CLASS 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+INDEX  
+   
+ 
+ 
+    
+ 
+NUMBER 
+ 
+------------------------------------------------------------------------------------------------------------------------------------- 
+------------------------------------------------------------------------------------------------------------------------------------- 
+ 
+READ THESE INSTRUCTIONS FIRST 
+ 
+Write your name, class and register number on all the work you hand in. 
+Write in dark blue or black pen. 
+You may use an HB pencil for any diagrams or graphs. 
+Do not use staples, paper clips, glue or correction fluid/tape. 
+DO NOT WRITE ON ANY BARCODES. 
+ 
+Answer all questions. 
+The number of marks is given in brackets [  ] at the end of each question or part question. 
+ 
+If working is needed for any question, it must be shown with the answer. 
+Omission of essential working will result in loss of marks. 
+The total of the marks for this paper is 90. 
+ 
+The use of an approved scientific calculator is expected, where appropriate.  
+If the degree of accuracy is not specified in the question, and if the answer is not exact, give the 
+answer to three significant figures. Give answers in degrees to one decimal place. 
+For, use either your calculator value or 3.142. 
+ 
+This document consists of 24 printed pages. 
+ 
+MATHEMATICS   
+Paper 1 
+                                                                           
+                        4052/01 
+20 Aug 2024
+    2 hours 15 minutes 
+Candidates answer on the Question Paper. 
+No additional materials are required. 
+BENDEMEER SECONDARY SCHOOL 
+2024 PRELIMINARY EXAMINATION 
+SECONDARY 4 EXPRESS / 5 NORMAL (ACADEMIC) 
+ 
+FOR EXAMINER’S USE 
+90 
+2 
+ 
+4052/01 / Sec 4E5N / Preliminary Examination / BDMS 2024 
+MATHEMATICAL FORMULAE 
+Compound Interest 
+Total amount = P
+n
+r 
+
+
+
+
++ 100
+1
+ 
+Mensuration 
+Curved surface area of cone = rl
+
+ 
+Surface area of a sphere = 4r2 
+Volume of a cone = 
+h
+r 2
+3
+1
+ 
+Volume of sphere = 
+3
+3
+4 r
+
+ 
+Area of triangle ABC = 
+C
+absin
+2
+1
+ 
+Arc length = 
+radians
+in 
+ 
+is
+ 
+ 
+ where
+,
+
+
+r
+ 
+Sector area = 
+radians
+in 
+ 
+is
+ 
+ 
+ where
+,
+2
+1
+2
+
+
+r
+ 
+ 
+Trigonometry 
+C
+c
+B
+b
+A
+a
+sin
+sin
+sin
+=
+=
+ 
+A
+bc
+c
+b
+a
+cos
+2
+2
+2
+2
+−
++
+=
+ 
+ 
+Statistics 
+Mean = 
+
+f
+fx
+ 
+Standard Deviation = 
+
+
+
+
+
+
+
+−
+
+
+
+2
+2
+f
+fx
+f
+fx
+ 
+ 
+3 
+ 
+        4052/01 / Sec 4E5N / Preliminary Examination / BDMS 2024                 [TURN OVER                
+ 
+Answer all the questions. 
+ 
+1 
+ 
+Factorise each of the following completely. 
+ 
+(a) 
+  4𝑎2 −𝑏2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  
+...........................................  
+[1] 
+ 
+ 
+  
+ 
+ 
+ 
+(b)   5𝑥−1 + 10𝑥2𝑦−2𝑥𝑦 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  
+...........................................  
+[2] 
+4 
+ 
+4052/01 / Sec 4E5N / Preliminary Examination / BDMS 2024 
+2 
+(a) 
+Simplify (2𝑥3𝑦)3. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  
+........................................... 
+[1] 
+ 
+ 
+  
+ 
+ 
+ 
+(b) Use the laws of indices to solve the following equation for x. Show your working 
+clearly. 
+22 × 53 +
+1
+125𝑥= 54. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  
+x =.....................................  [2] 
+5 
+ 
+        4052/01 / Sec 4E5N / Preliminary Examination / BDMS 2024                 [TURN OVER                
+ 
+3 
+(a) 
+Express 1176 as a product of its prime factors. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    Answer  
+........................................... 
+  [1] 
+ 
+ 
+  
+ 
+ 
+ 
+(b) The number 1176k is a perfect cube.  
+Find the smallest positive integer value of k. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  
+k = .....................................  [1] 
+ 
+ 
+(c) 
+The highest common factor of two distinct integers, n and 1176, is 28.  
+Given that 500 < n < 1000, find the smallest possible value of n. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  
+n = .....................................  [1] 
+6 
+ 
+4052/01 / Sec 4E5N / Preliminary Examination / BDMS 2024 
+4 
+ 
+The volume of a right pyramid is 4.8 × 10−8 m3 and its length of the square base is 
+1.5 × 10−3m. Giving your answer in standard form, find its height.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  
+........................................ m 
+   [2] 
+ 
+ 
+  
+ 
+ 
+5 
+ 
+Benjamin invested $8000 at a rate of 3.3% per annum compounded monthly. 
+What is the value of his investment at the end of 6 months?  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  
+$ .......................................... 
+[2] 
+ 
+7 
+ 
+        4052/01 / Sec 4E5N / Preliminary Examination / BDMS 2024                 [TURN OVER                
+ 
+6 
+(a) 
+In the Venn diagram below, shade the region   
+'
+P
+Q
+
+. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+       [1] 
+ 
+ 
+  
+ 
+ 
+ 
+(b)  A universal set  and its subset A and B are given by  
+=
+
+{x: x is an integer and 0 < x < 12}, 
+A = {x: x is a factor of 24}, 
+B = {x: 2𝑥−7 ≥5}. 
+ 
+(i) Write all the elements of  in the Venn diagram below.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+   [2] 
+ 
+(ii) 
+Another number is included in the universal set . 
+This number is in the region A
+B
+
+. 
+Write down a possible value of this number. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  
+…..........................................    [1] 
+P 
+Q 
+  
+A 
+B 
+  
+8 
+ 
+4052/01 / Sec 4E5N / Preliminary Examination / BDMS 2024 
+ 
+7 
+ 
+ 
+(a) 
+The expression  2𝑥2 + 8𝑥+ 9  is equivalent to 2(𝑥+ 𝑎)2 + 𝑏. 
+Find the value of a and the value of b.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  
+a = ...................................... 
+    [1] 
+ 
+ 
+ 
+  
+b = ...................................... 
+    [1] 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+(b) Sketch the curve  𝑦=  2𝑥2 + 8𝑥+ 9  on the given axes below, clearly showing 
+the y-intercept and the turning point. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2] 
+y 
+x 
+0 
+9 
+ 
+        4052/01 / Sec 4E5N / Preliminary Examination / BDMS 2024                 [TURN OVER                
+ 
+ 
+8 
+ 
+ 
+ 
+(a) 
+Given that the formula of  y is inversely proportional to the square of (𝑥+ 2) and the value 
+of  y = 
+1
+3  when  x = 7. 
+Express y in terms of x.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  
+y = ......................................    [2] 
+ 
+ 
+  
+ 
+ 
+ 
+(b) Hence, or otherwise, make x the subject of the formula. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  
+x = ......................................    [2] 
+ 
+10 
+ 
+4052/01 / Sec 4E5N / Preliminary Examination / BDMS 2024 
+9 
+ 
+Explain why (2𝑛+ 3)2 −(4𝑛+ 3)(𝑛−6) is a multiple of 3 for all integer values of n.  
+Answer 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+........................................................................................................................................ 
+ 
+........................................................................................................................................ 
+ 
+ 
+  
+ 
+       [2] 
+ 
+10 
+ 
+Simplify  
+2𝑥+3
+𝑥2+3𝑥+2 −
+5
+𝑥+1  as a single fraction. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  
+..............................................
+. 
+   [3] 
+11 
+ 
+        4052/01 / Sec 4E5N / Preliminary Examination / BDMS 2024                 [TURN OVER                
+ 
+ 
+11 
+ 
+(a) Solve the inequality 𝑥−7 ≤
+3𝑥−5
+2
+< 8  . 
+ 
+ 
+Represent your solution on the number line below. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer    
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+(b) Hence, write down the largest prime number that satisfy the inequality 
+ 𝑥−7 ≤
+3𝑥−5
+2
+< 8. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  
+x = ...................................... 
+   [1] 
+ 
+ –10        –8        –6         –4         –2         0          2           4          6           8 
+[3] 
+12 
+ 
+4052/01 / Sec 4E5N / Preliminary Examination / BDMS 2024 
+12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) 
+ 
+In the diagram below, ADB is a right-angled triangle with angle 
+90
+ADB =
+and  
+ACD is a triangle with AD = 8 cm and angle 
+30
+DCA =
+. 
+B is a point on AC such that AB = 10 cm and DB = 6 cm. 
+ 
+ 
+ 
+ 
+ 
+Write down, as a fraction in its simplest form, the value of  𝑠𝑖𝑛∠𝐷𝐵𝐶. 
+ 
+ 
+ 
+Answer  
+............................................ 
+   [1] 
+ 
+(b) Hence, calculate the length of DC.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  
+...................................... cm 
+   [2] 
+ 
+ 
+  
+ 
+ 
+13 
+ 
+Dorothy wants to make a bracelet using gemstones. Every gemstone is a regular 
+pentagon of the same size. 
+  
+ 
+ 
+How many gemstones does she need to make a bracelet  
+assuming that there is no gap between each gemstone? 
+ 
+ 
+ 
+                                       
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  
+........................................... 
+   [3] 
+B 
+30o 
+A 
+C 
+D 
+8 cm 
+6 cm 
+10 cm 
+13 
+ 
+        4052/01 / Sec 4E5N / Preliminary Examination / BDMS 2024                 [TURN OVER                
+ 
+14 
+ 
+ 
+ 
+ 
+(a) 
+Each term in the following sequence is found by multiplying the same constant to the 
+previous term. 
+ 
+                      p,          12, 
+  q, 
+    48,        r,     … 
+ 
+Write down two possible values of  q. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  
+q = ................ or ..................    [2] 
+ 
+ 
+ 
+ 
+ 
+(b) Write down the value of  r
+p
+. 
+ 
+ 
+ 
+ 
+Answer  
+………................................. 
+   [1] 
+ 
+ 
+ 
+ 
+(c) 
+Write down the nth term of the sequence. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  
+………................................. 
+   [1] 
+ 
+ 
+  
+ 
+ 
+ 
+(d) Explain why 400 is not a term in this sequence. 
+ 
+......................................................................................................................................... 
+ 
+.........................................................................................................................................      
+ 
+........................................................................................................................................    [1] 
+ 
+ 
+ 
+14 
+ 
+4052/01 / Sec 4E5N / Preliminary Examination / BDMS 2024 
+15 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A bag initially contains 6 blue balls, x green balls and y red balls. The probability of drawing a 
+green ball is 1
+4 . If 4 blue balls are added into the bag and 1 red ball is removed from the bag, 
+the possibility of drawing a green ball from the bag is 2
+9 .  
+Find the value of x. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  
+x = ......................................    [4] 
+ 
+ 
+ 
+ 
+ 
+15 
+ 
+        4052/01 / Sec 4E5N / Preliminary Examination / BDMS 2024                 [TURN OVER                
+ 
+16 
+(a) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Construct triangle ABC where AB = 10 cm, BC = 7 cm and angle ABC = 60°. 
+AB has already been drawn.                                                                                             [1] 
+Answer (a), (b), (c) and (d) 
+ 
+ 
+ 
+ 
+ 
+(b) Construct the perpendicular bisector of AB.                                                                    [1] 
+ 
+ 
+ 
+ 
+(c) Construct the bisector of angle BAC.                                                                               [1] 
+ 
+ 
+ 
+ 
+(d) Mark clearly a possible point which is inside the triangle, equidistant from the  
+lines AB and AC, and is nearer to point A than point B. 
+Label this point P.                                                                                                            [1] 
+A 
+B 
+16 
+ 
+4052/01 / Sec 4E5N / Preliminary Examination / BDMS 2024 
+17 
+ 
+ 
+ 
+ 
+The cumulative frequency graph shows the distribution of the marks of 200 students for a 
+Biology test 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) Use the curve to estimate 
+ 
+ 
+ 
+(i) 
+the median mark for the test,  
+ 
+ 
+ 
+ 
+ 
+Answer  
+............................................ 
+   [1] 
+ 
+ 
+ 
+(ii) the interquartile range for the test,  
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  
+............................................ 
+   [1] 
+ 
+ 
+ 
+(iii) the percentage of the students scored more than 70 marks for the test. 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  
+........................................ % 
+   [2] 
+ 
+50 
+100 
+150 
+200 
+0 
+10 
+0 
+20 
+30 
+40 
+50 
+60 
+70 
+80 
+90 
+100 
+Marks 
+Cumulative 
+frequency 
+17 
+ 
+        4052/01 / Sec 4E5N / Preliminary Examination / BDMS 2024                 [TURN OVER                
+ 
+ 
+(b) The box-and-whisker plot represents the distribution of marks of the same 200 
+students for a Chemistry test. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        Make two comparisons between the marks for the two tests. 
+        Use figures to support your answers. 
+ 
+1. .................................................................................................................................... 
+ 
+      .......................................................................................................................................... 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     .......................................................................................................................................... 
+[1] 
+ 
+ 
+  
+ 
+   
+2. ....................................................................................................................................     
+ 
+ 
+...........................................................................................................................................     
+ 
+              ..........................................................................................................................................    [1] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10 
+0 
+20 
+30 
+40 
+50 
+60 
+70 
+80 
+90 
+100 
+Marks 
+18 
+ 
+4052/01 / Sec 4E5N / Preliminary Examination / BDMS 2024 
+18 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) 
+The volumes of two geometrically similar troughs X and Y are 4050 cm3 and 1200 cm3 
+respectively.  
+Trough X has a height of 75 cm and base area of 162 cm2. 
+ 
+ 
+ 
+ 
+Find 
+the height of trough Y, 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  
+...................................... cm 
+    [2] 
+ 
+ 
+(b) the area of the base of trough Y. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  
+..................................... cm2 
+    [2] 
+trough X 
+75 cm 
+trough Y 
+19 
+ 
+        4052/01 / Sec 4E5N / Preliminary Examination / BDMS 2024                 [TURN OVER                
+ 
+19 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) 
+The diagram shows a square PQRS of side 4 cm. Two quadrants are drawn with P and Q as 
+their centres respectively. The two quadrants intersect at point X. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Catherine said the triangle PXQ is an equilateral triangle. 
+State whether you agree or disagree with Catherine and explain your decision. 
+ 
+I ..........................., because ............................................................................................     
+ 
+.........................................................................................................................................      
+ 
+........................................................................................................................................    [1] 
+ 
+ 
+(b) Find the area of the shaded region SXR. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  
+..................................... cm2 
+    [3] 
+20 
+ 
+4052/01 / Sec 4E5N / Preliminary Examination / BDMS 2024 
+ 
+20 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) 
+The diagram shows the points A and B where 𝐴𝐵
+⃗⃗⃗⃗⃗ = (−2
+−6). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Given that 𝐵𝐶
+⃗⃗⃗⃗⃗ = (−3
+1 ), mark and label the point C on the diagram.                              [1] 
+ 
+ 
+ 
+ 
+(b) D is the point such that |𝐵𝐶
+⃗⃗⃗⃗⃗ | = |𝐶𝐷
+⃗⃗⃗⃗⃗ | and ABCD is a kite. Express 𝐶𝐷
+⃗⃗⃗⃗⃗  as a vector. 
+ 
+ 
+ 
+ 
+Answer  
+............................................ 
+    [1] 
+ 
+ 
+ 
+(c) 
+Find  |𝐴𝐶
+⃗⃗⃗⃗⃗ |. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  
+................................... units 
+    [2] 
+A 
+B 
+21 
+ 
+        4052/01 / Sec 4E5N / Preliminary Examination / BDMS 2024                 [TURN OVER                
+ 
+21 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) 
+The graph shows the speed-time graph of a car during a period of 60 seconds. 
+The distance travelled in the first 20 seconds is 250 m. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Show that the maximum speed v is 15 m/s. 
+Answer 
+ 
+ 
+ 
+ 
+                                                                                                                                            [1] 
+ 
+ 
+(b) Calculate the deceleration during the motion. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  
+.................................... m/s2 
+      [1] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(c) 
+Calculate the average speed during the 60 seconds. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  
+..................................... m/s 
+      [2] 
+22 
+ 
+4052/01 / Sec 4E5N / Preliminary Examination / BDMS 2024 
+22 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) 
+In the figure below, O is the origin, A is the point (9, 3), B is the point (6, 0) and D is 
+the point (0, 12). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+C is another point on the x-axis such that AB = AC. 
+ 
+Find the coordinates of C. 
+ 
+ 
+ 
+ 
+Answer  
+C (.............. , .............) 
+[1] 
+ 
+ 
+(b) Find the equation of line AB. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  
+............................................ 
+    [2] 
+ 
+ 
+(c) 
+Find the shortest distance from O to the straight line CD. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  
+................................... units 
+    [2] 
+23 
+ 
+        4052/01 / Sec 4E5N / Preliminary Examination / BDMS 2024                 [TURN OVER                
+ 
+23 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) 
+In the diagram, ABC, CDE and AFE are straight lines. BD is parallel to AE.  
+BD = 15 cm, CD = 12 cm, DE = 8 cm and EF = 10 cm. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Show that triangles CDB and DEF are similar. 
+Give a reason for each statement you make. 
+ 
+.........................................................................................................................................     
+ 
+.........................................................................................................................................      
+ 
+........................................................................................................................................    [2] 
+ 
+ 
+ 
+(b) Find the ratio of area of triangle CDB : area of triangle DEF. 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  
+.................... : ..................... 
+     [1] 
+ 
+ 
+ 
+ 
+(c) 
+Show that ABDF is a parallelogram. 
+ 
+.........................................................................................................................................     
+ 
+.........................................................................................................................................      
+ 
+........................................................................................................................................    [2] 
+ 
+ 
+ 
+ 
+A 
+B 
+C 
+D 
+E 
+F 
+ 
+12 cm 
+8 cm 
+15 cm 
+10 cm 
+24 
+ 
+4052/01 / Sec 4E5N / Preliminary Examination / BDMS 2024 
+24 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The diagram shows a closed L-shaped rectangular structure with dimensions stated. 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                                         
+ 
+ 
+(a) 
+Calculate the volume of the L-shaped rectangular structure. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  
+.................................... mm3       [2] 
+ 
+ 
+  
+ 
+ 
+ 
+(b) Edison wants to put a thin and long metal rod inside the structure.  
+What is the longest length of the metal rod that Edison can put in? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  
+..................................... mm 
+      [3] 
+End of Paper 
+Metal 
+Rod 
+This document consists of 22 printed pages. 
+[Turn over 
+ 
+ 
+ 
+ 
+ 
+ 
+CANDIDATE  
+NAME 
+ 
+ 
+  CLASS  
+ 
+ 
+ 
+     
+ 
+ 
+ 
+                     INDEX  
+   
+ 
+ 
+                                NUMBER 
+ 
+------------------------------------------------------------------------------------------------------------------------------------- 
+ 
+------------------------------------------------------------------------------------------------------------------------------------- 
+READ THESE INSTRUCTIONS FIRST 
+ 
+Write your name, class and register number on all the work you hand in. 
+Write in dark blue or black pen. 
+You may use an HB pencil for any diagrams or graphs. 
+Do not use staples, paper clips, highlighters, glue or correction fluid. 
+DO NOT WRITE ON ANY BARCODES. 
+ 
+Answer all the questions. 
+The number of marks is given in brackets [ 
+] at the end of each question or part question. 
+ 
+If working is needed for any question, it must be shown with the answer. 
+Omission of essential working will result in loss of marks. 
+The total number of marks for this paper is 90. 
+ 
+The use of an approved scientific calculator is expected, where appropriate.  
+If the degree of accuracy is not specified in the question, and if the answer is not exact, give the 
+answer to three significant figures. Give answers in degrees to one decimal place. 
+For, use either your calculator value or 3.142. 
+ 
+ 
+ 
+                                                                                         
+ 
+FOR EXAMINER’S USE 
+ 
+ 
+ 
+MATHEMATICS  
+Paper 2 
+4052/02 
+21 August 2024 
+ 
+      2 hours 15 minutes
+Candidates answer on the Question Paper.  
+No additional materials are required.   
+    
+BENDEMEER SECONDARY SCHOOL 
+2024 PRELIMINARY EXAMINATION 
+             SECONDARY 4 EXPRESS / 5 NORMAL (ACADEMIC) 
+90 
+2 
+ 
+4052/02 / Sec 4E5N / Preliminary Examination / BDMS 2024  
+ 
+ 
+MATHEMATICAL FORMULAE 
+ 
+Compound Interest 
+ 
+Total amount = P
+n
+r 
+
+
+
+
++ 100
+1
+ 
+ 
+Mensuration 
+ 
+Curved surface area of cone = rl
+
+ 
+ 
+Surface area of a sphere = 4r2 
+ 
+Volume of a cone = 
+h
+r 2
+3
+1
+ 
+ 
+Volume of sphere = 
+3
+3
+4 r
+
+ 
+ 
+Area of triangle ABC = 
+C
+absin
+2
+1
+ 
+ 
+Arc length = 
+radians
+in 
+ 
+is
+ 
+ 
+ where
+,
+
+
+r
+ 
+ 
+Sector area = 
+radians
+in 
+ 
+is
+ 
+ 
+ where
+,
+2
+1
+2
+
+
+r
+ 
+ 
+Trigonometry 
+ 
+C
+c
+B
+b
+A
+a
+sin
+sin
+sin
+=
+=
+ 
+ 
+A
+bc
+c
+b
+a
+cos
+2
+2
+2
+2
+−
++
+=
+ 
+ 
+Statistics 
+Mean = 
+
+f
+fx
+ 
+ 
+Standard Deviation = 
+
+
+
+
+
+
+
+−
+
+
+
+2
+2
+f
+fx
+f
+fx
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+ 
+4052/02 / Sec 4E5N / Preliminary Examination / BDMS 2024  
+[Turn Over 
+ 
+1 
+(a) 
+Simplify  (
+3𝑎−3
+2𝑏2
+4
+1
+2𝑏3 )
+−2
+ and leave your answer in positive index notation. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer (a) __________________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[3] 
+ 
+(b) 
+Simplify    
+(𝑎−5𝑏)2
+𝑎2−25𝑏2 ÷
+𝑎−5𝑏
+5𝑏 . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer (b) __________________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2] 
+4 
+ 
+4052/02 / Sec 4E5N / Preliminary Examination / BDMS 2024  
+2 
+The diagram below shows a Tchoukball court of dimension 27m by 16m. On each end is a 
+semicircle of radius 3m. The shaded part is to be painted yellow.        
+ 
+                 
+ 
+                                                                    
+ 
+ 
+(a) 
+Find the area of the court that is painted yellow. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer (a) _______________m2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2] 
+5 
+ 
+4052/02 / Sec 4E5N / Preliminary Examination / BDMS 2024  
+[Turn Over 
+ 
+(b) 3 workers can paint the court in 5 days. After painting the first day, the workers had to 
+stop on the second and third day because it was raining. 
+Teachers, Mr Chin and Mr Lee, decided to help with the painting on the fourth and fifth 
+day. 
+Assuming the 3 workers and 2 teachers paint at the same rate, can they finish painting the 
+shaded area on the fifth day? 
+Show your working clearly.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[3] 
+6 
+ 
+4052/02 / Sec 4E5N / Preliminary Examination / BDMS 2024  
+3 
+(a) 
+In the diagram, ∠𝐴𝐵𝐷=  ∠𝐶𝐵𝐷 and ∠𝐵𝐴𝐷= ∠𝐵𝐶𝐷.  
+Prove that ∆𝐴𝐵𝐷 and ∆𝐶𝐵𝐷 are congruent.   
+  
+                                                                                
+                
+ 
+                             
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[3] 
+7 
+ 
+4052/02 / Sec 4E5N / Preliminary Examination / BDMS 2024  
+[Turn Over 
+ 
+(b) In the diagram below, O is the centre of the circle and BDG is a straight line. PQ is a 
+tangent to the circles at A and H respectively. ∠𝐴𝐵𝐷= 270 and ∠𝐷𝐸𝐹= 1530.         
+                  
+ 
+Stating the angle properties of circles clearly, find  
+ 
+(i) 
+∠𝐴𝐶𝐷 
+ 
+ 
+ 
+Answer (i) _______________0 
+ 
+(ii) 
+∠𝐷𝐴𝐻 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer (ii) _______________0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[1] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2] 
+ 
+ 
+(iii) 
+Is BA parallel to FG? Justify your answer clearly with working. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[3] 
+8 
+ 
+4052/02 / Sec 4E5N / Preliminary Examination / BDMS 2024  
+4 
+Starkids Centre is organising a talent competition for children. Children can choose to compete 
+in 3 categories – singing, dancing and acting. 
+ 
+Matrix E shows the number of boys and girls in each category for the age group 5 to 8 years 
+old. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Matrix F shows the number of boys and girls in each category for the age group 9 to 12 years 
+old. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) 
+Evaluate the matrix T = E + F.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer (a) T =_________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[1] 
+ 
+(b) Each child is charged a registration fee for the competition. The registration is $30 for 
+singing, $25 for dancing and $22 for acting.  
+Represent the fees in a 1 x 3 matrix C. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer (b) C =_________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[1] 
+𝐄= (
+5
+8
+7
+4
+6
+7
+) 
+Boys Girls 
+Singing 
+Dancing 
+Acting 
+𝐅= (
+12
+9
+8
+10
+15
+11
+) 
+Boys Girls 
+Singing 
+Dancing 
+Acting 
+9 
+ 
+4052/02 / Sec 4E5N / Preliminary Examination / BDMS 2024  
+[Turn Over 
+ 
+(c) 
+Evaluate the matrix M = CT and state what the elements in matrix M represent. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer (c) M =_________________ 
+ 
+________________________________________________________________________ 
+ 
+________________________________________________________________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2] 
+ 
+ 
+ 
+[1] 
+ 
+(d) Using matrix multiplication, calculate the total amount of registration fees collected for 
+this competition.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer (d) $_________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2] 
+ 
+(e) 
+Starkids Centre decides to organise a similar competition for teenagers aged 13 to 18 years 
+old. As compared to the competition for children aged 5 to 8 years old, the registration 
+fees for teenagers is increased by 10% for singing, 20% for dancing and 15% for acting. 
+ 
+Using matrix multiplication, calculate the registration fees for teenagers for each category. 
+Give your answer in matrix form.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer (e) _________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2] 
+10 
+ 
+4052/02 / Sec 4E5N / Preliminary Examination / BDMS 2024  
+5 
+In the diagram, M is the midpoint of OA.  
+𝑂𝐴
+⃗⃗⃗⃗⃗ = 𝐚, 𝑂𝐵
+⃗⃗⃗⃗⃗ = 𝐛, 𝐴𝑃
+⃗⃗⃗⃗⃗ = −
+1
+2 𝐚+
+5
+6 𝐛  and BN : NA = 3 : 5.      
+ 
+ 
+(a) 
+Express, as simply as possible, in terms of a and/or b,  
+(i) 
+𝐵𝑁
+⃗⃗⃗⃗⃗⃗  
+(ii) 
+𝐵𝑀
+⃗⃗⃗⃗⃗⃗  
+(iii) 
+𝑁𝑀
+⃗⃗⃗⃗⃗⃗⃗  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer (a) (i) ____________________ 
+ 
+(ii) ____________________ 
+ 
+(iii) ____________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[1] 
+ 
+[1] 
+ 
+[2] 
+11 
+ 
+4052/02 / Sec 4E5N / Preliminary Examination / BDMS 2024  
+[Turn Over 
+ 
+(b) Find   
+Area of ∆𝑂𝐵𝑀
+Area of ∆𝑂𝐵𝐴 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer (b) _________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[1] 
+ 
+(c) 
+If ONAC is a parallelogram, find 𝐶𝐴
+⃗⃗⃗⃗⃗  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer (c) _________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2] 
+ 
+ 
+(d) Given that 
+𝑂𝑃
+𝑂𝑁= 𝑘, find the value of k. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer (d) k = _________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[3] 
+12 
+ 
+4052/02 / Sec 4E5N / Preliminary Examination / BDMS 2024  
+6 
+The diagram represents the cross-section of a tunnel where AC is on level ground and B is the       
+highest point of the tunnel. The height of the tunnel is 6m and AC = 5m.                                            
+                                                                                                
+ 
+ 
+(a) 
+Show that radius of the tunnel, r = 3.5m, corrected to 2 significant figures. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2] 
+ 
+(b) During a flood, water in the tunnel rose up to EF, 0.3m above ground level.  
+ 
+ 
+ 
+(i) 
+Find ∠𝐸𝑂𝐹. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer (b) (i) _________________ radian 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2] 
+ 
+13 
+ 
+4052/02 / Sec 4E5N / Preliminary Examination / BDMS 2024  
+[Turn Over 
+ 
+ 
+ 
+(ii) 
+Find the length of the major arc EBF. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer (ii) _________________m 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2] 
+ 
+ 
+(iii) 
+Find the cross-section area of the tunnel which is dry. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer (iii) _________________m2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[3] 
+ 
+ 
+(iv) 
+Given that the length of the tunnel is 1.4km, find the volume of the tunnel which is 
+dry.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer (iv) _________________m3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2] 
+14 
+ 
+4052/02 / Sec 4E5N / Preliminary Examination / BDMS 2024  
+ 
+7 
+The diagram shows a park ABCD on horizontal ground. DB represents a pebbled path. 
+AB = 180m, BC = 220m, CD = 310m and DA = 150m. 
+∠𝐷𝐴𝐵= 1350 and ∠𝐷𝐵𝐶= 760. 
+ 
+ 
+(a) 
+Find the distance of the pebbled path DB. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer (a) ______________m 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2] 
+ 
+(b) Find ∠𝐵𝐷𝐶. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer (b) _______________0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2] 
+15 
+ 
+4052/02 / Sec 4E5N / Preliminary Examination / BDMS 2024  
+[Turn Over 
+ 
+ 
+(c) 
+Find the shortest distance from A to DB. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer (c) ______________m 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[3] 
+ 
+(d)  A lamp post, 12m, is erected vertically at A. Find the greatest angle of elevation of the top 
+of the lamp post from DB.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer (d) _______________0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2] 
+ 
+(e) 
+Given that B is due east of D, find the bearing of D from C.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer (e) _______________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2] 
+16 
+ 
+4052/02 / Sec 4E5N / Preliminary Examination / BDMS 2024  
+ 
+8 
+In July, the price of durians was $x per kg.  
+In August, the price of durians dropped by $4.50 per kg.  
+Don could buy 2.8 kg more durians in August than in July with $200. 
+ 
+ 
+ 
+(a) 
+Write down an expression, in terms of x, to show the mass of durians that can be bought 
+for $200 in July. 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer (a) ____________________kg 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[1] 
+ 
+(b) Write down an expression, in terms of x, to show the mass of durians that can be bought 
+for $200 in August. 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer (b) ____________________kg 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[1] 
+ 
+(c) 
+Form an equation in terms of x and show that it reduces to  14𝑥2 −63𝑥−4500 = 0. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[3] 
+17 
+ 
+4052/02 / Sec 4E5N / Preliminary Examination / BDMS 2024  
+[Turn Over 
+ 
+ 
+(d) Solve the equation  14𝑥2 −63𝑥−4500 = 0. Give your answers corrected to 2 decimal 
+places. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer (d) x = ___________or____________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[3] 
+ 
+ 
+(e) 
+Find the price of the durians per kg in August. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer (e) $____________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[1] 
+ 
+ 
+(f) 
+Find the percentage drop in price in August compared to July. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer (f) ____________________% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[1] 
+18 
+ 
+4052/02 / Sec 4E5N / Preliminary Examination / BDMS 2024  
+ 
+9 
+The variables x and y are connected by the equation  𝑦=
+1
+2 𝑥3 +
+1
+5𝑥. 
+ 
+Some corresponding values of x and y, correct to 1 decimal place, are given in the table below. 
+x 
+−3 
+−2 
+−1 
+−0.5 
+−0.1 
+0.1 
+0.5 
+1 
+2 
+3 
+y 
+−13.6 
+𝑝 
+−0.7 
+−0.5 
+−2.0 
+2.0 
+0.5 
+0.7 
+4.1 
+13.6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) 
+Calculate the value of p. 
+ 
+ 
+Answer (a) p = _________________ 
+ 
+ 
+ 
+ 
+[1] 
+ 
+ 
+(b) On the axes given on Page 19, draw the graph of  𝑦=
+1
+2 𝑥3 +
+1
+5𝑥. 
+ 
+ 
+ 
+[2] 
+ 
+(c) 
+Using your graph, find the y when  𝑥= −2.4. 
+ 
+ 
+Answer (c) y = _________________ 
+ 
+ 
+ 
+ 
+[1] 
+ 
+(d) By drawing a tangent, find the gradient of the curve at x = 2. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer (d) ____________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2] 
+ 
+ 
+(e) 
+By drawing a suitable straight line, find the solution of   
+1
+2 𝑥3 +
+1
+5𝑥+ 2.5𝑥+ 5 = 0. 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer (e) x = _________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2] 
+ 
+(f) 
+Explain why the curve does not touch the y-axis. 
+ 
+ 
+Answer (f) _______________________________________________________________ 
+ 
+________________________________________________________________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[1] 
+19 
+ 
+4052/02 / Sec 4E5N / Preliminary Examination / BDMS 2024  
+[Turn Over 
+ 
+0 
+Answer (9b) 
+20 
+ 
+4052/02 / Sec 4E5N / Preliminary Examination / BDMS 2024  
+ 
+10 
+The tables below show the start-up kits for two food delivery companies, Get Food and Food 
+Pack.  
+ 
+Get Food 
+Includes 
+Cost 
+Motorcycle/Car/Bicycle Basic Starter Pack 
+1 x Backpack 
+1 x Halal Bag 
+2 x Long Sleeve T-Shirt 
+$72 
+Motorcycle/Car/Bicycle Upsized Pack 
+1 x Basic Starter Pack 
+1 x Sling Bag 
+$105 
+Walker Starter Pack 
+1 x Sling Bag 
+1 x Halal Bag 
+2 x Long Sleeve T-Shirt 
+$60 
+ 
+ 
+Food Pack 
+Includes 
+Cost 
+Bicycles Starter Pack 
+ 
+ 
+Reflective jacket 
+Long sleeve base 
+Phone mount (optional) 
+Helmet (optional) 
+Insulated backpack 
+$50 
+Scooters / Motorcycles Starter Pack 
+Reflective jacket 
+Long sleeve base 
+Phone mount (optional) 
+Small thermal bag 
+Insulated backpack 
+$50 
+Walkers Starter Pack 
+Reflective jacket 
+Long sleeve base 
+Walker’s lanyard 
+Insulated backpack 
+$50 
+ 
+The table below shows the payments and benefits of the two food delivery companies. 
+ 
+ 
+Get Food 
+Food Pack 
+Non-peak hours  
+ 
+$5.50 per delivery 
+$6 per delivery 
+Peak hours  
+ 
+$6.50 per delivery 
+$7 per delivery 
+Late fees 
+No late fees, but rider will not be 
+given priority for the job after 5 
+late deliveries 
+Deduct $1.50 per delivery 
+Other benefits  
+Bonus of $10 will be given after 
+every 13 deliveries.  
+ 
+Bicycle rental at special rates: 
+7-Day Pass     : $6.90 
+30-Day Pass   : $19.90 
+Free bicycle rental 
+ 
+ 
+ 
+ 
+21 
+ 
+4052/02 / Sec 4E5N / Preliminary Examination / BDMS 2024  
+[Turn Over 
+ 
+ 
+(a) 
+(i) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Ben wants to work as a food delivery rider (bicycle) during the one-month school 
+holiday. He is choosing between two companies – Get Food and Food Pack. 
+ 
+Ben wants to work 5 days a week, during non-peak hours. He can make an average 
+of 6 deliveries a day during non-peak hours. Ben does not own a bicycle. Assuming 
+that he makes three late deliveries in one month, how much does he earn in that 
+month if he works with Get Food and Food Pack?  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[6] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+22 
+ 
+4052/02 / Sec 4E5N / Preliminary Examination / BDMS 2024  
+ 
+ 
+ 
+(ii) Besides making more deliveries, what is one other way Ben can increase his 
+earnings?  
+ 
+Answer (a) (ii) _______________________________________________________ 
+ 
+____________________________________________________________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+[1] 
+ 
+(b) (i)  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Karl wants to work as a food delivery walker with Get Food during peak hours. He 
+aims to earn at least $200.  
+ 
+Fill in the table below to show how much Get Food pays a food delivery walker 
+during peak hours.  
+ 
+ 
+ 
+Minimum payment 
+Maximum payment 
+ 
+1 to 12 deliveries 
+ 
+$6.50 
+ 
+ 
+$78 
+ 
+ 
+13 to 25 deliveries 
+ 
+$94.50 
+ 
+$ ___________ 
+ 
+ 
+26 to 38 deliveries 
+ 
+$ ___________ 
+ 
+ 
+$267 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2] 
+ 
+ 
+ 
+(ii) What is the minimum number of deliveries Karl must make in order to earn at least 
+$200?  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer (b) (ii) _________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2] 
+ 
+End of Paper 
+ 
+ 
+ 
+ 
+ 
+ 
+CANDIDATE  
+NAME 
+MARKING SCHEME 
+ 
+CLASS 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+INDEX  
+   
+ 
+ 
+    
+ 
+NUMBER 
+ 
+------------------------------------------------------------------------------------------------------------------------------------- 
+------------------------------------------------------------------------------------------------------------------------------------- 
+ 
+READ THESE INSTRUCTIONS FIRST 
+ 
+Write your name, class and register number on all the work you hand in. 
+Write in dark blue or black pen. 
+You may use an HB pencil for any diagrams or graphs. 
+Do not use staples, paper clips, glue or correction fluid/tape. 
+DO NOT WRITE ON ANY BARCODES. 
+ 
+Answer all questions. 
+The number of marks is given in brackets [  ] at the end of each question or part question. 
+ 
+If working is needed for any question, it must be shown with the answer. 
+Omission of essential working will result in loss of marks. 
+The total of the marks for this paper is 90. 
+ 
+The use of an approved scientific calculator is expected, where appropriate.  
+If the degree of accuracy is not specified in the question, and if the answer is not exact, give the 
+answer to three significant figures. Give answers in degrees to one decimal place. 
+For, use either your calculator value or 3.142. 
+ 
+This document consists of 24 printed pages. 
+ 
+MATHEMATICS   
+Paper 1 
+                                                                           
+                        4052/01 
+ 20 Aug 2024
+    2 hours 15 minutes 
+Candidates answer on the Question Paper. 
+No additional materials are required. 
+BENDEMEER SECONDARY SCHOOL 
+2024 PRELIMINARY EXAMINATION 
+SECONDARY 4 EXPRESS / 5 NORMAL (ACADEMIC) 
+ 
+FOR EXAMINER’S USE 
+90 
+2 
+ 
+4052/01 / Sec 4E5N / Preliminary Examination / BDMS 2024 
+MATHEMATICAL FORMULAE 
+Compound Interest 
+Total amount = P
+n
+r 
+
+
+
+
++ 100
+1
+ 
+Mensuration 
+Curved surface area of cone = rl
+
+ 
+Surface area of a sphere = 4r2 
+Volume of a cone = 
+h
+r 2
+3
+1
+ 
+Volume of sphere = 
+3
+3
+4 r
+
+ 
+Area of triangle ABC = 
+C
+absin
+2
+1
+ 
+Arc length = 
+radians
+in 
+ 
+is
+ 
+ 
+ where
+,
+
+
+r
+ 
+Sector area = 
+radians
+in 
+ 
+is
+ 
+ 
+ where
+,
+2
+1
+2
+
+
+r
+ 
+ 
+Trigonometry 
+C
+c
+B
+b
+A
+a
+sin
+sin
+sin
+=
+=
+ 
+A
+bc
+c
+b
+a
+cos
+2
+2
+2
+2
+−
++
+=
+ 
+ 
+Statistics 
+Mean = 
+
+f
+fx
+ 
+Standard Deviation = 
+
+
+
+
+
+
+
+−
+
+
+
+2
+2
+f
+fx
+f
+fx
+ 
+ 
+3 
+ 
+        4052/01 / Sec 4E5N / Preliminary Examination / BDMS 2024                 [TURN OVER                
+ 
+Answer all the questions. 
+ 
+1 
+ 
+Factorise each of the following completely. 
+ 
+(a) 
+ 4𝑎2 −𝑏2 
+ = (2𝑎+ 𝑏)(2𝑎−𝑏)     [B1] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  
+...........................................  
+[1] 
+ 
+ 
+  
+ 
+ 
+ 
+(b)  5𝑥−1 + 10𝑥2𝑦−2𝑥 
+ = (5𝑥−1) + 2𝑥𝑦(5𝑥−1)     [M1] 
+ = (5𝑥−1)(1 + 2𝑥𝑦)              [A1] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  
+...........................................  
+[2] 
+4 
+ 
+4052/01 / Sec 4E5N / Preliminary Examination / BDMS 2024 
+2 
+(a) 
+Simplify (2𝑥3𝑦)3. 
+= 8𝑥9𝑦3     [B1] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  
+........................................... 
+[1] 
+ 
+ 
+  
+ 
+ 
+ 
+(b) Use the laws of indices to solve the following equation for x. Show your working 
+clearly. 
+22 × 53 +
+1
+125𝑥= 54. 
+ 
+ 
+ 
+5−3𝑥= 54 −4 × 53 
+ 
+ 
+5−3𝑥= 53                   [M1] 
+                    −3𝑥= 3 
+                          𝑥= −1                     [A1] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  
+x =.....................................  [2] 
+5 
+ 
+        4052/01 / Sec 4E5N / Preliminary Examination / BDMS 2024                 [TURN OVER                
+ 
+3 
+(a) 
+Express 1176 as a product of its prime factors. 
+= 23 × 3 × 72     [B1] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    Answer  
+........................................... 
+  [1] 
+ 
+ 
+  
+ 
+ 
+ 
+(b) The number 1176k is a perfect cube.  
+Find the smallest positive integer value of k. 
+ 
+ 
+ 
+1176𝑘= 23 × 3 × 72 × 𝑘= 23 × 33 × 73 
+∴𝑘= 63     [B1] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  
+k = .....................................  [1] 
+ 
+ 
+(c) 
+The highest common factor of two distinct integers, n and 1176, is 28.  
+Given that 500 < n < 1000, find the smallest possible value of n. 
+ 
+                𝐻𝐶𝐹= 28 = 22 × 7 
+               ∴𝑛= 22 × 7 × 19 = 532     [B1] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  
+n = .....................................  [1] 
+6 
+ 
+4052/01 / Sec 4E5N / Preliminary Examination / BDMS 2024 
+4 
+ 
+The volume of a right pyramid is 4.8 × 10−8 m3 and its length of the square base is 
+1.5 × 10−3m. Giving your answer in standard form, find its height.  
+1
+3 × (1.5 × 10−3)2 × ℎ= 4.8 × 10−8          [M1] 
+∴ℎ=
+3×4.8×10−8
+(1.5×10−3)2 = 6.4 × 10−2      [A1] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  
+........................................ m 
+   [2] 
+ 
+ 
+  
+ 
+ 
+5 
+ 
+Benjamin invested $8000 at a rate of 3.3% per annum compounded monthly. 
+What is the value of his investment at the end of 6 months?  
+ 
+ 
+ 
+𝐴= 8000 (1 +
+3.3
+12×100)
+6
+     [M1] 
+    = $8132.91                       [A1] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  
+$ .......................................... 
+[2] 
+ 
+7 
+ 
+        4052/01 / Sec 4E5N / Preliminary Examination / BDMS 2024                 [TURN OVER                
+ 
+6 
+(a) 
+In the Venn diagram below, shade the region   
+'
+P
+Q
+
+. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+       [1] 
+ 
+ 
+  
+ 
+ 
+ 
+(b)  A universal set  and its subset A and B are given by  
+=
+
+{x: x is an integer and 0 < x < 12}, 
+A = {x: x is a factor of 24}, 
+B = {x: 2𝑥−7 ≥5}. 
+ 
+(i) Write all the elements of  in the Venn diagram below.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+   [2] 
+(ii) 
+Another number is included in the universal set . 
+This number is in the region A
+B
+
+. 
+Write down a possible value of this number. 
+ 
+ 
+ 
+ 
+ 
+12  or  24    [B1] 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  
+…..........................................    [1] 
+P 
+Q 
+  
+A 
+B 
+  
+1 
+2 
+3 
+4 
+7 
+9 
+10 
+11 
+6 
+8 
+5 
+All sections correct     [B2] 
+2 to 3 sections correct [B1] 
+8 
+ 
+4052/01 / Sec 4E5N / Preliminary Examination / BDMS 2024 
+ 
+7 
+ 
+ 
+(a) 
+The expression  2𝑥2 + 8𝑥+ 9  is equivalent to 2(𝑥+ 𝑎)2 + 𝑏. 
+Find the value of a and the value of b.  
+= 2(𝑥2 + 4𝑥) + 9 
+= 2[(𝑥+ 2)2 −22] + 9 
+= 2(𝑥+ 2)2 −8 + 9 
+= 2(𝑥+ 2)2 + 1 
+Hence, a = 2      [B1] 
+And     b = 1      [B1] 
+ 
+ 
+ 
+ 
+Answer  
+a = ...................................... 
+    [1] 
+ 
+ 
+ 
+  
+b = ...................................... 
+    [1] 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+(b) Sketch the curve  𝑦=  2𝑥2 + 8𝑥+ 9  on the given axes below, clearly showing 
+the y-intercept and the turning point. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+ 
+ 
+ 
+y 
+Correct Shape                       [B1] 
+Turning point & y-intercept [B1] 
+x 
+Turning point = (-2, 1) 
+ y-intercept = (0, 9) 
+9 
+ 
+        4052/01 / Sec 4E5N / Preliminary Examination / BDMS 2024                 [TURN OVER                
+ 
+ 
+8 
+ 
+ 
+ 
+(a) 
+Given that the formula of  y is inversely proportional to the square of (𝑥+ 2) and the value 
+of  y = 
+1
+3  when  x = 7. 
+Express y in terms of x.  
+𝑦=
+𝑘
+(𝑥+ 2)2 
+1
+3 =
+𝑘
+(7 + 2)2 
+𝑘= 27                [M1] 
+∴ 𝑦=
+27
+(𝑥+2)2    [A1] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  
+y = ......................................    [2] 
+ 
+ 
+  
+ 
+ 
+ 
+(b) Hence, or otherwise, make x the subject of the formula. 
+ 
+ 
+ 
+(𝑥+ 2)2 =
+27
+𝑦             [M1] 
+ 
+ 
+𝑥+ 2 = ±√27
+𝑦 
+∴𝑥= −2 ± √
+27
+𝑦        [A1] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  
+x = ......................................    [2] 
+ 
+10 
+ 
+4052/01 / Sec 4E5N / Preliminary Examination / BDMS 2024 
+9 
+ 
+Explain why (2𝑛+ 3)2 −(4𝑛+ 3)(𝑛−6) is a multiple of 3 for all integer values of n.  
+Answer 
+= 4𝑛2 + 12𝑛+ 9 −(4𝑛2 + 3𝑛−24𝑛−18)          [M1] 
+= 33𝑛+ 27 
+= 3(11𝑛+ 9)                                                             [A1] 
+Hence, it is a multiple of 3 for all integer values of n. 
+ 
+ 
+ 
+ 
+........................................................................................................................................ 
+ 
+........................................................................................................................................ 
+ 
+ 
+  
+ 
+       [2] 
+ 
+10 
+ 
+Simplify  
+2𝑥+3
+𝑥2+3𝑥+2 −
+5
+𝑥+1  as a single fraction. 
+ 
+= 
+2𝑥+3
+(𝑥+1)(𝑥+2) −
+5
+𝑥+1   [M1] 
+= 
+2𝑥+3−5(𝑥+2)
+(𝑥+1)(𝑥+2)             [M1] 
+= 
+2𝑥+3−5𝑥−10
+(𝑥+1)(𝑥+2)  
+= 
+−3𝑥−7
+(𝑥+1)(𝑥+2)                [A1] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  
+..............................................
+. 
+   [3] 
+11 
+ 
+        4052/01 / Sec 4E5N / Preliminary Examination / BDMS 2024                 [TURN OVER                
+ 
+ 
+11 
+ 
+(a) Solve the inequality 𝑥−7 ≤
+3𝑥−5
+2
+< 8  . 
+ 
+ 
+Represent your solution on the number line below. 
+ 
+𝑥−7 ≤
+3𝑥−5
+2                                   
+3𝑥−5
+2
+< 8 
+ 
+2𝑥−14 ≤3𝑥−5                                  3𝑥−5 < 16 
+ 
+−9 ≤𝑥             [M1]                                        𝑥< 7           [M1] 
+ 
+Hence,   −9 ≤𝑥< 7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer    
+                                                                  [A1] 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+(b) Hence, write down the largest prime number that satisfy the inequality 
+ 𝑥−7 ≤
+3𝑥−5
+2
+< 8. 
+ 
+ 
+ 
+ 
+Largest prime number x = 5         [A1] 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  
+x = ...................................... 
+   [1] 
+ 
+ –10        –8        –6         –4         –2         0          2           4          6           8 
+[3] 
+12 
+ 
+4052/01 / Sec 4E5N / Preliminary Examination / BDMS 2024 
+12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) 
+ 
+In the diagram below, ADB is a right-angled triangle with angle 
+90
+ADB =
+and  
+ACD is a triangle with AD = 8 cm and angle 
+30
+DCA =
+. 
+B is a point on AC such that AB = 10 cm and DB = 6 cm. 
+ 
+ 
+ 
+ 
+ 
+Write down, as a fraction in its simplest form, the value of  𝑠𝑖𝑛∠𝐷𝐵𝐶. 
+𝑠𝑖𝑛∠𝐷𝐵𝐶= 𝑠𝑖𝑛∠𝐷𝐵𝐴=
+8
+10 =
+4
+5      [B1] 
+ 
+ 
+Answer  
+............................................ 
+   [1] 
+ 
+(b) Hence, calculate the length of DC.  
+𝐷𝐶
+𝑠𝑖𝑛∠𝐷𝐵𝐶=
+6
+sin 30°                          [M1] 
+∴𝐷𝐶=
+6
+𝑠𝑖𝑛30° ×
+4
+5 = 9.6 𝑐𝑚           [A1] 
+ 
+ 
+ 
+ 
+ 
+Answer  
+...................................... cm 
+   [2] 
+ 
+ 
+  
+ 
+ 
+13 
+ 
+Dorothy wants to make a bracelet using gemstones. Every gemstone is a regular 
+pentagon of the same size. 
+  
+ 
+ 
+How many gemstones does she need to make a bracelet  
+assuming that there is no gap between each gemstone? 
+ 
+ 
+ 
+ 
+Interior angle of each pentagon = 
+(5−2)
+5
+× 180° = 108°         [M1]                            
+ 
+        So interior angle of polygon inside = 360° −108° −108° = 144°          [M1] 
+                    ∴
+𝑛−2
+𝑛× 180° = 144°             or                
+360°
+𝑛= 36° 
+                                                             ∴𝑛= 10           [A1] 
+ 
+ 
+ 
+ 
+ 
+Answer  
+........................................... 
+   [3] 
+B 
+30o 
+A 
+C 
+D 
+8 cm 
+6 cm 
+10 cm 
+13 
+ 
+        4052/01 / Sec 4E5N / Preliminary Examination / BDMS 2024                 [TURN OVER                
+ 
+14 
+ 
+ 
+ 
+ 
+(a) 
+Each term in the following sequence is found by multiplying the same constant to the 
+previous term. 
+ 
+                      p,          12, 
+  q, 
+    48,        r,     … 
+ 
+Write down two possible values of  q. 
+ 
+Let the multiplying constant be x. 
+12𝑥2 = 48                  [M1] 
+𝑥= ±2 
+Hence    𝑞= 12 × 2 = 24    or   𝑞= 12 × (−2) = −24        [A1] 
+ 
+ 
+ 
+ 
+Answer  
+q = ................ or ..................    [2] 
+ 
+ 
+ 
+ 
+ 
+(b) Write down the value of  r
+p
+. 
+𝑝
+𝑟=
+6
+96 =
+1
+16          [B1] 
+ 
+ 
+ 
+Answer  
+………................................. 
+   [1] 
+ 
+ 
+ 
+ 
+(c) 
+Write down the nth term of the sequence. 
+ 
+𝑇𝑛= 6 × 2𝑛−1    or      3 × 2𝑛    [B1] 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  
+………................................. 
+   [1] 
+ 
+ 
+  
+ 
+ 
+ 
+(d) Explain why 400 is not a term in this sequence. 
+(1) …, 48, 96, 192, 384, 768, …  
+......................................................................................................................................... 
+OR   (2)   
+400
+6 = 66.67 is not a multiple of 2  
+.........................................................................................................................................      
+Hence, 400 is not a term in this sequence.      [B1] 
+........................................................................................................................................    [1] 
+ 
+14 
+ 
+4052/01 / Sec 4E5N / Preliminary Examination / BDMS 2024 
+15 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A bag initially contains 6 blue balls, x green balls and y red balls. The probability of drawing a 
+green ball is 1
+4 . If 4 blue balls are added into the bag and 1 red ball is removed from the bag, 
+the possibility of drawing a green ball from the bag is 2
+9 .  
+Find the value of x. 
+ 
+ 
+𝑥
+6 + 𝑥+ 𝑦= 1
+4 
+ 
+4𝑥= 6 + 𝑥+ 𝑦 
+ 
+3𝑥−6 = 𝑦 …(1)          [M1] 
+ 
+ 
+𝑥
+10 + 𝑥+ 𝑦−1 = 2
+9 
+ 
+9𝑥= 18 + 2𝑥+ 2𝑦 
+ 
+7𝑥−18 = 2𝑦 …(2)     [M1] 
+ 
+ 
+Solving (1) & (2) simultaneously, 
+ 
+7𝑥−18 = 2(3𝑥−6)  [M1] 
+ 
+∴𝑥= 6                         [A1] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  
+x = ......................................    [4] 
+ 
+ 
+ 
+ 
+ 
+15 
+ 
+        4052/01 / Sec 4E5N / Preliminary Examination / BDMS 2024                 [TURN OVER                
+ 
+16 
+(a) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Construct triangle ABC where AB = 10 cm, BC = 7 cm and angle ABC = 60°. 
+AB has already been drawn.                                                                                             [1] 
+Answer (a), (b), (c) and (d) 
+ 
+                                                                                                                  [B1× 4] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(b) Construct the perpendicular bisector of AB.                                                                    [1] 
+ 
+ 
+ 
+ 
+(c) Construct the bisector of angle BAC.                                                                               [1] 
+ 
+ 
+ 
+ 
+(d) Mark clearly a possible point which is inside the triangle, equidistant from the  
+lines AB and AC, and is nearer to point A than point B. 
+Label this point P.                                                                                                            [1] 
+ 
+16 
+ 
+4052/01 / Sec 4E5N / Preliminary Examination / BDMS 2024 
+17 
+ 
+ 
+ 
+ 
+The cumulative frequency graph shows the distribution of the marks of 200 students for a 
+Biology test 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) Use the curve to estimate 
+ 
+ 
+ 
+(i) 
+the median mark for the test,  
+ 
+ 
+         Median = 30       [B1] 
+ 
+ 
+Answer  
+............................................ 
+   [1] 
+ 
+ 
+ 
+(ii) the interquartile range for the test,  
+ 
+ 
+         IQR = 46 – 22 = 24       [B1] 
+ 
+ 
+ 
+Answer  
+............................................ 
+   [1] 
+ 
+ 
+ 
+(iii) the percentage of the students scored more than 70 marks for the test. 
+ 
+ 
+         
+200−185
+200
+× 100%      [M1] 
+         = 7.5%                     [A1] 
+ 
+ 
+Answer  
+........................................ % 
+   [2] 
+ 
+50 
+100 
+150 
+200 
+0 
+10 
+0 
+20 
+30 
+40 
+50 
+60 
+70 
+80 
+90 
+100 
+Marks 
+Cumulative 
+frequency 
+17 
+ 
+        4052/01 / Sec 4E5N / Preliminary Examination / BDMS 2024                 [TURN OVER                
+ 
+ 
+(b) The box-and-whisker plot represents the distribution of marks of the same 200 
+students for a Chemistry test. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        Make two comparisons between the marks for the two tests. 
+        Use figures to support your answers. 
+ 
+              Students did better in Chemistry test on average since the median of Chemistry 
+1. .................................................................................................................................... 
+(38) is greater than the median of Biology (30).         [A1] 
+      .......................................................................................................................................... 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+     .......................................................................................................................................... 
+[1] 
+ 
+ 
+   Students have more consistent marks in Biology test since the IQR of Biology 
+   
+2. ....................................................................................................................................     
+        (24) is smaller than the IQR of Chemistry (32).         [A1] 
+                ..........................................................................................................................................   
+ 
+ 
+              ..........................................................................................................................................    [1] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10 
+0 
+20 
+30 
+40 
+50 
+60 
+70 
+80 
+90 
+100 
+Marks 
+18 
+ 
+4052/01 / Sec 4E5N / Preliminary Examination / BDMS 2024 
+18 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) 
+The volumes of two geometrically similar troughs X and Y are 4050 cm3 and 1200 cm3 
+respectively.  
+Trough X has a height of 75 cm and base area of 162 cm2. 
+ 
+ 
+ 
+ 
+Find 
+the height of trough Y, 
+ℎ𝑦
+75 = √
+1200
+4050
+3
+                          [M1] 
+∴ℎ𝑦=
+2
+3 × 75 = 50 cm         [A1] 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  
+...................................... cm 
+    [2] 
+ 
+ 
+(b) the area of the base of trough Y. 
+𝐴𝑦
+162 = (
+2
+3)
+2
+                            [M1] 
+∴𝐴𝑦=
+4
+9 × 162 = 72 cm2      [A1] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  
+..................................... cm2 
+    [2] 
+trough X 
+75 cm 
+trough Y 
+19 
+ 
+        4052/01 / Sec 4E5N / Preliminary Examination / BDMS 2024                 [TURN OVER                
+ 
+19 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) 
+The diagram shows a square PQRS of side 4 cm. Two quadrants are drawn with P and Q as 
+their centres respectively. The two quadrants intersect at point X. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Catherine said the triangle PXQ is an equilateral triangle. 
+State whether you agree or disagree with Catherine and explain your decision. 
+           agree                          PX = QX = PQ = radius of the two same size quadrants.   [B1] 
+I ..........................., because ............................................................................................     
+ 
+.........................................................................................................................................      
+ 
+........................................................................................................................................    [1] 
+ 
+ 
+(b) Find the area of the shaded region SXR. 
+Area of square – 2(Area of sector SPX) – Area of triangle PXQ 
+= 4 × 4 −2 (
+30°
+360° × 𝜋× 42) −
+1
+2 × 42 × 𝑠𝑖𝑛60°      [M2] 
+= 0.694 cm2                                                                 [A1] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  
+..................................... cm2 
+    [3] 
+20 
+ 
+4052/01 / Sec 4E5N / Preliminary Examination / BDMS 2024 
+ 
+20 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) 
+The diagram shows the points A and B where 𝐴𝐵
+⃗⃗⃗⃗⃗ = (−2
+−6). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Given that 𝐵𝐶
+⃗⃗⃗⃗⃗ = (−3
+1 ), mark and label the point C on the diagram.                              [1] 
+Point C in grid above    [B1] 
+ 
+ 
+ 
+(b) D is the point such that |𝐵𝐶
+⃗⃗⃗⃗⃗ | = |𝐶𝐷
+⃗⃗⃗⃗⃗ | and ABCD is a kite. Express 𝐶𝐷
+⃗⃗⃗⃗⃗  as a vector. 
+𝐶𝐷
+⃗⃗⃗⃗⃗ = (−1
+3 )                  [B1] 
+ 
+ 
+Answer  
+............................................ 
+    [1] 
+ 
+ 
+ 
+(c) 
+Find  |𝐴𝐶
+⃗⃗⃗⃗⃗ |. 
+|𝐴𝐶
+⃗⃗⃗⃗⃗ | = √(−5)2 + (−5)2        [M1] 
+         = 7.07                              [A1] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  
+................................... units 
+    [2] 
+A 
+B 
+D 
+C 
+21 
+ 
+        4052/01 / Sec 4E5N / Preliminary Examination / BDMS 2024                 [TURN OVER                
+ 
+21 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) 
+The graph shows the speed-time graph of a car during a period of 60 seconds. 
+The distance travelled in the first 20 seconds is 250 m. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Show that the maximum speed v is 15 m/s. 
+Answer 
+ 
+1
+2 (10 + 𝑣) × 20 = 250              [M1] 
+Hence, 𝑣= 15 𝑚/𝑠 
+ 
+                                                                                                                                            [1] 
+ 
+ 
+(b) Calculate the deceleration during the motion. 
+𝐺𝑟𝑎𝑑𝑖𝑒𝑛𝑡= 15 −10
+20 −32 = −5
+12 
+∴𝑑𝑒𝑐𝑒𝑙𝑒𝑟𝑎𝑡𝑖𝑜𝑛=
+5
+12  𝑜𝑟 0.417 𝑚/𝑠2        [B1]   
+ 
+ 
+ 
+Answer  
+.................................... m/s2 
+      [1] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(c) 
+Calculate the average speed during the 60 seconds. 
+ 
+Total distance = 250 + 
+1
+2 (15 + 10) × 12 + 28 × 10 = 680 𝑚       [M1] 
+∴𝑎𝑣𝑒𝑟𝑎𝑔𝑒 𝑠𝑝𝑒𝑒𝑑=
+680
+60 = 11
+1
+3  𝑚/𝑠         [A1] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  
+..................................... m/s 
+      [2] 
+22 
+ 
+4052/01 / Sec 4E5N / Preliminary Examination / BDMS 2024 
+22 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) 
+In the figure below, O is the origin, A is the point (9, 3), B is the point (6, 0) and D is 
+the point (0, 12). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+C is another point on the x-axis such that AB = AC. 
+ 
+Find the coordinates of C. 
+𝐶= (12 , 0)      [B1] 
+ 
+ 
+ 
+Answer  
+C (.............. , .............) 
+[1] 
+ 
+ 
+(b) Find the equation of line AB. 
+𝐺𝑟𝑎𝑑𝑖𝑒𝑛𝑡=
+3−0
+9−6 = 1                             [M1] 
+∴𝑒𝑞𝑢𝑎𝑡𝑖𝑜𝑛 𝑜𝑓 𝐴𝐵 𝑖𝑠    𝑦= 𝑥−6.       [A1] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  
+............................................ 
+    [2] 
+ 
+ 
+(c) 
+Find the shortest distance from O to the straight line CD. 
+ 
+𝐶𝐷= √122 + 122 = 16.97                  [M1] 
+1
+2 × 16.97 × ℎ= 1
+2 × 12 × 12 
+∴ℎ= 8.49 (𝑐𝑜𝑟𝑟𝑒𝑐𝑡 𝑡𝑜 3 𝑠. 𝑓. )            [A1] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  
+................................... units 
+    [2] 
+23 
+ 
+        4052/01 / Sec 4E5N / Preliminary Examination / BDMS 2024                 [TURN OVER                
+ 
+23 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) 
+In the diagram, ABC, CDE and AFE are straight lines. BD is parallel to AE.  
+BD = 15 cm, CD = 12 cm, DE = 8 cm and EF = 10 cm. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Show that triangles CDB and DEF are similar. 
+Give a reason for each statement you make. 
+ 
+∠𝐵𝐷𝐶= ∠𝐹𝐸𝐷 (𝑐𝑜𝑟𝑟𝑒𝑠𝑝𝑜𝑛𝑑𝑖𝑛𝑔 ∠𝑠, 𝐵𝐷∥𝐴𝐸),   
+𝐵𝐷
+𝐹𝐸=
+15
+10 =
+3
+2   and   
+𝐶𝐷
+𝐷𝐸=
+12
+8 =
+3
+2 
+[B1] 
+.........................................................................................................................................     
+∴∆𝐶𝐷𝐵 𝑎𝑛𝑑 ∆𝐷𝐸𝐹 𝑎𝑟𝑒 𝑠𝑖𝑚𝑖𝑙𝑎𝑟. (𝑅𝑎𝑡𝑖𝑜 𝑜𝑓 𝑐𝑜𝑟𝑟 𝑠𝑖𝑑𝑒𝑠 𝑎𝑛𝑑 𝑖𝑛𝑐𝑙𝑢𝑑𝑒𝑑 𝑎𝑛𝑔𝑙𝑒 𝑎𝑟𝑒 𝑒𝑞𝑢𝑎𝑙 / 
+𝑆𝐴𝑆 𝑠𝑖𝑚𝑖𝑙𝑎𝑟𝑖𝑡𝑦 𝑡𝑒𝑠𝑡)    [B1] 
+........................................................................................................................................    [2] 
+ 
+ 
+ 
+(b) Find the ratio of area of triangle CDB : area of triangle DEF. 
+(12: 8)2 = 9 ∶4     [B1] 
+ 
+ 
+ 
+Answer  
+.................... : ..................... 
+     [1] 
+ 
+ 
+ 
+ 
+ 
+(c) 
+Show that ABDF is a parallelogram. 
+∠𝐶𝐵𝐷= ∠𝐷𝐹𝐸 (𝑓𝑟𝑜𝑚 𝑝𝑎𝑟𝑡 (𝑎) ∆𝐶𝐷𝐵 𝑎𝑛𝑑 ∆𝐷𝐸𝐹 𝑎𝑟𝑒 𝑠𝑖𝑚𝑖𝑙𝑎𝑟)               [B1] 
+.........................................................................................................................................     
+∠𝐵𝐴𝐹= ∠𝐶𝐵𝐷 (𝑐𝑜𝑟𝑟𝑒𝑠𝑝𝑜𝑛𝑑𝑖𝑛𝑔 ∠𝑠, 𝐵𝐷∥𝐴𝐸)  and so  ∠𝐵𝐴𝐹= ∠𝐷𝐹𝐸   [B1] 
+.........................................................................................................................................      
+∴𝐴𝐵∥𝐹𝐷 and hence ABDF is a parallelogram. 
+........................................................................................................................................    [2] 
+ 
+A 
+B 
+C 
+D 
+E 
+F 
+ 
+12 cm 
+8 cm 
+15 cm 
+10 cm 
+24 
+ 
+4052/01 / Sec 4E5N / Preliminary Examination / BDMS 2024 
+24 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The diagram shows a closed L-shaped rectangular structure with dimensions stated. 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                                                                                         
+ 
+ 
+(a) 
+Calculate the volume of the L-shaped rectangular structure.  
+= 80 × 20 × 10 + 40 × 20 × 10      [M1]  
+= 24 000 mm3                                     [A1]  
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  
+.................................... mm3       [2] 
+ 
+ 
+  
+ 
+ 
+ 
+(b) Edison wants to put a thin and long metal rod inside the structure.  
+What is the longest length of the metal rod that Edison can put in? 
+𝑥
+20 =
+80
+60 (𝑠𝑖𝑚𝑖𝑙𝑎𝑟 𝑡𝑟𝑖𝑎𝑛𝑔𝑙𝑒𝑠)                                       
+𝑥= 26
+2
+3                                                                                [M1] 
+𝑙= √(26
+2
+3)
+2
++ 802 + 102   (𝑝𝑦𝑡ℎ𝑎𝑔𝑜𝑟𝑎𝑠 𝑡ℎ𝑒𝑜𝑟𝑒𝑚)       [M1]         
+∴𝑙𝑜𝑛𝑔𝑒𝑠𝑡 𝑙𝑒𝑛𝑔𝑡ℎ 𝑜𝑓 𝑚𝑒𝑡𝑎𝑙 𝑟𝑜𝑑, 𝑙= 84.9 𝑚𝑚                 [A1] 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer  
+..................................... mm 
+      [3] 
+End of Paper 
+Metal 
+Rod 
+x 
+20 
+20 
+ 
+This document consists of 22 printed pages. 
+[Turn over 
+ 
+ 
+ 
+ 
+ 
+ 
+CANDIDATE  
+NAME 
+ 
+ 
+  CLASS  
+ 
+ 
+ 
+     
+ 
+ 
+ 
+                     INDEX  
+   
+ 
+ 
+                                NUMBER 
+ 
+------------------------------------------------------------------------------------------------------------------------------------- 
+ 
+------------------------------------------------------------------------------------------------------------------------------------- 
+READ THESE INSTRUCTIONS FIRST 
+ 
+Write your name, class and register number on all the work you hand in. 
+Write in dark blue or black pen. 
+You may use an HB pencil for any diagrams or graphs. 
+Do not use staples, paper clips, highlighters, glue or correction fluid. 
+DO NOT WRITE ON ANY BARCODES. 
+ 
+Answer all the questions. 
+The number of marks is given in brackets [ 
+] at the end of each question or part question. 
+ 
+If working is needed for any question, it must be shown with the answer. 
+Omission of essential working will result in loss of marks. 
+The total number of marks for this paper is 90. 
+ 
+The use of an approved scientific calculator is expected, where appropriate.  
+If the degree of accuracy is not specified in the question, and if the answer is not exact, give the 
+answer to three significant figures. Give answers in degrees to one decimal place. 
+For, use either your calculator value or 3.142. 
+ 
+ 
+ 
+                                                                                         
+ 
+FOR EXAMINER’S USE 
+ 
+ 
+ 
+ 
+MATHEMATICS  
+Paper 2 
+4052/02 
+21 August 2024 
+ 
+      2 hours 15 minutes
+Candidates answer on the Question Paper.  
+No additional materials are required.   
+    
+BENDEMEER SECONDARY SCHOOL 
+2024 PRELIMINARY EXAMINATION 
+             SECONDARY 4 EXPRESS / 5 NORMAL (ACADEMIC) 
+90 
+MARKING 
+SCHEME 
+2 
+ 
+4052/02/Sec 4E5N(A)/Prelim/BDMS 2024  
+ 
+MATHEMATICAL FORMULAE 
+ 
+Compound Interest 
+ 
+Total amount = P
+n
+r 
+
+
+
+
++ 100
+1
+ 
+ 
+Mensuration 
+ 
+Curved surface area of cone = rl
+
+ 
+ 
+Surface area of a sphere = 4r2 
+ 
+Volume of a cone = 
+h
+r 2
+3
+1
+ 
+ 
+Volume of sphere = 
+3
+3
+4 r
+
+ 
+ 
+Area of triangle ABC = 
+C
+absin
+2
+1
+ 
+ 
+Arc length = 
+radians
+in 
+ 
+is
+ 
+ 
+ where
+,
+
+
+r
+ 
+ 
+Sector area = 
+radians
+in 
+ 
+is
+ 
+ 
+ where
+,
+2
+1
+2
+
+
+r
+ 
+ 
+Trigonometry 
+ 
+C
+c
+B
+b
+A
+a
+sin
+sin
+sin
+=
+=
+ 
+ 
+A
+bc
+c
+b
+a
+cos
+2
+2
+2
+2
+−
++
+=
+ 
+ 
+Statistics 
+Mean = 
+
+f
+fx
+ 
+ 
+Standard Deviation = 
+
+
+
+
+
+
+
+−
+
+
+
+2
+2
+f
+fx
+f
+fx
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3 
+ 
+4052/02/Sec 4E5N(A)/Prelim/BDMS 2024 
+[Turn Over 
+1 
+(a) 
+Simplify  (
+3𝑎−3
+2𝑏2
+4
+1
+2𝑏3 )
+−2
+ and leave your answer in positive index notation. 
+ 
+= ( 4
+1
+2𝑏3
+3𝑎−3
+2𝑏2)
+2
+………………. M1 
+ 
+=
+4𝑏6
+9𝑎−3𝑏4  …………………. M1 
+ 
+=
+4𝑎3𝑏2
+9
+ ……………………. A1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer (a) __________________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[3] 
+ 
+(b) 
+Simplify    
+(𝑎−5𝑏)2
+𝑎2−25𝑏2 ÷
+𝑎−5𝑏
+5𝑏 . 
+ 
+=
+(𝑎−5𝑏)2
+(𝑎−5𝑏)(𝑎+5𝑏) ×
+5𝑏
+𝑎−5𝑏 ………… M1 for (𝑎−5𝑏)(𝑎+ 5𝑏) 
+ 
+=
+5𝑏
+𝑎+5𝑏 ……………………………… A1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer (b) __________________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2] 
+4 
+ 
+4052/02/Sec 4E5N(A)/Prelim/BDMS 2024  
+2 
+The diagram below shows a school Tchoukball court of dimension 27m by 16m. On each end is 
+a semicircle of radius 3m. The shaded part is to be painted yellow.        
+ 
+                 
+ 
+                                                                    
+ 
+ 
+(a) 
+Find the area of the court that is painted yellow. 
+ 
+ 
+Area that is painted yellow 
+ 
+= (27 × 16) −(𝜋× 32) −(16 × 4) ………. M1 
+ 
+= 339.726 
+ 
+= 340 m2 (3sf)…………………………………….. A1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer (a) _______________m2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2] 
+5 
+ 
+4052/02/Sec 4E5N(A)/Prelim/BDMS 2024 
+[Turn Over 
+ 
+(b) 3 workers can paint the court in 5 days. After painting the first day, the workers had to 
+stop on the second and third day because it was raining. 
+Teachers, Mr Chin and Mr Lee, decided to help with the painting on the fourth and fifth 
+day. 
+Assuming the 3 workers and 2 teachers paint at the same rate, can they finish painting the 
+shaded area on the fifth day? 
+Show your working clearly.  
+ 
+ 
+ 
+Man-days needed to paint the court  
+= 5 x 3 
+= 15 …………………. M1 
+ 
+ 
+Man-days needed after the first day 
+= 15 – (3 x 1) 
+= 12  
+ 
+ 
+Number of people needed for the fourth and fifth days 
+= 12 ÷ 2 
+= 6 …………………. M1 
+ 
+ 
+Number of workers and teachers painting on the fourth and fifth days  
+ = 5 
+ 
+Therefore, they cannot finish painting on the fifth day. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[3] 
+A1 
+6 
+ 
+4052/02/Sec 4E5N(A)/Prelim/BDMS 2024  
+3 
+(a) 
+In the diagram, ∠𝐴𝐵𝐷=  ∠𝐶𝐵𝐷 and ∠𝐵𝐴𝐷= ∠𝐵𝐶𝐷.  
+Prove that ∆𝐴𝐵𝐷 and ∆𝐶𝐵𝐷 are congruent.                                                                                  
+ 
+                           
+ 
+ 
+ 
+In ∆𝐴𝐵𝐷 and ∆𝐶𝐵𝐷  , 
+ 
+𝐵𝐷 is common 
+∠ABD = ∠CBD (given)          
+∠BAD = ∠BCD (given)          
+                      
+Therefore, ∆𝐴𝐵𝐷 and ∆𝐶𝐵𝐷 are congruent (AAS) ………. B1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[3] 
+B2 for 3 correct statements 
+B1 for 2 correct statements 
+7 
+ 
+4052/02/Sec 4E5N(A)/Prelim/BDMS 2024 
+[Turn Over 
+ 
+(b) In the diagram below, O is the centre of the circle and BDG is a straight line. PQ is a 
+tangent to the circles at A and H respectively. ∠𝐴𝐵𝐷= 270 and ∠𝐷𝐸𝐹= 1530.                    
+                            
+ 
+Stating the angle properties of circles clearly, find  
+ 
+(i) 
+∠𝐴𝐶𝐷 
+ 
+= 270 (Angle in the same segment) ………… B1 
+ 
+Answer (i) _______________0 
+ 
+(ii) 
+∠𝐷𝐴𝐻 
+ 
+∠𝑂𝐴𝐻 = 900 (radius perpendicular to tangent)  
+∠𝐴𝑂𝐷 = 540 (Angle at centre = 2x angle at circumference) 
+ 
+∠𝑂𝐴𝐷= 180 −54
+2
+ 
+            = 630 
+ 
+∠𝐷𝐴𝐻= 90 −63 
+            = 270 …………………… A1 
+ 
+Answer (ii) _______________0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[1] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2] 
+ 
+ 
+(iii) 
+Is BA parallel to FG? Justify your answer clearly with working. 
+ 
+ 
+∠𝐷𝐺𝐹= 180 −153 (Angles in opposite segments) 
+            = 270 ………………………….. M1 
+ 
+Since ∠𝐴𝐵𝐷= ∠𝐷𝐺𝐹= 270, ………………………………….. M1 
+By the converse of alternate angles, BA is parallel to FG ……….. A1 
+ 
+ 
+Note: Minus 1 mark from Q3(b) when angle properties of circles are not given / written 
+wrongly. 
+ 
+[3] 
+M1 for either 
+property 
+8 
+ 
+4052/02/Sec 4E5N(A)/Prelim/BDMS 2024  
+4 
+Starkids Centre is organising a talent competition for children. Children can choose to compete 
+in 3 categories – singing, dancing and acting. 
+ 
+Matrix E shows the number of boys and girls in each category for the age group 5 to 8 years 
+old. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Matrix F shows the number of boys and girls in each category for the age group 9 to 12 years 
+old. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) 
+Evaluate the matrix T = E + F.  
+ 
+𝐓= (
+5
+8
+7
+4
+6
+7
+) + (
+12
+9
+8
+10
+15
+11
+) 
+ 
+= (
+17
+17
+15
+14
+21
+18
+) ……………………. B1 
+ 
+ 
+ 
+ 
+Answer (a) T =_________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[1] 
+ 
+(b) Each child is charged a registration fee for the competition. The registration is $30 for 
+singing, $25 for dancing and $22 for acting.  
+Represent the fees in a 1 x 3 matrix C. 
+ 
+𝐂= (30
+25
+22) …………………….. B1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer (b) C =_________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[1] 
+𝐄= (
+5
+8
+7
+4
+6
+7
+) 
+Boys Girls 
+Singing 
+Dancing 
+Acting 
+𝐅= (
+12
+9
+8
+10
+15
+11
+) 
+Boys Girls 
+Singing 
+Dancing 
+Acting 
+9 
+ 
+4052/02/Sec 4E5N(A)/Prelim/BDMS 2024 
+[Turn Over 
+ 
+(c) 
+Evaluate the matrix M = CT and state what the elements in matrix M represent. 
+ 
+𝐌= (30
+25
+22) (
+17
+17
+15
+14
+21
+18
+) 
+= (1347
+1256) ………………….. B1, B1 
+ 
+ 
+M represents the registration fees collected from boys and girls respectively …….. B1 
+ 
+ 
+ 
+ 
+Answer (c) M =_________________ 
+ 
+________________________________________________________________________ 
+ 
+________________________________________________________________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2] 
+ 
+ 
+ 
+[1] 
+ 
+(d) Using matrix multiplication, calculate the total amount of registration fees collected for 
+this competition.  
+ 
+ 
+(1347
+1256) × (1
+1) …………… M1 
+= (2603) ………………………… A1 
+ 
+ 
+Answer (d) $_________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2] 
+ 
+(e) 
+Starkids Centre decides to organise a similar competition for teenagers aged 13 to 18 years 
+old. As compared to the competition for children, the registration fees for teenagers is 
+increased by 10% for singing, 20% for dancing and 15% for acting. 
+ 
+Using matrix multiplication, calculate the registration fees for teenagers for each category. 
+Give your answer in matrix form.  
+ 
+ 
+(30
+25
+22) × (
+1.1
+0
+0
+0
+1.2
+0
+0
+0
+1.15
+) ………………. M1 
+ 
+= (33
+30
+25.3) ………………………………….. A1 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer (e) _________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2] 
+10 
+ 
+4052/02/Sec 4E5N(A)/Prelim/BDMS 2024  
+5 
+In the diagram, M is the midpoint of OA.  
+𝑂𝐴
+⃗⃗⃗⃗⃗ = 𝐚, 𝑂𝐵
+⃗⃗⃗⃗⃗ = 𝐛, 𝐴𝑃
+⃗⃗⃗⃗⃗ = −
+1
+2 𝐚+
+5
+6 𝐛  and BN : NA = 3 : 5.      
+ 
+ 
+(a) 
+Express, as simply as possible, in terms of a and/or b,  
+(i) 
+𝐵𝑁
+⃗⃗⃗⃗⃗⃗  
+(ii) 
+𝐵𝑀
+⃗⃗⃗⃗⃗⃗  
+(iii) 
+𝑁𝑀
+⃗⃗⃗⃗⃗⃗⃗  
+ 
+𝐵𝑁
+⃗⃗⃗⃗⃗⃗  
+= 3
+8 𝐵𝐴
+⃗⃗⃗⃗⃗  
+=
+3
+8 𝐚−
+3
+8 𝐛 …………… B1 
+ 
+ 
+𝐵𝑀
+⃗⃗⃗⃗⃗⃗  
+=
+1
+2 𝐚−𝐛 ……………. B1 
+ 
+ 
+𝑁𝑀
+⃗⃗⃗⃗⃗⃗⃗  
+= 𝑁𝐵
+⃗⃗⃗⃗⃗⃗ + 𝐵𝑀
+⃗⃗⃗⃗⃗⃗  
+= −
+3
+8 𝐚+
+3
+8 𝐛+
+1
+2 𝐚−𝐛  ………….. M1 
+=
+1
+8 𝐚−
+5
+8 𝐛 ………………………... A1 
+ 
+ 
+ 
+Answer (a) (i) ____________________ 
+ 
+(ii) ____________________ 
+ 
+(iii) ____________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[1] 
+ 
+[1] 
+ 
+[2] 
+11 
+ 
+4052/02/Sec 4E5N(A)/Prelim/BDMS 2024 
+[Turn Over 
+ 
+(b) Find   
+Area of ∆𝑂𝐵𝑀
+Area of ∆𝑂𝐵𝐴 
+ 
+=
+1
+2 …………………. B1 
+Answer (b) _________________ 
+ 
+ 
+ 
+ 
+ 
+[1] 
+ 
+(c) 
+If ONAC is a parallelogram, find 𝐶𝐴
+⃗⃗⃗⃗⃗  
+ 
+𝐶𝐴
+⃗⃗⃗⃗⃗  
+= 𝑂𝑁
+⃗⃗⃗⃗⃗⃗  
+= 𝑂𝐵
+⃗⃗⃗⃗⃗ + 𝐵𝑁
+⃗⃗⃗⃗⃗⃗  
+= 𝐛+
+3
+8 𝐚−
+3
+8 𝐛 ………………. M1 
+=
+3
+8 𝐚+
+5
+8 𝐛 ……………………. A1 
+ 
+Answer (c) _________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2] 
+ 
+ 
+(d) Given that 
+𝑂𝑃
+𝑂𝑁= 𝑘, find the value of k. 
+ 
+𝑂𝑃
+⃗⃗⃗⃗⃗  
+= 𝑂𝐴
+⃗⃗⃗⃗⃗ + 𝐴𝑃
+⃗⃗⃗⃗⃗  
+= 𝐚−
+1
+2 𝐚+
+5
+6 𝐛  
+=
+1
+2 𝐚+
+5
+6 𝐛 …………………… M1 
+ 
+=
+1
+6 (𝟑𝐚+ 5𝐛)  
+ 
+ 
+𝑂𝑁
+⃗⃗⃗⃗⃗⃗ =
+3
+8 𝐚+
+5
+8 𝐛  
+𝑂𝑁
+⃗⃗⃗⃗⃗⃗ =
+1
+8 (3𝐚+ 5𝐛)  
+ 
+ 
+Therefore,  
+𝑂𝑃
+𝑂𝑁=
+1
+6(𝟑𝐚+5𝐛)
+1
+8(3𝐚+5𝐛) …………….. M1 
+ 
+𝑂𝑃
+𝑂𝑁=
+4
+3  
+ 
+𝑘=
+4
+3 ………………………… A1 
+ 
+ 
+Answer (d) k = _________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[3] 
+12 
+ 
+4052/02/Sec 4E5N(A)/Prelim/BDMS 2024  
+6 
+The diagram represents the cross-section of a tunnel where AC is on level ground and B is the       
+highest point of the tunnel. The height of the tunnel is 6m and AC = 5m.                                            
+                                                                                                
+ 
+ 
+(a) 
+Show that radius of the tunnel, r = 3.5m, corrected to 2 significant numbers. 
+ 
+ 
+ 
+[2] 
+ 
+(b) During a flood, water in the tunnel rose up to EF, 0.3m above ground level.  
+ 
+ 
+ 
+(i) 
+Find ∠𝐸𝑂𝐹 in radian. 
+ 
+1
+2 ∠𝐸𝑂𝐹= cos−1 (
+6−3.5−0.3
+3.5
+) ………… M1 
+ 
+1
+2 ∠𝐸𝑂𝐹= cos−1 (2.2
+3.5) 
+ 
+∠𝐸𝑂𝐹= 1.78216 rad 
+ 
+∠𝐸𝑂𝐹= 1.78 rad (3sf) ………… A1 
+ 
+ 
+ 
+ 
+Answer (b) (i) ________________ radian 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2] 
+(6 −𝑟)2 + 2.52 = 𝑟2 ………. M1 
+ 
+36 −12𝑟+ 𝑟2 + 6.25 = 𝑟2 
+ 
+12𝑟= 42.25 
+ 
+𝑟= 3.5 cm (shown) ……….. A1 
+ 
+13 
+ 
+4052/02/Sec 4E5N(A)/Prelim/BDMS 2024 
+[Turn Over 
+ 
+ 
+(ii) 
+Find the length of the major arc EBF. 
+ 
+ 
+3.5(2𝜋−1.78216) ………… M1 
+ 
+ = 15.8 m ……….. A1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer (ii) _________________m 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2] 
+ 
+ 
+(iii) 
+Find the cross-section area of the tunnel which is dry. 
+ 
+1
+2 (3.52)(2𝜋−1.78216) +
+1
+2 (3.52) sin 1.78216 ………….. M1, M1 
+ 
+= 33.55747 
+ 
+= 33.6 m2 (3sf) …………….. A1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer (iii) _________________m2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[3] 
+ 
+ 
+(iv) 
+Given that the length of the tunnel is 1.4km, find the volume of the tunnel which is 
+dry.  
+ 
+33.55747 x 1400 ………………. M1 
+ 
+= 47 000 m3 (3sf) ……………… A1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer (iv) _________________m3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2] 
+14 
+ 
+4052/02/Sec 4E5N(A)/Prelim/BDMS 2024  
+7 
+The diagram shows a park ABCD on horizontal ground. DB represents a pebbled path. 
+AB = 180m, BC = 220m, CD = 310m and DA = 150m. 
+∠𝐷𝐴𝐵= 1350 and ∠𝐷𝐵𝐶= 760. 
+                                            
+ 
+ 
+ 
+(a) 
+Find the distance of the pebbled path DB. 
+ 
+ 
+𝐷𝐵2 = 1502 + 1802 −2(150)(180) cos 1350 …………. M1  
+ 
+DB = 305.0963 
+ 
+DB = 305 m (3sf) …………… A1 
+ 
+ 
+ 
+ 
+ 
+Answer (a) ______________m 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2] 
+ 
+(b) Find ∠𝐵𝐷𝐶. 
+ 
+sin ∠𝐵𝐷𝐶
+220
+=
+sin 760
+310  ………….. M1  
+ 
+ 
+∠𝐵𝐷𝐶 = 43.51910 
+∠𝐵𝐷𝐶 = 43.50 (1dp) ……….. A1 
+ 
+ 
+ 
+ 
+Answer (b) _______________0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2] 
+15 
+ 
+4052/02/Sec 4E5N(A)/Prelim/BDMS 2024 
+[Turn Over 
+ 
+(c) 
+Find the shortest distance from A to DB. 
+ 
+1
+2 × 150 × 180 × sin 1350 =
+1
+2 × 305.0963 × 𝑑 ……… M1, M1 
+ 
+ 
+d = 62.5766 
+ 
+d = 62.6 m (3sf) ……………. A1 (ft) 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer (c) ______________m 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[3] 
+ 
+(d)  A lamp post, 12m, is erected vertically at A. Find the greatest angle of elevation of the top 
+of the lamp post from DB.  
+ 
+tan−1 (
+12
+62.5766) …………. M1 
+ 
+= 10.90 (1dp) ………… A1 (ft) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer (d) _______________0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2] 
+ 
+(e) 
+Given that B is due east of D, find the bearing of D from C.  
+ 
+ 
+3600 – (1800 – 900 – 43.51910) ………. M1 
+= 313.50 (1dp) ………….. A1 (ft) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer (e) _______________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2] 
+16 
+ 
+4052/02/Sec 4E5N(A)/Prelim/BDMS 2024  
+8 
+In July, the price of durians was $x per kg.  
+In August, the price of durians dropped by $4.50 per kg.  
+Don could buy 2.8 kg more durians in August than in July with $200. 
+ 
+ 
+ 
+(a) 
+Write down an expression, in terms of x, to show the mass of durians that can be bought 
+for $200 in July. 
+ 
+200
+𝑥 …….. B1 
+ 
+Answer (a) _________________ kg 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[1] 
+ 
+(b) Write down an expression, in terms of x, to show the mass of durians that can be bought 
+for $200 in August. 
+ 
+ 
+200
+𝑥−4.5 ……….. B1 
+ 
+Answer (b) _________________ kg 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[1] 
+ 
+(c) 
+Form an equation in terms of x and show that it reduces to  14𝑥2 −63𝑥−4500 = 0. 
+ 
+ 
+200
+𝑥−4.5 −
+200
+𝑥= 2.8 …………. M1 
+ 
+200(𝑥) −200(𝑥−4.5) = 2.8𝑥(𝑥−4.5) 
+ 
+900 = 2.8𝑥2 −12.6𝑥 ……….. M1 
+ 
+28𝑥2 −126𝑥−9000 = 0 
+ 
+14𝑥2 −63𝑥−4500 = 0 (shown) ………….. A1  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[3] 
+17 
+ 
+4052/02/Sec 4E5N(A)/Prelim/BDMS 2024 
+[Turn Over 
+ 
+(d) Solve the equation 14𝑥2 −63𝑥−4500 = 0. Give your answers corrected to 2 decimal 
+places. 
+ 
+𝑥=
+63±√(−63)2−4(14)(−4500)
+2(14)
+ ………. M1 
+  
+𝑥= 63 ± √255969
+2(14)
+ 
+ 
+𝑥= −15.82  or   20.32 …………. A1, A1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer (d) x = ___________or____________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[3] 
+ 
+ 
+(e) 
+Find the price of the durians per kg in August. 
+ 
+20.3191 – 4.50 = $15.82 (2dp) ………. B1 (ft) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer (e) $____________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[1] 
+ 
+ 
+(f) 
+Find the percentage drop in price in August compared to July. 
+ 
+4.50
+20.3191 × 100%  
+ 
+= 22.1% (3sf) …………….. B1 (ft) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Answer (f) ____________________% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[1] 
+18 
+ 
+4052/02/Sec 4E5N(A)/Prelim/BDMS 2024  
+9 
+The variables x and y are connected by the equation  𝑦=
+1
+2 𝑥3 +
+1
+5𝑥. 
+ 
+Some corresponding values of x and y, correct to 1 decimal place, are given in the table below. 
+x 
+−3 
+−2 
+−1 
+−0.5 
+−0.1 
+0.1 
+0.5 
+1 
+2 
+3 
+y 
+−13.6 
+𝑝 
+−0.7 
+−0.5 
+−2.0 
+2.0 
+0.5 
+0.7 
+4.1 
+13.6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(a) 
+Calculate the value of p. 
+ 
+p = −4.1 ………. B1 
+Answer (a) p = _________________ 
+ 
+ 
+ 
+ 
+[1] 
+ 
+(b) On the axes given on Page 19, draw the graph of  𝑦=
+1
+2 𝑥3 +
+1
+5𝑥. 
+Correct points …… B1          Smooth curve …….. B1 
+ 
+ 
+[2] 
+ 
+(c) 
+Using your graph, find the y when  𝑥= −2.4. 
+ 
+𝑦= −7 ± 0.25 ……… B1 
+Answer (c) y = _________________ 
+ 
+ 
+ 
+ 
+[1] 
+ 
+(d) By drawing a tangent, find the gradient of the curve at x = 2. 
+ 
+Tangent ……… M1 
+ 
+Gradient = 6 ± 2 ………. A1 
+ 
+ 
+ 
+Answer (d) ____________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2] 
+ 
+(e) 
+By drawing a suitable straight line, find the solution of   
+1
+2 𝑥3 +
+1
+5𝑥+ 2.5𝑥+ 5 = 0. 
+ 
+Line: y = -2.5x - 5………… M1 
+ 
+ 𝑥= −1.4 ± 0.1 ………. A1 
+ 
+ 
+Answer (e) x = _________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2] 
+ 
+(f) 
+Explain why the curve does not touch the y-axis. 
+ 
+At y-axis,  x = 0, the curve is undefined………… B1 
+ 
+Answer (f) _______________________________________________________________ 
+ 
+________________________________________________________________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+[1] 
+19 
+ 
+4052/02/Sec 4E5N(A)/Prelim/BDMS 2024 
+[Turn Over 
+Answer (9b)
+ 
+ 
+ 
+ 
+20 
+ 
+4052/02/Sec 4E5N(A)/Prelim/BDMS 2024  
+10 
+The tables below show the start-up kits for two food delivery companies, Get Food and Food 
+Pack.  
+ 
+Get Food 
+Includes 
+Cost 
+Motorcycle/Car/Bicycle Basic Starter Pack 
+1 x Backpack 
+1 x Halal Bag 
+2 x Long Sleeve T-Shirt 
+$72 
+Motorcycle/Car/Bicycle Upsized Pack 
+1 x Basic Starter Pack 
+1 x Sling Bag 
+$105 
+Walker Starter Pack 
+1 x Sling Bag 
+1 x Halal Bag 
+2 x Long Sleeve T-Shirt 
+$60 
+ 
+ 
+Food Pack 
+Includes 
+Cost 
+Bicycles Starter Pack 
+ 
+ 
+Reflective jacket 
+Long sleeve base 
+Phone mount (optional) 
+Helmet (optional) 
+Insulated backpack 
+$50 
+Scooters / Motorcycles Starter Pack 
+Reflective jacket 
+Long sleeve base 
+Phone mount (optional) 
+Small thermal bag 
+Insulated backpack 
+$50 
+Walkers Starter Pack 
+Reflective jacket 
+Long sleeve base 
+Walker’s lanyard 
+Insulated backpack 
+$50 
+ 
+The table below shows the payments and benefits of the two food delivery companies. 
+ 
+ 
+Get Food 
+Food Pack 
+Non-peak hours  
+ 
+$5.50 per delivery 
+$6 per delivery 
+Peak hours  
+ 
+$6.50 per delivery 
+$7 per delivery 
+Late fees 
+No late fees, but rider will not be 
+given priority for the job after 5 
+late deliveries 
+Deduct $1.50 per delivery 
+Other benefits  
+Bonus of $10 will be given after 
+every 13 deliveries.  
+ 
+Bicycle rental at special rates: 
+7-Day Pass     : $6.90 
+30-Day Pass   : $19.90 
+Free bicycle rental 
+ 
+ 
+ 
+21 
+ 
+4052/02/Sec 4E5N(A)/Prelim/BDMS 2024 
+[Turn Over 
+ 
+(a) 
+(i) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Ben wants to work as a food delivery rider (Bicycle) during the one-month school 
+holiday. He is choosing between two companies – Get Food and Food Pack. 
+ 
+Ben wants to work 5 days a week, during non-peak hours. He can make an average 
+of 6 deliveries a day during non-peak hours. Ben does not own a bicycle.  
+Assuming that he makes three late deliveries in one month, how much does he earn 
+in that month if he works with Get Food and Food Pack?  
+ 
+Get Food 
+ 
+Revenue 
+= (5 x 6 x 4 x $5.50) + (9 x $10) 
+= $750 ……………………………….. M1  
+ 
+Earnings 
+= $750 - $72 - $19.90 ………………...M1 
+= $658.10 …………………………… A1 
+ 
+ 
+ 
+Food Pack 
+ 
+Revenue 
+= (5 x 6 x 4 x $6)  
+= $720 ……………………………….. M1  
+ 
+Earnings 
+= $720 - $50 – (3 x $1.50) ………………...M1 
+= $665.50 …………………………… A1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[6] 
+22 
+ 
+4052/02/Sec 4E5N(A)/Prelim/BDMS 2024  
+ 
+ 
+(ii) 
+ 
+Besides making more deliveries, what is one other way Ben can increase his 
+earnings?  
+ 
+work peak hours, don’t be late for deliveries, other appropriate answers ……… B1 
+ 
+Answer (a) (ii) _______________________________________________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[1] 
+ 
+(b) (i)  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Karl wants to work as a food delivery walker with Get Food during peak hours. He 
+aims to earn at least $200.  
+ 
+Fill in the table below to show how much Get Food pays a food delivery walker 
+during peak hours.  
+ 
+ 
+ 
+ 
+Minimum payment 
+Maximum payment 
+ 
+1 to 12 deliveries 
+ 
+$6.50 
+ 
+ 
+$78 
+ 
+ 
+13 to 25 deliveries 
+ 
+$94.50 
+ 
+$ 172.50 … B1 
+ 
+ 
+26 to 38 deliveries 
+ 
+$ 189 … B1 
+ 
+ 
+$267 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2] 
+ 
+ 
+ 
+(ii) What is the minimum number of deliveries Karl must make in order to earn at least 
+$200?  
+ 
+200+60−20
+6.50
+ …………. M1 
+ 
+= 36.9 
+ 
+Therefore, he must make a minimum of 37 deliveries….. A1 
+  
+OR 
+ 
+𝑛× 6.50 −60 + 20 ≥200 ……… M1 
+𝑛≥36.9 
+ 
+Therefore, he must make a minimum of 37 deliveries….. A1 
+ 
+ 
+Answer (b) (ii) _________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+[2] 
+End of Paper 

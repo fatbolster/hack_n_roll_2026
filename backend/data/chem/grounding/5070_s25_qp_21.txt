@@ -1,0 +1,1196 @@
+This document has 16 pages. Any blank pages are indicated.
+ 
+[Turn over
+Cambridge O Level
+* 6 2 8 8 1 0 3 5 0 0 *
+CHEMISTRY 
+5070/21
+Paper 2 Theory 
+May/June 2025
+ 
+1 hour 45 minutes
+You must answer on the question paper.
+No additional materials are needed.
+INSTRUCTIONS
+ 
+●
+Answer all questions.
+ 
+●
+Use a black or dark blue pen. You may use an HB pencil for any diagrams or graphs.
+ 
+●
+Write your name, centre number and candidate number in the boxes at the top of the page.
+ 
+●
+Write your answer to each question in the space provided.
+ 
+●
+Do not use an erasable pen or correction fluid.
+ 
+●
+Do not write on any bar codes.
+ 
+●
+You may use a calculator.
+ 
+●
+You should show all your working and use appropriate units.
+INFORMATION
+ 
+●
+The total mark for this paper is 80.
+ 
+●
+The number of marks for each question or part question is shown in brackets [ ].
+ 
+●
+The Periodic Table is printed in the question paper.
+DC (KS/CT) 341461/4
+© UCLES 2025
+,	,
+* 0000800000001 *
+¬O. 4mHuOªE_y6W
+¬a|T«£_m9k2s
+¥5EU5UeU5UEEUUEU
+2
+5070/21/M/J/25
+© UCLES 2025
+1 
+Choose from the following salts to answer the questions.
+aluminium chloride
+barium sulfate
+calcium chloride
+copper(II) sulfate
+magnesium chloride
+potassium iodide
+potassium manganate(VII)
+silver nitrate
+sodium bromide
+sodium sulfite
+ 
+Each salt can be used once, more than once or not at all.
+ 
+State which salt:
+ 
+(a) is prepared using a precipitation reaction
+ ............................................................................................................................................. [1]
+ 
+(b) in aqueous solution, reacts with an excess of aqueous ammonia to give a dark blue solution
+ ............................................................................................................................................. [1]
+ 
+(c) reacts with warm aqueous sodium hydroxide and aluminium foil to give a gas that turns damp 
+red litmus paper blue 
+ ............................................................................................................................................. [1]
+ 
+(d) has an aqueous solution that is used to test for an oxidising agent
+ ............................................................................................................................................. [1]
+ 
+(e) has an aqueous solution that reacts with copper metal.
+ ............................................................................................................................................. [1]
+ 
+[Total: 5]
+* 0000800000002 *
+,	,
+ĬÍĊ®Ġ´íÈõÏĪÅĊÞû¸þ×
+ĬáďûÑğčąØĄ÷ĩāÑĂËćĂ
+ĥĥÕÕõµĥµµõąąÅĕĥĕĥÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+3
+5070/21/M/J/25
+© UCLES 2025
+[Turn over
+2 
+A concentrated aqueous solution of copper(II) bromide is electrolysed using graphite electrodes.
+ 
+(a) Graphite has good electrical conductivity.
+ 
+ 
+(i) Explain why graphite has good electrical conductivity.
+ 
+ 
+ Use ideas about structure and bonding.
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ..................................................................................................................................... [2]
+ 
+ 
+(ii) State one other property of graphite that makes it suitable for use as an electrode during 
+electrolysis.
+ ..................................................................................................................................... [1]
+ 
+(b) Predict the products of the electrolysis of concentrated aqueous copper(II) bromide with 
+graphite electrodes.
+product at anode  .......................................................................................................................
+product at cathode  ....................................................................................................................
+ 
+[2]
+ 
+(c) Dilute sulfuric acid is electrolysed using graphite electrodes to form oxygen and hydrogen.
+ 
+ 
+Construct the ionic half‑equation for the reaction at each electrode.
+reaction at anode  ......................................................................................................................
+reaction at cathode  ...................................................................................................................
+ 
+[2]
+ 
+(d) Hydrogen and oxygen are used in a fuel cell to produce electricity.
+ 
+ 
+(i) Name the only chemical product formed in a fuel cell.
+ ..................................................................................................................................... [1]
+ 
+ 
+(ii) Describe one disadvantage of using hydrogen–oxygen fuel cells in vehicles compared to 
+gasoline or petrol engines.
+ ...........................................................................................................................................
+ ..................................................................................................................................... [1]
+ 
+[Total: 9]
+* 0000800000003 *
+,	,
+ĬÏĊ®Ġ´íÈõÏĪÅĊÞù¸þ×
+ĬáĐüÙĩđõáöĊàÕéÖË÷Ă
+ĥĥåĕµÕąÕåąÕąÅõąÕõÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+4
+5070/21/M/J/25
+© UCLES 2025
+3 
+The equation for the reaction between methane and chlorine is shown in Fig. 3.1.
+H
+C
+Cl
+Cl
+Cl
+H
+H
++
+H
+H
+H
+C
+Cl
+H
++
+H
+Fig. 3.1
+ 
+(a) State one condition for this reaction.
+ ............................................................................................................................................. [1]
+ 
+(b) Explain why this reaction is an example of substitution.
+ ...................................................................................................................................................
+ ............................................................................................................................................. [1]
+ 
+(c) Table 3.1 shows some bond energies.
+Table 3.1
+bond
+bond energy in kJ / mol
+C—H
+410
+C—Cl
+340
+Cl —Cl
+242
+H—Cl
+431
+ 
+ 
+Show by calculation that the enthalpy change of the reaction between methane and chlorine, 
+ΔH, is  –119 kJ / mol.
+ 
+[3]
+* 0000800000004 *
+,	,
+ĬÍĊ®Ġ´íÈõÏĪÅĊàû¸Ā×
+ĬáĐùÙģģôÖüāç÷ąøÛÿĂ
+ĥÕõĕõÕąõÅååąąõåÕĥÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+5
+5070/21/M/J/25
+© UCLES 2025
+[Turn over
+ 
+(d) Complete the reaction pathway diagram in Fig. 3.2 for the reaction between methane and 
+chlorine.
+ 
+ 
+Label the:
+• 
+reactants
+• 
+products
+• 
+enthalpy change of the reaction, ΔH
+• 
+activation energy, Ea.
+energy
+progress of reaction
+Fig. 3.2
+ 
+[3]
+ 
+(e) Draw a dot‑and‑cross diagram to show the electronic configuration in a molecule of methane.
+ 
+ 
+Show only the outer shell electrons.
+ 
+[1]
+ 
+[Total: 9]
+* 0000800000005 *
+,	,
+ĬÏĊ®Ġ´íÈõÏĪÅĊàù¸Ā×
+ĬáďúÑĥğĄãþðĢãíäÛïĂ
+ĥÕąÕµµĥĕÕÕõąąĕÅĕõÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+6
+5070/21/M/J/25
+© UCLES 2025
+4 
+Ethanol, C2H5OH, is a member of the homologous series of alcohols.
+ 
+(a) Give the general formula of the homologous series of alcohols.
+ ............................................................................................................................................. [1]
+ 
+(b) Members of a homologous series have the same general formula and share similar chemical 
+properties.
+ 
+ 
+State two other general characteristics of a homologous series.
+1  ................................................................................................................................................
+2  ................................................................................................................................................
+ 
+[2]
+ 
+(c) The equation for the reaction between ethanol and sodium is shown.
+2Na + 2C2H5OH 
+ H2 + 2C2H5ONa
+ 
+ 
+A sample of 1.35 g of sodium is added to excess ethanol.
+ 
+ 
+(i) Calculate the volume of hydrogen formed measured at room temperature and pressure.
+ 
+ 
+ Give your answer to two significant figures.
+ 
+volume =  .................................................. dm3 [3]
+ 
+ 
+(ii) Water is added to the reaction mixture to make an aqueous solution.
+ 
+ 
+ A few drops of litmus are then added. The litmus changes colour to blue.
+ 
+ 
+ Suggest the name of the ion present in the aqueous solution responsible for the colour 
+change.
+ ..................................................................................................................................... [1]
+ 
+(d) State two uses for ethanol.
+1  ................................................................................................................................................
+2  ................................................................................................................................................
+ 
+[2]
+* 0000800000006 *
+,	,
+ĬÑĊ®Ġ´íÈõÏĪÅĊÝùµþ×
+ĬáĐúÎğćĊëĉýěÃąÁóÿĂ
+ĥąåÕµĕĥµĕµÕąÅĕĥÕåÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+7
+5070/21/M/J/25
+© UCLES 2025
+[Turn over
+ 
+(e) Describe the manufacture of ethanol from ethene.
+ 
+ 
+Include the other reactant and the conditions for the manufacture.
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ............................................................................................................................................. [3]
+ 
+[Total: 12]
+* 0000800000007 *
+,	,
+ĬÓĊ®Ġ´íÈõÏĪÅĊÝûµþ×
+ĬáďùÖĩċúÎïôÎėíĕóïĂ
+ĥąÕĕõõąÕąÅąąÅõąĕµÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+8
+5070/21/M/J/25
+© UCLES 2025
+5 
+Vehicles that use petrol as a fuel produce several air pollutants.
+ 
+(a) Petrol is a mixture of hydrocarbons which includes octane, C8H18.
+ 
+ 
+Explain why octane is a hydrocarbon.
+ ...................................................................................................................................................
+ ............................................................................................................................................. [1]
+ 
+(b) Two of the air pollutants produced are carbon monoxide and nitrogen monoxide.
+ 
+ 
+(i) Explain how carbon monoxide, CO, is formed in a petrol engine.
+ 
+ 
+ Include a symbol equation.
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ..................................................................................................................................... [2]
+ 
+ 
+(ii) Explain how nitrogen monoxide, NO, is formed in a petrol engine.
+ 
+ 
+ Include a symbol equation.
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ..................................................................................................................................... [2]
+* 0000800000008 *
+,		,
+ĬÑĊ®Ġ´íÈõÏĪÅĊßùµĀ×
+ĬáďüÖģùïéñûÕµÑ·ģćĂ
+ĥµąĕµõąõĥĥõąąõåĕåÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+9
+5070/21/M/J/25
+© UCLES 2025
+[Turn over
+ 
+(c) A catalytic converter removes most of the CO and NO formed in a petrol engine.
+2CO(g) + 2NO(g) 
+ 2CO2(g) + N2(g)
+ 
+ 
+(i) Explain why this reaction involves both oxidation and reduction.
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ..................................................................................................................................... [2]
+ 
+ 
+(ii) The reaction is catalysed using platinum metal.
+ 
+ 
+ Explain how a catalyst increases the rate of a reaction.
+ ...........................................................................................................................................
+ ..................................................................................................................................... [1]
+ 
+ 
+(iii) State and explain the effect of increasing the temperature on the rate of this reaction.
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ..................................................................................................................................... [2]
+ 
+ 
+(iv) State and explain the effect of decreasing the pressure on the rate of this reaction.
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ..................................................................................................................................... [2]
+ 
+[Total: 12]
+* 0000800000009 *
+,	
+,
+ĬÓĊ®Ġ´íÈõÏĪÅĊßûµĀ×
+ĬáĐûÎĥõÿÐćĆĔġéģģ÷Ă
+ĥµõÕõĕĥĕõĕåąąĕÅÕµÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+10
+5070/21/M/J/25
+© UCLES 2025
+6 
+Chlorine, Cl 2, is in Group VII of the Periodic Table.
+ 
+(a) The melting point of chlorine is –101 °C and the boiling point is –35 °C.
+ 
+ 
+(i) Explain why chlorine is a liquid at –50 °C.
+ ...........................................................................................................................................
+ ..................................................................................................................................... [1]
+ 
+ 
+(ii) Describe the arrangement and motion of chlorine molecules at –50 °C.
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ..................................................................................................................................... [3]
+ 
+(b) A sample of chlorine gas contains 1.204 × 1020 molecules.
+ 
+ 
+One mole of chlorine gas contains 6.02 × 1023 molecules.
+ 
+ 
+Calculate the mass of this sample of chlorine gas.
+ 
+mass of chlorine =  ...................................................... g [2]
+ 
+(c) The ionic equation for the reaction of chlorine with cold dilute aqueous sodium hydroxide is 
+shown.
+Cl 2 + 2OH– 
+ Cl O– + Cl – + H2O
+ 
+ 
+(i) State the oxidation number of chlorine in Cl 2 and in Cl –.
+Cl 2  .............................................
+Cl –  .............................................
+ 
+[2]
+ 
+ 
+(ii) During the reaction chlorine is reduced.
+ 
+ 
+ Explain why, using ideas about electrons.
+ ...........................................................................................................................................
+ ..................................................................................................................................... [1]
+* 0000800000010 *
+,	,
+ĬÑĊ®Ġ´íÈõÏĪÅĊÞù·þ×
+ĬáĎüÏġñĩçúôïÙÓÓÛïĂ
+ĥĥĥÕµõåõÅÕõÅąÕåĕĕÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+11
+5070/21/M/J/25
+© UCLES 2025
+[Turn over
+ 
+(d) Chlorine reacts with cold water to form an equilibrium mixture containing the acids HCl (aq) 
+and HOCl (aq).
+ 
+ 
+The forward reaction releases thermal energy into the surroundings.
+Cl 2(aq) + H2O(l) 
+ HCl (aq) + HOCl (aq)
+ 
+ 
+(i) The temperature of the equilibrium mixture is increased.
+ 
+ 
+ State and explain what happens to the acidity of the equilibrium mixture.
+statement  ..........................................................................................................................
+explanation  ........................................................................................................................
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ 
+[2]
+ 
+ 
+(ii) HCl (aq) is a strong acid and HOCl (aq) is a weak acid.
+ 
+ 
+ Describe the difference between a strong acid and a weak acid.
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ..................................................................................................................................... [2]
+ 
+(e) A chloride of iron contains 34.5% iron by mass.
+ 
+ 
+Calculate the empirical formula of this chloride.
+ 
+ 
+Show your working.
+ 
+empirical formula  ......................................................... [3]
+ 
+[Total: 16]
+* 0000800000011 *
+,	,
+ĬÓĊ®Ġ´íÈõÏĪÅĊÞû·þ×
+Ĭáčû×ħíęÒĀýºýëćÛÿĂ
+ĥĥĕĕõĕÅĕÕååÅąµÅÕąÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+12
+5070/21/M/J/25
+© UCLES 2025
+BLANK PAGE
+* 0000800000012 *
+,	,
+ĬÑĊ®Ġ´íÈõÏĪÅĊàù·Ā×
+Ĭáčú×ĝÿĐåĂĆ±ßćåË÷Ă
+ĥÕÅĕµĕÅµµąÕÅÅµĥÕĕÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+13
+5070/21/M/J/25
+© UCLES 2025
+[Turn over
+7 
+Aluminium is used in the manufacture of aircraft and food containers.
+ 
+Aluminium is resistant to corrosion by water and oxygen.
+ 
+(a) Give one other reason why aluminium is used in the manufacture of aircraft.
+ ............................................................................................................................................. [1]
+ 
+(b) Explain why aluminium is resistant to corrosion by water and oxygen.
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ............................................................................................................................................. [2]
+ 
+(c) Aluminium metal reacts with hot dilute sulfuric acid to form hydrogen and aqueous 
+aluminium sulfate as the only products.
+ 
+ 
+Construct the symbol equation for this reaction.
+ 
+ 
+Include state symbols.
+ ............................................................................................................................................. [2]
+ 
+(d) Aluminium oxide reacts with sulfuric acid and with the alkali aqueous sodium hydroxide.
+ 
+ 
+State the name of the type of oxide that reacts with both acids and alkalis.
+ ............................................................................................................................................. [1]
+ 
+[Total: 6]
+* 0000800000013 *
+,	,
+ĬÓĊ®Ġ´íÈõÏĪÅĊàû·Ā×
+ĬáĎùÏīăĠÔøûøûïñËćĂ
+ĥÕµÕõõåÕåõąÅÅÕąĕąÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+14
+5070/21/M/J/25
+© UCLES 2025
+8 
+Fig. 8.1 shows the displayed formula of methylbut‑2‑enoate.
+H
+H
+C
+C
+C
+C
+O
+C
+H
+O
+H
+H
+H
+H
+H
+Fig. 8.1
+ 
+(a) Methylbut‑2‑enoate is an unsaturated ester.
+ 
+ 
+(i) Explain why methylbut‑2‑enoate is unsaturated.
+ ...........................................................................................................................................
+ ..................................................................................................................................... [1]
+ 
+ 
+(ii) Describe a chemical test to show that methylbut‑2‑enoate is unsaturated.
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ..................................................................................................................................... [2]
+ 
+(b) Methylbut‑2‑enoate is made by the reaction of an alcohol and a carboxylic acid in the 
+presence of a catalyst.
+ 
+ 
+(i) State the name of the type of catalyst used in this reaction.
+ ..................................................................................................................................... [1]
+ 
+ 
+(ii) State the name of the alcohol used in this reaction.
+ ..................................................................................................................................... [1]
+ 
+ 
+(iii) Draw the displayed formula of the carboxylic acid used in this reaction.
+ 
+[1]
+Permission to reproduce items where third‑party owned material protected by copyright is included has been sought and cleared where possible. Every 
+reasonable effort has been made by the publisher (UCLES) to trace copyright holders, but if any items requiring clearance have unwittingly been included, the 
+publisher will be pleased to make amends at the earliest possible opportunity.
+To avoid the issue of disclosure of answer‑related information to candidates, all copyright acknowledgements are reproduced online in the Cambridge 
+Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download 
+at www.cambridgeinternational.org after the live examination series.
+Cambridge Assessment International Education is part of Cambridge Assessment. Cambridge Assessment is the brand name of the University of Cambridge 
+Local Examinations Syndicate (UCLES), which is a department of the University of Cambridge.
+* 0000800000014 *
+,	,
+ĬÍĊ®Ġ´íÈõÏĪÅĊßü¶Ă×
+ĬáčûÎĥðĘâòðÛ×æõûÿĂ
+ĥõµĕµĕĥõÅĥąąąĕåÕÕÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+15
+5070/21/M/J/25
+© UCLES 2025
+ 
+(c) Methylbut‑2‑enoate is a monomer used to make an addition polymer.
+ 
+ 
+(i) Draw the structure of this addition polymer.
+ 
+ 
+ Include at least two repeat units.
+ 
+[2]
+ 
+ 
+(ii) A sample of 80 g of methylbut‑2‑enoate is reacted to make the addition polymer.
+ 
+ 
+ There is a 100% yield.
+ 
+ 
+ State the mass of addition polymer made.
+ 
+ 
+ Explain your answer.
+ 
+ 
+ 
+mass of addition polymer = ........................... g
+explanation  ........................................................................................................................
+ ...........................................................................................................................................
+ 
+[2]
+ 
+(d) Fig. 8.2 shows compound B.
+H
+C
+C
+H
+C
+C
+H
+C
+O
+O
+H
+H
+H
+H
+H
+Fig. 8.2
+ 
+ 
+Explain why methylbut‑2‑enoate and compound B are a pair of structural isomers.
+ ...................................................................................................................................................
+ ............................................................................................................................................. [1]
+ 
+[Total: 11]
+* 0000800000015 *
+,	,
+ĬÏĊ®Ġ´íÈõÏĪÅĊßú¶Ă×
+ĬáĎüÖģôĨ×ĈāĎăÎáûïĂ
+ĥõÅÕõõąĕÕĕÕąąõÅĕÅÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+16
+5070/21/M/J/25
+© UCLES 2025
+Group
+The Periodic Table of Elements
+1
+H
+hydrogen
+1
+2
+He
+helium
+4
+I
+II
+III
+IV
+V
+VI
+VII
+VIII
+3
+Li
+lithium
+7
+4
+Be
+beryllium
+9
+atomic number
+atomic symbol
+Key
+name
+relative atomic mass
+11
+Na
+sodium
+23
+12
+Mg
+magnesium
+24
+19
+K
+potassium
+39
+20
+Ca
+calcium
+40
+37
+Rb
+rubidium
+85
+38
+Sr
+strontium
+88
+55
+Cs
+caesium
+133
+56
+Ba
+barium
+137
+87
+Fr
+francium
+–
+88
+Ra
+radium
+–
+5
+B
+boron
+11
+13
+Al
+aluminium
+27
+31
+Ga
+gallium
+70
+49
+In
+indium
+115
+81
+Tl
+thallium
+204
+113
+Nh
+nihonium
+–
+6
+C
+carbon
+12
+14
+Si
+silicon
+28
+32
+Ge
+germanium
+73
+50
+Sn
+tin
+119
+82
+Pb
+lead
+207
+22
+Ti
+titanium
+48
+40
+Zr
+zirconium
+91
+72
+Hf
+hafnium
+178
+104
+Rf
+rutherfordium
+–
+23
+V
+vanadium
+51
+41
+Nb
+niobium
+93
+73
+Ta
+tantalum
+181
+105
+Db
+dubnium
+–
+24
+Cr
+chromium
+52
+42
+Mo
+molybdenum
+96
+74
+W
+tungsten
+184
+106
+Sg
+seaborgium
+–
+25
+Mn
+manganese
+55
+43
+Tc
+technetium
+–
+75
+Re
+rhenium
+186
+107
+Bh
+bohrium
+–
+26
+Fe
+iron
+56
+44
+Ru
+ruthenium
+101
+76
+Os
+osmium
+190
+108
+Hs
+hassium
+–
+27
+Co
+cobalt
+59
+45
+Rh
+rhodium
+103
+77
+Ir
+iridium
+192
+109
+Mt
+meitnerium
+–
+28
+Ni
+nickel
+59
+46
+Pd
+palladium
+106
+78
+Pt
+platinum
+195
+110
+Ds
+darmstadtium
+–
+29
+Cu
+copper
+64
+47
+Ag
+silver
+108
+79
+Au
+gold
+197
+111
+Rg
+roentgenium
+–
+30
+Zn
+zinc
+65
+48
+Cd
+cadmium
+112
+80
+Hg
+mercury
+201
+112
+Cn
+copernicium
+–
+114
+Fl
+flerovium
+–
+116
+Lv
+livermorium
+–
+7
+N
+nitrogen
+14
+15
+P
+phosphorus
+31
+33
+As
+arsenic
+75
+51
+Sb
+antimony
+122
+83
+Bi
+bismuth
+209
+115
+Mc
+moscovium
+–
+8
+O
+oxygen
+16
+16
+S
+sulfur
+32
+34
+Se
+selenium
+79
+52
+Te
+tellurium
+128
+84
+Po
+polonium
+–
+9
+F
+fluorine
+19
+17
+Cl
+chlorine
+35.5
+35
+Br
+bromine
+80
+53
+I
+iodine
+127
+85
+At
+astatine
+–
+117
+Ts
+tennessine
+–
+10
+Ne
+neon
+20
+18
+Ar
+argon
+40
+36
+Kr
+krypton
+84
+54
+Xe
+xenon
+131
+86
+Rn
+radon
+–
+118
+Og
+oganesson
+–
+21
+Sc
+scandium
+45
+39
+Y
+yttrium
+89
+57–71
+lanthanoids
+89–103
+actinoids
+57
+La
+lanthanum
+139
+89
+Ac
+lanthanoids
+actinoids
+The volume of one mole of any gas is 24 dm3 at room temperature and pressure (r.t.p.).
+actinium
+–
+58
+Ce
+cerium
+140
+90
+Th
+thorium
+232
+59
+Pr
+praseodymium
+141
+91
+Pa
+protactinium
+231
+60
+Nd
+neodymium
+144
+92
+U
+uranium
+238
+61
+Pm
+promethium
+–
+93
+Np
+neptunium
+–
+62
+Sm
+samarium
+150
+94
+Pu
+plutonium
+–
+63
+Eu
+europium
+152
+95
+Am
+americium
+–
+64
+Gd
+gadolinium
+157
+96
+Cm
+curium
+–
+65
+Tb
+terbium
+159
+97
+Bk
+berkelium
+–
+66
+Dy
+dysprosium
+163
+98
+Cf
+californium
+–
+67
+Ho
+holmium
+165
+99
+Es
+einsteinium
+–
+68
+Er
+erbium
+167
+100
+Fm
+fermium
+–
+69
+Tm
+thulium
+169
+101
+Md
+mendelevium
+–
+70
+Yb
+ytterbium
+173
+102
+No
+nobelium
+–
+71
+Lu
+lutetium
+175
+103
+Lr
+lawrencium
+–
+* 0000800000016 *
+,	,
+ĬÍĊ®Ġ´íÈõÏĪÅĊÝü¶Ą×
+ĬáĎùÖĩĂġäĊĊĕáòăīćĂ
+ĥÅĕÕµõąµµµåąÅõĥĕÕÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN

@@ -3,9 +3,7 @@
  
  
  
-© MOE & UCLES 2023 
- 
- 
+© MOE & Cambridge University Press & Assessment 2024 
  
  
  
@@ -18,7 +16,7 @@
  
  
 Singapore–Cambridge General Certificate of Education 
-Ordinary Level (2025) 
+Ordinary Level (2026) 
  
 Mathematics 
 (Syllabus 4052) 
@@ -211,7 +209,7 @@ Candidates are expected to be familiar with the solidus notation for the express
 e.g. 5 cm/s for 5 centimetres per second, 13.6 g/cm3 for 13.6 grams per cubic centimetre. 
   
 7. 
-Unless the question requires the answer in terms of π, the calculator value for π or π = 3.142 should be 
+Unless the question requires the answer in terms of , the calculator value for  or  = 3.142 should be 
 used. 
  
 8. 
@@ -277,7 +275,7 @@ approximation and estimation (including rounding off numbers to a required
 number of decimal places or significant figures and estimating the results of 
 computation) 
 • 
-use of standard form A × 10n, where n is an integer, and 1 ⩽ A < 10 
+use of standard form A  10n, where n is an integer, and 1 ⩽ A < 10 
 • 
 positive, negative, zero and fractional indices 
 • 
@@ -325,24 +323,27 @@ using letters to represent numbers
 • 
 interpreting notations: 
 - 
-ab as a × b 
+ab as a  b 
 - 
 a
-b  as  a ÷ b or a × 1
-b  
+b
+ as  a  b or a  1
+b
+ 
 - 
-a2  as a × a,  a3  as a × a × a,  a2b as a × a × b, … 
+a2  as a  a,  a3  as a  a  a,  a2b as a  a  b, … 
 - 
-3y as y + y + y or 3 × y 
+3y as y + y + y or 3  y 
 - 
-3(x + y) as 3 × (x + y) 
+3(x + y) as 3  (x + y) 
 - 
 3
 5
 y
 +
- as (3 + y) ÷ 5 or 1
-5  × (3 + y)  
+ as (3 + y)  5 or 1
+5
+  (3 + y)  
 • 
 evaluation of algebraic expressions and formulae 
 • 
@@ -397,15 +398,15 @@ multiplication and division of simple algebraic fractions such as:
 a
 ab
 b
-
-
-
-
-
-
-
-
-
+
+
+
+
+
+
+
+
+
  
 2
 3
@@ -414,7 +415,7 @@ b
 10
 a
 a
-÷
+
  
 • 
 addition and subtraction of algebraic fractions with linear or quadratic 
@@ -593,13 +594,13 @@ A ∩ B
 Number of elements in set A 
 n(A) 
 ‘… is an element of …’ 
-∈ 
+ 
 ‘… is not an element of …’ 
-∉ 
+ 
 Complement of set A 
 A′ 
 The empty set 
-∅ 
+ 
 Universal set 
  
 A is a subset of B 
@@ -607,9 +608,9 @@ A ⊆ B
 A is not a subset of B 
 A ⊈ B 
 A is a (proper) subset of B 
-A ⊂ B 
+A  B 
 A is not a (proper) subset of B 
-A ⊄ B 
+A  B 
 • 
 union and intersection of two sets 
 • 
@@ -724,7 +725,8 @@ calculate unknown sides and angles in right-angled triangles
 extending sine and cosine to obtuse angles 
 • 
 use of the formula 1
-2 ab sin C for the area of a triangle 
+2
+ab sin C for the area of a triangle 
 • 
 use of sine rule and cosine rule for any triangle 
 • 
@@ -772,17 +774,13 @@ dimensions
 • 
 use of notations: x
 y
-
-
-
-
-
-
-, AB
-
-, a, AB
-
- and a  
+
+
+
+
+
+
+, AB , a, AB  and a  
 • 
 representing a vector as a directed line segment 
 • 
@@ -792,12 +790,12 @@ position vectors
 • 
 magnitude of a vector x
 y
-
-
-
-
-
-
+
+
+
+
+
+
  as 
 2
 2
@@ -882,13 +880,13 @@ Compound interest
 Total amount = 
 1
 100
-
-
+
+
 +
-
-
-
-
+
+
+
+
 n
 r
 P
@@ -897,9 +895,8 @@ P
 Mensuration 
  
 Curved surface area of a cone 
-π
-=
-rl  
+
+= rl  
  
 Surface area of a sphere = 4πr2 
  
@@ -916,10 +913,10 @@ Volume of a sphere
 Area of triangle ABC = 1
 2 ab sin C 
  
-Arc length = rθ , where θ  is in radians 
+Arc length = r , where   is in radians 
  
 Sector area = 1
-2 r2θ , where θ  is in radians 
+2 r2 , where   is in radians 
  
  
 Trigonometry 
@@ -953,26 +950,26 @@ A
  
 Statistics 
  
-Mean = ∑
-∑
+Mean = 
+
 fx
 f  
  
 Standard deviation = 
 2
 2 _  
-
-
-
-
-
-
-
-
-∑
-∑
-∑
-∑
+
+
+
+
+
+
+
+
+
+
+
+
 fx
 fx
 f
@@ -1001,7 +998,7 @@ the number of elements in set A
 ∅ 
 the empty set 
 universal set 
-A′ 
+A 
 the complement of the set A 
 ℤ 
 the set of integers, {0, ±1, ±2, ±3, …}  
@@ -1059,7 +1056,7 @@ is not equal to
 is identical to or is congruent to 
 ≈ 
 is approximately equal to 
-∝ 
+ 
 is proportional to 
 < 
 is less than 
@@ -1069,7 +1066,7 @@ is less than or equal to; is not greater than
 is greater than 
 ⩾; ≮ 
 is greater than or equal to; is not less than 
-∞ 
+ 
 infinity 
  
  
@@ -1090,7 +1087,7 @@ n
 i
 i
 a
-=∑
+=
   
 a1 + a2 + ... + an 
 a   
@@ -1101,12 +1098,9 @@ n!
 n factorial for n ∈ ℤ+ ∪ {0}, (0! = 1) 
 n
 r
-
-
-
-
-
-
+
+
+
   
 the binomial coefficient 
 (
@@ -1158,7 +1152,7 @@ x
 a
 → f(x) 
 the limit of f(x) as x tends to a 
-∆x;  δx 
+x;  x 
 an increment of x 
 d
 d
@@ -1185,22 +1179,21 @@ x
 x
 f
 x
-′
-′′
-
+
+
  the first, second, … nth derivatives of f(x) with respect to x 
 d
 y x
-∫
+
   
 indefinite integral of y with respect to x 
 d
 b
 a y x
-∫
+
   
 the definite integral of y with respect to x for values of x between a and b 
-x, x, … 
+x , x , … 
 the first, second, …derivatives of x with respect to time 
  
  
@@ -1220,10 +1213,10 @@ logarithm of x to base 10
 6. Circular Functions and Relations 
 sin, cos, tan, 
 cosec, sec, cot 
-}the circular functions 
+the circular functions 
 sin–1, cos–1, tan–1 
 cosec–1, sec–1, cot–1 
-}the inverse circular functions 
+the inverse circular functions 
  
  
 4052 MATHEMATICS GCE ORDINARY LEVEL SYLLABUS 
@@ -1254,16 +1247,15 @@ y
 +
 =
 +
-, 
-(
+, (
 )
 cos
 sin
 r
 i
 r
-θ
-θ
+
+
 +
 =
  
@@ -1271,8 +1263,8 @@ arg z
 the argument of z, arg(r(cos
  + i sin
 )) =
-, –π <
-⩽ π 
+, – <
+⩽  
 z* 
 the complex conjugate of z, (x + iy)* = x – iy 
  
@@ -1291,9 +1283,7 @@ the determinant of the square matrix M
 9. Vectors 
 a 
 the vector a 
-AB
-
-  
+AB   
 the vector represented in magnitude and direction by the directed line segment AB 
 â 
 a unit vector in the direction of the vector a 
@@ -1301,12 +1291,8 @@ i, j, k
 unit vectors in the directions of the Cartesian coordinate axes 
 a   
 the magnitude of a 
-AB
-
-  
-the magnitude of AB
-
- 
+AB   
+the magnitude of AB  
 a.b 
 the scalar product of a and b 
 a×b 
@@ -1390,11 +1376,11 @@ x
 n
 =
 −
-−∑
+−
  
-φ 
+ 
 probability density function of the standardised normal variable with distribution N (0, 1) 
-Φ 
+ 
 corresponding cumulative distribution function 
 ρ 
 linear product-moment correlation coefficient for a population 

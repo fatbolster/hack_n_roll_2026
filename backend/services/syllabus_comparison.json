@@ -1,94 +1,124 @@
 {
   "syllabi_diff": [
     {
-      "topic": "Subject identification",
-      "math_scope": "Chemistry (GCE O-Level syllabus 6092) — overall subject and assessment structure (papers 1–3, weightings, practical assessment).",
+      "topic": "Number and their operations (N1)",
+      "math_scope": "Primes, prime factorisation; HCF/LCM via factorisation; integers, rationals, reals; four arithmetic operations; ordering on number line; approximation/estimation; standard form A × 10^n; indices (positive, negative, zero, fractional) and laws of indices; calculator calculations.",
       "status": "unchanged",
-      "change_summary": "The subject remains Chemistry (O-Level 6092). Assessment structure, paper types, durations and weightings are the same in 2025 and 2026. Only minor editorial/publisher metadata changed (© line)."
+      "change_summary": "Content, formulas and technical operations identical between 2025 and 2026. Cognitive demand remains basic-to-intermediate numeracy (factorisation, indices, estimation). Any wording/formatting edits do not alter scope or complexity."
     },
     {
-      "topic": "Experimental Chemistry",
-      "math_scope": "Measurement and instrumentation: naming and using apparatus for time, temperature, mass, volume; experimental design variables; separation methods (filtration, crystallisation, distillation, chromatography) and interpretation of chromatograms (Rf).",
+      "topic": "Ratio and proportion (N2)",
+      "math_scope": "Ratios with rational numbers; simplification of ratios; map scales (distance and area); direct and inverse proportion problems.",
       "status": "unchanged",
-      "change_summary": "Learning outcomes and practical techniques (including chromatography, Rf interpretation and apparatus expectations) are the same; no new quantitative methods introduced."
+      "change_summary": "Same technical scope and problem types in both syllabi. Cognitive demand unchanged (procedural manipulation and proportional reasoning)."
     },
     {
-      "topic": "Particulate Nature of Matter",
-      "math_scope": "Qualitative particle theory and atomic structure: states of matter, kinetic particle explanations, relative charges and masses of subatomic particles, nuclide notation, isotopes; qualitative dependence of diffusion on mass and temperature.",
+      "topic": "Percentage (N3)",
+      "math_scope": "Percent expressions, comparisons, percentages >100%, increase/decrease by a percentage, reverse percentages.",
       "status": "unchanged",
-      "change_summary": "Content identical — same subtopics and depth (no addition of orbital quantum classifications)."
+      "change_summary": "No substantive change; retains applied percentage calculations and reverse-percentage problems; cognitive demand remains routine application and interpretation."
     },
     {
-      "topic": "Chemical Bonding and Structure",
-      "math_scope": "Descriptive bonding models: ionic, covalent (dot-and-cross), metallic bonding; deducing structures and relating to macroscopic properties, comparison of allotropes (diamond vs graphite), alloys and macromolecules.",
+      "topic": "Rate and speed (N4)",
+      "math_scope": "Average rate and average speed calculations; unit conversions (e.g., km/h ↔ m/s).",
       "status": "unchanged",
-      "change_summary": "Topic scope and required representations (dot-and-cross, no lattice diagrams required) remain the same; no additions or removals of subtopics."
+      "change_summary": "Scope and complexity unchanged — routine computation and unit handling for kinematics-style problems."
     },
     {
-      "topic": "Chemical Calculations (Stoichiometry and Mole Concept)",
-      "math_scope": "Numerical chemistry: Ar, Mr, definition of mole (Avogadro constant), percentage mass, empirical and molecular formulae, reacting masses, gas volumes (one mole = 24 dm^3 at RTP), concentration (mol/dm^3 or g/dm^3), titration calculations, limiting reactant problems, % yield and % purity.",
+      "topic": "Algebraic expressions and formulae (N5)",
+      "math_scope": "Use of letters, evaluation, translation from context, nth-term patterns; linear expression manipulation, factorisation, expansion; change of subject; quadratic factorisation; algebraic fractions (multiply/divide/add/subtract) with linear/quadratic denominators; standard identities (a±b)^2, a^2−b^2.",
       "status": "unchanged",
-      "change_summary": "Technical scope unchanged — same formulas, constants and calculation types. No new quantitative laws or variable-temperature gas law calculations introduced."
+      "change_summary": "All algebra topics and specific operations (including quadratic factorisation and algebraic fractions) are present in both documents. Cognitive demand (algebraic manipulation through intermediate algebra) unchanged."
     },
     {
-      "topic": "Acid-Base Chemistry",
-      "math_scope": "Ionic description of acids/alkalis (H+/OH-), pH conceptual scale and qualitative acidity/alkalinity comparisons (no pH calculations), strong vs weak acids qualitatively, neutralisation equations and solubility rules for salts.",
+      "topic": "Functions and graphs (N6)",
+      "math_scope": "Cartesian coordinates; plotting ordered pairs; linear (y = ax + b) and quadratic (y = ax^2 + bx + c) functions and graphs; gradient of linear graphs; quadratic graph properties and sketching (including vertex form and factorised form); power functions y = a x^n for specified n; simple sums of such power functions; exponential functions y = k a^x (a positive integer); estimation of gradient via tangent.",
       "status": "unchanged",
-      "change_summary": "Coverage and cognitive demand preserved; pH calculations remain excluded and only qualitative/ion-based descriptions required."
+      "change_summary": "Technical coverage of linear, quadratic, power and exponential graphs and basic differential intuition (tangent gradient estimation) is the same. Cognitive demand remains intermediate: graph interpretation, sketching, and basic conceptual calculus intuition."
     },
     {
-      "topic": "Qualitative Analysis",
-      "math_scope": "Identification tests and inference: precipitation reactions with NaOH/NH3, anion tests (carbonate, chloride, iodide, nitrate, sulfate), gas tests (CO2, O2, H2, NH3, Cl2, SO2). Emphasis on observational interpretation rather than quantitative analysis.",
+      "topic": "Equations and inequalities (N7)",
+      "math_scope": "Solve linear equations and simple fractional reductions; simultaneous linear equations (substitution, elimination, graphical); quadratic equations (factorisation, formula, completing the square, graphical); fractional equations reducible to quadratics; formulating equations from context; solve linear inequalities and represent on number line.",
       "status": "unchanged",
-      "change_summary": "Same list of tests and expected outcomes; procedural expectations and exclusions (e.g., some SO2 tests not required) unchanged."
+      "change_summary": "No change in methods or problem types; complexity spans routine algebra to intermediate problem formulation and quadratic techniques."
     },
     {
-      "topic": "Redox Chemistry (Oxidation/Reduction)",
-      "math_scope": "Conceptual and symbolic redox: definitions via oxygen/hydrogen gain–loss and electron transfer; identifying redox by changes in oxidation state; simple test reactions (KI, acidified KMnO4).",
+      "topic": "Set language and notation (N8)",
+      "math_scope": "Set notation and language (union, intersection, complement, empty/universal sets, element/subset relations), Venn diagrams and basic operations on two sets.",
       "status": "unchanged",
-      "change_summary": "No change in scope — redox defined both in classical and electron-transfer terms; same practical tests and cognitive level."
+      "change_summary": "Concepts identical across years. Presentation shows minor symbol/typography differences (e.g., subset symbols rendered differently) but no substantive change to mathematical content or cognitive demand."
     },
     {
-      "topic": "Electrochemistry",
-      "math_scope": "Predictive and symbolic work: electrolysis of molten and aqueous electrolytes, selective discharge principles (cations/anions, concentration effects, reactivity series), construction of ionic electrode equations, electroplating, purification of copper, simple cells and fuel cell concept (qualitative).",
+      "topic": "Matrices (N9)",
+      "math_scope": "Display/interpretation of information in matrices of any order; scalar multiplication; sum and product (where appropriate) of two matrices; contextual interpretation problems.",
       "status": "unchanged",
-      "change_summary": "Topic content unchanged; quantitative Faraday-law calculations and detailed fuel cell construction are explicitly excluded in both versions."
+      "change_summary": "Matrix operations and interpretative tasks remain the same in both syllabi. Cognitive demand: introductory matrix arithmetic and application."
     },
     {
-      "topic": "Patterns in the Periodic Table",
-      "math_scope": "Qualitative patterns and predictions: arranging by proton number, relation to electronic configuration, valence/ionic charge for first 20 elements, group trends (Groups 1, 17, 18), transition element characteristics and reactivity series with experimental deduction.",
+      "topic": "Angles, triangles and polygons (G1)",
+      "math_scope": "Classification of angles; angle relationships (vertically opposite, straight line, at a point); angles with parallel lines and a transversal; properties of triangles, special quadrilaterals, regular polygons including symmetry; interior/exterior angle sums; construction of simple figures using instruments.",
       "status": "unchanged",
-      "change_summary": "Same conceptual and inferential demands — predicting properties from periodic position and deducing reactivity from experimental data remain unchanged."
+      "change_summary": "No substantive changes; geometric facts and construction skills maintained. Cognitive demand remains geometric reasoning at O‑level level."
     },
     {
-      "topic": "Chemical Energetics",
-      "math_scope": "Energy conceptualisation: definition of enthalpy change (exothermic/endothermic), energy profile diagrams (∆H, activation energy), qualitative bond-breaking/bond-making energetics and overall enthalpy analysis.",
+      "topic": "Congruence and similarity (G2)",
+      "math_scope": "Congruent and similar figures; properties of similar triangles/polygons (angle equality, proportional sides); enlargements/reductions; scale drawings; perpendicular/angle bisectors; triangle congruence/similarity tests; area/volume ratios for similar shapes; applied problems.",
       "status": "unchanged",
-      "change_summary": "Scope and cognitive demand preserved — qualitative energy diagrams and explanations required; no quantitative thermochemistry (entropy, Hess's law calculations) added."
+      "change_summary": "Scope and depth unchanged — similarity and congruence reasoning retained. Cognitive demand: proportional reasoning and geometric proof/problem solving unchanged."
     },
     {
-      "topic": "Rate of Reactions",
-      "math_scope": "Qualitative kinetics: effect of concentration, pressure, particle size, temperature and catalysts explained by collision theory; activation energy pathway reasoning; experimental design and data interpretation for reaction-rate investigations.",
+      "topic": "Properties of circles (G3)",
+      "math_scope": "Chord and centre relations; perpendicular bisector properties; tangent properties (tangent length equality, tangent-radius right angle); angle properties (angle in a semicircle, angle between tangent and radius, centre vs circumference, angles in same/opposite segments).",
       "status": "unchanged",
-      "change_summary": "No addition of rate equations or integrated rate-law mathematics; emphasis remains on conceptual collision-based explanations and practical data interpretation."
+      "change_summary": "All standard circle theorems and related problem types persist; cognitive demand unchanged (theorem application and geometric reasoning)."
     },
     {
-      "topic": "Organic Chemistry (Fuels, Hydrocarbons, Alcohols, Acids, Esters, Polymers)",
-      "math_scope": "Structural representation and nomenclature (C1–C4), homologous series formulas (alkanes CnH2n+2, alkenes CnH2n), isomer identification, simple organic reactions (combustion, addition, oxidation, esterification), polymer structures and deduced monomer–polymer relationships, recycling/disposal issues (qualitative).",
+      "topic": "Pythagoras' theorem and trigonometry (G4)",
+      "math_scope": "Pythagoras' theorem and converse; trigonometric ratios (sin, cos, tan) for right triangles; extension of sine/cosine to obtuse angles; area formula 1/2 ab sin C; sine and cosine rules for any triangle; 2D and 3D problems including elevation/depression and bearings.",
       "status": "unchanged",
-      "change_summary": "Same coverage of structural drawing, naming and reaction types; no new mechanistic or advanced organic calculations introduced."
+      "change_summary": "No substantive updates; trigonometric rules and applications retained. Cognitive demand includes both routine calculations and multi-step contextual problems."
     },
     {
-      "topic": "Maintaining Air Quality",
-      "math_scope": "Quantitative/qualitative atmospheric chemistry: composition of dry air (approx. % by volume), identification of pollutants and sources, pollutant mitigation reactions (e.g., catalytic converter redox, flue-gas desulfurisation), carbon cycle processes and greenhouse gas effects (qualitative impacts).",
+      "topic": "Mensuration (G5)",
+      "math_scope": "Area of parallelogram/trapezium; perimeter/area of composite shapes; volumes and surface areas of common solids (cube, cuboid, prism, cylinder, pyramid, cone, sphere); unit conversions (cm^2↔m^2, cm^3↔m^3); composite solids; arc length, sector and segment areas; radian measure and degree-radian conversion.",
       "status": "unchanged",
-      "change_summary": "Same learning outcomes and level of quantitative detail (percent by volume, qualitative cycle descriptions); no novel modelling or quantitative climate calculations added."
+      "change_summary": "Full mensuration topic set unchanged. Cognitive demand remains calculation-heavy with some geometric reasoning (composite solids, segments)."
     },
     {
-      "topic": "Mathematical Requirements (for Chemistry)",
-      "math_scope": "List of required math skills: arithmetic operations, fractions/percentages/ratios, standard notation, direct/inverse proportion, positive integer indices, graph drawing/interpretation, unit conversion, dimensional reasoning (length/area/volume), solving x = yz algebraically, inequality/approximation symbols, use of significant figures.",
+      "topic": "Coordinate geometry (G6)",
+      "math_scope": "Gradient of straight line from two points; length of line segment from coordinates; equation of straight line (y = mx + c); geometric problems using coordinates.",
       "status": "unchanged",
-      "change_summary": "Mathematical competencies expected of candidates are unchanged; same explicit list of operations and graph skills."
+      "change_summary": "Content and technical demands preserved; routine analytic geometry tasks unchanged."
+    },
+    {
+      "topic": "Vectors in two dimensions (G7)",
+      "math_scope": "Vector notation and representation; directed line segments; translations by vectors; position vectors; magnitude calculation; expressing vectors as sum/difference of two coplanar vectors; scalar multiplication; geometric vector problems.",
+      "status": "unchanged",
+      "change_summary": "Vector concepts and operations identical in scope and complexity. Notational rendering differences between documents do not change mathematical content."
+    },
+    {
+      "topic": "Data handling and analysis (S1)",
+      "math_scope": "Data collection/classification/tabulation; interpretation of tables, bar/pictogram/line/pie charts, dot diagrams, histograms (equal class width), stem-and-leaf, cumulative frequency, box-and-whisker; advantages/limitations of representations; measures of central tendency (mean, median, mode) including mean for grouped data; quartiles/percentiles; measures of spread (range, IQR, standard deviation) including grouped/ungrouped SD; comparison using mean and SD; drawing inferences and recognising misleading displays.",
+      "status": "unchanged",
+      "change_summary": "Statistical content and computational requirements unchanged. Cognitive demand spans descriptive statistics computation and critical interpretation of representations."
+    },
+    {
+      "topic": "Probability (S2)",
+      "math_scope": "Probability fundamentals; single-event probabilities; simple combined events (possibility diagrams, tree diagrams); addition and multiplication rules for mutually exclusive and independent events.",
+      "status": "unchanged",
+      "change_summary": "No change in probability topics or expected complexity — basic combinatorial/probabilistic reasoning and tree/diagram use retained."
+    },
+    {
+      "topic": "Mathematical formulae",
+      "math_scope": "Common formulae provided (compound interest formula; mensuration formulae: curved surface area, surface area, volumes of cone/sphere; area formula 1/2ab sin C; arc length rθ; sector area 1/2 r^2 θ; trigonometry/sine-cosine rules; statistics mean and standard deviation expressions).",
+      "status": "unchanged",
+      "change_summary": "Formula list is substantively the same in both syllabi. Any typographical/formatting adjustments do not introduce new formulae or remove existing ones; cognitive demand from formula application unchanged."
+    },
+    {
+      "topic": "Mathematical notation",
+      "math_scope": "Notation across sets, operations, functions, calculus (limits, derivatives, integrals), exponentials/logarithms, circular functions, complex numbers (forms, modulus, argument, conjugate), matrices (inverse, transpose, determinant), vectors (unit vectors, dot/cross products), probability/statistics symbols and distributions.",
+      "status": "unchanged",
+      "change_summary": "The notation inventories in both documents cover the same mathematical symbols and concepts. There are minor typographic/renderer differences in some symbols between 2025 and 2026, but no substantive change to the set of notations or implied cognitive expectations."
     }
   ]
 }

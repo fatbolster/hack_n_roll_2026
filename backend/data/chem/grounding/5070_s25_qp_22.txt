@@ -1,0 +1,1262 @@
+ 
+[Turn over
+Cambridge O Level
+This document has 16 pages.
+DC (WW/FC) 341462/3
+© UCLES 2025
+CHEMISTRY 
+5070/22
+Paper 2 Theory 
+May/June 2025
+ 
+1 hour 45 minutes
+You must answer on the question paper.
+No additional materials are needed.
+INSTRUCTIONS
+ 
+●
+Answer all questions.
+ 
+●
+Use a black or dark blue pen. You may use an HB pencil for any diagrams or graphs.
+ 
+●
+Write your name, centre number and candidate number in the boxes at the top of the page.
+ 
+●
+Write your answer to each question in the space provided.
+ 
+●
+Do not use an erasable pen or correction fluid.
+ 
+●
+Do not write on any bar codes.
+ 
+●
+You may use a calculator.
+ 
+●
+You should show all your working and use appropriate units.
+INFORMATION
+ 
+●
+The total mark for this paper is 80.
+ 
+●
+The number of marks for each question or part question is shown in brackets [ ].
+ 
+●
+The Periodic Table is printed in the question paper.
+* 1 1 7 1 6 0 0 7 5 6 *
+,	,
+* 0000800000001 *
+¬O. 4mHuOªE^y5W
+¬aqO¤Tq~¥B n;
+¥ueuUeUeUeEUUU
+2
+5070/22/M/J/25
+© UCLES 2025
+1 
+Choose from the following salts to answer the questions.
+aluminium sulfate
+barium chloride
+copper(II) nitrate
+copper(II) sulfate
+magnesium chloride
+potassium iodide
+potassium manganate(VII)
+silver chloride
+sodium bromide
+ 
+Each salt can be used once, more than once or not at all.
+ 
+State which salt:
+ 
+(a) is prepared using a precipitation reaction
+ ............................................................................................................................................. [1]
+ 
+(b) gives a yellow flame test colour
+ ............................................................................................................................................. [1]
+ 
+(c) dissolves to form a dark purple aqueous solution
+ ............................................................................................................................................. [1]
+ 
+(d) has an aqueous solution that reacts with dilute sulfuric acid to give a white precipitate
+ ............................................................................................................................................. [1]
+ 
+(e) has an aqueous solution that reacts with aqueous bromine.
+ ............................................................................................................................................. [1]
+ 
+[Total: 5]
+* 0000800000002 *
+,	,
+ĬÍĊ®Ġ´íÈõÏĪÅĊßû·þ×
+ĬáęòÎĨęĉëĀüĊúĖ¾ăÿĂ
+ĥåµĕµµĥµĕĕõąąÕĥĕõÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+3
+5070/22/M/J/25
+© UCLES 2025
+[Turn over
+2 
+A dilute aqueous solution of magnesium chloride is electrolysed using graphite electrodes.
+ 
+(a) Graphite has a high melting point and is inert.
+ 
+ 
+(i) Explain why graphite has a high melting point.
+ 
+ 
+ Use ideas about structure and bonding.
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ..................................................................................................................................... [2]
+ 
+ 
+(ii) State one other property of graphite that makes it suitable for use as an electrode during 
+electrolysis.
+ ..................................................................................................................................... [1]
+ 
+(b) Predict the products of the electrolysis of dilute aqueous magnesium chloride with graphite 
+electrodes.
+product at anode  .......................................................................................................................
+product at cathode  ....................................................................................................................
+ 
+[2]
+ 
+(c) Molten aluminium oxide is electrolysed using graphite electrodes to form oxygen and 
+aluminium.
+ 
+ 
+Construct the ionic half-equation for the reaction at each electrode.
+reaction at anode  ......................................................................................................................
+reaction at cathode  ...................................................................................................................
+ 
+[2]
+ 
+(d) A metal object is electroplated with copper.
+ 
+ 
+The metal object is the cathode during this electrolysis.
+ 
+ 
+State the name of the substance used for the anode and for the electrolyte.
+anode  ........................................................................................................................................
+electrolyte  .................................................................................................................................
+ 
+[2]
+ 
+[Total: 9]
+* 0000800000003 *
+,	,
+ĬÏĊ®Ġ´íÈõÏĪÅĊßù·þ×
+ĬáĚñÖĢĕùÎúą¿ÞĞĚăïĂ
+ĥåÅÕõÕąÕąĥåąąµąÕĥÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+4
+5070/22/M/J/25
+© UCLES 2025
+3 
+The equation for the reaction between ethene and bromine is shown in Fig. 3.1.
+H
+C
+H
+Br
+Br
+H
+C
+H
+Br
+C
+H
+H
+Br
+H
+C
++
+H
+Fig. 3.1
+ 
+(a) Describe the observation when ethene gas is bubbled through aqueous bromine.
+ ...................................................................................................................................................
+ ............................................................................................................................................. [1]
+ 
+(b) Table 3.1 shows some bond energies.
+Table 3.1
+bond
+bond energy in kJ / mol
+C
+H
+410
+C
+C
+350
+C
+C
+610
+Br
+Br
+193
+C
+Br 
+280
+ 
+ 
+Show by calculation that the enthalpy change of the reaction between ethene and bromine, 
+ΔH, is –107 kJ / mol.
+ 
+[3]
+* 0000800000004 *
+,	,
+ĬÍĊ®Ġ´íÈõÏĪÅĊÝû·Ā×
+ĬáĚôÖĬħðéøþÈĀÂ¼ēćĂ
+ĥĕĕÕµÕąõĥÅÕąÅµåÕõÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+5
+5070/22/M/J/25
+© UCLES 2025
+[Turn over
+ 
+(c) Complete the reaction pathway diagram in Fig. 3.2 for the reaction between ethene and 
+bromine.
+ 
+ 
+Label the:
+• 
+reactants
+• 
+product
+• 
+enthalpy change of the reaction, ΔH
+• 
+activation energy, Ea.
+progress of reaction
+energy
+Fig. 3.2
+ 
+[3]
+ 
+(d) Draw a dot-and-cross diagram to show the electronic configuration in a molecule of ethene.
+ 
+ 
+Show only the outer shell electrons.
+ 
+[2]
+ 
+[Total: 9]
+* 0000800000005 *
+,	,
+ĬÏĊ®Ġ´íÈõÏĪÅĊÝù·Ā×
+ĬáęóÎĞīĀÐĂóāÜºĠē÷Ă
+ĥĕĥĕõµĥĕõµąąÅÕÅĕĥÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+6
+5070/22/M/J/25
+© UCLES 2025
+4 
+Ethanoic acid, CH3COOH, is a member of the homologous series of carboxylic acids.
+ 
+(a) Give the general formula of the homologous series of carboxylic acids.
+ ............................................................................................................................................. [1]
+ 
+(b) One characteristic of a homologous series is that all the compounds share similar chemical 
+properties.
+ 
+ 
+Explain why the compounds share similar chemical properties.
+ ...................................................................................................................................................
+ ............................................................................................................................................. [1]
+ 
+(c) The equation for the reaction between calcium and dilute ethanoic acid is shown.
+Ca + 2CH3COOH 
+ H2 + Ca(CH3COO)2
+ 
+ 
+(i) State the name of the compound Ca(CH3COO)2.
+ ..................................................................................................................................... [1]
+ 
+ 
+(ii) A sample of 1.35 g of calcium is added to excess dilute ethanoic acid.
+ 
+ 
+ Calculate the volume of hydrogen formed measured at room temperature and pressure.
+ 
+ 
+ Give your answer to two significant figures.
+ 
+volume =  .................................................. dm3 [3]
+ 
+(d) Dilute ethanoic acid is a component of vinegar.
+ 
+ 
+Describe the manufacture of vinegar.
+ 
+ 
+Include the reactants and conditions.
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ............................................................................................................................................. [3]
+* 0000800000006 *
+,	,
+ĬÑĊ®Ġ´íÈõÏĪÅĊàù¶þ×
+ĬáĚóÑĨăĆØąĂü¼Âý»ćĂ
+ĥÅÅĕõĕĥµµÕåąąÕĥÕµÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+7
+5070/22/M/J/25
+© UCLES 2025
+[Turn over
+ 
+(e) Butanoic acid and propanoic acid are two other carboxylic acids.
+ 
+ 
+(i) State the molecular formula of butanoic acid.
+ ..................................................................................................................................... [1]
+ 
+ 
+(ii) Draw the displayed formula of propanoic acid.
+ 
+[1]
+ 
+ 
+(iii) Solid sodium carbonate is added to dilute propanoic acid.
+ 
+ 
+ Predict an observation for this reaction.
+ ...........................................................................................................................................
+ ..................................................................................................................................... [1]
+ 
+ 
+(iv) Aqueous sodium hydroxide is added to dilute butanoic acid.
+ 
+ 
+ State the names of the products of this reaction.
+ ..................................................................................................................................... [1]
+ 
+[Total: 13]
+* 0000800000007 *
+,	,
+ĬÓĊ®Ġ´íÈõÏĪÅĊàû¶þ×
+ĬáęôÙĢÿöáóï­ĠºÙ»÷Ă
+ĥÅµÕµõąÕååõąąµąĕåÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+8
+5070/22/M/J/25
+© UCLES 2025
+5 
+The combustion of fossil fuels is used in some power stations.
+ 
+(a) Some power stations use diesel oil as a fuel.
+ 
+ 
+(i) One compound in diesel oil has the formula C12H26.
+ 
+ 
+ Construct the symbol equation to show the complete combustion of C12H26.
+ ..................................................................................................................................... [1]
+ 
+ 
+(ii) The complete combustion of C12H26 produces an air pollutant.
+ 
+ 
+ State one adverse effect of this pollutant.
+ ..................................................................................................................................... [1]
+ 
+ 
+(iii) Explain how diesel oil is separated from petroleum.
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ..................................................................................................................................... [3]
+ 
+(b) Sulfur dioxide is removed from the emissions from a power station using calcium carbonate 
+powder.
+ 
+ 
+(i) State one adverse effect of sulfur dioxide as an air pollutant.
+ ..................................................................................................................................... [1]
+ 
+ 
+(ii) One mole of sulfur dioxide reacts with one mole of calcium carbonate to make one mole 
+of carbon dioxide and only one other product.
+ 
+ 
+ Suggest the formula of this product.
+ 
+formula  ......................................................... [1]
+ 
+ 
+(iii) State and explain the effect of increasing the temperature on the rate of this reaction.
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ..................................................................................................................................... [2]
+* 0000800000008 *
+,		,
+ĬÑĊ®Ġ´íÈõÏĪÅĊÞù¶Ā×
+ĬáęñÙĬíóÖíø¶¾ĖûëÿĂ
+ĥõĥÕõõąõÅąąąÅµåĕµÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+9
+5070/22/M/J/25
+© UCLES 2025
+[Turn over
+ 
+ 
+(iv) Lumps of calcium carbonate are used instead of calcium carbonate powder.
+ 
+ 
+ State and explain the effect of this change on the rate of this reaction.
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ..................................................................................................................................... [2]
+ 
+[Total: 11]
+* 0000800000009 *
+,	
+,
+ĬÓĊ®Ġ´íÈõÏĪÅĊÞû¶Ā×
+ĬáĚòÑĞñăãċĉóĚĞßëïĂ
+ĥõĕĕµĕĥĕÕõÕąÅÕÅÕåÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+10
+5070/22/M/J/25
+© UCLES 2025
+6 
+Bromine, Br2, is in Group VII of the Periodic Table.
+ 
+(a) The melting point of bromine is –7 °C and the boiling point is 59 °C.
+ 
+ 
+(i) Explain why bromine is a solid at –50 °C.
+ ...........................................................................................................................................
+ ..................................................................................................................................... [1]
+ 
+ 
+(ii) Describe the arrangement and motion of bromine molecules at –50 °C.
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ ..................................................................................................................................... [3]
+ 
+(b) A sample of bromine liquid contains 2.408 × 1025 molecules.
+ 
+ 
+One mole of bromine liquid contains 6.02 × 1023 molecules.
+ 
+ 
+Calculate the mass of this sample of bromine liquid.
+ 
+mass of sample =  ....................................................... g [2]
+ 
+(c) The ionic equation shows the reaction of bromine with warm concentrated aqueous 
+sodium hydroxide.
+3Br2 + 6OH– 
+ BrO3
+– + 5Br – + 3H2O
+ 
+ 
+(i) State the oxidation number of bromine in Br2 and in Br –.
+Br2  ............................................................
+Br –  ............................................................
+ 
+[2]
+ 
+ 
+(ii) During the reaction bromine is reduced.
+ 
+ 
+ Explain why, using ideas about electrons.
+ ...........................................................................................................................................
+ ..................................................................................................................................... [1]
+* 0000800000010 *
+,	,
+ĬÑĊ®Ġ´íÈõÏĪÅĊßù¸þ×
+ĬáĜñÔĪõĥÜöïĐâĘďē÷Ă
+ĥåąĕõõåõĥµąÅÅĕåĕąÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+11
+5070/22/M/J/25
+© UCLES 2025
+[Turn over
+ 
+(d) Bromine reacts with hydrogen in a closed system to form an equilibrium mixture. The 
+forward reaction releases thermal energy into the surroundings.
+Br2(g) + H2(g) 
+ 2HBr(g)
+ 
+ 
+(i) The temperature of the equilibrium mixture is increased. The pressure remains constant.
+ 
+ 
+ State and explain what happens to the position of equilibrium.
+statement  ..........................................................................................................................
+explanation  ........................................................................................................................
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ 
+[2]
+ 
+ 
+(ii) The pressure of the equilibrium mixture is increased. The temperature remains constant.
+ 
+ 
+ State and explain what happens to the position of equilibrium.
+statement  ..........................................................................................................................
+explanation  ........................................................................................................................
+ ...........................................................................................................................................
+ ...........................................................................................................................................
+ 
+[2]
+ 
+(e) A bromide of phosphorus contains 7.2% phosphorus by mass.
+ 
+ 
+Calculate the empirical formula of this bromide.
+ 
+ 
+Show your working.
+ 
+empirical formula  ......................................................... [3]
+ 
+[Total: 16]
+* 0000800000011 *
+,	,
+ĬÓĊ®Ġ´íÈõÏĪÅĊßû¸þ×
+ĬáěòÜĠùĕÝĄĂÙöĠËēćĂ
+ĥåõÕµĕÅĕõÅÕÅÅõÅÕĕÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+12
+5070/22/M/J/25
+© UCLES 2025
+7 
+Iron is used to make stainless steel.
+ 
+Stainless steel is used to make cutlery because it is resistant to rusting.
+ 
+(a) Give one other reason why stainless steel is used to make cutlery.
+ ............................................................................................................................................. [1]
+ 
+(b) Stainless steel is an alloy.
+ 
+ 
+Give the meaning of the term alloy.
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ............................................................................................................................................. [1]
+ 
+(c) Iron nails are galvanised with zinc to prevent rusting.
+ 
+ 
+Explain two ways in which galvanising iron nails with zinc prevents rusting.
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ...................................................................................................................................................
+ ............................................................................................................................................. [3]
+ 
+(d) Iron reacts with hot dilute sulfuric acid to form hydrogen and aqueous iron(III) sulfate as the 
+only products.
+ 
+ 
+Construct a symbol equation for this reaction.
+ 
+ 
+Include state symbols.
+ ............................................................................................................................................. [2]
+ 
+[Total: 7]
+* 0000800000012 *
+,	,
+ĬÑĊ®Ġ´íÈõÏĪÅĊÝù¸Ā×
+ĬáěóÜĦċĔÚþĉÒØÄĩăïĂ
+ĥĕåÕõĕÅµĕĥåÅąõĥÕąÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+13
+5070/22/M/J/25
+© UCLES 2025
+[Turn over
+8 
+Fig. 8.1 shows the displayed formula of compound A.
+H
+C
+O
+O
+O
+C
+H
+H
+C
+H
+H
+C
+H
+H
+H
+Fig. 8.1
+ 
+(a) Compound A is both a saturated alcohol and a saturated ester.
+ 
+ 
+(i) Explain why compound A is saturated.
+ ...........................................................................................................................................
+ ..................................................................................................................................... [1]
+ 
+ 
+(ii) Explain why compound A is an alcohol.
+ ...........................................................................................................................................
+ ..................................................................................................................................... [1]
+ 
+ 
+(iii) Explain why compound A is an ester.
+ ...........................................................................................................................................
+ ..................................................................................................................................... [1]
+ 
+(b) Fig. 8.2 shows compound B.
+H
+O
+O
+C
+C
+H
+H
+C
+H
+H
+C
+H
+H
+O
+H
+Fig. 8.2
+ 
+ 
+Explain why compound A and compound B are a pair of structural isomers.
+ ...................................................................................................................................................
+ ............................................................................................................................................. [1]
+* 0000800000013 *
+,	,
+ĬÓĊ®Ġ´íÈõÏĪÅĊÝû¸Ā×
+ĬáĜôÔĤćĤßüøėĄ¼­ăÿĂ
+ĥĕÕĕµõåÕąĕõÅąĕąĕĕÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+14
+5070/22/M/J/25
+© UCLES 2025
+ 
+(c) The displayed formula of compound C is shown in Fig. 8.3.
+H
+O
+O
+C
+H
+H
+C
+H
+H
+C
+H
+H
+C
+H
+Fig. 8.3
+ 
+ 
+Compound C is an ester.
+ 
+ 
+Compound C is made by the reaction of an alcohol and a carboxylic acid in the presence of a 
+catalyst.
+ 
+ 
+(i) State the name of the type of catalyst used in this reaction.
+ ..................................................................................................................................... [1]
+ 
+ 
+(ii) State the name and draw the displayed formula of the alcohol used in this reaction.
+name  .................................................................................................................................
+ 
+ 
+ displayed formula
+ 
+[2]
+* 0000800000014 *
+,	,
+ĬÍĊ®Ġ´íÈõÏĪÅĊÞüµĂ×
+ĬáěòÑĞüĜÍîó¼àġ¹³ćĂ
+ĥµÕÕõĕĥõĥąõąÅÕåÕÅÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+15
+5070/22/M/J/25
+© UCLES 2025
+ 
+(d) Fig. 8.4 shows two monomers that react to make a condensation polymer.
+O
+H
+C
+H
+H
+C
+H
+monomer D
+H
+O
+H
+O
+H
+C
+O
+O
+C
+H
+monomer E
+H
+H
+H
+H
+H
+C
+C
+C
+O
+H
+Fig. 8.4
+ 
+ 
+(i) Draw the structure of one repeat unit of this condensation polymer.
+ 
+[2]
+ 
+ 
+(ii) An equal number of moles of the monomers D and E are reacted to make the 
+condensation polymer.
+ 
+ 
+ The total mass of the monomers D and E is 80 g. There is a 100% yield.
+ 
+ 
+ Explain why the mass of the condensation polymer made is less than 80 g.
+ ...........................................................................................................................................
+ ..................................................................................................................................... [1]
+ 
+[Total: 10]
+Permission to reproduce items where third-party owned material protected by copyright is included has been sought and cleared where possible. Every 
+reasonable effort has been made by the publisher (UCLES) to trace copyright holders, but if any items requiring clearance have unwittingly been included, the 
+publisher will be pleased to make amends at the earliest possible opportunity.
+To avoid the issue of disclosure of answer-related information to candidates, all copyright acknowledgements are reproduced online in the Cambridge 
+Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download 
+at www.cambridgeinternational.org after the live examination series.
+Cambridge Assessment International Education is part of Cambridge Assessment. Cambridge Assessment is the brand name of the University of Cambridge 
+Local Examinations Syndicate (UCLES), which is a department of the University of Cambridge.
+* 0000800000015 *
+,	,
+ĬÏĊ®Ġ´íÈõÏĪÅĊÞúµĂ×
+ĬáĜñÙĬøĬìČþíüęĝ³÷Ă
+ĥµåĕµõąĕõõåąÅµÅĕÕÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN
+16
+5070/22/M/J/25
+© UCLES 2025
+Group
+The Periodic Table of Elements
+1
+H
+hydrogen
+1
+2
+He
+helium
+4
+I
+II
+III
+IV
+V
+VI
+VII
+VIII
+3
+Li
+lithium
+7
+4
+Be
+beryllium
+9
+atomic number
+atomic symbol
+Key
+name
+relative atomic mass
+11
+Na
+sodium
+23
+12
+Mg
+magnesium
+24
+19
+K
+potassium
+39
+20
+Ca
+calcium
+40
+37
+Rb
+rubidium
+85
+38
+Sr
+strontium
+88
+55
+Cs
+caesium
+133
+56
+Ba
+barium
+137
+87
+Fr
+francium
+–
+88
+Ra
+radium
+–
+5
+B
+boron
+11
+13
+Al
+aluminium
+27
+31
+Ga
+gallium
+70
+49
+In
+indium
+115
+81
+Tl
+thallium
+204
+113
+Nh
+nihonium
+–
+6
+C
+carbon
+12
+14
+Si
+silicon
+28
+32
+Ge
+germanium
+73
+50
+Sn
+tin
+119
+82
+Pb
+lead
+207
+22
+Ti
+titanium
+48
+40
+Zr
+zirconium
+91
+72
+Hf
+hafnium
+178
+104
+Rf
+rutherfordium
+–
+23
+V
+vanadium
+51
+41
+Nb
+niobium
+93
+73
+Ta
+tantalum
+181
+105
+Db
+dubnium
+–
+24
+Cr
+chromium
+52
+42
+Mo
+molybdenum
+96
+74
+W
+tungsten
+184
+106
+Sg
+seaborgium
+–
+25
+Mn
+manganese
+55
+43
+Tc
+technetium
+–
+75
+Re
+rhenium
+186
+107
+Bh
+bohrium
+–
+26
+Fe
+iron
+56
+44
+Ru
+ruthenium
+101
+76
+Os
+osmium
+190
+108
+Hs
+hassium
+–
+27
+Co
+cobalt
+59
+45
+Rh
+rhodium
+103
+77
+Ir
+iridium
+192
+109
+Mt
+meitnerium
+–
+28
+Ni
+nickel
+59
+46
+Pd
+palladium
+106
+78
+Pt
+platinum
+195
+110
+Ds
+darmstadtium
+–
+29
+Cu
+copper
+64
+47
+Ag
+silver
+108
+79
+Au
+gold
+197
+111
+Rg
+roentgenium
+–
+30
+Zn
+zinc
+65
+48
+Cd
+cadmium
+112
+80
+Hg
+mercury
+201
+112
+Cn
+copernicium
+–
+114
+Fl
+flerovium
+–
+116
+Lv
+livermorium
+–
+7
+N
+nitrogen
+14
+15
+P
+phosphorus
+31
+33
+As
+arsenic
+75
+51
+Sb
+antimony
+122
+83
+Bi
+bismuth
+209
+115
+Mc
+moscovium
+–
+8
+O
+oxygen
+16
+16
+S
+sulfur
+32
+34
+Se
+selenium
+79
+52
+Te
+tellurium
+128
+84
+Po
+polonium
+–
+9
+F
+fluorine
+19
+17
+Cl
+chlorine
+35.5
+35
+Br
+bromine
+80
+53
+I
+iodine
+127
+85
+At
+astatine
+–
+117
+Ts
+tennessine
+–
+10
+Ne
+neon
+20
+18
+Ar
+argon
+40
+36
+Kr
+krypton
+84
+54
+Xe
+xenon
+131
+86
+Rn
+radon
+–
+118
+Og
+oganesson
+–
+21
+Sc
+scandium
+45
+39
+Y
+yttrium
+89
+57–71
+lanthanoids
+89–103
+actinoids
+57
+La
+lanthanum
+139
+89
+Ac
+lanthanoids
+actinoids
+The volume of one mole of any gas is 24 dm3 at room temperature and pressure (r.t.p.).
+actinium
+–
+58
+Ce
+cerium
+140
+90
+Th
+thorium
+232
+59
+Pr
+praseodymium
+141
+91
+Pa
+protactinium
+231
+60
+Nd
+neodymium
+144
+92
+U
+uranium
+238
+61
+Pm
+promethium
+–
+93
+Np
+neptunium
+–
+62
+Sm
+samarium
+150
+94
+Pu
+plutonium
+–
+63
+Eu
+europium
+152
+95
+Am
+americium
+–
+64
+Gd
+gadolinium
+157
+96
+Cm
+curium
+–
+65
+Tb
+terbium
+159
+97
+Bk
+berkelium
+–
+66
+Dy
+dysprosium
+163
+98
+Cf
+californium
+–
+67
+Ho
+holmium
+165
+99
+Es
+einsteinium
+–
+68
+Er
+erbium
+167
+100
+Fm
+fermium
+–
+69
+Tm
+thulium
+169
+101
+Md
+mendelevium
+–
+70
+Yb
+ytterbium
+173
+102
+No
+nobelium
+–
+71
+Lu
+lutetium
+175
+103
+Lr
+lawrencium
+–
+* 0000800000016 *
+,	,
+ĬÍĊ®Ġ´íÈõÏĪÅĊàüµĄ×
+ĬáĜôÙĢĆĝÏĆąöÚµ¿ãÿĂ
+ĥąõĕõõąµĕÕÕąąµĥĕÅÕ
+DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN                  DO NOT WRITE IN THIS MARGIN

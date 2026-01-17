@@ -1,0 +1,1564 @@
+ 
+ 
+This document has 16 pages. 
+IB25 06_5070_12/3RP 
+ 
+© UCLES 2025 
+ 
+[Turn over
+ 
+*5881597099*
+Cambridge O Level 
+ 
+ 
+ 
+CHEMISTRY 
+5070/12 
+ 
+Paper 1 Multiple Choice 
+ May/June 2025 
+ 
+ 
+1 hour 
+ 
+You must answer on the multiple choice answer sheet. 
+ 
+You will need: Multiple choice answer sheet 
+ 
+Soft clean eraser 
+ 
+Soft pencil (type B or HB is recommended) 
+ 
+ 
+ 
+INSTRUCTIONS  
+ 
+There are forty questions on this paper. Answer all questions.  
+ 
+For each question there are four possible answers A, B, C and D. Choose the one you consider correct 
+and record your choice in soft pencil on the multiple choice answer sheet.  
+ 
+Follow the instructions on the multiple choice answer sheet. 
+ 
+Write in soft pencil. 
+ 
+Write your name, centre number and candidate number on the multiple choice answer sheet in the 
+spaces provided unless this has been done for you. 
+ 
+Do not use correction fluid. 
+ 
+Do not write on any bar codes. 
+ 
+You may use a calculator. 
+ 
+ 
+INFORMATION 
+ 
+The total mark for this paper is 40. 
+ 
+Each correct answer will score one mark. 
+ 
+Any rough working should be done on this question paper. 
+ 
+The Periodic Table is printed in the question paper. 
+ 
+2 
+© UCLES 2025 
+5070/12/M/J/25 
+ 
+1 
+At temperature X, the volume of samples of hexane and pentane are not affected by changing 
+the pressure from 1 atm to 2 atm. 
+ 
+At temperature X, the pentane molecules are free to move. 
+ 
+At temperature X, the hexane molecules are in fixed positions. 
+ 
+What are the states of hexane and pentane at temperature X? 
+ 
+ 
+hexane 
+pentane 
+A 
+liquid 
+solid 
+B 
+liquid 
+gas 
+C 
+solid 
+liquid 
+D 
+solid 
+gas 
+ 
+ 
+2 
+A gas is produced by a chemical reaction at one side of a laboratory. 
+ 
+After a few minutes, the gas is detected at the other side of the laboratory. 
+ 
+Which process explains why the gas is detected at the other side of the laboratory? 
+A 
+condensation 
+B 
+diffusion 
+C 
+dissolving 
+D 
+evaporation 
+ 
+ 
+3 
+Which statement is correct? 
+A 
+All compounds are ionic. 
+B 
+All compounds conduct electricity when molten. 
+C 
+Each atom of an element contains the same number of protons. 
+D 
+In a mixture of substances, the proportions of the substances are always the same. 
+ 
+ 
+4 
+Atoms of element Q form positive ions. 
+ 
+An ion of Q has 10 electrons and 14 neutrons. 
+ 
+Which statement is correct? 
+A 
+An atom of Q has only two occupied electron shells. 
+B 
+Q is a non-metal. 
+C 
+The atomic number of Q is 10. 
+D 
+The mass number of Q is greater than 24. 
+ 
+3 
+ 
+ 
+© UCLES 2025 
+5070/12/M/J/25 
+[Turn over 
+5 
+Which particle contains the greatest number of electrons? 
+A 
+Mg2+ 
+B 
+N3– 
+C 
+Ne 
+D 
+S2– 
+ 
+ 
+6 
+The table shows data about the two isotopes in a sample of the element europium. 
+ 
+relative mass 
+of isotope 
+percentage 
+abundance 
+of isotope 
+150.92 
+47.81 
+152.92 
+52.19 
+ 
+What is the relative atomic mass of this sample of europium? 
+A 
+151.88 
+B 
+151.96 
+C 
+152.00 
+D 
+152.04 
+ 
+ 
+7 
+Which statement about magnesium oxide is correct? 
+A 
+It has a high melting point and good electrical conductivity at r.t.p. 
+B 
+It is made up of magnesium anions and oxygen cations. 
+C 
+It is an ionic compound and has good electrical conductivity when molten. 
+D 
+It is strongly bonded because of electrons shared between magnesium atoms and oxygen 
+atoms. 
+ 
+ 
+8 
+Which statement about silicon(IV) oxide is correct? 
+A 
+It conducts electricity. 
+B 
+It has a giant covalent structure. 
+C 
+It is an alloy. 
+D 
+It is ionically bonded. 
+ 
+ 
+9 
+Which compound has the highest relative formula mass, Mr? 
+ 
+[Ar:  K, 39;  N, 14;  O, 16;  Ca, 40;  C, 12;  Li, 7;  S, 32;  Mg, 24;  Cl, 35.5] 
+A 
+calcium carbonate 
+B 
+lithium sulfate 
+C 
+magnesium chloride 
+D 
+potassium nitrate 
+ 
+ 
+4 
+© UCLES 2025 
+5070/12/M/J/25 
+ 
+10 100 cm3 of ethene is completely combusted in 400 cm3 of oxygen. The volumes of both gases are 
+measured at r.t.p. 
+ 
+What is the final volume of gas in the mixture measured at r.t.p.? 
+A 
+200 cm3 
+B 
+250 cm3 
+C 
+300 cm3 
+D 
+500 cm3 
+ 
+ 
+11 The formula of hydrated sodium carbonate is Na2CO3•10H2O. 
+ 
+What is the percentage composition by mass of oxygen in hydrated sodium carbonate? 
+A 
+16.8 
+B 
+22.4 
+C 
+55.9 
+D 
+72.7 
+ 
+ 
+12 The diagram shows the electrolysis of molten lead bromide with inert electrodes. 
+ 
+power
+supply
++
+–
+1
+2
+3
+4
+ 
+ 
+Which row identifies the particles that carry charge along each arrow? 
+ 
+ 
+1 
+2 
+3 
+4 
+A 
+bromide ions 
+electrons 
+lead ions 
+electrons 
+B 
+electrons 
+electrons 
+bromide ions 
+lead ions 
+C 
+electrons 
+electrons 
+bromide ions 
+electrons 
+D 
+electrons 
+electrons 
+electrons 
+electrons 
+ 
+ 
+13 What are the products formed at the two electrodes when aqueous copper(II) sulfate is 
+electrolysed using copper electrodes? 
+ 
+ 
+anode product 
+cathode product 
+A 
+aqueous copper(II) ions 
+copper metal 
+B 
+aqueous copper(II) ions 
+hydrogen gas 
+C 
+oxygen gas 
+copper metal 
+D 
+oxygen gas 
+hydrogen gas 
+ 
+5 
+ 
+ 
+© UCLES 2025 
+5070/12/M/J/25 
+[Turn over 
+14 Which statement about a hydrogen–oxygen fuel cell is correct? 
+A 
+It uses a chemical reaction that has only one product. 
+B 
+It works by burning hydrogen in air. 
+C 
+It requires a continuous input of electrical energy. 
+D 
+It is less efficient than a petrol engine. 
+ 
+ 
+15 A reaction pathway diagram is shown. 
+ 
+reactants
+products
+energy
+progress of reaction
+ 
+ 
+Which equation does the reaction pathway diagram show? 
+A 
+2H(g)  +  O(g)    H2O(g) 
+B 
+H2(g)    2H(g) 
+C 
+H2O(g)    H2O(l) 
+D 
+2O(g)    O2(g) 
+ 
+ 
+16 Which process is a chemical change? 
+A 
+the distillation of aqueous ethanol 
+B 
+the evaporation of water from aqueous sodium chloride 
+C 
+the melting of wax 
+D 
+the rusting of iron 
+ 
+ 
+6 
+© UCLES 2025 
+5070/12/M/J/25 
+ 
+17 Aqueous sodium thiosulfate reacts with hydrochloric acid. The rate of the reaction increases if the 
+concentration of both reactants is increased. 
+ 
+Nitrogen gas reacts with hydrogen gas. The rate of the reaction increases if the pressure in the 
+reaction vessel is increased. 
+ 
+Which row correctly explains why the given change increases the rate of the reaction? 
+ 
+ 
+increasing the concentration of 
+aqueous sodium thiosulfate 
+and hydrochloric acid 
+increasing the pressure 
+in the reaction vessel 
+containing nitrogen and hydrogen 
+A 
+ 
+higher frequency of 
+collisions between particles 
+higher frequency of 
+collisions between particles 
+B 
+ 
+higher frequency of 
+collisions between particles 
+the activation energy is decreased 
+ 
+C 
+ 
+the activation energy is decreased 
+ 
+higher frequency of 
+collisions between particles 
+D 
+the activation energy is decreased 
+the activation energy is decreased 
+ 
+ 
+7 
+ 
+ 
+© UCLES 2025 
+5070/12/M/J/25 
+[Turn over 
+18 Magnesium reacts with dilute sulfuric acid. 
+ 
+Mg(s)  +  H2SO4(aq)    MgSO4(aq)  +  H2(g) 
+ 
+Two experiments are carried out at 25 °C. 
+ 
+experiment 1 
+24.0 g of powdered magnesium is reacted with 100 cm3 of 1.0 mol / dm3 
+sulfuric acid. 
+experiment 2 
+24.0 g of powdered magnesium is reacted with 50 cm3 of 2.0 mol / dm3 
+sulfuric acid. 
+ 
+During each experiment, the volume of hydrogen produced is measured at regular time intervals. 
+The results are plotted on a graph. 
+ 
+Which graph is correct? 
+ 
+volume of
+hydrogen
+produced
+time
+A
+0
+0
+volume of
+hydrogen
+produced
+time
+B
+0
+0
+volume of
+hydrogen
+produced
+time
+C
+0
+0
+volume of
+hydrogen
+produced
+time
+D
+0
+0
+key
+experiment 1
+experiment 2
+ 
+ 
+ 
+19 Which row gives the catalyst for each of the two processes? 
+ 
+ 
+Contact process 
+Haber process 
+A 
+iron 
+iron 
+B 
+iron 
+nickel 
+C 
+vanadium(V) oxide 
+iron 
+D 
+vanadium(V) oxide 
+nickel 
+ 
+ 
+8 
+© UCLES 2025 
+5070/12/M/J/25 
+ 
+20 The diagram shows the change in pH as a strong alkali is added to a weak acid. 
+ 
+0
+10
+20
+30
+volume of strong alkali / cm3
+40
+50
+14
+12
+10
+8
+6
+4
+2
+0
+pH
+ 
+ 
+40 cm3 of a strong alkali is added to a weak acid and a sample of the solution is tested separately 
+with methyl orange and thymolphthalein. 
+ 
+Which row is correct? 
+ 
+ 
+methyl orange 
+test 
+thymolphthalein 
+test 
+A 
+red 
+colourless 
+B 
+yellow 
+colourless 
+C 
+red 
+blue 
+D 
+yellow 
+blue 
+ 
+ 
+21 Which row shows the equations for the dissociation of methanoic acid and of nitric acid? 
+ 
+ 
+methanoic acid 
+nitric acid 
+A 
+HCOOH(aq)    H+(aq)  +  HCOO–(aq) 
+HNO3(aq)    H+(aq)  +  NO3
+–(aq) 
+B 
+HCOOH(aq)    H+(aq)  +  HCOO–(aq) 
+HNO3(aq)  
+  H+(aq)  +  NO3
+–(aq) 
+C 
+HCOOH(aq)  
+  H+(aq)  +  HCOO–(aq) 
+HNO3(aq)  
+  H+(aq)  +  NO3
+–(aq) 
+D 
+HCOOH(aq)  
+  H+(aq)  +  HCOO–(aq) 
+HNO3(aq)    H+(aq)  +  NO3
+–(aq) 
+ 
+ 
+9 
+ 
+ 
+© UCLES 2025 
+5070/12/M/J/25 
+[Turn over 
+22 Which statement about elements in the Periodic Table is correct? 
+A 
+Across a period, elements at the left-hand side of the Periodic Table are more metallic than 
+those at the right-hand side. 
+B 
+Down a group, elements at the top of the group lose electrons more readily than those at the 
+bottom of the group. 
+C 
+Elements in the same group of the Periodic Table have the same number of completed 
+shells of electrons. 
+D 
+Elements in the same period of the Periodic Table have the same number of electrons in the 
+outer shell. 
+ 
+ 
+23 Rubidium and caesium are both elements in Group I of the Periodic Table. 
+ 
+Which prediction comparing rubidium and caesium is correct? 
+A 
+Caesium has the higher density and the greater reactivity. 
+B 
+Caesium has the higher density; rubidium has the greater reactivity. 
+C 
+Rubidium has the higher density and the greater reactivity. 
+D 
+Rubidium has the higher density; caesium has the greater reactivity. 
+ 
+ 
+24 Three statements about the halogens are listed. 
+ 
+1 
+All halogens are non-metallic diatomic molecules. 
+2 
+Chlorine displaces both bromine and iodine from aqueous solutions of their salts. 
+3 
+The halogens become more reactive on descending Group VII of the Periodic Table. 
+ 
+Which statements are correct? 
+A 
+1, 2 and 3 
+B 
+1 and 2 only 
+C 
+1 and 3 only 
+D 
+2 and 3 only 
+ 
+ 
+25 Which statements about neon are correct? 
+ 
+1 
+It is unreactive. 
+2 
+It has strong intermolecular forces. 
+3 
+It has a full outer shell of electrons. 
+ 
+A 
+1, 2 and 3 
+B 
+1 and 3 only 
+C 
+1 only 
+D 
+3 only 
+ 
+ 
+10 
+© UCLES 2025 
+5070/12/M/J/25 
+ 
+26 Substance X has the following properties. 
+ 
+● 
+melting point 1237 °C 
+● 
+boiling point 2595 °C 
+● 
+malleable 
+● 
+good electrical and thermal conductivity at r.t.p. 
+ 
+What is the structure of substance X? 
+A 
+giant covalent 
+B 
+giant ionic lattice 
+C 
+giant metallic lattice 
+D 
+simple molecular 
+ 
+ 
+27 Which statement explains why objects manufactured from aluminium corrode very slowly? 
+A 
+Aluminium is above hydrogen in the reactivity series. 
+B 
+Aluminium is below hydrogen in the reactivity series. 
+C 
+The objects become coated with a protective layer of aluminium nitride. 
+D 
+The objects become coated with a protective layer of aluminium oxide. 
+ 
+ 
+28 The iron(III) oxide used in a blast furnace contains the impurity silicon(IV) oxide, SiO2. 
+ 
+Which reaction removes the silicon(IV) oxide? 
+A 
+3SiO2  +  Fe2O3    2Fe  +  3SiO3 
+B 
+SiO2  +  C    Si  +  CO2 
+C 
+SiO2  +  CaO    CaSiO3 
+D 
+2SiO2  +  N2    2Si  +  2NO2 
+ 
+ 
+11 
+ 
+ 
+© UCLES 2025 
+5070/12/M/J/25 
+[Turn over 
+29 The domestic water supply is treated before it is supplied to houses. Three treatments are listed. 
+ 
+● 
+sedimentation and filtration 
+● 
+treatment with chlorine 
+● 
+treatment with carbon 
+ 
+Which row shows the purpose of the treatments? 
+ 
+ 
+sedimentation 
+and filtration 
+treatment 
+with chlorine 
+treatment 
+with carbon 
+A 
+ 
+kills microbes 
+ 
+removes solids 
+ 
+removes unpleasant 
+tastes and odours 
+B 
+ 
+removes solids 
+ 
+kills microbes 
+ 
+removes unpleasant 
+tastes and odours 
+C 
+ 
+removes solids 
+ 
+removes unpleasant 
+tastes and odours 
+kills microbes 
+ 
+D 
+ 
+removes unpleasant 
+tastes and odours 
+kills microbes 
+ 
+removes solids 
+ 
+ 
+ 
+30 Nitrates and ammonium salts are used as fertilisers. 
+ 
+Which fertiliser contains the greatest mass of nitrogen in 50 kg of the compound? 
+ 
+[Ar:  H, 1;  N, 14;  O, 16;  S, 32;  Cl, 35.5;  K, 39] 
+A 
+NH4Cl 
+B 
+NH4NO3 
+C 
+(NH4)2SO4 
+D 
+KNO3 
+ 
+ 
+31 Which strategy reduces methane emissions? 
+A 
+flue gas desulfurisation 
+B 
+planting more trees 
+C 
+reduction in livestock farming 
+D 
+use of catalytic converters 
+ 
+ 
+32 Compound P is an alcohol with the molecular formula C4H10O. 
+ 
+How many structural isomers are there of compound P? 
+A 
+2 
+B 
+3 
+C 
+4 
+D 
+5 
+ 
+ 
+12 
+© UCLES 2025 
+5070/12/M/J/25 
+ 
+33 Alkanes undergo a substitution reaction with chlorine. 
+ 
+Which row shows two correct statements about the reaction between alkanes and chlorine? 
+ 
+ 
+statement 1 
+statement 2 
+A 
+ 
+a carbon atom is replaced 
+by a chlorine atom 
+the reaction requires 
+thermal energy 
+B 
+ 
+a hydrogen atom is replaced 
+by a chlorine atom 
+the reaction requires 
+thermal energy 
+C 
+ 
+a carbon atom is replaced 
+by a chlorine atom 
+the reaction requires 
+ultraviolet light 
+D 
+ 
+a hydrogen atom is replaced 
+by a chlorine atom 
+the reaction requires 
+ultraviolet light 
+ 
+ 
+34 A molecule of the compound C4H6 is shown. 
+ 
+C
+C
+H
+H
+H
+H
+C
+H
+H
+C
+ 
+ 
+This molecule undergoes two separate addition reactions. It undergoes an addition reaction with 
+excess bromine and an addition reaction with steam. 
+ 
+One molecule of C4H6 reacts with ......1...... of bromine. 
+ 
+When C4H6 reacts with steam, ......2...... is formed. 
+ 
+Which words complete gaps 1 and 2? 
+ 
+ 
+1 
+2 
+A 
+one molecule 
+an alcohol 
+B 
+one molecule 
+a carboxylic acid 
+C 
+two molecules 
+an alcohol 
+D 
+two molecules 
+a carboxylic acid 
+ 
+ 
+35 Which statement about members of the homologous series of alcohols is correct? 
+A 
+An alcohol with two carbon atoms in each molecule is called methanol. 
+B 
+Butanol can be combusted to give carbon dioxide and water only. 
+C 
+Ethanol is the only alcohol that can be oxidised to a carboxylic acid. 
+D 
+Propanol can be made by the catalysed addition of steam to ethene. 
+ 
+ 
+13 
+ 
+ 
+© UCLES 2025 
+5070/12/M/J/25 
+[Turn over 
+36 The diagram shows the structure of a compound called ethanoic anhydride. 
+ 
+C
+C
+O
+O
+O
+H
+H
+H
+H
+H
+C
+C
+H
+ 
+ 
+1 mol of ethanoic anhydride reacts with water to form 2 mol of a carboxylic acid only. This 
+carboxylic acid reacts with ethanol to form an ester. 
+ 
+How many moles of water react with 1 mol of the ethanoic anhydride and what is the structure of 
+the ester? 
+ 
+ 
+number of 
+moles of water 
+structure of the ester 
+A 
+1 
+C
+C
+O
+O
+H
+H
+H
+C
+C
+H
+H
+H
+H
+H
+ 
+B 
+1 
+C
+C
+O
+O
+H
+H
+C
+C
+H
+H
+H
+H
+H
+H
+ 
+C 
+2 
+C
+C
+O
+O
+H
+H
+H
+C
+C
+H
+H
+H
+H
+H
+ 
+D 
+2 
+C
+C
+O
+O
+H
+H
+C
+C
+H
+H
+H
+H
+H
+H
+ 
+ 
+ 
+14 
+© UCLES 2025 
+5070/12/M/J/25 
+ 
+37 Four samples are analysed using paper chromatography. 
+ 
+P, Q and R are pure substances. 
+ 
+M is a mixture of different substances. 
+ 
+solvent front
+baseline
+M
+P
+Q
+R
+ 
+ 
+Which substances does mixture M contain? 
+A 
+P, Q and R 
+B 
+P, Q and another substance 
+C 
+P and Q only 
+D 
+P and R only 
+ 
+ 
+38 A student is making a sample of aqueous copper(II) sulfate. The student adds an excess of 
+copper(II) oxide powder to warm sulfuric acid and stirs the mixture. 
+ 
+Which apparatus is used to separate aqueous copper(II) sulfate from the excess 
+copper(II) oxide? 
+A 
+burette 
+B 
+distillation apparatus 
+C 
+filter funnel and paper 
+D 
+measuring cylinder 
+ 
+ 
+39 How can a pure sample of barium sulfate be obtained from barium carbonate? 
+A 
+Dissolve it in dilute hydrochloric acid, add dilute sulfuric acid, filter and crystallise. 
+B 
+Dissolve it in dilute hydrochloric acid, add dilute sulfuric acid, filter and wash. 
+C 
+Dissolve it in water, add dilute sulfuric acid, filter and crystallise. 
+D 
+Dissolve it in water, add dilute sulfuric acid, filter and wash. 
+ 
+ 
+15 
+ 
+ 
+ 
+Permission to reproduce items where third-party owned material protected by copyright is included has been sought and cleared where possible. Every 
+reasonable effort has been made by the publisher (UCLES) to trace copyright holders, but if any items requiring clearance have unwittingly been included, the 
+publisher will be pleased to make amends at the earliest possible opportunity. 
+ 
+To avoid the issue of disclosure of answer-related information to candidates, all copyright acknowledgements are reproduced online in the Cambridge 
+Assessment International Education Copyright Acknowledgements Booklet. This is produced for each series of examinations and is freely available to download 
+at www.cambridgeinternational.org after the live examination series. 
+ 
+Cambridge Assessment International Education is part of Cambridge Assessment. Cambridge Assessment is the brand name of the University of Cambridge 
+Local Examinations Syndicate (UCLES), which is a department of the University of Cambridge. 
+ 
+© UCLES 2025 
+5070/12/M/J/25 
+ 
+40 A sample of a white powder, X, is dissolved in water. 
+ 
+Tests are done on separate portions of this solution and the observations are shown in the table. 
+ 
+test 
+observation 
+add aqueous sodium hydroxide 
+a drop at a time until in excess 
+white precipitate forms, soluble in excess, 
+giving a colourless solution 
+acidify with dilute nitric acid 
+then add aqueous silver nitrate 
+white precipitate forms 
+ 
+acidify with dilute nitric acid 
+then add aqueous barium nitrate 
+the solution remains colourless 
+ 
+ 
+What is X? 
+A 
+aluminium chloride 
+B 
+aluminium sulfate 
+C 
+calcium chloride 
+D 
+calcium sulfate 
+ 
+ 
+16 
+© UCLES 2025 
+5070/12/M/J/25 
+ 
+Group
+The Periodic Table of Elements
+1
+H
+hydrogen
+1
+2
+He
+helium
+4
+I
+II
+III
+IV
+V
+VI
+VII
+VIII
+3
+Li
+lithium
+7
+4
+Be
+beryllium
+9
+atomic number
+atomic symbol
+Key
+name
+relative atomic mass
+11
+Na
+sodium
+23
+12
+Mg
+magnesium
+24
+19
+K
+potassium
+39
+20
+Ca
+calcium
+40
+37
+Rb
+rubidium
+85
+38
+Sr
+strontium
+88
+55
+Cs
+caesium
+133
+56
+Ba
+barium
+137
+87
+Fr
+francium
+–
+88
+Ra
+radium
+–
+5
+B
+boron
+11
+13
+Al
+aluminium
+27
+31
+Ga
+gallium
+70
+49
+In
+indium
+115
+81
+Tl
+thallium
+204
+113
+Nh
+nihonium
+–
+6
+C
+carbon
+12
+14
+Si
+silicon
+28
+32
+Ge
+germanium
+73
+50
+Sn
+tin
+119
+82
+Pb
+lead
+207
+22
+Ti
+titanium
+48
+40
+Zr
+zirconium
+91
+72
+Hf
+hafnium
+178
+104
+Rf
+rutherfordium
+–
+23
+V
+vanadium
+51
+41
+Nb
+niobium
+93
+73
+Ta
+tantalum
+181
+105
+Db
+dubnium
+–
+24
+Cr
+chromium
+52
+42
+Mo
+molybdenum
+96
+74
+W
+tungsten
+184
+106
+Sg
+seaborgium
+–
+25
+Mn
+manganese
+55
+43
+Tc
+technetium
+–
+75
+Re
+rhenium
+186
+107
+Bh
+bohrium
+–
+26
+Fe
+iron
+56
+44
+Ru
+ruthenium
+101
+76
+Os
+osmium
+190
+108
+Hs
+hassium
+–
+27
+Co
+cobalt
+59
+45
+Rh
+rhodium
+103
+77
+Ir
+iridium
+192
+109
+Mt
+meitnerium
+–
+28
+Ni
+nickel
+59
+46
+Pd
+palladium
+106
+78
+Pt
+platinum
+195
+110
+Ds
+darmstadtium
+–
+29
+Cu
+copper
+64
+47
+Ag
+silver
+108
+79
+Au
+gold
+197
+111
+Rg
+roentgenium
+–
+30
+Zn
+zinc
+65
+48
+Cd
+cadmium
+112
+80
+Hg
+mercury
+201
+112
+Cn
+copernicium
+–
+114
+Fl
+flerovium
+–
+116
+Lv
+livermorium
+–
+7
+N
+nitrogen
+14
+15
+P
+phosphorus
+31
+33
+As
+arsenic
+75
+51
+Sb
+antimony
+122
+83
+Bi
+bismuth
+209
+115
+Mc
+moscovium
+–
+8
+O
+oxygen
+16
+16
+S
+sulfur
+32
+34
+Se
+selenium
+79
+52
+Te
+tellurium
+128
+84
+Po
+polonium
+–
+9
+F
+fluorine
+19
+17
+Cl
+chlorine
+35.5
+35
+Br
+bromine
+80
+53
+I
+iodine
+127
+85
+At
+astatine
+–
+117
+Ts
+tennessine
+–
+10
+Ne
+neon
+20
+18
+Ar
+argon
+40
+36
+Kr
+krypton
+84
+54
+Xe
+xenon
+131
+86
+Rn
+radon
+–
+118
+Og
+oganesson
+–
+21
+Sc
+scandium
+45
+39
+Y
+yttrium
+89
+57–71
+lanthanoids
+89–103
+actinoids
+57
+La
+lanthanum
+139
+89
+Ac
+lanthanoids
+actinoids
+The volume of one mole of any gas is 24 dm3 at room temperature and pressure (r.t.p.).
+actinium
+–
+58
+Ce
+cerium
+140
+90
+Th
+thorium
+232
+59
+Pr
+praseodymium
+141
+91
+Pa
+protactinium
+231
+60
+Nd
+neodymium
+144
+92
+U
+uranium
+238
+61
+Pm
+promethium
+–
+93
+Np
+neptunium
+–
+62
+Sm
+samarium
+150
+94
+Pu
+plutonium
+–
+63
+Eu
+europium
+152
+95
+Am
+americium
+–
+64
+Gd
+gadolinium
+157
+96
+Cm
+curium
+–
+65
+Tb
+terbium
+159
+97
+Bk
+berkelium
+–
+66
+Dy
+dysprosium
+163
+98
+Cf
+californium
+–
+67
+Ho
+holmium
+165
+99
+Es
+einsteinium
+–
+68
+Er
+erbium
+167
+100
+Fm
+fermium
+–
+69
+Tm
+thulium
+169
+101
+Md
+mendelevium
+–
+70
+Yb
+ytterbium
+173
+102
+No
+nobelium
+–
+71
+Lu
+lutetium
+175
+103
+Lr
+lawrencium
+–
+ 

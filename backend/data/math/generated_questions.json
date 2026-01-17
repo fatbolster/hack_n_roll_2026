@@ -1,0 +1,26 @@
+[
+    {
+        "topic": "General",
+        "question": "The linear graph of a function is shown on a coordinate plane. The graph passes through the points (2, 3) and (5, 11). State the gradient of the linear graph as the ratio of the vertical change to the horizontal change.",
+        "marks": 5,
+        "answer_key": "1 mark for identifying the vertical change (8), 1 mark for identifying the horizontal change (3), 2 marks for correctly calculating the ratio (8/3), and 1 mark for expressing the answer in simplest form (2.67 or 8/3)."
+    },
+    {
+        "topic": "General",
+        "question": "Convert the following times from the 12-hour clock to the 24-hour clock: 3:15 PM, 7:45 AM, and 11:30 PM.",
+        "marks": 5,
+        "answer_key": "1 mark for each correct conversion: 3:15 PM = 15:15, 7:45 AM = 07:45, 11:30 PM = 23:30."
+    },
+    {
+        "topic": "Probability of Simple Combined Events",
+        "question": "A box contains 3 red balls, 2 blue balls, and 5 green balls. One ball is drawn at random from the box. Draw a possibility diagram to show all possible outcomes of drawing one ball. Calculate the probability of drawing a blue ball.",
+        "marks": 5,
+        "answer_key": {
+            "1": "Draw a possibility diagram that includes red, blue, and green balls as possible outcomes (1 mark).",
+            "2": "State the total number of balls (10 balls) (1 mark).",
+            "3": "Identify the number of favorable outcomes for drawing a blue ball (2 blue balls) (1 mark).",
+            "4": "Calculate the probability of drawing a blue ball as the ratio of the number of favorable outcomes to the total outcomes: 2/10 (1 mark).",
+            "5": "Simplify the probability to 1/5 (1 mark)."
+        }
+    }
+]
