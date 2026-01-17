@@ -37,6 +37,7 @@ export default function Home() {
               title="Practice Paper Alignment"
               description="Analyze your practice papers against the latest syllabus to ensure every question is still relevant."
               ctaLabel="Analyze Paper"
+              href="/PaperAlignment"
               icon={<ClipboardIcon className="h-6 w-6 text-emerald-600" />}
             />
           </section>
