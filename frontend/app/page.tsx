@@ -1,11 +1,12 @@
 import { ReactNode } from "react";
 import { Button } from "./ui/button";
+import { TopNav } from "./ui/topnav";
 
 export default function Home() {
   return (
     <div className="min-h-screen bg-slate-50 text-slate-900">
       <div className="mx-auto flex min-h-screen max-w-6xl flex-col px-6 pb-16 pt-8">
-        <Header />
+        <TopNav />
         <main className="mt-14 flex flex-1 flex-col items-center text-center">
           <Button
             variant="pill"
@@ -47,40 +48,6 @@ export default function Home() {
   );
 }
 
-function Header() {
-  const navItems: Array<{ label: string; variant: "nav" | "navActive"; icon?: ReactNode }> =
-    [
-      { label: "Home", variant: "navActive", icon: <HomeIcon className="h-4 w-4" /> },
-      { label: "Syllabus Changes", variant: "nav" },
-      { label: "Paper Alignment", variant: "nav" },
-    ];
-
-  return (
-    <header className="flex items-center justify-between rounded-full bg-white px-5 py-3 shadow-sm ring-1 ring-slate-100">
-      <div className="flex items-center gap-3">
-        <div className="flex h-10 w-10 items-center justify-center rounded-full bg-emerald-600 text-base font-semibold text-white shadow-sm">
-          J3
-        </div>
-        <span className="text-lg font-semibold text-slate-800">
-          Syllabus Intelligence
-        </span>
-      </div>
-      <nav className="flex items-center gap-2">
-        {navItems.map((item) => (
-          <Button
-            key={item.label}
-            variant={item.variant === "navActive" ? "navActive" : "nav"}
-            size="sm"
-            startIcon={item.icon}
-          >
-            {item.label}
-          </Button>
-        ))}
-      </nav>
-    </header>
-  );
-}
-
 type FeatureCardProps = {
   title: string;
   description: string;
@@ -113,19 +80,6 @@ function SparklesIcon(props: IconProps) {
       <path
         d="M9 3 10.5 7.5 15 9 10.5 10.5 9 15 7.5 10.5 3 9 7.5 7.5 9 3ZM16 13.5 16.75 15.25 18.5 16 16.75 16.75 16 18.5 15.25 16.75 13.5 16 15.25 15.25 16 13.5ZM18 6 18.5 7.5 20 8 18.5 8.5 18 10 17.5 8.5 16 8 17.5 7.5 18 6Z"
         strokeWidth="1.5"
-        strokeLinecap="round"
-        strokeLinejoin="round"
-      />
-    </svg>
-  );
-}
-
-function HomeIcon(props: IconProps) {
-  return (
-    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" {...props}>
-      <path
-        d="M4 10.5 12 4l8 6.5V20a1 1 0 0 1-1 1h-5.5v-5h-3v5H5a1 1 0 0 1-1-1z"
-        strokeWidth="1.6"
         strokeLinecap="round"
         strokeLinejoin="round"
       />
