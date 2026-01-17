@@ -1,3 +1,164 @@
 [00:00:00.577] Server  LOG     ✓ Ready in 413ms
 [01:10:51.481] Server  LOG     ✓ Compiled in 8ms
 [01:16:30.226] Server  LOG     ✓ Compiled in 28ms
+[00:00:00.843] Server  LOG     ✓ Ready in 619ms
+[00:00:02.097] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:10:40.147] Server  LOG     ✓ Compiled in 26ms
+[00:11:32.200] Server  LOG     ✓ Compiled in 474ms
+[00:11:51.821] Server  LOG     ✓ Compiled in 25ms
+[00:12:11.889] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:12:11.889] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:14:52.969] Server  LOG     ✓ Compiled in 23ms
+[00:17:04.207] Server  LOG     ✓ Compiled in 29ms
+[00:17:36.221] Server  LOG     ✓ Compiled in 14ms
+[00:20:30.808] Server  LOG     ✓ Compiled in 27ms
+[00:20:30.888] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:20:30.888] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:21:54.874] Server  LOG     ✓ Compiled in 23ms
+[00:23:21.146] Server  LOG     ✓ Compiled in 22ms
+[00:26:21.631] Server  LOG     ✓ Compiled in 45ms
+[00:27:38.493] Server  LOG     ✓ Compiled in 42ms
+[00:28:20.317] Server  LOG     ✓ Compiled in 36ms
+[00:30:33.809] Server  LOG     ✓ Compiled in 14ms
+[00:32:15.396] Server  LOG     ✓ Compiled in 14ms
+[00:33:56.754] Server  LOG     ✓ Compiled in 15ms
+[00:36:25.271] Server  LOG     ✓ Compiled in 14ms
+[00:38:29.134] Server  LOG     ✓ Compiled in 31ms
+[00:38:50.523] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:38:50.523] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:39:38.997] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:39:40.545] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:39:40.546] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:40:16.176] Server  LOG     ✓ Compiled in 14ms
+[00:43:24.165] Server  LOG     ✓ Compiled in 23ms
+[00:44:14.679] Server  LOG     ✓ Compiled in 25ms
+[00:44:56.234] Server  LOG     ✓ Compiled in 25ms
+[00:48:37.156] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:48:37.156] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:48:47.822] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:48:47.822] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:48:47.861] Server  LOG     ✓ Compiled in 44ms
+[00:49:13.824] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:49:14.688] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:49:14.688] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:50:20.934] Server  LOG     ✓ Compiled in 24ms
+[00:52:30.881] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:52:30.882] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:54:43.802] Server  LOG     ✓ Compiled in 14ms
+[00:56:23.101] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:56:23.101] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:56:53.345] Server  LOG     ✓ Compiled in 14ms
+[00:57:26.168] Server  LOG     ✓ Compiled in 14ms
+[00:58:40.332] Server  LOG     ✓ Compiled in 16ms
+[00:59:28.376] Server  LOG     ✓ Compiled in 15ms
+[01:00:36.754] Server  LOG     ✓ Compiled in 17ms
+[01:02:11.990] Server  LOG     ✓ Compiled in 24ms
+[01:03:37.140] Server  LOG     ✓ Compiled in 14ms
+[01:04:11.595] Server  LOG     ✓ Compiled in 23ms
+[01:16:52.670] Server  LOG     ✓ Compiled in 16ms
+[01:17:45.443] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[01:17:45.443] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[01:31:37.825] Server  LOG     ✓ Compiled in 17ms
+[01:31:57.547] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:36:00.219] Server  LOG     ✓ Compiled in 16ms
+[01:39:27.065] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[01:39:27.065] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[01:40:56.003] Server  LOG     ✓ Compiled in 17ms
+[01:41:12.527] Server  LOG     ✓ Compiled in 24ms
+[01:41:18.130] Server  LOG     ✓ Compiled in 14ms
+[01:41:24.485] Server  LOG     ✓ Compiled in 14ms
+[01:42:54.521] Server  LOG     ✓ Compiled in 23ms
+[01:43:28.924] Server  LOG     ✓ Compiled in 16ms
+[01:43:42.023] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[01:43:42.023] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[01:43:57.950] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[01:43:57.950] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[01:44:52.119] Server  LOG     ✓ Compiled in 27ms
+[01:45:57.806] Server  LOG     ✓ Compiled in 24ms
+[01:48:27.278] Server  LOG     ✓ Compiled in 15ms
+[01:48:44.335] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[01:48:44.335] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
