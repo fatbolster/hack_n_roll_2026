@@ -20,13 +20,55 @@ export default function SyllabusChangesPage() {
     setIsModalOpen(true);
   }, []);
 
-  const handleCheckMapping = useCallback(() => {
-    setMappingRefreshToken((prev) => prev + 1);
-    setIsMappingModalOpen(true);
-  }, []);
+  const handleCheckMapping = useCallback(async () => {
+    console.log('🗺️ Check Mapping button clicked');
+    console.log('📄 Old syllabus:', oldSyllabusFile?.name);
+    console.log('📄 New syllabus:', newSyllabusFile?.name);
+
+    if (!oldSyllabusFile || !newSyllabusFile) {
+      console.log('❌ Missing files');
+      alert('Please upload both syllabus files');
+      return;
+    }
+
+    console.log('✅ Both files present, calling API...');
+    try {
+      const formData = new FormData();
+      formData.append('old_syllabus', oldSyllabusFile);
+      formData.append('new_syllabus', newSyllabusFile);
+
+      const response = await fetch('http://localhost:8000/api/compare-syllabi-detailed', {
+        method: 'POST',
+        body: formData,
+      });
+
+      console.log('📥 Response status:', response.status);
+
+      if (!response.ok) {
+        const errorText = await response.text();
+        console.error('❌ Response error:', errorText);
+        throw new Error('Failed to compare syllabi');
+      }
+
+      const result = await response.json();
+      console.log('✅ Mapping result:', result);
+
+      // Store the result in sessionStorage for the modal to access
+      sessionStorage.setItem('syllabusMappingResult', JSON.stringify(result));
+      console.log('💾 Stored in sessionStorage');
+
+      setMappingRefreshToken((prev) => prev + 1);
+      setIsMappingModalOpen(true);
+      console.log('✅ Mapping modal opened');
+    } catch (error) {
+      console.error('❌ Error calling compare-syllabi-detailed:', error);
+      alert('Error comparing syllabi. Please try again.');
+    }
+  }, [oldSyllabusFile, newSyllabusFile]);
 
   const handleFilesChange = useCallback((oldFile: File | null, newFile: File | null) => {
     // oldFile comes from the left dropzone, newFile from the right dropzone
+    console.log('📁 Files changed - Old:', oldFile?.name, 'New:', newFile?.name);
     setOldSyllabusFile(oldFile);
     setNewSyllabusFile(newFile);
   }, []);

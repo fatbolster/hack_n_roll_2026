@@ -94,7 +94,7 @@ export function CompareSyllabiButton({ onClick, disabled, children }: SyllabusAc
   );
 }
 
-export function CheckMappingButton({ onClick, disabled }: SyllabusActionButtonProps) {
+export function CheckMappingButton({ onClick, disabled, children }: SyllabusActionButtonProps) {
   return (
     <Button
       variant="solid"
@@ -103,7 +103,7 @@ export function CheckMappingButton({ onClick, disabled }: SyllabusActionButtonPr
       onClick={onClick}
       disabled={disabled}
     >
-      Check Mapping
+      {children ?? "Check Mapping"}
     </Button>
   );
 }

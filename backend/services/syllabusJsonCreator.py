@@ -113,10 +113,15 @@ def generate_syllabus_comparison_with_score(doc_old: str, doc_new: str, old_file
     - OVERSEAS EXCHANGE MODULE (candidate for mapping): {new_filename}
 
     You MUST evaluate similarity based on:
-    - Topic coverage overlap
-    - Alignment of learning outcomes
-    - Depth/rigour (how advanced and how detailed the content is)
-    - Whether gaps are critical for NUS credit transfer expectations
+    - Topic coverage overlap (at least 70% overlap required for high scores)
+    - Alignment of learning outcomes (must have substantial matching objectives)
+    - Depth/rigour (overseas module must match or exceed NUS module's academic level)
+    - Whether gaps are critical for NUS credit transfer expectations (missing core topics should significantly reduce score)
+
+    BE STRICT AND CONSERVATIVE in your scoring:
+    - Missing core topics should result in scores below 60
+    - Superficial overlap without depth should result in scores below 50
+    - Only truly strong matches with comprehensive coverage should score 70+
 
     =====================
     STRICT OUTPUT RULES (NON-NEGOTIABLE)
@@ -124,20 +129,22 @@ def generate_syllabus_comparison_with_score(doc_old: str, doc_new: str, old_file
     1) Output ONLY a single JSON object. No markdown, no commentary, no extra text.
     2) Use EXACTLY the JSON keys shown in the schema below. Do NOT add new keys.
     3) similarity_score MUST be an integer between 0 and 100.
-    4) similarity_label MUST be ONLY ONE of these two exact strings:
+    4) similarity_label MUST be ONLY ONE of these three exact strings:
     - "Highly Mappable"
-    - "Partially Mappable"
+    - "Moderately Mappable"
+    - "Not Recommended"
     You are NOT allowed to use any other label.
-    5) Label rule:
-    - If similarity_score >= 60 → similarity_label MUST be "Highly Mappable"
-    - If similarity_score < 60 → similarity_label MUST be "Partially Mappable"
+    5) Label rules (FOLLOW STRICTLY):
+    - If similarity_score >= 70 → similarity_label MUST be "Highly Mappable"
+    - If similarity_score >= 50 AND < 70 → similarity_label MUST be "Moderately Mappable"
+    - If similarity_score < 50 → similarity_label MUST be "Not Recommended"
 
     =====================
     REQUIRED JSON SCHEMA (FOLLOW EXACTLY)
     =====================
     {{
     "similarity_score": <integer 0-100>,
-    "similarity_label": "<MUST be 'Highly Mappable' OR 'Partially Mappable' only>",
+    "similarity_label": "<MUST be 'Highly Mappable' OR 'Moderately Mappable' OR 'Not Recommended' only>",
     "ai_justification": {{
         "overview": "Brief decision-oriented summary in the context of NUS credit transfer/module mapping",
         "key_similarities": [
@@ -164,7 +171,7 @@ def generate_syllabus_comparison_with_score(doc_old: str, doc_new: str, old_file
     OVERSEAS EXCHANGE MODULE ({new_filename}):
     {doc_new}
 
-    FINAL REMINDER: Return ONLY the JSON object. Only the two allowed labels may be used.
+    FINAL REMINDER: Return ONLY the JSON object. Only the three allowed labels may be used: 'Highly Mappable', 'Moderately Mappable', or 'Not Recommended'.
     """
 
 

@@ -45,10 +45,20 @@ export function SyllabusMappingModal({
     async function loadReport() {
       setIsLoading(true);
       try {
-        const data = await import("./databaseMapPlaceholder.json");
-        const sourceArray = Array.isArray(data.default) ? data.default : [];
-        const firstEntry: MappingReport | null = sourceArray.length > 0 ? sourceArray[0] : null;
-        if (isMounted) setReport(firstEntry);
+        // Try to load from sessionStorage first (from API call)
+        const storedData = sessionStorage.getItem('syllabusMappingResult');
+        if (storedData) {
+          console.log('📖 Loading mapping result from sessionStorage');
+          const parsedData = JSON.parse(storedData);
+          if (isMounted) setReport(parsedData);
+        } else {
+          // Fallback to placeholder data
+          console.log('📖 No API data found, loading placeholder');
+          const data = await import("./databaseMapPlaceholder.json");
+          const sourceArray = Array.isArray(data.default) ? data.default : [];
+          const firstEntry: MappingReport | null = sourceArray.length > 0 ? sourceArray[0] : null;
+          if (isMounted) setReport(firstEntry);
+        }
       } catch (error) {
         console.error("Failed to load syllabus mapping report", error);
         if (isMounted) setReport(null);
@@ -66,8 +76,8 @@ export function SyllabusMappingModal({
 
   const score = report?.similarity_score ?? null;
   const similarityText = score !== null ? `${Math.round(score)}%` : "N/A";
-  const similarityLabel = score !== null && score > 70 ? "Highly Mappable" : "Partially Mappable";
-  const pillClass = score !== null && score > 70 ? pillStyles.high : pillStyles.partial;
+  const similarityLabel = report?.similarity_label ?? (score !== null && score >= 70 ? "Highly Mappable" : "Partially Mappable");
+  const pillClass = (report?.similarity_label === "Highly Mappable" || (score !== null && score >= 70)) ? pillStyles.high : pillStyles.partial;
   const progressWidth = Math.max(0, Math.min(100, score ?? 0));
 
   const justification = useMemo(

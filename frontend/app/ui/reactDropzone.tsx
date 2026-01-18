@@ -109,6 +109,7 @@ export function SyllabusDropzones({
   const [newFile, setNewFile] = useState<File | null>(null);
   const [isUploading, setIsUploading] = useState(false);
   const [isComparing, setIsComparing] = useState(false);
+  const [isCheckingMapping, setIsCheckingMapping] = useState(false);
 
   const notifyFilesChange = useCallback(
     (nextOld: File | null, nextNew: File | null) => {
@@ -216,13 +217,23 @@ export function SyllabusDropzones({
     }
   }, [oldFile, newFile, onCompare]);
 
-  const handleCheckMapping = useCallback(() => {
+  const handleCheckMapping = useCallback(async () => {
+    console.log('🔍 Check Mapping clicked in dropzone');
+    console.log('📄 Old file:', oldFile?.name);
+    console.log('📄 New file:', newFile?.name);
+    
     if (!oldFile || !newFile) {
       alert('Please upload both syllabus files');
       return;
     }
 
-    onCheckMapping?.();
+    setIsCheckingMapping(true);
+    try {
+      // Call parent callback - it will handle the async work
+      await onCheckMapping?.();
+    } finally {
+      setIsCheckingMapping(false);
+    }
   }, [newFile, oldFile, onCheckMapping]);
 
   return (
@@ -253,8 +264,10 @@ export function SyllabusDropzones({
         </CompareSyllabiButton>
         <CheckMappingButton
           onClick={handleCheckMapping}
-          disabled={!oldFile || !newFile || isUploading || isComparing}
-        />
+          disabled={!oldFile || !newFile || isUploading || isComparing || isCheckingMapping}
+        >
+          {isCheckingMapping ? 'Checking...' : 'Check Mapping'}
+        </CheckMappingButton>
       </div>
     </>
   );

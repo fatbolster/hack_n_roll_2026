@@ -9,7 +9,7 @@ from io import BytesIO
 import re
 from services.syllabusJsonCreator import generate_syllabus_json, generate_syllabus_comparison_with_score
 from services.comparePrompt import map_questions_to_syllabus
-from services.textExtractorQuestion import extract_questions_from_pdf
+# from services.textExtractorQuestion import extract_questions_from_pdf
 
 
 async def extract_text_from_pdf(file: UploadFile) -> str:
