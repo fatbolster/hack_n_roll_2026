@@ -124,6 +124,12 @@ def extract_questions_from_pdf(pdf_path: str, output_path: str) -> None:
                 if saw_question_number:
                     if current_q:
                         questions.append(current_q)
+                        
+                        # Stop if we've collected 30 questions
+                        if len(questions) >= 30:
+                            print(f"✅ Reached 30 questions, stopping extraction")
+                            break_all_parsing = True
+                            break
 
                     # q_num = re.search(r"\b\d+\b", line_text).group()
                     current_q = {
@@ -163,8 +169,8 @@ def extract_questions_from_pdf(pdf_path: str, output_path: str) -> None:
                     current_q["text"] += line_text + " "
 
 
-    # Save last question
-    if current_q:
+    # Save last question if it meets length requirement
+    if current_q and len(current_q.get("text", "").strip()) >= 30:
         questions.append(current_q)
 
     paper_json = {

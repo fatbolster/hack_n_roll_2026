@@ -121,9 +121,9 @@ export function PaperAlignmentModal({ isOpen, onClose, refreshToken = 0 }: Modal
               status = "out_of_scope";
             } else if (entry?.in_syllabus === true) {
               // Determine status based on confidence for in-syllabus questions
-              if (confidenceValue >= 0.7) {
+              if (confidenceValue >= 0.9) {
                 status = "aligned";
-              } else if (confidenceValue >= 0.4) {
+              } else if (confidenceValue >= 0.75) {
                 status = "need_review";
               } else {
                 status = "out_of_scope";
@@ -296,7 +296,7 @@ export function PaperAlignmentModal({ isOpen, onClose, refreshToken = 0 }: Modal
                               <div className="text-sm font-semibold text-slate-800">{item.questionNo}</div>
                             </td>
                             <td className="border-b border-slate-100 px-4 py-3 align-middle">
-                              <span className="font-medium text-base text-slate-900 truncate">{item.topic}</span>
+                              <span className="font-medium text-base text-slate-900 break-words">{item.topic}</span>
                             </td>
                             <td className="border-b border-slate-100 px-4 py-3 text-center align-middle">
                               <span className={`inline-flex rounded-full px-3 py-1 text-xs font-semibold whitespace-nowrap ${confidenceStyles[confidenceLevel].pillClass}`}>

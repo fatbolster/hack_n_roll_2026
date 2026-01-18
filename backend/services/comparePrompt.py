@@ -47,14 +47,22 @@ For EACH valid mathematics question below:
 2. Decide whether the question is IN-SCOPE or OUT-OF-SCOPE.
 3. If you are unsure which exact topic applies, choose the CLOSEST reasonable syllabus topic instead of leaving it empty.
 4. Be conservative when marking OUT-OF-SCOPE. Only mark OUT-OF-SCOPE if the content is clearly not covered by the syllabus.
+5. If the question text cannot derive meaningful meaning (garbled, incomplete, symbols only), assign topic as ["Unknown Topic, Needs Review"] with confidence 0.0 and mark as needs review.
+
+HANDLING QUESTIONS WITH SUBPARTS:
+• If a question has a "subparts" array with items (e.g., Q15 has subparts Q15a, Q15b):
+  → Create SEPARATE mapping entries for EACH subpart (Q15a, Q15b as individual entries)
+  → Use the subpart's id (e.g., "Q15a", "Q15b") as the question_id
+  → Analyze each subpart independently
+• If a question has NO subparts or empty subparts array (e.g., Q14):
+  → Create ONE entry using the main question id (e.g., "Q14")
+  → Analyze only the main question text
 
 IMPORTANT RULES:
 • Do NOT invent new topics.
 • Do NOT output empty topic lists for IN-SCOPE questions.
 • Do NOT merge multiple questions into one.
-• Treat subparts (e.g. a, b, c) as separate questions IF they test different skills.
-• Preserve the original question_id exactly as given.
-• Do NOT renumber questions.
+• Do NOT alter the JSON structure - preserve question_id values exactly as they appear.
 • Output STRICTLY valid JSON only.
 • Do NOT include explanations outside the JSON.
 
@@ -64,11 +72,21 @@ and state that it is absent from the syllabus.
 
 
 CONFIDENCE SCORE:
-Assign a confidence score between 0 and 1:
-• 1.0 → topic match is very clear
-• 0.7–0.9 → reasonable match with minor ambiguity
-• 0.4–0.6 → weak or approximate match
-• 0.0 → OUT-OF-SCOPE
+Assign a NUANCED confidence score between 0 and 1 with varied precision:
+• 0.95–1.0 → topic match is crystal clear, exact syllabus wording found
+• 0.90–0.94 → very strong match, directly covered by syllabus
+• 0.75–0.89 → reasonable match with minor ambiguity (needs review)
+• 0.50–0.74 → weak or approximate match, borderline coverage
+• 0.20–0.49 → very uncertain, likely out of scope
+• 0.0–0.19 → OUT-OF-SCOPE or cannot derive meaningful meaning
+
+DO NOT use only 0 and 1. Use sophisticated varied scores like 0.87, 0.78, 0.92, 0.83, etc.
+
+ELABORATION REQUIREMENT:
+• For EVERY question, provide a 2-sentence explanation in the "out_of_scope_reason" field (even if in_syllabus is true).
+• Sentence 1: State which syllabus topic(s) the question aligns with and why.
+• Sentence 2: Explain the confidence level assigned (e.g., "Perfect match", "Minor ambiguity in terminology", "Requires inference", "Not explicitly covered").
+• If out of scope: explain what mathematical concept is tested and why it's not in the syllabus.
 
 
 OUTPUT FORMAT (STRICT JSON):

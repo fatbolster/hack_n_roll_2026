@@ -438,75 +438,24 @@
       ]
     },
     {
-      "id": "Q6",
-      "text": "A water dispenser is in the shape of a cylinder and a hemisphere both of radius 10 cm. The height of the dispenser is 90 cm. Conical disposable cups of diameter 6 cm and height 5.3 cm are provided to drink the water from the dispenser. ",
-      "page": 34,
+      "id": "Q5",
+      "text": "A stone is thrown from the top of a cliff next to the sea. seconds after it is released can be modelled by the equation 2 16 5 80 h t t = \u2212 + . are given in the table below. 0 1 2 3 4 5 6 80 91 92 83 64 35 ",
+      "page": 32,
       "subparts": [
         {
-          "id": "Q6a",
+          "id": "Q5a",
           "label": "a",
-          "text": " Water is filled to the brim of the dispenser. Show that the amount of water in the dispenser is 2 . Answer [2] Find the capacity of one conical cup. . 3 [2] Anglo-Chinese School (Barker Road) Preliminary Examination 2024 Secondary 4 Express / 5 Normal (Academic)"
+          "text": " . _____________ [1] On the grid, draw the graph of 2 16 5 80 h t t = \u2212 + 0 6 t \uf0a3\uf0a3 . [3]"
         },
         {
-          "id": "Q6c",
+          "id": "Q5c",
           "label": "c",
-          "text": " Find the height of the water remaining in the dispenser after 250 cups of water have been dispensed. [4] The conical disposable cups are made of a thin material of negligible thickness. Calculate the cost of 250 conical cups given that the cost of material is . Give your answer to the nearest cent. [3] Anglo-Chinese School (Barker Road) Preliminary Examination 2024 Secondary 4 Express / 5 Normal (Academic)"
-        }
-      ]
-    },
-    {
-      "id": "Q7",
-      "text": "The map shown has a scale of 1 : 7500. . = 6 cm. ",
-      "page": 36,
-      "subparts": [
-        {
-          "id": "Q7a",
-          "label": "a",
-          "text": " . ___________________ km [2] . . [4] Anglo-Chinese School (Barker Road) Preliminary Examination 2024 Secondary 4 Express / 5 Normal (Academic)"
+          "text": " Explain how the graph shows that the stone will not reach a height of 100m. __________________________________________________________ ________________________________________________________________ [1] Anglo-Chinese School (Barker Road) Preliminary Examination 2024 Secondary 4 Express / 5 Normal (Academic) Use the graph to find the length of time that the stone was 84 metres or more above sea level. ____________________ s    [1]"
         },
         {
-          "id": "Q7c",
-          "label": "c",
-          "text": " . 2 [3] at a vertical height of 75m. . ___________________ [4] Anglo-Chinese School (Barker Road) Preliminary Examination 2024 Secondary 4 Express / 5 Normal (Academic)"
-        }
-      ]
-    },
-    {
-      "id": "Q8",
-      "text": "The marks attained by 40 students in a Mathematics test were recorded. The cumulative frequency curve shows the distribution of the marks. ",
-      "page": 38,
-      "subparts": [
-        {
-          "id": "Q8a",
-          "label": "a",
-          "text": " Use the curve to estimate the  the median mark, [1] the interquartile range. [2] . [1] Anglo-Chinese School (Barker Road) Preliminary Examination 2024 Secondary 4 Express / 5 Normal (Academic)"
-        },
-        {
-          "id": "Q8c",
-          "label": "c",
-          "text": " Complete the frequency distribution table of the marks attained by the students. ) 4 10 x \uf0a3 \uf03c 10 15 x \uf0a3 \uf03c 15 20 x \uf0a3 \uf03c 20 24 x \uf0a3 \uf03c Number of students [2] Calculate an estimate for  the mean mark, [1] the standard deviation of their marks. [1] The same group of students sat for a Chemistry test. The maximum mark for the test was also 25. The box-and-whisker plot of the distribution of the marks is shown below."
-        },
-        {
-          "id": "Q8d",
-          "label": "d",
-          "text": " The scores of the top 25% of the students for the Chemistry test were less consistent than the scores of the bottom 25%. . [1]"
-        },
-        {
-          "id": "Q8e",
+          "id": "Q5e",
           "label": "e",
-          "text": " Make two comparisons between the performances of the students in the Mathematics test and the Chemistry test. Use figures to support your answer. ____________________________________________________________ _______________________________________________________________ ____________________________________________________________ _______________________________________________________________ [2] Anglo-Chinese School (Barker Road) Preliminary Examination 2024 Secondary 4 Express / 5 Normal (Academic)"
-        }
-      ]
-    },
-    {
-      "id": "Q9",
-      "text": "Lee started work on 1 January 2019. He started with a monthly salary of $4100 and has seen his salary increase by 4% annually. Show that Lee\u2019s current monthly salary, in January 2024, is $5000, correct to the nearest thousand. Answer [1] Lee has savings of $105 000. With his savings and monthly income, he intends to buy a car, in January 2024. He is deciding between buying an EV 60kWh electric car or a 1998cc petrol car. The table below is used to calculate the cost price of the car: Base cost (without COE) COE Rebates (clean energy initiatives) Every car owner in Singapore must purchase a Certificate of Entitlement (COE) for the car, which gives him the right to own and use a vehicle in Singapore. The COE prices since January 2023 can be seen below. Table A: COE Prices Anglo-Chinese School (Barker Road) Preliminary Examination 2024 Secondary 4 Express / 5 Normal (Academic) Lee will take a loan from a financial institution. He intends to take the largest loan possible. The loan amount can be calculated using the information in Table B below: Table B: Calculation of Loan Maximum loan amount 7 years 7 years (based on simple interest) 2.78% yearly 2.78% yearly Being prudent, he would like to maintain an amount equivalent to at least 6 months of his of the two cars. Show your calculations clearly and justify any decisions you make. Answer [3] Anglo-Chinese School (Barker Road) Preliminary Examination 2024 Secondary 4 Express / 5 Normal (Academic) The approximate expenses for each car are seen in Table C below. Table C: Maintenance Cost Road Tax Refer to Table D below Repayment of loan to be calculated Other costs (Annual) $4700 $3000 Other costs (Monthly) $600 $800 The table calculates the road tax for 6 months For Petrol Car Engine Capacity (EC) in cc 1600 < EC \u2264 3000 [$475 + $0.75(EC - 1600)] x 0.782 For Electric Car Power Rating (PR) in kWh 30 < PR \u2264 230 [$250 + $3.75(PR \u2013 30)] x 0.782 PR > 230 [$1,525 + $10(PR \u2013 230)] x 0.782 ",
-      "page": 40,
-      "subparts": [
-        {
-          "id": "Q9c",
-          "label": "c",
-          "text": " Lee\u2019s monthly expenditure is around $2700 on average. Based on the information given, determine if Lee can afford the car identified in . Anglo-Chinese School (Barker Road) Preliminary Examination 2024 Secondary 4 Express / 5 Normal (Academic) Lee _____________________afford the car. [7] Anglo-Chinese School (Barker Road) Preliminary Examination 2024 Secondary 4 Express / 5 Normal (Academic)"
+          "text": " , find the gradient of the curve at (4, 64). State the units of your answer. _____________________ [3] Anglo-Chinese School (Barker Road) Preliminary Examination 2024 Secondary 4 Express / 5 Normal (Academic)"
         }
       ]
     }
