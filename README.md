@@ -1,7 +1,7 @@
 #  SyllabIQ
+To run the program, user has to run both frontend and backend
 
-## Frontend Deployment
-
+## Frontend
 1. Open terminal
 2. Change directory into the frontend folder
 ```bash
@@ -23,10 +23,9 @@ Alternatively, use pnpm dev if pnpm is installed
 pnpm dev
 ```
 
-4. Open http://localhost:3000/ to view webpage
+5. Open http://localhost:3000/ to view webpage
 
-## Backend Deployment
-
+## Backend
 1. Open terminal
 2. Change directory into the backend folder
 
