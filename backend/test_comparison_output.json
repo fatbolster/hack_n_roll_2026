@@ -1,0 +1,21 @@
+{
+  "similarity_score": 55,
+  "similarity_label": "Partially Mappable",
+  "ai_justification": {
+    "overview": "The modules share some foundational concepts in programming but diverge significantly in advanced methodologies and applications.",
+    "key_similarities": [
+      "Both modules cover essential programming principles.",
+      "They both emphasize problem-solving through coding.",
+      "Each module includes practical assignments to reinforce learning."
+    ],
+    "key_differences": [
+      "CS2106 focuses more on system-level programming, while COMP2003 emphasizes functional programming techniques.",
+      "Critical advanced topics in CS2106, such as systems design and architecture, are not well represented in COMP2003.",
+      "The depth required for understanding underlying systems in CS2106 exceeds the level of detail provided in COMP2003."
+    ],
+    "recommendation": "Students should proceed with caution in mapping this module. Emphasize the shared programming fundamentals and seek to clarify how the learning outcomes align despite the differences in depth."
+  },
+  "success": true,
+  "old_file": "cs2106.pdf",
+  "new_file": "comp2003.pdf"
+}

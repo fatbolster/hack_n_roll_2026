@@ -7,9 +7,9 @@ from pathlib import Path
 import fitz  # PyMuPDF
 from io import BytesIO
 import re
-from services.syllabusJsonCreator import generate_syllabus_json
+from services.syllabusJsonCreator import generate_syllabus_json, generate_syllabus_comparison_with_score
 from services.comparePrompt import map_questions_to_syllabus
-from services.textExtractorQuestion import extract_questions_from_pdf
+# from services.textExtractorQuestion import extract_questions_from_pdf
 
 
 async def extract_text_from_pdf(file: UploadFile) -> str:
@@ -136,6 +136,47 @@ async def diff_syllabus(
         import traceback
         error_details = traceback.format_exc()
         print(f"ERROR in diff_syllabus: {error_details}")
+        raise HTTPException(status_code=500, detail=str(e))
+
+
+@app.post("/api/compare-syllabi-detailed")
+async def compare_syllabi_detailed(
+    old_syllabus: UploadFile = File(...),
+    new_syllabus: UploadFile = File(...)
+):
+    """
+    Compare two syllabus PDFs with detailed similarity score and AI justification.
+    Returns format matching the Syllabus Mapping Result UI.
+    """
+    try:
+        # Validate file types
+        if not (old_syllabus.filename.endswith('.pdf') and new_syllabus.filename.endswith('.pdf')):
+            raise HTTPException(status_code=400, detail="Both files must be PDFs")
+        
+        # Extract text from PDFs
+        doc_old = await extract_text_from_pdf(old_syllabus)
+        doc_new = await extract_text_from_pdf(new_syllabus)
+        
+        # Use new comparison function with similarity score
+        json_result = generate_syllabus_comparison_with_score(
+            doc_old=doc_old,
+            doc_new=doc_new,
+            old_filename=old_syllabus.filename,
+            new_filename=new_syllabus.filename
+        )
+        
+        # Parse and return the AI response directly
+        comparison_report = json.loads(json_result)
+        comparison_report["success"] = True
+        comparison_report["old_file"] = old_syllabus.filename
+        comparison_report["new_file"] = new_syllabus.filename
+        
+        return JSONResponse(content=comparison_report)
+    
+    except Exception as e:
+        import traceback
+        error_details = traceback.format_exc()
+        print(f"ERROR in compare_syllabi_detailed: {error_details}")
         raise HTTPException(status_code=500, detail=str(e))
 
 
