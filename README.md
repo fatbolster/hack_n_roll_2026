@@ -4,7 +4,11 @@
 
 1. Open terminal
 2. Change directory into the frontend folder
-3. To run the website on localhost, run "npm run dev" on terminal.
+3. Install necessary dependencies using npm
+```bash
+npm install
+```
+4. To run the website on localhost, run "npm run dev" on terminal.
 
 ```bash
 npm run dev
