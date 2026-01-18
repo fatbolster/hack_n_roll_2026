@@ -105,64 +105,86 @@ def generate_syllabus_json(doc_old: str, doc_new: str, old_filename: str = "old_
 
 
 def generate_syllabus_comparison_with_score(doc_old: str, doc_new: str, old_filename: str = "old_syllabus", new_filename: str = "new_syllabus") -> str:
-    prompt = fprompt = f"""
-    You are an NUS module mapping advisor. Your goal is to help NUS students decide whether an overseas exchange module is likely to be approved as a credit transfer substitute for a specific NUS local module.
+    prompt = f"""
+    You are an NUS module mapping advisor evaluating whether an overseas exchange module can substitute for a local NUS module.
 
-    You are comparing:
-    - NUS LOCAL MODULE (baseline for mapping): {old_filename}
-    - OVERSEAS EXCHANGE MODULE (candidate for mapping): {new_filename}
-
-    You MUST evaluate similarity based on:
-    - Topic coverage overlap (at least 70% overlap required for high scores)
-    - Alignment of learning outcomes (must have substantial matching objectives)
-    - Depth/rigour (overseas module must match or exceed NUS module's academic level)
-    - Whether gaps are critical for NUS credit transfer expectations (missing core topics should significantly reduce score)
-
-    BE STRICT AND CONSERVATIVE in your scoring:
-    - Missing core topics should result in scores below 60
-    - Superficial overlap without depth should result in scores below 50
-    - Only truly strong matches with comprehensive coverage should score 70+
+    COMPARING:
+    - NUS LOCAL MODULE: {old_filename}
+    - OVERSEAS EXCHANGE MODULE: {new_filename}
 
     =====================
-    STRICT OUTPUT RULES (NON-NEGOTIABLE)
+    IMPORTANT GUIDELINES
     =====================
-    1) Output ONLY a single JSON object. No markdown, no commentary, no extra text.
-    2) Use EXACTLY the JSON keys shown in the schema below. Do NOT add new keys.
-    3) similarity_score MUST be an integer between 0 and 100.
-    4) similarity_label MUST be ONLY ONE of these three exact strings:
-    - "Highly Mappable"
-    - "Moderately Mappable"
-    - "Not Recommended"
-    You are NOT allowed to use any other label.
-    5) Label rules (FOLLOW STRICTLY):
-    - If similarity_score >= 70 → similarity_label MUST be "Highly Mappable"
-    - If similarity_score >= 50 AND < 70 → similarity_label MUST be "Moderately Mappable"
-    - If similarity_score < 50 → similarity_label MUST be "Not Recommended"
+    - Base your evaluation primarily on the information in the provided PDFs
+    - Look at module titles, descriptions, learning outcomes, and topics covered
+    - Be fair but thorough in your assessment
+    - If modules are from very different disciplines, score accordingly lower
 
     =====================
-    REQUIRED JSON SCHEMA (FOLLOW EXACTLY)
+    EVALUATION CRITERIA
+    =====================
+    
+    Consider these factors:
+    
+    1. DISCIPLINE & SUBJECT AREA (Weight: High)
+       - Look at the module title and description to identify the field
+       - Same specific area (e.g., both Operating Systems): Strong match
+       - Same broad discipline (e.g., both CS but different areas): Good match
+       - Related disciplines (e.g., CS and Software Engineering): Moderate match
+       - Different disciplines (e.g., CS vs Sociology): Poor match (typically 20-40 range)
+    
+    2. LEARNING OUTCOMES ALIGNMENT (Weight: High)
+       - Compare the learning outcomes/objectives from both PDFs
+       - Do they enable students to achieve similar competencies?
+       - Check the level of mastery (understand/apply/analyze/design)
+       - Significant misalignment should reduce score, but some variation is acceptable
+    
+    3. TOPIC COVERAGE (Weight: High)
+       - What proportion of key NUS module topics appear in the overseas module?
+       - Core concepts should be present, but perfect overlap isn't required
+       - 70%+ coverage is strong, 50-70% is moderate, below 50% is weak
+    
+    4. DEPTH & ACADEMIC RIGOR (Weight: Medium)
+       - Does the overseas module treat topics with similar depth?
+       - Minor differences in approach are acceptable
+
+    SCORING GUIDELINES:
+    - 70-100: Strong match, highly recommended
+    - 60-69: Good match with some gaps, likely approvable
+    - 50-59: Moderate match, may require additional justification
+    - 35-49: Significant gaps, unlikely to be approved
+    - 20-34: Very different, cross-discipline or major misalignment
+    - Below 20: Completely unrelated
+    
+    LABEL ASSIGNMENT (FOLLOW EXACTLY):
+    - If score >= 61 → use "Highly Mappable"
+    - If score >= 45 AND score <= 60 → use "Partially Mappable"
+    - If score < 45 → use "Not Recommended"
+
+    =====================
+    REQUIRED JSON OUTPUT
     =====================
     {{
     "similarity_score": <integer 0-100>,
-    "similarity_label": "<MUST be 'Highly Mappable' OR 'Moderately Mappable' OR 'Not Recommended' only>",
+    "similarity_label": "<EXACTLY: 'Highly Mappable' OR 'Partially Mappable' OR 'Not Recommended'>",
     "ai_justification": {{
-        "overview": "Brief decision-oriented summary in the context of NUS credit transfer/module mapping",
+        "overview": "Brief summary of the mapping assessment",
         "key_similarities": [
-        "Similarity point 1 (mapping-relevant)",
-        "Similarity point 2 (mapping-relevant)",
-        "Similarity point 3 (mapping-relevant)"
+        "Specific similarity observed in the PDFs",
+        "Another alignment point",
+        "Third similarity"
         ],
         "key_differences": [
-        "Difference/gap point 1 (mapping risk)",
-        "Difference/gap point 2 (mapping risk)",
-        "Difference/gap point 3 (mapping risk)"
+        "Important difference or gap",
+        "Another significant difference",
+        "Third notable gap"
         ],
-        "recommendation": "Clear advice for NUS students: proceed with mapping or not, and what to prepare or highlight in the mapping justification"
+        "recommendation": "Clear advice on mapping feasibility"
     }}
     }}
 
     =====================
-    SYLLABUS INPUTS
+    MODULES TO COMPARE
     =====================
 
     NUS LOCAL MODULE ({old_filename}):
@@ -171,15 +193,15 @@ def generate_syllabus_comparison_with_score(doc_old: str, doc_new: str, old_file
     OVERSEAS EXCHANGE MODULE ({new_filename}):
     {doc_new}
 
-    FINAL REMINDER: Return ONLY the JSON object. Only the three allowed labels may be used: 'Highly Mappable', 'Moderately Mappable', or 'Not Recommended'.
+    Evaluate based on the content provided. Be fair and balanced in your assessment.
     """
-
 
     
     response = client.chat.completions.create(
         model="gpt-4o-mini",
+        temperature=0.3,
         messages=[
-            {"role": "system", "content": "You are a university module mapping advisor that helps NUS students assess credit transfer eligibility. Output strictly valid JSON with detailed analysis."},
+            {"role": "system", "content": "You are a fair and balanced university module mapping advisor. Apply label rules: 61+ = 'Highly Mappable', 45-60 = 'Partially Mappable', <45 = 'Not Recommended'. Output only valid JSON."},
             {"role": "user", "content": prompt}
         ],
         response_format={ "type": "json_object" },
