@@ -25,7 +25,6 @@ type MappingReport = {
 const pillStyles = {
   high: "bg-emerald-50 text-emerald-700 ring-1 ring-emerald-100",
   partial: "bg-amber-50 text-amber-700 ring-1 ring-amber-100",
-  low: "bg-rose-50 text-rose-700 ring-1 ring-rose-100",
 };
 
 export function SyllabusMappingModal({
@@ -77,21 +76,8 @@ export function SyllabusMappingModal({
 
   const score = report?.similarity_score ?? null;
   const similarityText = score !== null ? `${Math.round(score)}%` : "N/A";
-  const similarityLabel =
-    report?.similarity_label ??
-    (score === null
-      ? "Partially Mappable"
-      : score >= 60
-        ? "Highly Mappable"
-        : score >= 50
-          ? "Moderately Mappable"
-          : "Not Recommended");
-  const pillClass =
-    (report?.similarity_label === "Highly Mappable" || (score !== null && score >= 60))
-      ? pillStyles.high
-      : (report?.similarity_label === "Not Recommended" || (score !== null && score < 50))
-        ? pillStyles.low
-        : pillStyles.partial;
+  const similarityLabel = report?.similarity_label ?? (score !== null && score >= 60 ? "Highly Mappable" : "Partially Mappable");
+  const pillClass = (report?.similarity_label === "Highly Mappable" || (score !== null && score >= 60)) ? pillStyles.high : pillStyles.partial;
   const progressWidth = Math.max(0, Math.min(100, score ?? 0));
 
   const justification = useMemo(
