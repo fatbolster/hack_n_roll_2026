@@ -76,8 +76,8 @@ export function SyllabusMappingModal({
 
   const score = report?.similarity_score ?? null;
   const similarityText = score !== null ? `${Math.round(score)}%` : "N/A";
-  const similarityLabel = report?.similarity_label ?? (score !== null && score >= 70 ? "Highly Mappable" : "Partially Mappable");
-  const pillClass = (report?.similarity_label === "Highly Mappable" || (score !== null && score >= 70)) ? pillStyles.high : pillStyles.partial;
+  const similarityLabel = report?.similarity_label ?? (score !== null && score >= 60 ? "Highly Mappable" : "Partially Mappable");
+  const pillClass = (report?.similarity_label === "Highly Mappable" || (score !== null && score >= 60)) ? pillStyles.high : pillStyles.partial;
   const progressWidth = Math.max(0, Math.min(100, score ?? 0));
 
   const justification = useMemo(
