@@ -25,7 +25,15 @@ type MappingReport = {
 const pillStyles = {
   high: "bg-emerald-50 text-emerald-700 ring-1 ring-emerald-100",
   partial: "bg-amber-50 text-amber-700 ring-1 ring-amber-100",
+  low: "bg-rose-50 text-rose-700 ring-1 ring-rose-100",
 };
+
+const progressBarStyles = {
+  high: "bg-emerald-600",
+  partial: "bg-amber-600",
+  low: "bg-rose-600",
+};
+
 
 export function SyllabusMappingModal({
   isOpen,
@@ -77,7 +85,16 @@ export function SyllabusMappingModal({
   const score = report?.similarity_score ?? null;
   const similarityText = score !== null ? `${Math.round(score)}%` : "N/A";
   const similarityLabel = report?.similarity_label ?? (score !== null && score >= 60 ? "Highly Mappable" : "Partially Mappable");
-  const pillClass = (report?.similarity_label === "Highly Mappable" || (score !== null && score >= 60)) ? pillStyles.high : pillStyles.partial;
+  
+  const mappingLevel: 'high' | 'partial' | 'low' =
+    (report?.similarity_label === "Highly Mappable" || (score !== null && score >= 61))
+      ? 'high'
+      : (report?.similarity_label === "Not Recommended" || (score !== null && score < 45))
+        ? 'low'
+        : 'partial';
+  
+  const pillClass = pillStyles[mappingLevel];
+  const progressBarColor = progressBarStyles[mappingLevel];
   const progressWidth = Math.max(0, Math.min(100, score ?? 0));
 
   const justification = useMemo(
@@ -130,7 +147,7 @@ export function SyllabusMappingModal({
           </div>
           <div className="mt-4 h-2 rounded-full bg-slate-200">
             <div
-              className="h-full rounded-full bg-emerald-600 transition-[width]"
+              className={`h-full rounded-full ${progressBarColor} transition-[width]`}
               style={{ width: `${progressWidth}%` }}
             />
           </div>

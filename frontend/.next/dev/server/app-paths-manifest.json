@@ -1,1 +1,4 @@
-{}
+{
+  "/PaperAlignment/page": "app/PaperAlignment/page.js",
+  "/SyllabusChanges/page": "app/SyllabusChanges/page.js"
+}

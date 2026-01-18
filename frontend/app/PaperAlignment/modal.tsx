@@ -8,7 +8,7 @@ type AlignmentStatus = "aligned" | "need_review" | "out_of_scope";
 
 type PaperItem = {
   id: string | number;
-  questionNo: number;
+  questionNo: string | number;  // Allow string to preserve subparts like "Q3a"
   topic: string;
   status: AlignmentStatus;
   confidence: number;
@@ -113,13 +113,23 @@ export function PaperAlignmentModal({ isOpen, onClose, refreshToken = 0 }: Modal
 
         const parsed: PaperItem[] = sourceArray
           .map((entry: any, index: number) => {
-            // Handle question_topic_mapping format
+            // Handle question_topic_mapping format from backend
+            const confidenceValue = parseFloat(entry?.confidence ?? "0");
+            
             let status: AlignmentStatus | undefined;
             if (entry?.in_syllabus === false) {
               status = "out_of_scope";
             } else if (entry?.in_syllabus === true) {
-              status = "aligned";
+              // Determine status based on confidence for in-syllabus questions
+              if (confidenceValue >= 0.7) {
+                status = "aligned";
+              } else if (confidenceValue >= 0.4) {
+                status = "need_review";
+              } else {
+                status = "out_of_scope";
+              }
             } else {
+              // Fallback to explicit status field
               status = entry?.status;
             }
             
@@ -127,25 +137,23 @@ export function PaperAlignmentModal({ isOpen, onClose, refreshToken = 0 }: Modal
               return null;
             }
 
-            // Parse question number - handle both "Q1" format and "3(a)" format
+            // Use question_id as-is to preserve subparts (Q1, Q3a, Q25c, etc.)
             const questionNoRaw = entry?.question_id ?? entry?.question_no ?? `${index + 1}`;
-            const questionNoString = String(questionNoRaw).replace(/[()]/g, '').replace(/[Qq]/, '');
-            const questionNoNumeric = parseFloat(questionNoString) || index + 1;
-            
-            const confidenceValue = parseFloat(entry?.confidence ?? entry?.score ?? "0");
+            const questionNoDisplay = String(questionNoRaw);
+            const questionNoNumeric = parseFloat(String(questionNoRaw).replace(/[^0-9.]/g, '')) || index + 1;
 
-            // Handle topics array or single topic string
-            const topicValue = entry?.topics 
-              ? (Array.isArray(entry.topics) ? entry.topics.join(", ") : entry.topics)
-              : (entry?.topic ?? entry?.topic_name ?? `Question ${index + 1}`);
+            // Handle topics array from backend
+            const topicValue = Array.isArray(entry?.topics) && entry.topics.length > 0
+              ? entry.topics.join(", ")
+              : (entry?.topic ?? "Unknown Topic");
 
             return {
               id: entry?.id ?? index,
-              questionNo: Number.isFinite(questionNoNumeric) ? questionNoNumeric : index + 1,
+              questionNo: questionNoDisplay,  // Display as string with subparts
               topic: topicValue,
               status,
               confidence: Number.isFinite(confidenceValue) ? Math.max(0, Math.min(1, confidenceValue)) : 0,
-              elaboration: entry?.out_of_scope_reason ?? entry?.elaboration ?? entry?.notes ?? entry?.prompt ?? "",
+              elaboration: entry?.out_of_scope_reason ?? entry?.elaboration ?? "",
             };
           })
           .filter(Boolean) as PaperItem[];

@@ -23,7 +23,7 @@ def map_questions_to_syllabus(syllabus_path, questions_path, chunk_size=5):
     with open(questions_path, "r", encoding="utf-8") as f:
         questions_data = json.load(f)
 
-    questions = questions_data["questions"]
+    questions = questions_data["questions"][:40]  # Limit to first 40 questions
     all_results = []
 
     # --- PROCESS QUESTIONS IN CHUNKS ---
@@ -115,7 +115,7 @@ QUESTIONS:
 if __name__ == "__main__":
     result = map_questions_to_syllabus(
         os.path.join(BASE_DIR, "extractedSyllabus.txt"),
-        os.path.join(BASE_DIR, "questions.json"),
+        os.path.join(BASE_DIR, "questions3.json"),
         chunk_size=5
     )
 

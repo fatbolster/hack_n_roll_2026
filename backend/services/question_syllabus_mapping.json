@@ -5,7 +5,7 @@
       "question_id": "Q1",
       "page": 3,
       "topics": [
-        "Ordering Numbers"
+        "Numbers and their operations"
       ],
       "in_syllabus": true,
       "confidence": 1.0,
@@ -15,7 +15,7 @@
       "question_id": "Q2",
       "page": 3,
       "topics": [
-        "Fractions"
+        "Algebraic expressions and formulae"
       ],
       "in_syllabus": true,
       "confidence": 1.0,
@@ -25,20 +25,22 @@
       "question_id": "Q3",
       "page": 3,
       "topics": [
-        "Standard Form",
-        "Significant Figures"
+        "Numbers and their operations",
+        "Approximation and estimation"
       ],
       "in_syllabus": true,
-      "confidence": 1.0,
+      "confidence": 0.9,
       "out_of_scope_reason": null
     },
     {
       "question_id": "Q4",
       "page": 4,
-      "topics": [],
-      "in_syllabus": false,
-      "confidence": 0.0,
-      "out_of_scope_reason": "Content is unclear and does not match any syllabus topic."
+      "topics": [
+        "Algebraic expressions and formulae"
+      ],
+      "in_syllabus": true,
+      "confidence": 1.0,
+      "out_of_scope_reason": null
     },
     {
       "question_id": "Q5",
@@ -46,64 +48,51 @@
       "topics": [],
       "in_syllabus": false,
       "confidence": 0.0,
-      "out_of_scope_reason": "Content is unclear and does not match any syllabus topic."
+      "out_of_scope_reason": "Question content is unclear and does not pertain to any syllabus topic."
     },
     {
       "question_id": "Q6",
       "page": 4,
       "topics": [
-        "Ratio and Proportion"
+        "Ratio and proportion"
       ],
       "in_syllabus": true,
       "confidence": 1.0,
       "out_of_scope_reason": null
     },
     {
-      "question_id": "Q7a",
+      "question_id": "Q7",
       "page": 5,
       "topics": [
-        "Inequalities"
+        "Solving linear inequalities in one variable"
       ],
       "in_syllabus": true,
       "confidence": 1.0,
       "out_of_scope_reason": null
     },
     {
-      "question_id": "Q8a",
+      "question_id": "Q8",
       "page": 5,
       "topics": [
-        "Set Theory"
+        "Set language and notation"
       ],
       "in_syllabus": true,
       "confidence": 1.0,
       "out_of_scope_reason": null
     },
     {
-      "question_id": "Q8b",
-      "page": 5,
-      "topics": [
-        "Set Theory"
-      ],
-      "in_syllabus": true,
-      "confidence": 1.0,
-      "out_of_scope_reason": null
-    },
-    {
-      "question_id": "Q9c",
+      "question_id": "Q9",
       "page": 6,
-      "topics": [
-        "Geometric Representation"
-      ],
-      "in_syllabus": true,
-      "confidence": 0.7,
-      "out_of_scope_reason": null
+      "topics": [],
+      "in_syllabus": false,
+      "confidence": 0.0,
+      "out_of_scope_reason": "The content is unclear and does not relate to any specific mathematical topic in the syllabus."
     },
     {
       "question_id": "Q10",
       "page": 6,
       "topics": [
-        "Algebra",
-        "Factorization"
+        "Solving quadratic equations in one unknown by factorisation"
       ],
       "in_syllabus": true,
       "confidence": 1.0,
@@ -114,7 +103,18 @@
       "page": 7,
       "topics": [
         "Percentage",
-        "Profit and Loss"
+        "Ratio and proportion"
+      ],
+      "in_syllabus": true,
+      "confidence": 1.0,
+      "out_of_scope_reason": null
+    },
+    {
+      "question_id": "Q12",
+      "page": 7,
+      "topics": [
+        "Rate and speed",
+        "Percentage"
       ],
       "in_syllabus": true,
       "confidence": 1.0,
@@ -124,9 +124,7 @@
       "question_id": "Q12a",
       "page": 7,
       "topics": [
-        "Speed",
-        "Time",
-        "Distance"
+        "Rate and speed"
       ],
       "in_syllabus": true,
       "confidence": 1.0,
@@ -136,9 +134,7 @@
       "question_id": "Q12b",
       "page": 7,
       "topics": [
-        "Speed",
-        "Time",
-        "Distance"
+        "Rate and speed"
       ],
       "in_syllabus": true,
       "confidence": 1.0,
@@ -148,28 +144,25 @@
       "question_id": "Q13a",
       "page": 8,
       "topics": [
-        "Ratio and Proportion",
-        "Geometric Similarity"
+        "Congruence and similarity"
       ],
       "in_syllabus": true,
-      "confidence": 0.9,
+      "confidence": 1.0,
       "out_of_scope_reason": null
     },
     {
       "question_id": "Q13b",
       "page": 8,
-      "topics": [
-        "Data Interpretation"
-      ],
-      "in_syllabus": true,
-      "confidence": 0.7,
-      "out_of_scope_reason": null
+      "topics": [],
+      "in_syllabus": false,
+      "confidence": 0.0,
+      "out_of_scope_reason": "The question does not pertain to a mathematical topic covered in the syllabus."
     },
     {
       "question_id": "Q14a",
       "page": 9,
       "topics": [
-        "Prime Factorization"
+        "Numbers and their operations"
       ],
       "in_syllabus": true,
       "confidence": 1.0,
@@ -179,8 +172,8 @@
       "question_id": "Q14b",
       "page": 9,
       "topics": [
-        "Highest Common Factor",
-        "Lowest Common Multiple"
+        "Highest common factor (HCF) and lowest common multiple (LCM)",
+        "Numbers and their operations"
       ],
       "in_syllabus": true,
       "confidence": 1.0,
@@ -190,38 +183,38 @@
       "question_id": "Q14c",
       "page": 9,
       "topics": [
-        "Perfect Squares and Perfect Cubes"
+        "Numbers and their operations"
       ],
       "in_syllabus": true,
-      "confidence": 0.7,
+      "confidence": 1.0,
       "out_of_scope_reason": null
     },
     {
       "question_id": "Q15a",
       "page": 10,
       "topics": [
-        "Algebraic Expressions"
+        "Algebraic expressions and formulae"
       ],
       "in_syllabus": true,
-      "confidence": 0.9,
+      "confidence": 1.0,
       "out_of_scope_reason": null
     },
     {
       "question_id": "Q15b",
       "page": 10,
       "topics": [
-        "Graphing Functions"
+        "Functions and graphs"
       ],
       "in_syllabus": true,
-      "confidence": 0.9,
+      "confidence": 1.0,
       "out_of_scope_reason": null
     },
     {
       "question_id": "Q16",
       "page": 11,
       "topics": [
-        "Data Representation",
-        "Statistics"
+        "Data handling and analysis",
+        "Problems in real world contexts"
       ],
       "in_syllabus": true,
       "confidence": 0.9,
@@ -231,8 +224,8 @@
       "question_id": "Q16a",
       "page": 11,
       "topics": [
-        "Data Representation",
-        "Statistics"
+        "Data handling and analysis",
+        "Problems in real world contexts"
       ],
       "in_syllabus": true,
       "confidence": 0.9,
@@ -242,30 +235,30 @@
       "question_id": "Q16c",
       "page": 11,
       "topics": [
-        "Data Representation",
-        "Statistics"
+        "Data handling and analysis",
+        "Problems in real world contexts"
       ],
       "in_syllabus": true,
-      "confidence": 0.7,
+      "confidence": 0.9,
       "out_of_scope_reason": null
     },
     {
       "question_id": "Q17",
       "page": 12,
       "topics": [
-        "Graphs",
-        "Functions"
+        "Mensuration",
+        "Problems in real world contexts"
       ],
       "in_syllabus": true,
-      "confidence": 0.7,
+      "confidence": 0.8,
       "out_of_scope_reason": null
     },
     {
       "question_id": "Q17a",
       "page": 12,
       "topics": [
-        "Graphs",
-        "Functions"
+        "Functions and graphs",
+        "Problems in real world contexts"
       ],
       "in_syllabus": true,
       "confidence": 0.7,
@@ -275,19 +268,19 @@
       "question_id": "Q18",
       "page": 13,
       "topics": [
-        "Geometry",
-        "Trigonometry"
+        "Mensuration",
+        "Problems in real world contexts"
       ],
       "in_syllabus": true,
-      "confidence": 0.7,
+      "confidence": 0.8,
       "out_of_scope_reason": null
     },
     {
       "question_id": "Q19",
       "page": 14,
       "topics": [
-        "Graphs",
-        "Functions"
+        "Rate and speed",
+        "Data handling and analysis"
       ],
       "in_syllabus": true,
       "confidence": 0.9,
@@ -297,8 +290,8 @@
       "question_id": "Q19a",
       "page": 14,
       "topics": [
-        "Graphs",
-        "Functions"
+        "Rate and speed",
+        "Data handling and analysis"
       ],
       "in_syllabus": true,
       "confidence": 0.9,
@@ -308,8 +301,8 @@
       "question_id": "Q19b",
       "page": 14,
       "topics": [
-        "Graphs",
-        "Functions"
+        "Rate and speed",
+        "Data handling and analysis"
       ],
       "in_syllabus": true,
       "confidence": 0.9,
@@ -319,51 +312,51 @@
       "question_id": "Q20",
       "page": 15,
       "topics": [
-        "Geometry",
-        "Similarity"
+        "Congruence and similarity",
+        "Geometry and Measurement"
       ],
       "in_syllabus": true,
-      "confidence": 0.7,
+      "confidence": 0.8,
       "out_of_scope_reason": null
     },
     {
       "question_id": "Q20a",
       "page": 15,
       "topics": [
-        "Geometry",
-        "Similarity"
+        "Congruence and similarity",
+        "Geometry and Measurement"
       ],
       "in_syllabus": true,
-      "confidence": 0.7,
+      "confidence": 0.8,
       "out_of_scope_reason": null
     },
     {
       "question_id": "Q20b",
       "page": 15,
       "topics": [
-        "Geometry",
-        "Similarity"
+        "Congruence and similarity",
+        "Geometry and Measurement"
       ],
       "in_syllabus": true,
-      "confidence": 0.7,
+      "confidence": 0.8,
       "out_of_scope_reason": null
     },
     {
       "question_id": "Q20c",
       "page": 15,
       "topics": [
-        "Geometry",
-        "Similarity"
+        "Congruence and similarity",
+        "Geometry and Measurement"
       ],
       "in_syllabus": true,
-      "confidence": 0.7,
+      "confidence": 0.8,
       "out_of_scope_reason": null
     },
     {
       "question_id": "Q21a",
       "page": 16,
       "topics": [
-        "Simplifying expressions with indices"
+        "Algebraic expressions and formulae"
       ],
       "in_syllabus": true,
       "confidence": 1.0,
@@ -373,7 +366,7 @@
       "question_id": "Q21b",
       "page": 16,
       "topics": [
-        "Solving equations"
+        "Algebraic expressions and formulae"
       ],
       "in_syllabus": true,
       "confidence": 1.0,
@@ -383,7 +376,7 @@
       "question_id": "Q22a",
       "page": 17,
       "topics": [
-        "Sequences and series"
+        "Algebraic expressions and formulae"
       ],
       "in_syllabus": true,
       "confidence": 1.0,
@@ -393,7 +386,7 @@
       "question_id": "Q22b",
       "page": 17,
       "topics": [
-        "Evaluating expressions"
+        "Algebraic expressions and formulae"
       ],
       "in_syllabus": true,
       "confidence": 1.0,
@@ -403,7 +396,7 @@
       "question_id": "Q22c",
       "page": 17,
       "topics": [
-        "Properties of numbers"
+        "Algebraic expressions and formulae"
       ],
       "in_syllabus": true,
       "confidence": 1.0,
@@ -413,27 +406,27 @@
       "question_id": "Q23a",
       "page": 18,
       "topics": [
-        "Properties of shapes"
+        "Properties of triangles"
       ],
       "in_syllabus": true,
-      "confidence": 1.0,
+      "confidence": 0.7,
       "out_of_scope_reason": null
     },
     {
       "question_id": "Q23b",
       "page": 18,
       "topics": [
-        "Properties of shapes"
+        "Properties of triangles"
       ],
       "in_syllabus": true,
-      "confidence": 1.0,
+      "confidence": 0.7,
       "out_of_scope_reason": null
     },
     {
       "question_id": "Q24a",
       "page": 19,
       "topics": [
-        "Coordinate geometry"
+        "Vectors in two dimensions"
       ],
       "in_syllabus": true,
       "confidence": 1.0,
@@ -443,7 +436,7 @@
       "question_id": "Q24b",
       "page": 19,
       "topics": [
-        "Coordinate geometry"
+        "Equations and inequalities"
       ],
       "in_syllabus": true,
       "confidence": 1.0,
@@ -480,73 +473,113 @@
       "out_of_scope_reason": null
     },
     {
+      "question_id": "Q1",
+      "page": 25,
+      "topics": [
+        "Percentage",
+        "Algebraic expressions and formulae"
+      ],
+      "in_syllabus": true,
+      "confidence": 0.9,
+      "out_of_scope_reason": null
+    },
+    {
       "question_id": "Q1a",
       "page": 25,
       "topics": [
-        "Exchange Rates",
-        "Algebra"
+        "Percentage"
       ],
       "in_syllabus": true,
-      "confidence": 0.7,
+      "confidence": 0.9,
       "out_of_scope_reason": null
     },
     {
       "question_id": "Q1b",
       "page": 25,
       "topics": [
-        "Algebra"
+        "Algebraic expressions and formulae"
       ],
       "in_syllabus": true,
-      "confidence": 1.0,
+      "confidence": 0.9,
       "out_of_scope_reason": null
     },
     {
       "question_id": "Q1c",
       "page": 25,
       "topics": [
-        "Algebra",
-        "Equations"
+        "Algebraic expressions and formulae"
       ],
       "in_syllabus": true,
-      "confidence": 1.0,
+      "confidence": 0.9,
+      "out_of_scope_reason": null
+    },
+    {
+      "question_id": "Q2",
+      "page": 26,
+      "topics": [
+        "Algebraic expressions and formulae"
+      ],
+      "in_syllabus": true,
+      "confidence": 0.9,
       "out_of_scope_reason": null
     },
     {
       "question_id": "Q2a",
       "page": 26,
       "topics": [
-        "Algebra"
+        "Algebraic expressions and formulae"
       ],
       "in_syllabus": true,
-      "confidence": 1.0,
+      "confidence": 0.9,
       "out_of_scope_reason": null
     },
     {
       "question_id": "Q2b",
       "page": 26,
       "topics": [
-        "Algebra"
+        "Algebraic expressions and formulae"
       ],
       "in_syllabus": true,
-      "confidence": 1.0,
+      "confidence": 0.9,
+      "out_of_scope_reason": null
+    },
+    {
+      "question_id": "Q3",
+      "page": 28,
+      "topics": [
+        "Congruence and similarity",
+        "Angles, triangles and polygons"
+      ],
+      "in_syllabus": true,
+      "confidence": 0.9,
       "out_of_scope_reason": null
     },
     {
       "question_id": "Q3a",
       "page": 28,
       "topics": [
-        "Geometry",
-        "Congruence"
+        "Congruence and similarity"
       ],
       "in_syllabus": true,
-      "confidence": 0.7,
+      "confidence": 0.9,
       "out_of_scope_reason": null
     },
     {
       "question_id": "Q3c",
       "page": 28,
       "topics": [
-        "Geometry"
+        "Congruence and similarity"
+      ],
+      "in_syllabus": true,
+      "confidence": 0.9,
+      "out_of_scope_reason": null
+    },
+    {
+      "question_id": "Q4",
+      "page": 30,
+      "topics": [
+        "Ratio and proportion",
+        "Congruence and similarity"
       ],
       "in_syllabus": true,
       "confidence": 0.7,
@@ -556,8 +589,7 @@
       "question_id": "Q4a",
       "page": 30,
       "topics": [
-        "Geometry",
-        "Ratios"
+        "Ratio and proportion"
       ],
       "in_syllabus": true,
       "confidence": 0.7,
@@ -567,52 +599,69 @@
       "question_id": "Q4c",
       "page": 30,
       "topics": [
-        "Geometry",
-        "Ratios"
+        "Ratio and proportion"
       ],
       "in_syllabus": true,
       "confidence": 0.7,
+      "out_of_scope_reason": null
+    },
+    {
+      "question_id": "Q5",
+      "page": 32,
+      "topics": [
+        "Functions and graphs",
+        "Data handling and analysis"
+      ],
+      "in_syllabus": true,
+      "confidence": 0.9,
       "out_of_scope_reason": null
     },
     {
       "question_id": "Q5a",
       "page": 32,
       "topics": [
-        "Graphs",
-        "Quadratic Functions"
+        "Functions and graphs"
       ],
       "in_syllabus": true,
-      "confidence": 0.7,
+      "confidence": 0.9,
       "out_of_scope_reason": null
     },
     {
       "question_id": "Q5c",
       "page": 32,
       "topics": [
-        "Graphs",
-        "Quadratic Functions"
+        "Functions and graphs"
       ],
       "in_syllabus": true,
-      "confidence": 0.7,
+      "confidence": 0.9,
       "out_of_scope_reason": null
     },
     {
       "question_id": "Q5e",
       "page": 32,
       "topics": [
-        "Graphs",
-        "Calculus"
+        "Functions and graphs"
       ],
       "in_syllabus": true,
-      "confidence": 0.7,
+      "confidence": 0.9,
+      "out_of_scope_reason": null
+    },
+    {
+      "question_id": "Q6",
+      "page": 34,
+      "topics": [
+        "Volume and surface area of cube, cuboid, prism, cylinder, pyramid, cone and sphere",
+        "Area of triangle ABC = 1/2 ab sin C"
+      ],
+      "in_syllabus": true,
+      "confidence": 1.0,
       "out_of_scope_reason": null
     },
     {
       "question_id": "Q6a",
       "page": 34,
       "topics": [
-        "Volume of solids",
-        "Surface area of solids"
+        "Volume and surface area of cube, cuboid, prism, cylinder, pyramid, cone and sphere"
       ],
       "in_syllabus": true,
       "confidence": 1.0,
@@ -622,8 +671,17 @@
       "question_id": "Q6c",
       "page": 34,
       "topics": [
-        "Volume of solids",
-        "Surface area of solids"
+        "Volume and surface area of cube, cuboid, prism, cylinder, pyramid, cone and sphere"
+      ],
+      "in_syllabus": true,
+      "confidence": 1.0,
+      "out_of_scope_reason": null
+    },
+    {
+      "question_id": "Q7",
+      "page": 36,
+      "topics": [
+        "Map scales (distance and area)"
       ],
       "in_syllabus": true,
       "confidence": 1.0,
@@ -633,7 +691,29 @@
       "question_id": "Q7a",
       "page": 36,
       "topics": [
-        "Scale and measurement"
+        "Map scales (distance and area)"
+      ],
+      "in_syllabus": true,
+      "confidence": 1.0,
+      "out_of_scope_reason": null
+    },
+    {
+      "question_id": "Q7c",
+      "page": 36,
+      "topics": [
+        "Map scales (distance and area)"
+      ],
+      "in_syllabus": true,
+      "confidence": 1.0,
+      "out_of_scope_reason": null
+    },
+    {
+      "question_id": "Q8",
+      "page": 38,
+      "topics": [
+        "Analysis and interpretation of tables",
+        "Mean, mode and median as measures of central tendency for a set of data",
+        "Standard deviation as measures of spread for a set of data"
       ],
       "in_syllabus": true,
       "confidence": 1.0,
@@ -643,8 +723,7 @@
       "question_id": "Q8a",
       "page": 38,
       "topics": [
-        "Statistics",
-        "Cumulative frequency"
+        "Mean, mode and median as measures of central tendency for a set of data"
       ],
       "in_syllabus": true,
       "confidence": 1.0,
@@ -654,9 +733,8 @@
       "question_id": "Q8c",
       "page": 38,
       "topics": [
-        "Statistics",
-        "Mean",
-        "Standard deviation"
+        "Mean, mode and median as measures of central tendency for a set of data",
+        "Standard deviation as measures of spread for a set of data"
       ],
       "in_syllabus": true,
       "confidence": 1.0,
@@ -666,8 +744,29 @@
       "question_id": "Q8d",
       "page": 38,
       "topics": [
-        "Statistics",
-        "Comparative analysis"
+        "Mean, mode and median as measures of central tendency for a set of data"
+      ],
+      "in_syllabus": true,
+      "confidence": 1.0,
+      "out_of_scope_reason": null
+    },
+    {
+      "question_id": "Q8e",
+      "page": 38,
+      "topics": [
+        "Mean, mode and median as measures of central tendency for a set of data"
+      ],
+      "in_syllabus": true,
+      "confidence": 1.0,
+      "out_of_scope_reason": null
+    },
+    {
+      "question_id": "Q9",
+      "page": 40,
+      "topics": [
+        "Percentage",
+        "Simple and compound interest",
+        "Analysis and interpretation of tables"
       ],
       "in_syllabus": true,
       "confidence": 1.0,
@@ -677,8 +776,8 @@
       "question_id": "Q9c",
       "page": 40,
       "topics": [
-        "Financial mathematics",
-        "Budgeting"
+        "Percentage",
+        "Simple and compound interest"
       ],
       "in_syllabus": true,
       "confidence": 1.0,

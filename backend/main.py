@@ -9,7 +9,7 @@ from io import BytesIO
 import re
 from services.syllabusJsonCreator import generate_syllabus_json, generate_syllabus_comparison_with_score
 from services.comparePrompt import map_questions_to_syllabus
-# from services.textExtractorQuestion import extract_questions_from_pdf
+from services.textExtractorQuestion import extract_questions_from_pdf
 
 
 async def extract_text_from_pdf(file: UploadFile) -> str:
@@ -257,7 +257,13 @@ async def analyze_paper(
         
         # Extract questions
         print("\n🔍 Extracting questions from PDF...")
-        questions_data = extract_questions_from_pdf(str(paper_path))
+        questions_json_path = uploads_dir / "questions_temp.json"
+        extract_questions_from_pdf(str(paper_path), str(questions_json_path))
+        
+        # Load the extracted questions
+        with open(questions_json_path, "r", encoding="utf-8") as f:
+            questions_data = json.load(f)
+        
         print(f"✅ Questions extracted: {type(questions_data)}")
         print(f"📝 Questions data keys: {list(questions_data.keys()) if isinstance(questions_data, dict) else 'Not a dict'}")
         if isinstance(questions_data, dict) and 'questions' in questions_data:
@@ -284,11 +290,8 @@ async def analyze_paper(
             f.write(syllabus_text)
         print(f"✅ Syllabus text saved to {syllabus_txt_path}")
         
-        # Save questions JSON
-        questions_json_path = uploads_dir / "questions_temp.json"
-        with open(questions_json_path, "w", encoding="utf-8") as f:
-            json.dump(questions_data, f, indent=2)
-        print(f"✅ Questions JSON saved to {questions_json_path}")
+        # Questions JSON already saved by extract_questions_from_pdf
+        print(f"✅ Questions JSON already saved to {questions_json_path}")
         
         # Call map_questions_to_syllabus directly
         print("\n🤖 Calling map_questions_to_syllabus...")
@@ -334,6 +337,16 @@ async def analyze_paper(
     except HTTPException:
         raise
     except Exception as e:
+        import traceback
+        error_details = traceback.format_exc()
+        print("=" * 80)
+        print("❌ ERROR IN ANALYZE PAPER ENDPOINT")
+        print("=" * 80)
+        print(f"Error type: {type(e).__name__}")
+        print(f"Error message: {str(e)}")
+        print("\nFull traceback:")
+        print(error_details)
+        print("=" * 80)
         raise HTTPException(status_code=500, detail=str(e))
 
 
