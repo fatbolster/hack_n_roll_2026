@@ -4,6 +4,9 @@
 
 1. Open terminal
 2. Change directory into the frontend folder
+```bash
+cd frontend
+```
 3. Install necessary dependencies using npm
 ```bash
 npm install
