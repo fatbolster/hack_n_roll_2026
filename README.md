@@ -1,4 +1,4 @@
-# J3 Project
+#  SyllabIQ
 
 ## Frontend Deployment
 
